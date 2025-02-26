@@ -20,7 +20,7 @@ const App: React.FC = () => {
 
   return (
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
-      <h1>MiniSearch Example</h1>
+      <h3>Search by radical name</h3>
       <input
         type="text"
         placeholder="Search..."
@@ -28,15 +28,20 @@ const App: React.FC = () => {
         onChange={handleSearch}
         style={{ width: "300px", padding: "8px", fontSize: "16px" }}
       />
-      <ul>
+      <div className="grid grid-cols-8 grap-4 p-4">
         {results.map((result) => (
-          <li key={result.id}>
-            <strong>{result.wkSlug}</strong>
-            <p>{result.primaryMeaning}</p>
-            <p>{result.primaryReading}</p>
-          </li>
+          <div
+            key={result.id}
+            className="bg-gray-200 p-4 aspect-square flex flex-col justify-center items-center rounded-lg shadow-md"
+          >
+            <a href={`https://www.wanikani.com/kanji/${result.wkSlug}`} target="_blank">
+              <div className="text-7xl">{result.wkSlug}</div>
+              <p>{result.primaryMeaning}</p>
+              <p>{result.primaryReading}</p>
+            </a>
+          </div>
         ))}
-      </ul>
+      </div>
     </div>
   );
 };
