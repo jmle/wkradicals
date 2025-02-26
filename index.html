@@ -1,58 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MiniSearch Search</title>
-    <script src="https://cdn.jsdelivr.net/npm/minisearch@6.2.0/dist/umd/index.min.js"></script>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 600px; margin: 50px auto; }
-        input { width: 100%; padding: 10px; margin-bottom: 10px; font-size: 16px; }
-        .result { padding: 10px; border-bottom: 1px solid #ccc; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My React App</title>
 </head>
 <body>
-    <h1>Search</h1>
-    <input type="text" id="searchBox" placeholder="Type to search..." />
-
-    <div id="results"></div>
-
-    <script>
-        let miniSearch;
-
-        // Load MiniSearch index
-        async function loadIndex() {
-            const response = await fetch("index.json");
-            const indexData = await response.json();
-
-            miniSearch = MiniSearch.loadJSON(indexData, {
-                fields: ['title', 'content'], 
-                storeFields: ['title', 'content']
-            });
-
-            console.log("✅ Index loaded!", miniSearch.documentCount, "entries.");
-        }
-
-        // Search function
-        document.getElementById("searchBox").addEventListener("input", (event) => {
-            if (!miniSearch) return;
-
-            const query = event.target.value.trim();
-            if (query.length < 2) return; // Prevent searching for short inputs
-
-            const results = miniSearch.search(query, { fuzzy: 0.2 });
-            
-            document.getElementById("results").innerHTML = results.map(result => `
-                <div class="result">
-                    <h3>${result.title}</h3>
-                    <p>${result.content}</p>
-                </div>
-            `).join('');
-        });
-
-        // Load the index when the page loads
-        loadIndex();
-    </script>
-
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
 </body>
 </html>

@@ -4,7 +4,7 @@ import MiniSearch from 'minisearch';
 import { SearchResult } from './search-results';
 
 // Directory containing JSON files
-const directoryPath = './data/kanji';
+const directoryPath = '../data/kanji';
 
 const indexOpts = {
     fields: ['primaryMeaning', 'radicalNames'], // Fields to index
@@ -13,7 +13,6 @@ const indexOpts = {
 
 // Initialize MiniSearch
 var miniSearch: MiniSearch<SearchResult>
-
 
 // Load and index JSON files
 function loadAndIndexFiles(dir: string) {
@@ -53,33 +52,25 @@ function loadAndIndexFiles(dir: string) {
   }
 }
 
-
 // Save the index to a file
 function saveIndex() {
-    const json = JSON.stringify(miniSearch.toJSON());
-    fs.writeFileSync('./data/index.json', json, 'utf8');
-    console.log('💾 Index saved.');
-  }
-  
+  const json = JSON.stringify(miniSearch.toJSON());
+  fs.writeFileSync('../data/index.json', json, 'utf8');
+  console.log('💾 Index saved.');
+}
+
 // Load index from file if it exists
-function loadIndex() {
-  if (fs.existsSync('./data/index.json')) {
-    console.log('🔄 Loading saved index...');
-    const json = fs.readFileSync('./data/index.json', 'utf8');
-    miniSearch = MiniSearch.loadJSON(json, indexOpts);
-    console.log('✅ Index loaded.');
+export function generateIndex() {
+  if (fs.existsSync('../data/index.json')) {
+    // const json = fs.readFileSync('../data/index.json', 'utf8');
+    // miniSearch = MiniSearch.loadJSON(json, indexOpts);
+    console.log('✅ Index already exists.');
   } else {
     console.log('⚠️ No saved index found. Rebuilding index...');
     loadAndIndexFiles(directoryPath);
   }
 }
 
-// Search function
-function search(query: string) {
-  const results = miniSearch.search(query, { combineWith: 'AND' });
-  console.log(`🔍 Search results for "${query}":`, results);
-}
-
 // Run indexing and perform a sample search
-loadIndex();
-search('fire few'); // Change this query to test
+loadAndIndexFiles('../data/index.json');
+//search('fire few'); // Change this query to test

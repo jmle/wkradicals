@@ -1,15 +1,15 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-// 🔹 Directory containing JSON files
+// Directory containing JSON files
 const directoryPath = '../data/subjects';
 
-// 🔹 Condition function (Modify as needed)
+// Condition function (Modify as needed)
 function filterCondition(data: any): boolean {
     return data.type === "kanji";
 }
 
-// 🔹 Read all JSON files and apply the filter
+// Read all JSON files and apply the filter
 function processJsonFiles(dir: string) {
     try {
         const files = fs.readdirSync(dir);
