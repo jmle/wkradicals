@@ -1,0 +1,36 @@
+{
+  "id": 3957,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "両側"
+  },
+  "primaryMeaning": "Both Sides",
+  "meaningMnemonic": "<kanji>Both</kanji> <kanji>side</kanji>s is <vocabulary>both sides</vocabulary>. Which side? Both sides.",
+  "primaryReading": "りょうがわ",
+  "readingMnemonic": "The first kanji takes the on'yomi reading and the second takes the kun'yomi reading. Luckily you know both of them already!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "両側",
+  "related": {
+    "radicals": [
+      1,
+      29,
+      20,
+      75,
+      94,
+      128
+    ],
+    "kanjis": [
+      609,
+      999
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょうがわ",
+      "url": "https://files.wanikani.com/5odazqulz9dwikkeuw4j4g5o1z6d"
+    }
+  ]
+}

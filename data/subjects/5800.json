@@ -1,0 +1,38 @@
+{
+  "id": 5800,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "沿線"
+  },
+  "primaryMeaning": "Along The Train Line",
+  "meaningMnemonic": "To <kanji>run alongside</kanji> the <kanji>line</kanji> (referring to the train line) means <vocabulary>along the train line</vocabulary>. What's along the train line? All kinds of things if you look carefully.",
+  "primaryReading": "えんせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Along The Railway"
+  ],
+  "otherReadings": [],
+  "wkSlug": "沿線",
+  "related": {
+    "radicals": [
+      103,
+      2,
+      16,
+      86,
+      52,
+      45
+    ],
+    "kanjis": [
+      1567,
+      767
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんせん",
+      "url": "https://files.wanikani.com/2cwxmzj5rvy0b50zidf0auh01zmk"
+    }
+  ]
+}

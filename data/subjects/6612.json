@@ -1,0 +1,35 @@
+{
+  "id": 6612,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "国柄"
+  },
+  "primaryMeaning": "National Character",
+  "meaningMnemonic": "The <kanji>country</kanji> <kanji>pattern</kanji> is the pattern of things a country does. This is the <vocabulary>national character</vocabulary> of a nation.",
+  "primaryReading": "くにがら",
+  "readingMnemonic": "The readings are the kun'yomi readings of both kanji. 国 is くに and 柄 is the reading you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "国柄",
+  "related": {
+    "radicals": [
+      16,
+      48,
+      3,
+      23,
+      186
+    ],
+    "kanjis": [
+      621,
+      1823
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くにがら",
+      "url": "https://files.wanikani.com/m74mltzrx2nysodc2xifgh9t4ouz"
+    }
+  ]
+}

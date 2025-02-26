@@ -1,0 +1,41 @@
+{
+  "id": 7428,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "洞穴"
+  },
+  "primaryMeaning": "Cave",
+  "meaningMnemonic": "A <kanji>cave</kanji> <kanji>hole</kanji> is a <vocabulary>cave</vocabulary> or <vocabulary>den</vocabulary>.",
+  "primaryReading": "どうけつ",
+  "readingMnemonic": "The reading of 洞 is one you've learned. The reading of 穴 isn't one you've learned, though. So, think about how you go inside this <vocabulary>cave</vocabulary>, only to find yourself covered by some red goopy liquid. You think it's blood, but luckily it just turns out to be <reading>ketsu</reading>p (けつ). If you want to be less formal, you can also use the kun'yomi and say ほらあな, but then you'd never learn that reading for 穴, and where's the fun in that?",
+  "otherMeanings": [
+    "Den"
+  ],
+  "otherReadings": [
+    "ほらあな"
+  ],
+  "wkSlug": "洞穴",
+  "related": {
+    "radicals": [
+      103,
+      341,
+      170
+    ],
+    "kanjis": [
+      2116,
+      1118
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほらあな",
+      "url": "https://files.wanikani.com/pc082jk0m8d4dgf8mrphecapce9u"
+    },
+    {
+      "reading": "どうけつ",
+      "url": "https://files.wanikani.com/syy6swb4wgb21oo65l5jadykapor"
+    }
+  ]
+}

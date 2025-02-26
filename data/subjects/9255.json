@@ -1,0 +1,36 @@
+{
+  "id": 9255,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "三十代"
+  },
+  "primaryMeaning": "One's Thirties",
+  "meaningMnemonic": "You have the number \"thirty\", and <kanji>age</kanji>. So this refers to <vocabulary>one's thirties</vocabulary>. ",
+  "primaryReading": "さんじゅうだい",
+  "readingMnemonic": "This uses on'yomi for all the kanji, so you should be good to go here!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "三十代",
+  "related": {
+    "radicals": [
+      1,
+      7,
+      15,
+      75,
+      79
+    ],
+    "kanjis": [
+      449,
+      448,
+      530
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんじゅうだい",
+      "url": "https://files.wanikani.com/8if0rp18o3gn9eo2n5ew8c19b1k3"
+    }
+  ]
+}

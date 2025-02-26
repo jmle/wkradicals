@@ -1,0 +1,33 @@
+{
+  "id": 4905,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "印"
+  },
+  "primaryMeaning": "Mark",
+  "meaningMnemonic": "The kanji and the word are almost exactly the same. This word means <vocabulary>mark</vocabulary>.",
+  "primaryReading": "しるし",
+  "readingMnemonic": "You see a beautiful woman in front of you. She shows you a <vocabulary>mark</vocabulary> on a piece of paper. It's a mark that tells you she's Russian (しるし)!",
+  "otherMeanings": [
+    "Token"
+  ],
+  "otherReadings": [],
+  "wkSlug": "印",
+  "related": {
+    "radicals": [
+      8792,
+      145
+    ],
+    "kanjis": [
+      1283
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しるし",
+      "url": "https://files.wanikani.com/yuxzjmbsxeu8n3mx0u277dmwcqxg"
+    }
+  ]
+}

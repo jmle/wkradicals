@@ -1,0 +1,32 @@
+{
+  "id": 3728,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "骨"
+  },
+  "primaryMeaning": "Bone",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ほね",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: Take a look at your own <vocabulary>bone</vocabulary>s. They have been upgraded with special technology, allowing you to <reading>hone</reading> (ほね) in on targets, then shoot your bones at them. Go ahead and imagine yourself using this crazy new bone technology. Wolverine is jealous.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "骨",
+  "related": {
+    "radicals": [
+      121,
+      76,
+      43
+    ],
+    "kanjis": [
+      924
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほね",
+      "url": "https://files.wanikani.com/o88knriqlu3ak8yq1ew9phpluuo6"
+    }
+  ]
+}

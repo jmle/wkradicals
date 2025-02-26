@@ -1,0 +1,35 @@
+{
+  "id": 3089,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "道具"
+  },
+  "primaryMeaning": "Tool",
+  "meaningMnemonic": "The <kanji>tool</kanji>s you use on the <kanji>road</kanji> of life are important to have. What is your most important <vocabulary>tool</vocabulary>?",
+  "primaryReading": "どうぐ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "道具",
+  "related": {
+    "radicals": [
+      114,
+      156,
+      53,
+      1,
+      2
+    ],
+    "kanjis": [
+      700,
+      710
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうぐ",
+      "url": "https://files.wanikani.com/oxyoxbrqryo2okwathf4m0uxc1k8"
+    }
+  ]
+}

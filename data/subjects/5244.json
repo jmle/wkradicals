@@ -1,0 +1,36 @@
+{
+  "id": 5244,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "欧米"
+  },
+  "primaryMeaning": "Europe And America",
+  "meaningMnemonic": "You have <kanji>Europe</kanji> and <kanji>America</kanji>. This word refers to <vocabulary>Europe and America</vocabulary>. \n\nWhen people use 欧米 in Japan, they usually mean Western countries in general (<vocabulary>the West</vocabulary>), including North America and Western Europe. You'll often see it in news reports related to Western countries or in topics comparing Japanese and Western cultures, customs, or trends. ",
+  "primaryReading": "おうべい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Europe And USA",
+    "The West"
+  ],
+  "otherReadings": [],
+  "wkSlug": "欧米",
+  "related": {
+    "radicals": [
+      322,
+      142,
+      98
+    ],
+    "kanjis": [
+      1384,
+      574
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おうべい",
+      "url": "https://files.wanikani.com/v4ycg3ryro81q6aed3qyb0f0mjqq"
+    }
+  ]
+}

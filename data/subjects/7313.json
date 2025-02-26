@@ -1,0 +1,36 @@
+{
+  "id": 7313,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "煮物"
+  },
+  "primaryMeaning": "Boiled Foods",
+  "meaningMnemonic": "<kanji>Boil</kanji>ed <kanji>thing</kanji>s turn into <vocabulary>boiled foods</vocabulary> or <vocabulary>stewed foods</vocabulary>. You can eat anything, if it's boiled long enough.",
+  "primaryReading": "にもの",
+  "readingMnemonic": "The reading is the readings you learned with the kanji.",
+  "otherMeanings": [
+    "Stewed Foods"
+  ],
+  "otherReadings": [],
+  "wkSlug": "煮物",
+  "related": {
+    "radicals": [
+      203,
+      131,
+      126,
+      173
+    ],
+    "kanjis": [
+      2067,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にもの",
+      "url": "https://files.wanikani.com/a39o40tcja9plshlyz7d9oefb8z7"
+    }
+  ]
+}

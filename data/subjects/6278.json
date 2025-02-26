@@ -1,0 +1,36 @@
+{
+  "id": 6278,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "片仮名"
+  },
+  "primaryMeaning": "Katakana",
+  "meaningMnemonic": "<kanji>One-sided</kanji> <kanji>kana</kanji> is <vocabulary>katakana</vocabulary>. Might be easier to do the reading first on this one.",
+  "primaryReading": "かたかな",
+  "readingMnemonic": "片 is かた, and 仮名 is かな. Put them together to get <vocabulary>katakana</vocabulary>.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "片仮名",
+  "related": {
+    "radicals": [
+      162,
+      75,
+      218,
+      33,
+      16
+    ],
+    "kanjis": [
+      1718,
+      739,
+      544
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かたかな",
+      "url": "https://files.wanikani.com/3r229ogk0ayhbxr84srbkgde60ad"
+    }
+  ]
+}

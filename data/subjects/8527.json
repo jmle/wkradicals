@@ -1,0 +1,39 @@
+{
+  "id": 8527,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "堪える"
+  },
+  "primaryMeaning": "To Endure",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>endure</kanji>, so the verb version is <vocabulary>to endure</vocabulary> or <vocabulary>to bear</vocabulary>.",
+  "primaryReading": "こらえる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned the kanji!",
+  "otherMeanings": [
+    "To Bear"
+  ],
+  "otherReadings": [
+    "たえる"
+  ],
+  "wkSlug": "堪える",
+  "related": {
+    "radicals": [
+      17,
+      407
+    ],
+    "kanjis": [
+      2406
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こらえる",
+      "url": "https://files.wanikani.com/egzht3ke1tx7e0xs70xhzucrpcl3"
+    },
+    {
+      "reading": "たえる",
+      "url": "https://files.wanikani.com/noptjw1qrf04t0yxr5hdudwbwsfo"
+    }
+  ]
+}

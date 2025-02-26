@@ -1,0 +1,42 @@
+{
+  "id": 9018,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "飲酒運転"
+  },
+  "primaryMeaning": "Drunk Driving",
+  "meaningMnemonic": "You know that 飲酒 is \"drinking alcohol\" and 運転する is \"to drive\", so it makes sense that this word means <vocabulary>drunk driving</vocabulary>, or <vocabulary>drinking and driving</vocabulary>. ",
+  "primaryReading": "いんしゅうんてん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Drinking And Driving"
+  ],
+  "otherReadings": [],
+  "wkSlug": "飲酒運転",
+  "related": {
+    "radicals": [
+      139,
+      142,
+      103,
+      182,
+      114,
+      76,
+      93,
+      159
+    ],
+    "kanjis": [
+      755,
+      743,
+      752,
+      747
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いんしゅうんてん",
+      "url": "https://files.wanikani.com/kw2p5gjesszkaqz8z30ovcsdnjst"
+    }
+  ]
+}

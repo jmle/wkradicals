@@ -1,0 +1,37 @@
+{
+  "id": 7320,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "陶器"
+  },
+  "primaryMeaning": "Pottery",
+  "meaningMnemonic": "A <kanji>pottery</kanji> <kanji>container</kanji> is <vocabulary>pottery</vocabulary>. It's <vocabulary>ceramics</vocabulary>.",
+  "primaryReading": "とうき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Ceramics"
+  ],
+  "otherReadings": [],
+  "wkSlug": "陶器",
+  "related": {
+    "radicals": [
+      176,
+      14,
+      392,
+      18,
+      227
+    ],
+    "kanjis": [
+      2070,
+      876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうき",
+      "url": "https://files.wanikani.com/j6dmxi0svcadjfxjc6469sn6adzx"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2705,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "赤ちゃん"
+  },
+  "primaryMeaning": "Baby",
+  "meaningMnemonic": "ちゃん is the honorific you put on a child's name. So, who is this mysterious child you're calling <kanji>red</kanji>? When a baby is born, what color are they? You got it, they're all red. And, because you want to be nice and cute you add ちゃん to that. That's why あかちゃん is a <vocabulary>baby</vocabulary>.",
+  "primaryReading": "あかちゃん",
+  "readingMnemonic": "If you know the reading of the kanji <kanji>赤</kanji> you should know the reading of this too.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "赤ちゃん",
+  "related": {
+    "radicals": [
+      92
+    ],
+    "kanjis": [
+      560
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あかちゃん",
+      "url": "https://files.wanikani.com/52232z4ygksaeq6lh2fkpliu5xws"
+    }
+  ]
+}

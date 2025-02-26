@@ -1,0 +1,34 @@
+{
+  "id": 6359,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "顧問"
+  },
+  "primaryMeaning": "Advisor",
+  "meaningMnemonic": "The people who will <kanji>review</kanji> a <kanji>problem</kanji> are those who know more about the problems. They are the <vocabulary>advisor</vocabulary>s.",
+  "primaryReading": "こもん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "顧問",
+  "related": {
+    "radicals": [
+      378,
+      184,
+      214,
+      16
+    ],
+    "kanjis": [
+      1742,
+      859
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こもん",
+      "url": "https://files.wanikani.com/x50m32smvl5tu9eav44xrxrzv04p"
+    }
+  ]
+}

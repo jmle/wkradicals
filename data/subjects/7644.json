@@ -1,0 +1,32 @@
+{
+  "id": 7644,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "無言"
+  },
+  "primaryMeaning": "Silence",
+  "meaningMnemonic": "When you have <kanji>nothing</kanji> to <kanji>say</kanji> you sit in <vocabulary>silence</vocabulary>.",
+  "primaryReading": "むごん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 言 though, so here's a mnemonic to help you:\n\nNothing cuts through <vocabulary>silence</vocabulary> like a <reading>gon</reading>g (ごん). Once it's done gonging you really notice how silent the world around you is.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "無言",
+  "related": {
+    "radicals": [
+      252,
+      117
+    ],
+    "kanjis": [
+      1008,
+      593
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むごん",
+      "url": "https://files.wanikani.com/0uc5a23nzfez0tvmfffs4kp2ctgz"
+    }
+  ]
+}

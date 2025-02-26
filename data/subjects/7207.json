@@ -1,0 +1,36 @@
+{
+  "id": 7207,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "水溶性"
+  },
+  "primaryMeaning": "Water Soluble",
+  "meaningMnemonic": "With <kanji>water</kanji> it will <kanji>melt</kanji>. It is <kanji>natural</kanji>ly like this. It is <vocabulary>water soluble</vocabulary>.",
+  "primaryReading": "すいようせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "水溶性",
+  "related": {
+    "radicals": [
+      45,
+      103,
+      404,
+      232,
+      210
+    ],
+    "kanjis": [
+      479,
+      2030,
+      918
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいようせい",
+      "url": "https://files.wanikani.com/w7m9jille4ugxmpg5drbuogth7zk"
+    }
+  ]
+}

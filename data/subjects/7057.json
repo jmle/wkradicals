@@ -1,0 +1,34 @@
+{
+  "id": 7057,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "砕く"
+  },
+  "primaryMeaning": "To Smash",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>smash</kanji> and the verb vocab version of the kanji is <vocabulary>to smash</vocabulary> or <vocabulary>to break</vocabulary>.",
+  "primaryReading": "くだく",
+  "readingMnemonic": "You want <vocabulary>to smash</vocabulary> my stuff? That's <reading>coo' だ</reading> (くだ). Whatever you wanna do.",
+  "otherMeanings": [
+    "To Break"
+  ],
+  "otherReadings": [],
+  "wkSlug": "砕く",
+  "related": {
+    "radicals": [
+      54,
+      11,
+      15
+    ],
+    "kanjis": [
+      1977
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くだく",
+      "url": "https://files.wanikani.com/qxkredssag543qxdb4w5ouxcywzs"
+    }
+  ]
+}

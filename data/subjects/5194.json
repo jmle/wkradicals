@@ -1,0 +1,39 @@
+{
+  "id": 5194,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "衆議院"
+  },
+  "primaryMeaning": "House Of Representatives",
+  "meaningMnemonic": "It's the <kanji>institution</kanji> that does <kanji>deliberation</kanji> on behalf of the <kanji>populace</kanji>. They represent the people. They are the <vocabulary>house of representatives</vocabulary>.",
+  "primaryReading": "しゅうぎいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "衆議院",
+  "related": {
+    "radicals": [
+      137,
+      38,
+      8778,
+      117,
+      383,
+      176,
+      78,
+      64
+    ],
+    "kanjis": [
+      1374,
+      1114,
+      744
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅうぎいん",
+      "url": "https://files.wanikani.com/d43dyypnhh447ktzhdf1v84phh6v"
+    }
+  ]
+}

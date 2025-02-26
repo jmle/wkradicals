@@ -1,0 +1,38 @@
+{
+  "id": 8431,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "鼓動"
+  },
+  "primaryMeaning": "Beat",
+  "meaningMnemonic": "The <kanji>beat</kanji> that <kanji>move</kanji>s inside your body is the <vocabulary>beat</vocabulary>ing of your heart. Put your hand up to your neck and you should be able to feel it <vocabulary>pulse</vocabulary>.",
+  "primaryReading": "こどう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Palpitate",
+    "Pulse",
+    "Throb"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鼓動",
+  "related": {
+    "radicals": [
+      421,
+      81,
+      188,
+      13
+    ],
+    "kanjis": [
+      2331,
+      827
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こどう",
+      "url": "https://files.wanikani.com/2aco4h3p7ud1ru5vikgvvoec68yc"
+    }
+  ]
+}

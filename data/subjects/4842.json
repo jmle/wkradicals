@@ -1,0 +1,36 @@
+{
+  "id": 4842,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "大嫌い"
+  },
+  "primaryMeaning": "Hate",
+  "meaningMnemonic": "Remember how 嫌い is to <kanji>dislike</kanji>? When that dislike is <kanji>big</kanji>, you really dislike it. That means you <vocabulary>hate</vocabulary> (or <vocabulary>really hate</vocabulary>) it.\n\nAs with 嫌い, a more literal translation is <vocabulary>detestable</vocabulary>.",
+  "primaryReading": "だいきらい",
+  "readingMnemonic": "The reading is the reading for 大, and the reading for 嫌い is like the one you learned with 嫌い in level 20.",
+  "otherMeanings": [
+    "Really Hate",
+    "Detestable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大嫌い",
+  "related": {
+    "radicals": [
+      18,
+      19,
+      271
+    ],
+    "kanjis": [
+      453,
+      1104
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だいきらい",
+      "url": "https://files.wanikani.com/5mev6k0ihqshr6dqq47hitr5kyhf"
+    }
+  ]
+}

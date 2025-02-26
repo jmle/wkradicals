@@ -1,0 +1,37 @@
+{
+  "id": 4967,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "検討する"
+  },
+  "primaryMeaning": "To Examine",
+  "meaningMnemonic": "You <kanji>examine</kanji> it but you also <kanji>chastise</kanji> it, because you want to make sure this examining is correct. This is <vocabulary>to examine</vocabulary> or <vocabulary>to study</vocabulary>. All require chastising things to be sure for sure.\n\n検討する generally implies thoroughly examining something <vocabulary>to consider</vocabulary> its pros and cons, suitability, or viability.",
+  "primaryReading": "けんとうする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "To Study",
+    "To Consider"
+  ],
+  "otherReadings": [],
+  "wkSlug": "検討する",
+  "related": {
+    "radicals": [
+      23,
+      8785,
+      117,
+      74
+    ],
+    "kanjis": [
+      1143,
+      1298
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんとうする",
+      "url": "https://files.wanikani.com/l8aayoahokys1put6m9dbav9snt4"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 8613,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "帆船"
+  },
+  "primaryMeaning": "Sailboat",
+  "meaningMnemonic": "A <kanji>sail</kanji> <kanji>boat</kanji> is a <vocabulary>sailboat</vocabulary>!",
+  "primaryReading": "はんせん",
+  "readingMnemonic": "This word uses the on'yomi readings. You know them!",
+  "otherMeanings": [
+    "Sailing Boat",
+    "Sailing Ship"
+  ],
+  "otherReadings": [
+    "ほぶね"
+  ],
+  "wkSlug": "帆船",
+  "related": {
+    "radicals": [
+      102,
+      177,
+      3,
+      149,
+      2,
+      16
+    ],
+    "kanjis": [
+      2389,
+      671
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほぶね",
+      "url": "https://files.wanikani.com/i2e212eaywc7xkgz6ygkf84znexf"
+    },
+    {
+      "reading": "はんせん",
+      "url": "https://files.wanikani.com/2e5lhejbbo0nzcf7xbjd1zi7knj7"
+    }
+  ]
+}

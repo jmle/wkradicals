@@ -1,0 +1,35 @@
+{
+  "id": 5530,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "桜"
+  },
+  "primaryMeaning": "Sakura",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "さくら",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Cherry Tree",
+    "Cherry Blossom"
+  ],
+  "otherReadings": [],
+  "wkSlug": "桜",
+  "related": {
+    "radicals": [
+      23,
+      8783,
+      19
+    ],
+    "kanjis": [
+      1485
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さくら",
+      "url": "https://files.wanikani.com/mp2v0i2yqeyg3tbji5jyzmqd5xak"
+    }
+  ]
+}

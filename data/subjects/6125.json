@@ -1,0 +1,39 @@
+{
+  "id": 6125,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "削減"
+  },
+  "primaryMeaning": "Reduction",
+  "meaningMnemonic": "<kanji>Whittle down</kanji> and <kanji>decrease</kanji> something. This is a <vocabulary>reduction</vocabulary> or <vocabulary>cutback</vocabulary>, since you're whittling down and decreasing it.",
+  "primaryReading": "さくげん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cutback"
+  ],
+  "otherReadings": [],
+  "wkSlug": "削減",
+  "related": {
+    "radicals": [
+      8765,
+      43,
+      128,
+      103,
+      5,
+      194,
+      8781
+    ],
+    "kanjis": [
+      1668,
+      1059
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さくげん",
+      "url": "https://files.wanikani.com/yfw3q45jny5fyn6241z29h8agquc"
+    }
+  ]
+}

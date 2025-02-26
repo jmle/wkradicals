@@ -1,0 +1,36 @@
+{
+  "id": 8721,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "遊び"
+  },
+  "primaryMeaning": "Play",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>play</kanji>, so it means <vocabulary>play</vocabulary> or <vocabulary>playing</vocabulary>!",
+  "primaryReading": "あそび",
+  "readingMnemonic": "You learned this reading when you learned 遊ぶ. It's the same one!",
+  "otherMeanings": [
+    "Playing",
+    "Games"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遊び",
+  "related": {
+    "radicals": [
+      114,
+      66,
+      8762,
+      34
+    ],
+    "kanjis": [
+      1417
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あそび",
+      "url": "https://files.wanikani.com/0wuizpozi0fa07nguimqibczvgx8"
+    }
+  ]
+}

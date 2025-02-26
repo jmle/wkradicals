@@ -1,0 +1,35 @@
+{
+  "id": 6575,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "哲学"
+  },
+  "primaryMeaning": "Philosophy",
+  "meaningMnemonic": "The <kanji>philosophy</kanji> <kanji>study</kanji> is the study of <vocabulary>philosophy</vocabulary>.",
+  "primaryReading": "てつがく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "哲学",
+  "related": {
+    "radicals": [
+      63,
+      115,
+      16,
+      8769,
+      34
+    ],
+    "kanjis": [
+      1807,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てつがく",
+      "url": "https://files.wanikani.com/7qgg0c9kflj6jxq2socbjcemr2de"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 8049,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "随時"
+  },
+  "primaryMeaning": "At Any Time",
+  "meaningMnemonic": "If you have <kanji>all</kanji> the <kanji>time</kanji> in the world you can do whatever you want <vocabulary>at any time</vocabulary>.",
+  "primaryReading": "ずいじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "随時",
+  "related": {
+    "radicals": [
+      176,
+      371,
+      114,
+      22,
+      192
+    ],
+    "kanjis": [
+      2193,
+      662
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ずいじ",
+      "url": "https://files.wanikani.com/bds59q52vvjxjofb9vq9kpkllmmr"
+    }
+  ]
+}

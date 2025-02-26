@@ -1,0 +1,38 @@
+{
+  "id": 3801,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "保守的"
+  },
+  "primaryMeaning": "Conservative",
+  "meaningMnemonic": "Who are all <kanji>like</kanji> \"I want to <kanji>preserve</kanji> and <kanji>protect</kanji> what I have, get out of my business, government!\"? <vocabulary>Conservative</vocabulary> people, of course.",
+  "primaryReading": "ほしゅてき",
+  "readingMnemonic": "The reading doesn't match up for this word's 守. The reading is しゅ, but you can remember that because the conservatives want to protect and preserve their <reading>hoe</reading>s (ほ) and their <reading>chute</reading>s (しゅ) from the government. For some reason those get taxed a lot.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "保守的",
+  "related": {
+    "radicals": [
+      75,
+      16,
+      23,
+      78,
+      74,
+      52,
+      236
+    ],
+    "kanjis": [
+      983,
+      968,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほしゅてき",
+      "url": "https://files.wanikani.com/4xji7zivb64fyk8g0mjplorg0jma"
+    }
+  ]
+}

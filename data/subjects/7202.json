@@ -1,0 +1,35 @@
+{
+  "id": 7202,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "油彩"
+  },
+  "primaryMeaning": "Oil Painting",
+  "meaningMnemonic": "<kanji>Oil</kanji> <kanji>coloring</kanji> is better known as <vocabulary>oil painting</vocabulary>. What fine strokes! What fine lines!",
+  "primaryReading": "ゆさい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "油彩",
+  "related": {
+    "radicals": [
+      103,
+      268,
+      8772,
+      23,
+      38
+    ],
+    "kanjis": [
+      1609,
+      2028
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆさい",
+      "url": "https://files.wanikani.com/rtl4eebdbgd634k14r8ku1x8m07q"
+    }
+  ]
+}

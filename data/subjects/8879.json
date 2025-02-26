@@ -1,0 +1,38 @@
+{
+  "id": 8879,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "痩身"
+  },
+  "primaryMeaning": "Lean",
+  "meaningMnemonic": "A <kanji>thin</kanji> <kanji>body</kanji> type is called <vocabulary>lean</vocabulary> or <vocabulary>slim</vocabulary>. These days this is usually used in the context of <vocabulary>slimming</vocabulary> salons and massages you can get that may or may not work.",
+  "primaryReading": "そうしん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned them already, so you should be able to read this on your own!",
+  "otherMeanings": [
+    "Slim",
+    "Slimming"
+  ],
+  "otherReadings": [],
+  "wkSlug": "痩身",
+  "related": {
+    "radicals": [
+      187,
+      190,
+      30,
+      109,
+      5
+    ],
+    "kanjis": [
+      8864,
+      689
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうしん",
+      "url": "https://files.wanikani.com/3jnkrj64qouz5djwpl9vf1edd82m"
+    }
+  ]
+}

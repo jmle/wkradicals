@@ -1,0 +1,35 @@
+{
+  "id": 8182,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "伏線"
+  },
+  "primaryMeaning": "Foreshadowing",
+  "meaningMnemonic": "Connect a bunch of things <kanji>lay</kanji>ing in a <kanji>line</kanji>. Something's happening here. You can't put your finger on it, but you're pretty sure this is <vocabulary>foreshadowing</vocabulary> for something else.",
+  "primaryReading": "ふくせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "伏線",
+  "related": {
+    "radicals": [
+      75,
+      47,
+      86,
+      52,
+      45
+    ],
+    "kanjis": [
+      2260,
+      767
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふくせん",
+      "url": "https://files.wanikani.com/9soq0i1fvtjzfi6ijjkrduszbzsb"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 5978,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "神奈川県"
+  },
+  "primaryMeaning": "Kanagawa Prefecture",
+  "meaningMnemonic": "The <kanji>god</kanji> <kanji>Nara</kanji> <kanji>river</kanji> <kanji>Prefecture</kanji> is <vocabulary>Kanagawa Prefecture</vocabulary>.",
+  "primaryReading": "かながわけん",
+  "readingMnemonic": "The か of 神 is used here (losing the み). Then, everything else should be self explanatory.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "神奈川県",
+  "related": {
+    "radicals": [
+      80,
+      190,
+      18,
+      207,
+      21,
+      53,
+      56,
+      35
+    ],
+    "kanjis": [
+      799,
+      1620,
+      456,
+      731
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かながわけん",
+      "url": "https://files.wanikani.com/03pyqirbzhg6t9kf9rvbt0jknzum"
+    }
+  ]
+}

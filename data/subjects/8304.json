@@ -1,0 +1,39 @@
+{
+  "id": 8304,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "記念碑"
+  },
+  "primaryMeaning": "Monument",
+  "meaningMnemonic": "Some <kanji>tombstone</kanji>s are used to <kanji>write down</kanji> the <kanji>thought</kanji>s of dead people. They're <vocabulary>monument</vocabulary>s. They can be really big or really small, but they have to be dedicated to somebody (usually a dead somebody).",
+  "primaryReading": "きねんひ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "記念碑",
+  "related": {
+    "radicals": [
+      117,
+      228,
+      238,
+      65,
+      54,
+      3,
+      51,
+      15
+    ],
+    "kanjis": [
+      664,
+      906,
+      2323
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きねんひ",
+      "url": "https://files.wanikani.com/1anxmfy0abnnp9nmezvadmjuyz8r"
+    }
+  ]
+}

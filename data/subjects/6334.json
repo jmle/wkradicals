@@ -1,0 +1,36 @@
+{
+  "id": 6334,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "要項"
+  },
+  "primaryMeaning": "Important Points",
+  "meaningMnemonic": "A <kanji>need</kanji>ed <kanji>paragraph</kanji> contains the <vocabulary>important points</vocabulary> of what you want to say.",
+  "primaryReading": "ようこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Main Points"
+  ],
+  "otherReadings": [],
+  "wkSlug": "要項",
+  "related": {
+    "radicals": [
+      424,
+      19,
+      25,
+      184
+    ],
+    "kanjis": [
+      737,
+      1740
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようこう",
+      "url": "https://files.wanikani.com/amqupfv8rohd85kfu7osxbnatju0"
+    }
+  ]
+}

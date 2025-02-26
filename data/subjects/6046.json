@@ -1,0 +1,36 @@
+{
+  "id": 6046,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "味噌汁"
+  },
+  "primaryMeaning": "Miso Soup",
+  "meaningMnemonic": "You know that 味噌 is \"miso,\" and that 汁 is \"soup.\" So, combine them together and you have <vocabulary>Miso Soup</vocabulary>.",
+  "primaryReading": "みそしる",
+  "readingMnemonic": "The reading is 味噌 plus the vocab 汁 put together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "味噌汁",
+  "related": {
+    "radicals": [
+      16,
+      134,
+      259,
+      103,
+      15
+    ],
+    "kanjis": [
+      812,
+      1598,
+      1597
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みそしる",
+      "url": "https://files.wanikani.com/x8xltqzmks2x9vz7je12npffp155"
+    }
+  ]
+}

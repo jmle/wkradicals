@@ -1,0 +1,38 @@
+{
+  "id": 6754,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "哲学者"
+  },
+  "primaryMeaning": "Philosopher",
+  "meaningMnemonic": "A <kanji>philosophy</kanji> <kanji>scholar</kanji> (学者) is someone who studies philosophy. They're known as a <vocabulary>philosopher</vocabulary>.",
+  "primaryReading": "てつがくしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "哲学者",
+  "related": {
+    "radicals": [
+      63,
+      115,
+      16,
+      8769,
+      34,
+      104,
+      22
+    ],
+    "kanjis": [
+      1807,
+      599,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てつがくしゃ",
+      "url": "https://files.wanikani.com/eb86gnfoxpwl4dk6mjeqjex484j8"
+    }
+  ]
+}

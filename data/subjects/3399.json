@@ -1,0 +1,36 @@
+{
+  "id": 3399,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "短刀"
+  },
+  "primaryMeaning": "Short Sword",
+  "meaningMnemonic": "The <kanji>short</kanji> <kanji>sword</kanji> is the <vocabulary>short sword</vocabulary>. What's another word for a short sword? It's a <vocabulary>dagger</vocabulary>.",
+  "primaryReading": "たんとう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Dagger",
+    "Tanto"
+  ],
+  "otherReadings": [],
+  "wkSlug": "短刀",
+  "related": {
+    "radicals": [
+      72,
+      181,
+      24
+    ],
+    "kanjis": [
+      847,
+      458
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たんとう",
+      "url": "https://files.wanikani.com/rl9bn6mfe51z1pcds9eixotyys6p"
+    }
+  ]
+}

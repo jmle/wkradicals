@@ -1,0 +1,38 @@
+{
+  "id": 5868,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "破壊"
+  },
+  "primaryMeaning": "Destruction",
+  "meaningMnemonic": "<kanji>Tear</kanji> and <kanji>break</kanji> everything, taking it all down. <vocabulary>Destruction</vocabulary>! <vocabulary>Demolition</vocabulary>!",
+  "primaryReading": "はかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Demolition"
+  ],
+  "otherReadings": [],
+  "wkSlug": "破壊",
+  "related": {
+    "radicals": [
+      54,
+      195,
+      17,
+      15,
+      163,
+      320
+    ],
+    "kanjis": [
+      1582,
+      1389
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はかい",
+      "url": "https://files.wanikani.com/wqckou9zw3ot8mjwdncadge58f9a"
+    }
+  ]
+}

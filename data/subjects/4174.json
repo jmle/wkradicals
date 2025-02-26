@@ -1,0 +1,34 @@
+{
+  "id": 4174,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "別冊"
+  },
+  "primaryMeaning": "Separate Volume",
+  "meaningMnemonic": "Usually you call <kanji>books</kanji> \"volumes\" when they come in sets, right? This is like that, but <kanji>separate</kanji>, making this a <vocabulary>separate volume</vocabulary>.",
+  "primaryReading": "べっさつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The べつ gets shortened to べっ, though, probably because it's a つ and that's what つs do for a living in jukugo words.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "別冊",
+  "related": {
+    "radicals": [
+      16,
+      24,
+      128,
+      226
+    ],
+    "kanjis": [
+      785,
+      1071
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "べっさつ",
+      "url": "https://files.wanikani.com/px6hi6c7ai3qjtfxi8e52x8jxo15"
+    }
+  ]
+}

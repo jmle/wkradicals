@@ -1,0 +1,36 @@
+{
+  "id": 8492,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "藩主"
+  },
+  "primaryMeaning": "Feudal Lord",
+  "meaningMnemonic": "The <kanji>master</kanji> of a <kanji>fiefdom</kanji> is the <vocabulary>feudal lord</vocabulary>. We also call them <vocabulary>Daimyo</vocabulary>.",
+  "primaryReading": "はんしゅ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Daimyo"
+  ],
+  "otherReadings": [],
+  "wkSlug": "藩主",
+  "related": {
+    "radicals": [
+      90,
+      103,
+      280,
+      154
+    ],
+    "kanjis": [
+      2378,
+      528
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はんしゅ",
+      "url": "https://files.wanikani.com/gijxv2b8trc89zatm25gwk7qfgqx"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2572,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "正す"
+  },
+  "primaryMeaning": "To Correct",
+  "meaningMnemonic": "This word is made up of a kanji with some hiragana attached, ending in an う sound. That means this word is a verb. The kanji itself means \"correct,\" so what is the verb form of that? It would be <vocabulary>to correct</vocabulary>.",
+  "primaryReading": "ただす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nAfter you correct something for someone, you yell out <reading>ta-da</reading> (ただ) very excitedly. Go ahead and imagine yourself doing this a few times to help you to remember.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "正す",
+  "related": {
+    "radicals": [
+      1,
+      44
+    ],
+    "kanjis": [
+      488
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ただす",
+      "url": "https://files.wanikani.com/7e60p2pg3q5pcbvgtd9un46bn3ke"
+    }
+  ]
+}

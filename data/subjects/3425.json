@@ -1,0 +1,32 @@
+{
+  "id": 3425,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "風"
+  },
+  "primaryMeaning": "Wind",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かぜ",
+  "readingMnemonic": "Do you know the word \"kamikaze\" from WWII history? Well, it means \"divine wind.\" The \"kaze\" part is the wind part, and this word uses the same reading, making it <reading>かぜ</reading>as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "風",
+  "related": {
+    "radicals": [
+      177,
+      5,
+      89
+    ],
+    "kanjis": [
+      853
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かぜ",
+      "url": "https://files.wanikani.com/16afgsigut0obe2eostq69wu264f"
+    }
+  ]
+}

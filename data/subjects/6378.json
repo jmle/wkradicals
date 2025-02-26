@@ -1,0 +1,37 @@
+{
+  "id": 6378,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "兼業"
+  },
+  "primaryMeaning": "Side Business",
+  "meaningMnemonic": "<kanji>Concurrently</kanji> with my current <kanji>business</kanji> I have a <vocabulary>side business</vocabulary>. It's really a <vocabulary>second job</vocabulary>, actually.",
+  "primaryReading": "けんぎょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Second Job",
+    "Moonlighting"
+  ],
+  "otherReadings": [],
+  "wkSlug": "兼業",
+  "related": {
+    "radicals": [
+      271,
+      8768,
+      136,
+      2
+    ],
+    "kanjis": [
+      1749,
+      756
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんぎょう",
+      "url": "https://files.wanikani.com/k2xsbmg9lb83ned8t7nw4q1aoucy"
+    }
+  ]
+}

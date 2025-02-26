@@ -1,0 +1,34 @@
+{
+  "id": 6298,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "圏外"
+  },
+  "primaryMeaning": "Out Of Range",
+  "meaningMnemonic": "The <kanji>range</kanji> is <kanji>outside</kanji> of the range, meaning you're <vocabulary>out of range</vocabulary>.",
+  "primaryReading": "けんがい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "圏外",
+  "related": {
+    "radicals": [
+      16,
+      414,
+      33,
+      10
+    ],
+    "kanjis": [
+      1724,
+      521
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんがい",
+      "url": "https://files.wanikani.com/wwqn9uu89055w73zi77zzi0l58u9"
+    }
+  ]
+}

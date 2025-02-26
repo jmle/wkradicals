@@ -1,0 +1,44 @@
+{
+  "id": 4937,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "株式会社"
+  },
+  "primaryMeaning": "Corporation",
+  "meaningMnemonic": "This <kanji>company</kanji> (会社) has done the <kanji>ritual</kanji> required to create <kanji>stock</kanji>s for their company. When a company has stocks, they become a <vocabulary>corporation</vocabulary>.",
+  "primaryReading": "かぶしきがいしゃ",
+  "readingMnemonic": "The readings for everything here are the readings you learned with the individual kanji, though not all are on'yomi. This word is usually rendaku'd too, but sometimes you'll see the non-rendaku version in romaji when it comes to English language legal stuff, so keep that in mind.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "株式会社",
+  "related": {
+    "radicals": [
+      23,
+      5,
+      134,
+      79,
+      25,
+      155,
+      80,
+      17
+    ],
+    "kanjis": [
+      1247,
+      939,
+      566,
+      591
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かぶしきがいしゃ",
+      "url": "https://files.wanikani.com/jo2kqz3j1ab7xgzhi4470rhvoo9w"
+    },
+    {
+      "reading": "かぶしきかいしゃ",
+      "url": "https://files.wanikani.com/pujwwn4cfn8gsh9yc5vkg0vb0vwq"
+    }
+  ]
+}

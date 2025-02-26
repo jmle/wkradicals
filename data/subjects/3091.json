@@ -1,0 +1,35 @@
+{
+  "id": 3091,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "受ける"
+  },
+  "primaryMeaning": "To Receive Something",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>receive</kanji>, and this verb means just about the same thing: <vocabulary>to receive something</vocabulary>!\n\nThis is a transitive verb, so it takes a direct object. But 受ける often implies passive reception, generally of intangible objects like an education, or damage. It can also mean <vocabulary>to take something</vocabulary>, like taking an exam or a job offer.",
+  "primaryReading": "うける",
+  "readingMnemonic": "There’s a creature in front of you that’s about <vocabulary>to receive something</vocabulary>, but what is it? It’s an <reading>u</reading>ni (う), and it’s going to receive a warm welcome and an education. Picture the sea urchin receiving these things, and then going on to take an exam to prove how much education it’s received.",
+  "otherMeanings": [
+    "To Accept Something",
+    "To Take Something"
+  ],
+  "otherReadings": [],
+  "wkSlug": "受ける",
+  "related": {
+    "radicals": [
+      8772,
+      76,
+      30
+    ],
+    "kanjis": [
+      711
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うける",
+      "url": "https://files.wanikani.com/017f7nb770g0s3dhyscv80tni9c8"
+    }
+  ]
+}

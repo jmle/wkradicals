@@ -1,0 +1,37 @@
+{
+  "id": 4096,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "座禅"
+  },
+  "primaryMeaning": "Zen Meditation",
+  "meaningMnemonic": "When you <kanji>sit</kanji> and do <kanji>zen</kanji> you are probably doing <vocabulary>zen meditation</vocabulary>. Hummmmm.",
+  "primaryReading": "ざぜん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Zazen"
+  ],
+  "otherReadings": [],
+  "wkSlug": "座禅",
+  "related": {
+    "radicals": [
+      62,
+      9,
+      17,
+      80,
+      199
+    ],
+    "kanjis": [
+      1041,
+      1047
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ざぜん",
+      "url": "https://files.wanikani.com/wtf7bg4vpzpqvyx2nc1gtglqu9mp"
+    }
+  ]
+}

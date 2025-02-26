@@ -1,0 +1,30 @@
+{
+  "id": 6573,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "双"
+  },
+  "primaryMeaning": "Pair",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "そう",
+  "readingMnemonic": "The reading you learned with the kanji is the same as the one used here. They're a <vocabulary>pair</vocabulary>, you know?",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "双",
+  "related": {
+    "radicals": [
+      30
+    ],
+    "kanjis": [
+      1806
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そう",
+      "url": "https://files.wanikani.com/l4q5a6ruq55mjo9292rhfq9v1dtd"
+    }
+  ]
+}

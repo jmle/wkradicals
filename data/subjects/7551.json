@@ -1,0 +1,41 @@
+{
+  "id": 7551,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "連中"
+  },
+  "primaryMeaning": "The Gang",
+  "meaningMnemonic": "People you want to <kanji>take along</kanji> to the <kanji>middle</kanji> of somewhere are probably people you know pretty well. They're your <vocabulary>gang</vocabulary>, they're the <vocabulary>guys</vocabulary>.\n\nThis word often has a negative feel to it, though, as in \"those guys can't be trusted\" or \"they're a selfish bunch\".",
+  "primaryReading": "れんちゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. As long as you know the readings for these kanji, you should be able to read this word just fine.",
+  "otherMeanings": [
+    "Guys",
+    "Bunch",
+    "Company"
+  ],
+  "otherReadings": [],
+  "wkSlug": "連中",
+  "related": {
+    "radicals": [
+      114,
+      93,
+      49
+    ],
+    "kanjis": [
+      1084,
+      469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "れんちゅう",
+      "url": "https://files.wanikani.com/g18anke2740b2qdbc25s3ih5oxwf"
+    },
+    {
+      "reading": "れんじゅう",
+      "url": "https://files.wanikani.com/yyzwlejfd9nyyi9wk8eembrwnur2"
+    }
+  ]
+}

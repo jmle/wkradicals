@@ -1,0 +1,34 @@
+{
+  "id": 5939,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "吐き気"
+  },
+  "primaryMeaning": "Nausea",
+  "meaningMnemonic": "This <kanji>throw up</kanji> <kanji>energy</kanji> you feel inside of you… could it be… <vocabulary>nausea</vocabulary>?!",
+  "primaryReading": "はきけ",
+  "readingMnemonic": "The reading comes from 吐く and the (irregular) reading of 気 put together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "吐き気",
+  "related": {
+    "radicals": [
+      16,
+      17,
+      82,
+      31
+    ],
+    "kanjis": [
+      1550,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はきけ",
+      "url": "https://files.wanikani.com/uwft3je52xlnnsxnnd3qjx84wv6c"
+    }
+  ]
+}

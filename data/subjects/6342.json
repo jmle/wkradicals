@@ -1,0 +1,33 @@
+{
+  "id": 6342,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "傾ける"
+  },
+  "primaryMeaning": "To Lean Something",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lean</kanji> and the verb vocab version means <vocabulary>to lean something</vocabulary>.",
+  "primaryReading": "かたむける",
+  "readingMnemonic": "You learned this reading already with 傾く, so remember that and you'll know this one too!",
+  "otherMeanings": [
+    "To Tilt Something"
+  ],
+  "otherReadings": [],
+  "wkSlug": "傾ける",
+  "related": {
+    "radicals": [
+      311,
+      184
+    ],
+    "kanjis": [
+      1687
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かたむける",
+      "url": "https://files.wanikani.com/u3vznefgnktnifgu85mkqjg0ecwg"
+    }
+  ]
+}

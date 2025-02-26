@@ -1,0 +1,36 @@
+{
+  "id": 9044,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "お持ち帰り"
+  },
+  "primaryMeaning": "Takeout",
+  "meaningMnemonic": "When you're <kanji>hold</kanji>ing food and <kanji>return</kanji>ing home with it, you're likely getting <vocabulary>takeout</vocabulary>.",
+  "primaryReading": "おもちかえり",
+  "readingMnemonic": "You've already learned how to read both 持つ and 帰る, so you should be able to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "お持ち帰り",
+  "related": {
+    "radicals": [
+      63,
+      192,
+      128,
+      105,
+      76,
+      102
+    ],
+    "kanjis": [
+      727,
+      930
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おもちかえり",
+      "url": "https://files.wanikani.com/7y2iskfqedljxe3o1rlqt1hfmj69"
+    }
+  ]
+}

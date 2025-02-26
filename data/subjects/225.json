@@ -1,0 +1,17 @@
+{
+  "id": 225,
+  "type": "radical",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "亼"
+  },
+  "primaryMeaning": "Roof",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical looks just like a <radical>roof</radical>, does it not?",
+  "wkSlug": "roof-225",
+  "related": {
+    "kanjis": [],
+    "vocabularies": []
+  }
+}

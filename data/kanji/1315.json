@@ -1,0 +1,42 @@
+{
+  "id": 1315,
+  "type": "kanji",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "段"
+  },
+  "primaryReading": "だん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "だん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Steps",
+  "otherMeanings": [
+    "Stairs"
+  ],
+  "meaningMnemonic": "Cut this <radical>comb</radical> up with your <radical>weapon</radical> and turn it into the <kanji>steps</kanji> for some <kanji>stairs</kanji>.",
+  "readingMnemonic": "You slowly work to create these <kanji>stairs</kanji>, you have to slice up a lot of combs, and at <reading>dawn</reading> (だん) they are done!",
+  "wkSlug": "段",
+  "related": {
+    "radicals": [
+      8792,
+      160
+    ],
+    "vocabularies": [
+      5005,
+      5047,
+      5048,
+      5049,
+      5050,
+      5420
+    ]
+  },
+  "radicalNames": [
+    "Comb",
+    "Weapon"
+  ]
+}

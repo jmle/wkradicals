@@ -1,0 +1,35 @@
+{
+  "id": 6482,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "瀬"
+  },
+  "primaryMeaning": "Rapids",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "せ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, actually!",
+  "otherMeanings": [
+    "Shallows",
+    "Current"
+  ],
+  "otherReadings": [],
+  "wkSlug": "瀬",
+  "related": {
+    "radicals": [
+      103,
+      219,
+      184
+    ],
+    "kanjis": [
+      1777
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せ",
+      "url": "https://files.wanikani.com/xby0hidlb3qmf7kh3drnw15j5se1"
+    }
+  ]
+}

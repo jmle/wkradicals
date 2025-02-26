@@ -1,0 +1,32 @@
+{
+  "id": 4903,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "占める"
+  },
+  "primaryMeaning": "To Occupy",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>occupy</kanji> so the verb version is <vocabulary>to occupy</vocabulary>.",
+  "primaryReading": "しめる",
+  "readingMnemonic": "What is it you want <vocabulary>to occupy</vocabulary> most in the whole, entire world? Your own flock of <reading>shee</reading>p (し). Also, a fortune teller (this kanji also means fortune, remember) told you that if you occupy her sheep, you'll have good luck! Gotta do as she says!",
+  "otherMeanings": [
+    "To Account For"
+  ],
+  "otherReadings": [],
+  "wkSlug": "占める",
+  "related": {
+    "radicals": [
+      143
+    ],
+    "kanjis": [
+      1313
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しめる",
+      "url": "https://files.wanikani.com/xjhm62lyp2vdny28o28l6rz742eb"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 4314,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "穴場"
+  },
+  "primaryMeaning": "Hole In The Wall",
+  "meaningMnemonic": "A <kanji>hole</kanji> <kanji>place</kanji> is what's known as a <vocabulary>hole in the wall</vocabulary>. This is a place that looks small, hidden and dingy, but probably has awesome food.",
+  "primaryReading": "あなば",
+  "readingMnemonic": "The readings are the readings you learned with the kanji.",
+  "otherMeanings": [
+    "Little Known Good Place"
+  ],
+  "otherReadings": [],
+  "wkSlug": "穴場",
+  "related": {
+    "radicals": [
+      170,
+      17,
+      172
+    ],
+    "kanjis": [
+      1118,
+      694
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あなば",
+      "url": "https://files.wanikani.com/uujucvjvc8jlhbb5n5y62lcz9i8c"
+    }
+  ]
+}

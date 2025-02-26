@@ -1,0 +1,37 @@
+{
+  "id": 4460,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "急増"
+  },
+  "primaryMeaning": "Sudden Increase",
+  "meaningMnemonic": "A <kanji>sudden</kanji> <kanji>increase</kanji> is just that, a <vocabulary>sudden increase</vocabulary> or <vocabulary>surge</vocabulary>!",
+  "primaryReading": "きゅうぞう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Surge"
+  ],
+  "otherReadings": [],
+  "wkSlug": "急増",
+  "related": {
+    "radicals": [
+      14,
+      105,
+      65,
+      17,
+      259
+    ],
+    "kanjis": [
+      970,
+      1148
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうぞう",
+      "url": "https://files.wanikani.com/e2jxiqmni5nk97ll3d22n9ag1yos"
+    }
+  ]
+}

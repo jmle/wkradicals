@@ -1,0 +1,37 @@
+{
+  "id": 6647,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "福袋"
+  },
+  "primaryMeaning": "Mystery Bag",
+  "meaningMnemonic": "The <kanji>luck</kanji> <kanji>sack</kanji> is a <vocabulary>mystery bag</vocabulary>. These are bags that are sold during the New Year's holiday. They contain various goods that are sold for a certain price. You don't know what's in them, but you know the minimum value of it at least. These are known as <vocabulary>mystery sack</vocabulary>s as well.",
+  "primaryReading": "ふくぶくろ",
+  "readingMnemonic": "The reading is 福 and 袋, put together. Also, watch out for the rendaku.",
+  "otherMeanings": [
+    "Mystery Sack",
+    "Lucky Bag"
+  ],
+  "otherReadings": [],
+  "wkSlug": "福袋",
+  "related": {
+    "radicals": [
+      80,
+      8824,
+      310,
+      320
+    ],
+    "kanjis": [
+      867,
+      1836
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふくぶくろ",
+      "url": "https://files.wanikani.com/h2ohodefxj8q8p8rprc0yq6fdt9a"
+    }
+  ]
+}

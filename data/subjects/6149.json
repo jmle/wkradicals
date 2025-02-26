@@ -1,0 +1,39 @@
+{
+  "id": 6149,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "舞踏会"
+  },
+  "primaryMeaning": "Ball",
+  "meaningMnemonic": "A dancing (舞踏) <kanji>meet</kanji> is when you all get together to do dancing, the kind that's like \"step step swing\" (or whatever). This is a <vocabulary>ball</vocabulary> or <vocabulary>dance</vocabulary>.",
+  "primaryReading": "ぶとうかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Dance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "舞踏会",
+  "related": {
+    "radicals": [
+      252,
+      429,
+      95,
+      45,
+      22,
+      155
+    ],
+    "kanjis": [
+      1634,
+      1636,
+      566
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶとうかい",
+      "url": "https://files.wanikani.com/0be22lt7fiq5d4pqbtmexszm168n"
+    }
+  ]
+}

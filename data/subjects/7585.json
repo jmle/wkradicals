@@ -1,0 +1,35 @@
+{
+  "id": 7585,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "深さ"
+  },
+  "primaryMeaning": "Depth",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>deep</kanji>, so it means <vocabulary>depth</vocabulary>.",
+  "primaryReading": "ふかさ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading when you learned 深い so you should be able to read this one too!",
+  "otherMeanings": [
+    "Profundity"
+  ],
+  "otherReadings": [],
+  "wkSlug": "深さ",
+  "related": {
+    "radicals": [
+      103,
+      76,
+      28,
+      23
+    ],
+    "kanjis": [
+      831
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふかさ",
+      "url": "https://files.wanikani.com/tr491frnbypnwk94jlzjsq31dyj5"
+    }
+  ]
+}

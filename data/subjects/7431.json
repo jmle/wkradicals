@@ -1,0 +1,35 @@
+{
+  "id": 7431,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "免疫"
+  },
+  "primaryMeaning": "Immunity",
+  "meaningMnemonic": "To <kanji>excuse</kanji> yourself from the <kanji>epidemic</kanji>, you'll have to have <vocabulary>immunity</vocabulary> or <vocabulary>immunization</vocabulary> from the disease.",
+  "primaryReading": "めんえき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Immunization"
+  ],
+  "otherReadings": [],
+  "wkSlug": "免疫",
+  "related": {
+    "radicals": [
+      208,
+      187,
+      160
+    ],
+    "kanjis": [
+      1722,
+      2118
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めんえき",
+      "url": "https://files.wanikani.com/sjxomyb378d5r70t32b6ib5w12f6"
+    }
+  ]
+}

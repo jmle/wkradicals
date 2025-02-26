@@ -1,0 +1,32 @@
+{
+  "id": 5631,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "宝"
+  },
+  "primaryMeaning": "Treasure",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たから",
+  "readingMnemonic": "Your <vocabulary>treasure</vocabulary> has a <reading>tackler</reading> (たから) guarding it at all times. He tackles anyone who gets close. If someone wants your treasure, they have to go through the tackler!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "宝",
+  "related": {
+    "radicals": [
+      78,
+      48,
+      3
+    ],
+    "kanjis": [
+      1520
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たから",
+      "url": "https://files.wanikani.com/l8tvudpx7i3owcss22xbf4kie3eh"
+    }
+  ]
+}

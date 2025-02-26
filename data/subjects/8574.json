@@ -1,0 +1,36 @@
+{
+  "id": 8574,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "大胆"
+  },
+  "primaryMeaning": "Bold",
+  "meaningMnemonic": "If you have really <kanji>big</kanji> <kanji>guts</kanji> you're a super <vocabulary>bold</vocabulary> and <vocabulary>daring</vocabulary> person. In fact, you might even be superman. That's how big your guts are. Don't worry, I don't tell anyone I know who you are. It'll be our little secret. ",
+  "primaryReading": "だいたん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Daring",
+    "Audacious"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大胆",
+  "related": {
+    "radicals": [
+      18,
+      43,
+      293
+    ],
+    "kanjis": [
+      453,
+      2425
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だいたん",
+      "url": "https://files.wanikani.com/xls4xc8f8njiobn2acv9p4ypyz78"
+    }
+  ]
+}

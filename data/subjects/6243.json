@@ -1,0 +1,37 @@
+{
+  "id": 6243,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "応募する"
+  },
+  "primaryMeaning": "To Apply For",
+  "meaningMnemonic": "If 応募 is \"application\" then the verb version is <vocabulary>to apply for</vocabulary> or <vocabulary>to enlist</vocabulary>.",
+  "primaryReading": "おうぼする",
+  "readingMnemonic": "The reading is the same as 応募's reading, though knowing the readings of the kanji will take care of things too.",
+  "otherMeanings": [
+    "To Enlist",
+    "To Answer An Ad"
+  ],
+  "otherReadings": [],
+  "wkSlug": "応募する",
+  "related": {
+    "radicals": [
+      62,
+      65,
+      356,
+      13
+    ],
+    "kanjis": [
+      1180,
+      1648
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おうぼする",
+      "url": "https://files.wanikani.com/uoe5637avshp699t0ii0m13u779e"
+    }
+  ]
+}

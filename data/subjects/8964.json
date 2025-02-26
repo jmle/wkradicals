@@ -1,0 +1,47 @@
+{
+  "id": 8964,
+  "type": "kanji",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "股"
+  },
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "また",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "もも",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Crotch",
+  "otherMeanings": [
+    "Groin",
+    "Fork"
+  ],
+  "meaningMnemonic": "You keep your <radical>moon</radical> <radical>weapon</radical> in your <kanji>crotch</kanji>. Where else would you keep it?",
+  "readingMnemonic": "Your <kanji>crotch</kanji> has a moon weapon, and it's served you well, so you hope that if you have a <reading>子 </reading> (こ) one day, they'll have one too. ",
+  "wkSlug": "股",
+  "related": {
+    "radicals": [
+      43,
+      160
+    ],
+    "vocabularies": [
+      8976,
+      8977,
+      8978,
+      8979
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8411,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "盗賊"
+  },
+  "primaryMeaning": "Thief",
+  "meaningMnemonic": "A <kanji>robber</kanji> who <kanji>steal</kanji>s is a <vocabulary>thief</vocabulary>. And still a <vocabulary>robber</vocabulary>, I guess.",
+  "primaryReading": "とうぞく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Robber"
+  ],
+  "otherReadings": [],
+  "wkSlug": "盗賊",
+  "related": {
+    "radicals": [
+      278,
+      84,
+      94,
+      194,
+      15
+    ],
+    "kanjis": [
+      1442,
+      2330
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうぞく",
+      "url": "https://files.wanikani.com/mwddbl16qni3yn0rdgwonl6muc8f"
+    }
+  ]
+}

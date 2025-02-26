@@ -1,0 +1,35 @@
+{
+  "id": 5290,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "道に迷う"
+  },
+  "primaryMeaning": "To Get Lost",
+  "meaningMnemonic": "Remember 迷う? It means \"to get lost.\" If you get lost on a <kanji>road</kanji>, you are still lost, wandering around looking for the correct turn. This word means <vocabulary>to be lost</vocabulary> or <vocabulary>to get lost</vocabulary>.",
+  "primaryReading": "みちにまよう",
+  "readingMnemonic": "The reading comes from the words 道 and 迷う.",
+  "otherMeanings": [
+    "To Be Lost"
+  ],
+  "otherReadings": [],
+  "wkSlug": "道に迷う",
+  "related": {
+    "radicals": [
+      114,
+      156,
+      98
+    ],
+    "kanjis": [
+      700,
+      1325
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みちにまよう",
+      "url": "https://files.wanikani.com/g7hi2thp772b6lnze3hgqyaunhq5"
+    }
+  ]
+}

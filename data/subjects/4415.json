@@ -1,0 +1,42 @@
+{
+  "id": 4415,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "強制"
+  },
+  "primaryMeaning": "Compulsory",
+  "meaningMnemonic": "They have <kanji>strong</kanji> <kanji>control</kanji> over us. That's why they can make us do all this <vocabulary>compulsory</vocabulary> stuff. We have to do it. They're too strong!",
+  "primaryReading": "きょうせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Obligation",
+    "Mandatory",
+    "Obligatory",
+    "Coercion",
+    "Forcing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "強制",
+  "related": {
+    "radicals": [
+      36,
+      140,
+      89,
+      126,
+      102,
+      128
+    ],
+    "kanjis": [
+      667,
+      1128
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうせい",
+      "url": "https://files.wanikani.com/t5960h56s38pot3hksvtqrwq43vt"
+    }
+  ]
+}

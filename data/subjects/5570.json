@@ -1,0 +1,30 @@
+{
+  "id": 5570,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "卵"
+  },
+  "primaryMeaning": "Egg",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たまご",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "卵",
+  "related": {
+    "radicals": [
+      236
+    ],
+    "kanjis": [
+      1501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たまご",
+      "url": "https://files.wanikani.com/f6tt55l3j7lsxmt0d88989cv933d"
+    }
+  ]
+}

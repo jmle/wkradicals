@@ -1,0 +1,38 @@
+{
+  "id": 8495,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "楽譜"
+  },
+  "primaryMeaning": "Musical Score",
+  "meaningMnemonic": "A <kanji>comfort</kanji>ing <kanji>score</kanji> is a <vocabulary>musical score</vocabulary>. Music is really relaxing, and so is reading <vocabulary>sheet music</vocabulary>. You should try it.",
+  "primaryReading": "がくふ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sheet Music"
+  ],
+  "otherReadings": [],
+  "wkSlug": "楽譜",
+  "related": {
+    "radicals": [
+      52,
+      123,
+      23,
+      117,
+      334,
+      22
+    ],
+    "kanjis": [
+      704,
+      2387
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がくふ",
+      "url": "https://files.wanikani.com/p12xk1ojd96vwcuazb9tc6b0zdus"
+    }
+  ]
+}

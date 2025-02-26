@@ -1,0 +1,36 @@
+{
+  "id": 6449,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "隣国"
+  },
+  "primaryMeaning": "Neighboring Country",
+  "meaningMnemonic": "A <kanji>neighbor</kanji> <kanji>country</kanji> is a <vocabulary>neighboring country</vocabulary>. For us, our 隣国 in America are those sneaky Canadians... always waiting to strike, I can tell...",
+  "primaryReading": "りんごく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "隣国",
+  "related": {
+    "radicals": [
+      176,
+      98,
+      429,
+      16,
+      48,
+      3
+    ],
+    "kanjis": [
+      1772,
+      621
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りんごく",
+      "url": "https://files.wanikani.com/opgncqzc4d1hsjsjo1bn16xfs01k"
+    }
+  ]
+}

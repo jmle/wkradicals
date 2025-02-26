@@ -1,0 +1,35 @@
+{
+  "id": 4791,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "逮捕"
+  },
+  "primaryMeaning": "Arrest",
+  "meaningMnemonic": "When you <kanji>apprehend</kanji> and <kanji>catch</kanji> someone, that leads to an <vocabulary>arrest</vocabulary>.",
+  "primaryReading": "たいほ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "逮捕",
+  "related": {
+    "radicals": [
+      114,
+      220,
+      45,
+      63,
+      300
+    ],
+    "kanjis": [
+      1260,
+      1265
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいほ",
+      "url": "https://files.wanikani.com/23qeagd9wqoez274etgej00y69a2"
+    }
+  ]
+}

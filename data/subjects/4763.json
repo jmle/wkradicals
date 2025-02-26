@@ -1,0 +1,34 @@
+{
+  "id": 4763,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "吸収する"
+  },
+  "primaryMeaning": "To Absorb",
+  "meaningMnemonic": "If 吸収 is \"absorption\" the verb version is <vocabulary>to absorb</vocabulary>.",
+  "primaryReading": "きゅうしゅうする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "吸収する",
+  "related": {
+    "radicals": [
+      16,
+      193,
+      289,
+      30
+    ],
+    "kanjis": [
+      1177,
+      1186
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうしゅうする",
+      "url": "https://files.wanikani.com/q24l5rghxqchqts1b6o9p37zd5w7"
+    }
+  ]
+}

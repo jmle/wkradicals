@@ -1,0 +1,36 @@
+{
+  "id": 3010,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "反対"
+  },
+  "primaryMeaning": "Opposition",
+  "meaningMnemonic": "The <kanji>anti</kanji> <kanji>versus</kanji>... You'd think this would be a double negative, but it's like a lot of other words where you have two similar words combined... it just means the same thing as those two words. In this case, the anti-versus of something would be the <vocabulary>opposite</vocabulary>. Alternatively, it can be the <vocabulary>opposition</vocabulary>. You choose.",
+  "primaryReading": "はんたい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Opposite"
+  ],
+  "otherReadings": [],
+  "wkSlug": "反対",
+  "related": {
+    "radicals": [
+      116,
+      30,
+      42,
+      74
+    ],
+    "kanjis": [
+      855,
+      683
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はんたい",
+      "url": "https://files.wanikani.com/puma1fqj24rawudy9efwa6c21wup"
+    }
+  ]
+}

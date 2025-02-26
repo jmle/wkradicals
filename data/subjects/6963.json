@@ -1,0 +1,31 @@
+{
+  "id": 6963,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "焦り"
+  },
+  "primaryMeaning": "Impatience",
+  "meaningMnemonic": "Remember 焦る, which means \"to be in a hurry\" or \"to be impatient\"? This is the noun version, which is <vocabulary>impatience</vocabulary>.",
+  "primaryReading": "あせり",
+  "readingMnemonic": "The reading comes from 焦る.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "焦り",
+  "related": {
+    "radicals": [
+      240,
+      131
+    ],
+    "kanjis": [
+      1827
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あせり",
+      "url": "https://files.wanikani.com/nsq52tyi6h2cy29l1b907cr8jrmr"
+    }
+  ]
+}

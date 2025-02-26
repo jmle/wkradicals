@@ -1,0 +1,40 @@
+{
+  "id": 6127,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "契機"
+  },
+  "primaryMeaning": "Chance",
+  "meaningMnemonic": "I <kanji>pledge</kanji> myself to the <kanji>machine</kanji>s. It is my only <vocabulary>chance</vocabulary> to survive the upcoming machine apocalypse.",
+  "primaryReading": "けいき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Opportunity",
+    "Turning Point"
+  ],
+  "otherReadings": [],
+  "wkSlug": "契機",
+  "related": {
+    "radicals": [
+      210,
+      24,
+      18,
+      23,
+      87,
+      194,
+      9
+    ],
+    "kanjis": [
+      1669,
+      1090
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいき",
+      "url": "https://files.wanikani.com/x0asv9ogy8tvv7x2qvmol0272m91"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 8759,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "捜索"
+  },
+  "primaryMeaning": "Search",
+  "meaningMnemonic": "A <kanji>search</kanji> <kanji>search</kanji> is a more intense <vocabulary>search</vocabulary>, like the ones for a missing person.",
+  "primaryReading": "そうさく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Investigation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "捜索",
+  "related": {
+    "radicals": [
+      63,
+      190,
+      30,
+      15,
+      76,
+      86
+    ],
+    "kanjis": [
+      1274,
+      1410
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうさく",
+      "url": "https://files.wanikani.com/oj2fhqhn2ylorpp6rrz3qbwau2jg"
+    }
+  ]
+}

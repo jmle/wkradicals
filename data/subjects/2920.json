@@ -1,0 +1,34 @@
+{
+  "id": 2920,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "科学"
+  },
+  "primaryMeaning": "Science",
+  "meaningMnemonic": "The <kanji>study</kanji> of <kanji>science</kanji> is plainly known as <vocabulary>science</vocabulary>.",
+  "primaryReading": "かがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "科学",
+  "related": {
+    "radicals": [
+      135,
+      129,
+      8769,
+      34
+    ],
+    "kanjis": [
+      642,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かがく",
+      "url": "https://files.wanikani.com/z6s562cihlrboxyiok82uvwjai99"
+    }
+  ]
+}

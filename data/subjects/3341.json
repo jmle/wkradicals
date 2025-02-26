@@ -1,0 +1,38 @@
+{
+  "id": 3341,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "全員"
+  },
+  "primaryMeaning": "All Members",
+  "meaningMnemonic": "<kanji>All</kanji> <kanji>member</kanji>s means <vocabulary>all members</vocabulary>. This is also a fancy way to say <vocabulary>everybody</vocabulary>.",
+  "primaryReading": "ぜんいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "All Hands",
+    "Everyone",
+    "Everybody"
+  ],
+  "otherReadings": [],
+  "wkSlug": "全員",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      16,
+      94
+    ],
+    "kanjis": [
+      610,
+      821
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんいん",
+      "url": "https://files.wanikani.com/kpk36igllq82ikx2xzfutlv33a8y"
+    }
+  ]
+}

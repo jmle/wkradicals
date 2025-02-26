@@ -1,0 +1,34 @@
+{
+  "id": 3698,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "松葉"
+  },
+  "primaryMeaning": "Pine Needle",
+  "meaningMnemonic": "The <kanji>pine</kanji> <kanji>leaves</kanji> are not really leaves, they're more like needles, thus making this word <vocabulary>pine needle</vocabulary>.\n\n松葉 is commonly used in compounds, such as 松葉ガニ (snow crab) or 松葉づえ (crutches).",
+  "primaryReading": "まつば",
+  "readingMnemonic": "If you know the readings of your kanji you'll know how to read this as well. The 葉 gets rendaku'd to ば though, so watch out for that.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "松葉",
+  "related": {
+    "radicals": [
+      23,
+      237,
+      90,
+      83
+    ],
+    "kanjis": [
+      911,
+      750
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まつば",
+      "url": "https://files.wanikani.com/davl07ttyzg7g5okh81569olh9xo"
+    }
+  ]
+}

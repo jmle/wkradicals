@@ -1,0 +1,36 @@
+{
+  "id": 3359,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "悪女"
+  },
+  "primaryMeaning": "Evil Woman",
+  "meaningMnemonic": "A <kanji>bad</kanji> <kanji>woman</kanji> is an <vocabulary>evil woman</vocabulary>. Surprisingly, \"mother in law\" is not one of the meanings for this word.",
+  "primaryReading": "あくじょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Wicked Woman",
+    "Bad Woman"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悪女-3359",
+  "related": {
+    "radicals": [
+      204,
+      65,
+      19
+    ],
+    "kanjis": [
+      829,
+      454
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あくじょ",
+      "url": "https://files.wanikani.com/sq9r6jq5zptcadxrrcn20046jxnp"
+    }
+  ]
+}

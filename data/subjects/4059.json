@@ -1,0 +1,40 @@
+{
+  "id": 4059,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "留学生"
+  },
+  "primaryMeaning": "Exchange Student",
+  "meaningMnemonic": "Remember 留学, which means \"study abroad\"? Do you also remember 学生, which is \"student\"? This word is like those two words mashed together (they share a 学), making it a \"study abroad student.\" What's a better way to say that? How about <vocabulary>exchange student</vocabulary>!",
+  "primaryReading": "りゅうがくせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "International Student",
+    "Foreign Student"
+  ],
+  "otherReadings": [],
+  "wkSlug": "留学生",
+  "related": {
+    "radicals": [
+      140,
+      24,
+      51,
+      8769,
+      34,
+      210
+    ],
+    "kanjis": [
+      986,
+      599,
+      850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りゅうがくせい",
+      "url": "https://files.wanikani.com/8qazp8q03a4ljtowjs4g98stevrj"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 4182,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "季節"
+  },
+  "primaryMeaning": "Season",
+  "meaningMnemonic": "The <kanji>seasons</kanji> <kanji>season</kanji> is the <vocabulary>season</vocabulary>. Who likes winter? It's my favorite 季節.",
+  "primaryReading": "きせつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "季節",
+  "related": {
+    "radicals": [
+      135,
+      34,
+      85,
+      196,
+      145
+    ],
+    "kanjis": [
+      903,
+      1058
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きせつ",
+      "url": "https://files.wanikani.com/n242pm22fw65sm0e2wx65bl7xkw2"
+    }
+  ]
+}

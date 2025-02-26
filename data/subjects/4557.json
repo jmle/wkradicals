@@ -1,0 +1,37 @@
+{
+  "id": 4557,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "観念"
+  },
+  "primaryMeaning": "Idea",
+  "meaningMnemonic": "You have a <kanji>thought</kanji> on a particular <kanji>view</kanji>. This is your <vocabulary>idea</vocabulary> or <vocabulary>notion</vocabulary> on it.",
+  "primaryReading": "かんねん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Notion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "観念",
+  "related": {
+    "radicals": [
+      72,
+      240,
+      91,
+      238,
+      65
+    ],
+    "kanjis": [
+      1175,
+      906
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんねん",
+      "url": "https://files.wanikani.com/enqezhcfqsusijz9elpwuxv6iuo7"
+    }
+  ]
+}

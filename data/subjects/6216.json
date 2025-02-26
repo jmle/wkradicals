@@ -1,0 +1,32 @@
+{
+  "id": 6216,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "託す"
+  },
+  "primaryMeaning": "To Entrust",
+  "meaningMnemonic": "If you <kanji>consign</kanji> something to someone, you are going <vocabulary>to entrust</vocabulary> them with that item. Here you go, I entrust you.",
+  "primaryReading": "たくす",
+  "readingMnemonic": "The reading for this one is unusual, but I will entrust you with the knowledge of why to help you remember it! This uses the on'yomi reading and not the kun'yomi, as you might expect, because the す here is the old-fashioned version of the verb する.\n\nLuckily, you learned this reading when you learned the kanji, so it's unusual but hopefully not too hard!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "託す",
+  "related": {
+    "radicals": [
+      117,
+      5,
+      4
+    ],
+    "kanjis": [
+      1701
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たくす",
+      "url": "https://files.wanikani.com/3ams9i2l28aqu5fz6t2hxz6x1uj4"
+    }
+  ]
+}

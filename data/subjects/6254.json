@@ -1,0 +1,36 @@
+{
+  "id": 6254,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "戻り道"
+  },
+  "primaryMeaning": "Way Back",
+  "meaningMnemonic": "If 戻る is \"to <kanji>return</kanji>\" then you return on the <kanji>street</kanji> you came from, you are taking the <vocabulary>way back</vocabulary>.",
+  "primaryReading": "もどりみち",
+  "readingMnemonic": "The reading is the kun'yomi vocab readings of everything. Think 戻る for the 戻り portion.",
+  "otherMeanings": [
+    "The Way Back"
+  ],
+  "otherReadings": [],
+  "wkSlug": "戻り道",
+  "related": {
+    "radicals": [
+      73,
+      18,
+      114,
+      156
+    ],
+    "kanjis": [
+      1653,
+      700
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もどりみち",
+      "url": "https://files.wanikani.com/bi357n9deplre74p2k4lxa7q8ddv"
+    }
+  ]
+}

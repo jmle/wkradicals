@@ -1,0 +1,34 @@
+{
+  "id": 6429,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "頻度"
+  },
+  "primaryMeaning": "Frequency",
+  "meaningMnemonic": "The <kanji>frequent</kanji>ness of something, measured in <kanji>occurrence</kanji>s is measured in <vocabulary>frequency</vocabulary>.",
+  "primaryReading": "ひんど",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "頻度",
+  "related": {
+    "radicals": [
+      245,
+      184,
+      8787,
+      30
+    ],
+    "kanjis": [
+      1765,
+      725
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひんど",
+      "url": "https://files.wanikani.com/jmb0mwonue8iqmy42uoopqene1u1"
+    }
+  ]
+}

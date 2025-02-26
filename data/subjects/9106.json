@@ -1,0 +1,36 @@
+{
+  "id": 9106,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "茜色"
+  },
+  "primaryMeaning": "Madder Red",
+  "meaningMnemonic": "<kanji>Red dye</kanji> <kanji>color</kanji> is <vocabulary>madder red</vocabulary>, or <vocabulary>dark red</vocabulary>. This word is used most often to describe the color of the sky at sunset in literature.",
+  "primaryReading": "あかねいろ",
+  "readingMnemonic": "The readings are the same as the ones you learned with the kanji.",
+  "otherMeanings": [
+    "Dark Red",
+    "Crimson"
+  ],
+  "otherReadings": [],
+  "wkSlug": "茜色",
+  "related": {
+    "radicals": [
+      90,
+      112,
+      110
+    ],
+    "kanjis": [
+      2258,
+      579
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あかねいろ",
+      "url": "https://files.wanikani.com/u469manjolvd35yn8q2lu7ftpw05"
+    }
+  ]
+}

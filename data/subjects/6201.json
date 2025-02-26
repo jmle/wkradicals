@@ -1,0 +1,36 @@
+{
+  "id": 6201,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "描写"
+  },
+  "primaryMeaning": "Depiction",
+  "meaningMnemonic": "<kanji>Draw</kanji> a <kanji>copy</kanji> of the world and you are making a <vocabulary>depiction</vocabulary> of the world.",
+  "primaryReading": "びょうしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "描写",
+  "related": {
+    "radicals": [
+      63,
+      90,
+      51,
+      76,
+      1,
+      8766
+    ],
+    "kanjis": [
+      1696,
+      531
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "びょうしゃ",
+      "url": "https://files.wanikani.com/7enpfk5c804q3okud3rh6th0tpri"
+    }
+  ]
+}

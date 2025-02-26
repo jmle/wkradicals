@@ -1,0 +1,34 @@
+{
+  "id": 3491,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "楽しむ"
+  },
+  "primaryMeaning": "To Enjoy Something",
+  "meaningMnemonic": "You've hopefully seen the word 楽しい, which means \"fun.\" This is basically the verb version (ends in an う sound, right?) of that. That means this is <vocabulary>to enjoy something</vocabulary>, or just <vocabulary>to have fun</vocabulary>.",
+  "primaryReading": "たのしむ",
+  "readingMnemonic": "The reading is the same as the word 楽しい, so be sure to know that word and you'll be able to apply it over here.",
+  "otherMeanings": [
+    "To Have Fun"
+  ],
+  "otherReadings": [],
+  "wkSlug": "楽しむ",
+  "related": {
+    "radicals": [
+      52,
+      123,
+      23
+    ],
+    "kanjis": [
+      704
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たのしむ",
+      "url": "https://files.wanikani.com/omfphy7zaxbztlooy1ksf8f5owh2"
+    }
+  ]
+}

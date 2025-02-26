@@ -1,0 +1,39 @@
+{
+  "id": 6513,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "航空母艦"
+  },
+  "primaryMeaning": "Aircraft Carrier",
+  "meaningMnemonic": "An <kanji>aviation</kanji> (航空) <kanji>mother</kanji> <kanji>warship</kanji> is a warship that is like mother to all the aviation things (the airplanes). They come home to their mother warship, which is an <vocabulary>aircraft carrier</vocabulary>.",
+  "primaryReading": "こうくうぼかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "航空母艦",
+  "related": {
+    "radicals": [
+      149,
+      8,
+      177,
+      170,
+      25,
+      107,
+      328
+    ],
+    "kanjis": [
+      1397,
+      601,
+      524,
+      1790
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうくうぼかん",
+      "url": "https://files.wanikani.com/xnzr5siber397loe54s1mql6wqe8"
+    }
+  ]
+}

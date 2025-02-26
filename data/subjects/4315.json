@@ -1,0 +1,36 @@
+{
+  "id": 4315,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "鼻の穴"
+  },
+  "primaryMeaning": "Nostril",
+  "meaningMnemonic": "What's your <kanji>nose</kanji>'s <kanji>hole</kanji>? How about your <vocabulary>nostril</vocabulary>?",
+  "primaryReading": "はなのあな",
+  "readingMnemonic": "The reading is the readings for 鼻 and 穴. Smell that fresh air through your <vocabulary>nose hole</vocabulary>.",
+  "otherMeanings": [
+    "Nose Hole"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鼻の穴",
+  "related": {
+    "radicals": [
+      109,
+      51,
+      106,
+      170
+    ],
+    "kanjis": [
+      998,
+      1118
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はなのあな",
+      "url": "https://files.wanikani.com/2i6yu8g51nlcdts2da3yqafi8lnt"
+    }
+  ]
+}

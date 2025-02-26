@@ -1,0 +1,37 @@
+{
+  "id": 2848,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "地下"
+  },
+  "primaryMeaning": "Underground",
+  "meaningMnemonic": "<kanji>Below</kanji> the <kanji>ground</kanji> is <vocabulary>underground</vocabulary>.",
+  "primaryReading": "ちか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Basement",
+    "Cellar"
+  ],
+  "otherReadings": [],
+  "wkSlug": "地下",
+  "related": {
+    "radicals": [
+      17,
+      77,
+      1,
+      10
+    ],
+    "kanjis": [
+      608,
+      451
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちか",
+      "url": "https://files.wanikani.com/nxna3jh7atrujzpbbfl5zwp1zd8u"
+    }
+  ]
+}

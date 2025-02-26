@@ -1,0 +1,33 @@
+{
+  "id": 6838,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "魚雷"
+  },
+  "primaryMeaning": "Torpedo",
+  "meaningMnemonic": "<kanji>Fish</kanji> <kanji>thunder</kanji> is underwater thunder that shoots at things and are kind of shaped like fish. That's a <vocabulary>torpedo</vocabulary>. Load the fish thunder!",
+  "primaryReading": "ぎょらい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "魚雷",
+  "related": {
+    "radicals": [
+      150,
+      119,
+      51
+    ],
+    "kanjis": [
+      674,
+      1903
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎょらい",
+      "url": "https://files.wanikani.com/7ts92s0wc9igkj3xdp57zagqxko1"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 6415,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "屋敷"
+  },
+  "primaryMeaning": "Residence",
+  "meaningMnemonic": "Your <kanji>roof</kanji>s are <kanji>spread</kanji> out around your property. Put these roofs and areas all together and you have your <vocabulary>residence</vocabulary> or <vocabulary>estate</vocabulary>.",
+  "primaryReading": "やしき",
+  "readingMnemonic": "This word uses the readings you learned with the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Estate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "屋敷",
+  "related": {
+    "radicals": [
+      37,
+      1,
+      140,
+      17,
+      3,
+      15,
+      51,
+      66,
+      60
+    ],
+    "kanjis": [
+      724,
+      1759
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やしき",
+      "url": "https://files.wanikani.com/mgdcg3w2xeqccub07sa0fghh4ny5"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8601,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "唄"
+  },
+  "primaryMeaning": "Song",
+  "meaningMnemonic": "A <kanji>shamisen song</kanji> is a <vocabulary>shamisen song</vocabulary>, yes. But did you know it's also... a <vocabulary>song</vocabulary>?! Oh, you did? Well okay then.",
+  "primaryReading": "うた",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Shamisen Song"
+  ],
+  "otherReadings": [],
+  "wkSlug": "唄",
+  "related": {
+    "radicals": [
+      16,
+      94
+    ],
+    "kanjis": [
+      2442
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うた",
+      "url": "https://files.wanikani.com/h63e7x2unvvunao4jk52xs0s6y7p"
+    }
+  ]
+}

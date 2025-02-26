@@ -1,0 +1,32 @@
+{
+  "id": 3044,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "朝"
+  },
+  "primaryMeaning": "Morning",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あさ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Hopefully this means you won't have to wake up too early in the morning to study kanji, now.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "朝",
+  "related": {
+    "radicals": [
+      15,
+      22,
+      43
+    ],
+    "kanjis": [
+      695
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あさ",
+      "url": "https://files.wanikani.com/9acifwryqiiijaxk499v07va8gvu"
+    }
+  ]
+}

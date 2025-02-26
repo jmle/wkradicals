@@ -1,0 +1,36 @@
+{
+  "id": 7050,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "綿布"
+  },
+  "primaryMeaning": "Cotton Cloth",
+  "meaningMnemonic": "A <kanji>cotton</kanji> <kanji>cloth</kanji> is a <vocabulary>cotton cloth</vocabulary> of <vocabulary>cotton material</vocabulary>.",
+  "primaryReading": "めんぷ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Cotton Material"
+  ],
+  "otherReadings": [],
+  "wkSlug": "綿布",
+  "related": {
+    "radicals": [
+      86,
+      52,
+      102,
+      26
+    ],
+    "kanjis": [
+      1975,
+      1062
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めんぷ",
+      "url": "https://files.wanikani.com/2m43zk4qowxqox6h30xelbzcenxu"
+    }
+  ]
+}

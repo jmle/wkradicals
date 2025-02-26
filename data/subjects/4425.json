@@ -1,0 +1,33 @@
+{
+  "id": 4425,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "設ける"
+  },
+  "primaryMeaning": "To Establish",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>establish</kanji> so the verb vocab version is <vocabulary>to establish</vocabulary>, or <vocabulary>to set up</vocabulary>.\n\n設ける is a formal word that suggests setting up something in order to prep for future needs or events. If you want to ensure smooth operation or governance, for example, you might set up rules (ルールを設ける) or establish an office (オフィスを設ける). You can even use it to say you’ll arrange a drinking party (酒の席を設ける), in which case it probably means the party has a more formal purpose like networking or discussion.",
+  "primaryReading": "もうける",
+  "readingMnemonic": "What are you going <vocabulary>to establish</vocabulary>? How about a system for <reading>mow</reading>ing (もう) lawns? It's very important that lawns are mowed according to an established system, you know. How do you mow yours?",
+  "otherMeanings": [
+    "To Set Up"
+  ],
+  "otherReadings": [],
+  "wkSlug": "設ける",
+  "related": {
+    "radicals": [
+      117,
+      160
+    ],
+    "kanjis": [
+      1132
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もうける",
+      "url": "https://files.wanikani.com/qp7av7jka115ja6ptmrtryfylkz5"
+    }
+  ]
+}

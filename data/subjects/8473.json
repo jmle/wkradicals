@@ -1,0 +1,36 @@
+{
+  "id": 8473,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "地殻"
+  },
+  "primaryMeaning": "Earth's Crust",
+  "meaningMnemonic": "The <kanji>earth</kanji>'s <kanji>shell</kanji> is called the <vocabulary>earth's crust</vocabulary>. You should have learned that in earth science. And if you didn't, at least you know now!",
+  "primaryReading": "ちかく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "地殻",
+  "related": {
+    "radicals": [
+      17,
+      77,
+      97,
+      76,
+      177,
+      160
+    ],
+    "kanjis": [
+      608,
+      2376
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちかく",
+      "url": "https://files.wanikani.com/egvqv1sfatlq5shiggbb4100q9q1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6109,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "闘う"
+  },
+  "primaryMeaning": "To Struggle",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>struggle</kanji> so the verb version is <vocabulary>to struggle</vocabulary> or <vocabulary>to fight</vocabulary>. This struggle is fairly figurative, too. It's more like \"the struggle against terrorism\" or \"the fight against drugs.\" Not so much a fight with people, which would be 戦う.",
+  "primaryReading": "たたかう",
+  "readingMnemonic": "Your neighborhood is fighting a struggle against car theft. Sadly, your car was stolen. So, you say: \"<reading>ta-ta, ca</reading>r (たたか). Ta-ta.\"",
+  "otherMeanings": [
+    "To Fight"
+  ],
+  "otherReadings": [],
+  "wkSlug": "闘う",
+  "related": {
+    "radicals": [
+      214,
+      181,
+      74
+    ],
+    "kanjis": [
+      1663
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たたかう",
+      "url": "https://files.wanikani.com/9f7c0o5upbqag115x2ga5kexx9ze"
+    }
+  ]
+}

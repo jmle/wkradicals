@@ -1,0 +1,30 @@
+{
+  "id": 3943,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "寺"
+  },
+  "primaryMeaning": "Temple",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "てら",
+  "readingMnemonic": "The reading is the same as the kanji too! You must have been praying to the kanji Gods at the local お寺.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "寺",
+  "related": {
+    "radicals": [
+      192
+    ],
+    "kanjis": [
+      928
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てら",
+      "url": "https://files.wanikani.com/0cox6i6jac4fffd3b3m3ir7uhgrz"
+    }
+  ]
+}

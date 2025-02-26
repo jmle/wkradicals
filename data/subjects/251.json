@@ -1,0 +1,30 @@
+{
+  "id": 251,
+  "type": "radical",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "楽"
+  },
+  "primaryMeaning": "Comfort",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>comfort</radical>.",
+  "wkSlug": "comfort",
+  "related": {
+    "kanjis": [
+      997
+    ],
+    "vocabularies": [
+      4028,
+      4029,
+      4030,
+      4031,
+      4032,
+      5143,
+      5264,
+      5265,
+      6382,
+      6383
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 9027,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "築く"
+  },
+  "primaryMeaning": "To Build Something",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>construct</kanji> and the verb version is <vocabulary>to build something</vocabulary> or <vocabulary>to construct something</vocabulary>.",
+  "primaryReading": "きずく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou want <vocabulary>to build something</vocabulary> called a <reading>key zoo</reading> (きず). Which is a zoo for keys instead of animals. So it's a bunch of keys in cages, basically. Hmm, how artsy of you... Hopefully people get it. Isn't it a bit avant-garde <vocabulary>to construct something</vocabulary> like a key zoo?",
+  "otherMeanings": [
+    "To Construct Something"
+  ],
+  "otherReadings": [],
+  "wkSlug": "築く",
+  "related": {
+    "radicals": [
+      85,
+      241,
+      23
+    ],
+    "kanjis": [
+      957
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きずく",
+      "url": "https://files.wanikani.com/93j8xgy0i540wd55hzx2uygd7ino"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 7444,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "遂げる"
+  },
+  "primaryMeaning": "To Accomplish",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>accomplish</kanji> and the verb vocab version is <vocabulary>to accomplish</vocabulary>.",
+  "primaryReading": "とげる",
+  "readingMnemonic": "Everything you've accomplished can be stored in your single little pinky <reading>toe</reading> (と)... you haven't accomplished that much, apparently.",
+  "otherMeanings": [
+    "To Achieve",
+    "To Carry Out"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遂げる",
+  "related": {
+    "radicals": [
+      114,
+      8767,
+      233
+    ],
+    "kanjis": [
+      2042
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とげる",
+      "url": "https://files.wanikani.com/y4u2766dl16mmlbagr44zxjb0cfq"
+    }
+  ]
+}

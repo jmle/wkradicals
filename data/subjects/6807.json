@@ -1,0 +1,34 @@
+{
+  "id": 6807,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "砂丘"
+  },
+  "primaryMeaning": "Sand Dune",
+  "meaningMnemonic": "A <kanji>sand</kanji> <kanji>hill</kanji> is a <vocabulary>sand dune</vocabulary>.",
+  "primaryReading": "さきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "砂丘",
+  "related": {
+    "radicals": [
+      54,
+      198,
+      115,
+      1
+    ],
+    "kanjis": [
+      1533,
+      1888
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さきゅう",
+      "url": "https://files.wanikani.com/p5ciu1oks0jnneysf66c4i7tl9o9"
+    }
+  ]
+}

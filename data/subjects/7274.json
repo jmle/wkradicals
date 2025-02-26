@@ -1,0 +1,36 @@
+{
+  "id": 7274,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "抽出"
+  },
+  "primaryMeaning": "Extraction",
+  "meaningMnemonic": "To <kanji>extract</kanji> something from an <kanji>exit</kanji> is to do an <vocabulary>extraction</vocabulary>.\n\n抽出 is commonly used to refer to the extraction of substances, such as extracting juice, essences, or compounds from materials like chemicals or metals. Depending on the context, it could also refer to <vocabulary>extracting</vocabulary> relevant information from a dataset or text.",
+  "primaryReading": "ちゅうしゅつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Extracting",
+    "Sampling"
+  ],
+  "otherReadings": [],
+  "wkSlug": "抽出",
+  "related": {
+    "radicals": [
+      63,
+      268,
+      20
+    ],
+    "kanjis": [
+      2052,
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうしゅつ",
+      "url": "https://files.wanikani.com/w1wvqrwrj8aeox7h7dimc7vhim4m"
+    }
+  ]
+}

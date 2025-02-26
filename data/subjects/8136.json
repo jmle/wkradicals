@@ -1,0 +1,36 @@
+{
+  "id": 8136,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "紋章"
+  },
+  "primaryMeaning": "Crest",
+  "meaningMnemonic": "Look at a <kanji>chapter</kanji> on <kanji>family crest</kanji>s in that book and you'll see every <vocabulary>crest</vocabulary> in your area. ",
+  "primaryReading": "もんしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Coat Of Arms"
+  ],
+  "otherReadings": [],
+  "wkSlug": "紋章",
+  "related": {
+    "radicals": [
+      86,
+      42,
+      55,
+      201
+    ],
+    "kanjis": [
+      2232,
+      824
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もんしょう",
+      "url": "https://files.wanikani.com/npkmrgz7nif539i9aiasxyg5hsjf"
+    }
+  ]
+}

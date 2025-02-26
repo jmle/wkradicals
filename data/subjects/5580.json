@@ -1,0 +1,36 @@
+{
+  "id": 5580,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "秘密"
+  },
+  "primaryMeaning": "Secret",
+  "meaningMnemonic": "<kanji>Secret</kanji> and <kanji>secrecy</kanji>. Combine the two and you have quite the <vocabulary>secret</vocabulary>.",
+  "primaryReading": "ひみつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "A Secret"
+  ],
+  "otherReadings": [],
+  "wkSlug": "秘密",
+  "related": {
+    "radicals": [
+      135,
+      343,
+      78,
+      20
+    ],
+    "kanjis": [
+      1510,
+      1505
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひみつ",
+      "url": "https://files.wanikani.com/eszkk00kocsc8zmr2vy6j9hmb58t"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5296,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "魅力"
+  },
+  "primaryMeaning": "Allure",
+  "meaningMnemonic": "The <kanji>alluring</kanji> <kanji>power</kanji> is the power of <vocabulary>allure</vocabulary>.",
+  "primaryReading": "みりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Charm",
+    "Attraction",
+    "Appeal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "魅力",
+  "related": {
+    "radicals": [
+      292,
+      134,
+      13
+    ],
+    "kanjis": [
+      1413,
+      447
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みりょく",
+      "url": "https://files.wanikani.com/blri4z65tt8edsv2alx3tgb906qb"
+    }
+  ]
+}

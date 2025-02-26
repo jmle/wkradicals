@@ -1,0 +1,34 @@
+{
+  "id": 6984,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "病棟"
+  },
+  "primaryMeaning": "Hospital Ward",
+  "meaningMnemonic": "A <kanji>sick</kanji> <kanji>building</kanji> is a building (or part of a building) for sick people. In other words, a <vocabulary>hospital ward</vocabulary>.",
+  "primaryReading": "びょうとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "病棟",
+  "related": {
+    "radicals": [
+      187,
+      186,
+      23,
+      224
+    ],
+    "kanjis": [
+      773,
+      1948
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "びょうとう",
+      "url": "https://files.wanikani.com/c00q50phi6mvm7d2uv45x1c7l4f1"
+    }
+  ]
+}

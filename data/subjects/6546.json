@@ -1,0 +1,36 @@
+{
+  "id": 6546,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "誠意"
+  },
+  "primaryMeaning": "Sincerity",
+  "meaningMnemonic": "The <kanji>idea</kanji> of <kanji>sincerity</kanji> is <vocabulary>sincerity</vocabulary>. It's also to have <vocabulary>good faith</vocabulary> in others.",
+  "primaryReading": "せいい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Good Faith"
+  ],
+  "otherReadings": [],
+  "wkSlug": "誠意",
+  "related": {
+    "radicals": [
+      117,
+      263,
+      197,
+      65
+    ],
+    "kanjis": [
+      1800,
+      811
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいい",
+      "url": "https://files.wanikani.com/wflrfy24ujm7zommboty55045zun"
+    }
+  ]
+}

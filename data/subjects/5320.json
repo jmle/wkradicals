@@ -1,0 +1,36 @@
+{
+  "id": 5320,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "診断する"
+  },
+  "primaryMeaning": "To Diagnose",
+  "meaningMnemonic": "診断 is a <kanji>diagnosis</kanji>. Make this into a verb, and you have <vocabulary>to diagnose</vocabulary>.",
+  "primaryReading": "しんだんする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "診断する",
+  "related": {
+    "radicals": [
+      117,
+      8764,
+      38,
+      56,
+      98,
+      115
+    ],
+    "kanjis": [
+      1390,
+      1139
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんだんする",
+      "url": "https://files.wanikani.com/i3c68ipkbsn8owjx7wb5nj0ok0mp"
+    }
+  ]
+}

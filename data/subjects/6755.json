@@ -1,0 +1,38 @@
+{
+  "id": 6755,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "喪服"
+  },
+  "primaryMeaning": "Mourning Dress",
+  "meaningMnemonic": "Your <kanji>mourning</kanji> <kanji>clothes</kanji> is your <vocabulary>mourning dress</vocabulary> or <vocabulary>mourning clothes</vocabulary>.",
+  "primaryReading": "もふく",
+  "readingMnemonic": "The reading comes from the on'yomi for 服 and the kun'yomi for 喪, which you learned with the word 喪. You should know how to read this word!",
+  "otherMeanings": [
+    "Mourning Clothes"
+  ],
+  "otherReadings": [],
+  "wkSlug": "喪服",
+  "related": {
+    "radicals": [
+      15,
+      16,
+      320,
+      43,
+      145,
+      30
+    ],
+    "kanjis": [
+      1808,
+      716
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もふく",
+      "url": "https://files.wanikani.com/1f0qwjo6771gaebdfzzstu24a0nh"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5140,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "星占い"
+  },
+  "primaryMeaning": "Astrology",
+  "meaningMnemonic": "占い is \"fortune telling.\" <kanji>Star</kanji> <kanji>fortune</kanji> telling is when you use the stars for fortune telling. That's known as <vocabulary>astrology</vocabulary> or <vocabulary>horoscope</vocabulary>.",
+  "primaryReading": "ほしうらない",
+  "readingMnemonic": "The reading is the words 星 and 占い put together into one. Did you foresee that one coming?",
+  "otherMeanings": [
+    "Horoscope"
+  ],
+  "otherReadings": [],
+  "wkSlug": "星占い",
+  "related": {
+    "radicals": [
+      22,
+      210,
+      143
+    ],
+    "kanjis": [
+      638,
+      1313
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほしうらない",
+      "url": "https://files.wanikani.com/h3d8bc9kneqm72byq70sqcg9s97v"
+    }
+  ]
+}

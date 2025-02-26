@@ -1,0 +1,33 @@
+{
+  "id": 3780,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "秋"
+  },
+  "primaryMeaning": "Autumn",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あき",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, <reading>あき</reading>.",
+  "otherMeanings": [
+    "Fall"
+  ],
+  "otherReadings": [],
+  "wkSlug": "秋",
+  "related": {
+    "radicals": [
+      135,
+      46
+    ],
+    "kanjis": [
+      934
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あき",
+      "url": "https://files.wanikani.com/4g15x6o3a6mjjruyx7ywnh9qlyux"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8984,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "狼"
+  },
+  "primaryMeaning": "Wolf",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "おおかみ",
+  "readingMnemonic": "The reading for this vocabulary is the same as the reading you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "狼",
+  "related": {
+    "radicals": [
+      144,
+      8822
+    ],
+    "kanjis": [
+      8967
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おおかみ",
+      "url": "https://files.wanikani.com/k3suz9hehnzbhp9k9h2iqwrz10s7"
+    }
+  ]
+}

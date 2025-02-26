@@ -1,0 +1,33 @@
+{
+  "id": 3797,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "悲しむ"
+  },
+  "primaryMeaning": "To Be Sad About",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>sad</kanji> and this verb is transitive, so it means <vocabulary>to be sad about</vocabulary> something. Boohoo.",
+  "primaryReading": "かなしむ",
+  "readingMnemonic": "If you're going <vocabulary>to be sad about</vocabulary> something right now, it will be <reading>kana</reading> (かな). Don't use kana when you're trying to learn kanji! You'll be sad forever if you're stuck using kana your whole life, so don't let that habit start now, friend.",
+  "otherMeanings": [
+    "To Be Saddened By"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悲しむ",
+  "related": {
+    "radicals": [
+      209,
+      65
+    ],
+    "kanjis": [
+      837
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かなしむ",
+      "url": "https://files.wanikani.com/2op794g8w0swu3efbmfscacg9qgd"
+    }
+  ]
+}

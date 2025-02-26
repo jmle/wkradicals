@@ -1,0 +1,28 @@
+{
+  "id": 295,
+  "type": "radical",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "客"
+  },
+  "primaryMeaning": "Guest",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>guest</radical>.",
+  "wkSlug": "guest",
+  "related": {
+    "kanjis": [
+      1218
+    ],
+    "vocabularies": [
+      4671,
+      4672,
+      4673,
+      4674,
+      4675,
+      4676,
+      7599,
+      7653
+    ]
+  }
+}

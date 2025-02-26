@@ -1,0 +1,34 @@
+{
+  "id": 6039,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "遅い"
+  },
+  "primaryMeaning": "Slow",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>slow</kanji>? It's <vocabulary>slow</vocabulary> (or, if you're slow, you're probably <vocabulary>late</vocabulary>, too).",
+  "primaryReading": "おそい",
+  "readingMnemonic": "How <vocabulary>slow</vocabulary> are you? You are <reading>oh so</reading> slow (おそ).",
+  "otherMeanings": [
+    "Late"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遅い",
+  "related": {
+    "radicals": [
+      114,
+      37,
+      136
+    ],
+    "kanjis": [
+      1579
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おそい",
+      "url": "https://files.wanikani.com/cti6h0ewfz3g7lpvwpythr124tvd"
+    }
+  ]
+}

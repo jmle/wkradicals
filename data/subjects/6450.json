@@ -1,0 +1,34 @@
+{
+  "id": 6450,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "隣人"
+  },
+  "primaryMeaning": "Neighbor",
+  "meaningMnemonic": "A <kanji>neighbor</kanji> <kanji>person</kanji> is a <vocabulary>neighbor</vocabulary>.",
+  "primaryReading": "りんじん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "隣人",
+  "related": {
+    "radicals": [
+      176,
+      98,
+      429,
+      9
+    ],
+    "kanjis": [
+      1772,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りんじん",
+      "url": "https://files.wanikani.com/fele288fb3f8m0rrszegxanp7e2w"
+    }
+  ]
+}

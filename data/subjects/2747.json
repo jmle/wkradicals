@@ -1,0 +1,31 @@
+{
+  "id": 2747,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "同じ"
+  },
+  "primaryMeaning": "Same",
+  "meaningMnemonic": "This word is the kanji <kanji>same</kanji> with hiragana attached, and it also means <vocabulary>same</vocabulary>.\n\nIt's a bit of an oddball among Japanese adjectives, because you don't need な or い to attach it to a noun. So it's usually considered to be a \"special\" な-adjective. Have a look at the context sentences to see it in action!",
+  "primaryReading": "おなじ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhen you think of the word \"same\" think <vocabulary>same</vocabulary> <reading>owner</reading> (おな). You're looking at a restaurant that has a sign that says, \"New owners!\" However, when you walk in you see it's the same terrible owner you remember from before. What a liar.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "同じ",
+  "related": {
+    "radicals": [
+      121,
+      1
+    ],
+    "kanjis": [
+      568
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おなじ",
+      "url": "https://files.wanikani.com/x4cjgj7yppkkmjo1odn2ar6t0a1e"
+    }
+  ]
+}

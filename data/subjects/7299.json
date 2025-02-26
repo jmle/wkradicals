@@ -1,0 +1,31 @@
+{
+  "id": 7299,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "尼"
+  },
+  "primaryMeaning": "Nun",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あま",
+  "readingMnemonic": "Are you a nun? I <reading>am a</reading> (あま) nun.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "尼",
+  "related": {
+    "radicals": [
+      37,
+      57
+    ],
+    "kanjis": [
+      2063
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あま",
+      "url": "https://files.wanikani.com/ypo3331w0uvwr8hqlfnpn1ob026r"
+    }
+  ]
+}

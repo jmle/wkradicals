@@ -1,0 +1,45 @@
+{
+  "id": 7712,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "家庭教師"
+  },
+  "primaryMeaning": "Tutor",
+  "meaningMnemonic": "This is a combination of the words 家庭 and 教師. A \"teacher\" who only teaches when you're with your \"family\" is known as a <vocabulary>tutor</vocabulary>. They don't teach you at school, they're a <vocabulary>private teacher</vocabulary> that comes to your home to help you learn.",
+  "primaryReading": "かていきょうし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Coach",
+    "Private Teacher"
+  ],
+  "otherReadings": [],
+  "wkSlug": "家庭教師",
+  "related": {
+    "radicals": [
+      398,
+      62,
+      206,
+      48,
+      418,
+      60,
+      3,
+      8777,
+      1,
+      102
+    ],
+    "kanjis": [
+      660,
+      814,
+      668,
+      1198
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かていきょうし",
+      "url": "https://files.wanikani.com/ascrbq68x1agle1d63jwbjwvtm4q"
+    }
+  ]
+}

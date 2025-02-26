@@ -1,0 +1,37 @@
+{
+  "id": 5625,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "否定"
+  },
+  "primaryMeaning": "Denial",
+  "meaningMnemonic": "<kanji>No</kanji>! I will not <kanji>determine</kanji> that. In fact, I <vocabulary>deny</vocabulary> it. This is my <vocabulary>denial</vocabulary>.",
+  "primaryReading": "ひてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Deny",
+    "Negation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "否定",
+  "related": {
+    "radicals": [
+      96,
+      16,
+      78,
+      229
+    ],
+    "kanjis": [
+      1517,
+      714
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひてい",
+      "url": "https://files.wanikani.com/4tszqbf0e3x7ifqfc4eush0a9efj"
+    }
+  ]
+}

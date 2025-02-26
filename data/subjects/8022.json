@@ -1,0 +1,33 @@
+{
+  "id": 8022,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "胞子"
+  },
+  "primaryMeaning": "Spore",
+  "meaningMnemonic": "The <kanji>child</kanji> of a <kanji>cell</kanji> is a <vocabulary>spore</vocabulary>. They're just as tiny and they're floating all around you right now.",
+  "primaryReading": "ほうし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "胞子",
+  "related": {
+    "radicals": [
+      43,
+      395,
+      34
+    ],
+    "kanjis": [
+      2191,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうし",
+      "url": "https://files.wanikani.com/92vwezer7e283wxwyooh4gmmzul6"
+    }
+  ]
+}

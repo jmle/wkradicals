@@ -1,0 +1,39 @@
+{
+  "id": 8096,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "悠久"
+  },
+  "primaryMeaning": "Eternity",
+  "meaningMnemonic": "<kanji>Leisure</kanji> that last for a <kanji>long time</kanji> ends up going on for all <vocabulary>eternity</vocabulary>. It never ends, and why should it? You're soooo relaaaaaxed, you can't possibly ever stop.",
+  "primaryReading": "ゆうきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Perpetuity",
+    "Permanence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悠久",
+  "related": {
+    "radicals": [
+      75,
+      8761,
+      60,
+      65,
+      5,
+      12
+    ],
+    "kanjis": [
+      2256,
+      496
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうきゅう",
+      "url": "https://files.wanikani.com/z3c7gplrgbjlrqrjue0smtxmu0ih"
+    }
+  ]
+}

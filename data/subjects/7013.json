@@ -1,0 +1,35 @@
+{
+  "id": 7013,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "租税"
+  },
+  "primaryMeaning": "Taxes",
+  "meaningMnemonic": "A <kanji>tariff</kanji> <kanji>tax</kanji> is a form of <vocabulary>taxes</vocabulary> or <vocabulary>taxation</vocabulary>.",
+  "primaryReading": "そぜい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Taxation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "租税",
+  "related": {
+    "radicals": [
+      135,
+      419,
+      422
+    ],
+    "kanjis": [
+      1960,
+      1149
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そぜい",
+      "url": "https://files.wanikani.com/mf2pxlxprt0q48woj5e9hcm1onak"
+    }
+  ]
+}

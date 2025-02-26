@@ -1,0 +1,37 @@
+{
+  "id": 3852,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "留学"
+  },
+  "primaryMeaning": "Study Abroad",
+  "meaningMnemonic": "You <kanji>detain</kanji> your <kanji>study</kanji> and take it away to a foreign place. That foreign place is having you <vocabulary>study abroad</vocabulary>.",
+  "primaryReading": "りゅうがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The reading for 留 is the りゅう version. You can remember this because <reading>Ryu</reading> (りゅう) from street fighter is doing a study abroad program to learn more karate.",
+  "otherMeanings": [
+    "Studying Abroad"
+  ],
+  "otherReadings": [],
+  "wkSlug": "留学",
+  "related": {
+    "radicals": [
+      140,
+      24,
+      51,
+      8769,
+      34
+    ],
+    "kanjis": [
+      986,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りゅうがく",
+      "url": "https://files.wanikani.com/5unp2m1zxjj3ptboa65h69uxgir3"
+    }
+  ]
+}

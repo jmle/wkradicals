@@ -1,0 +1,37 @@
+{
+  "id": 8528,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "婚姻"
+  },
+  "primaryMeaning": "Marriage",
+  "meaningMnemonic": "<kanji>Marry</kanji> and <kanji>marriage</kanji> still make <vocabulary>marriage</vocabulary>. Congratulations! Wooh! Yay! ",
+  "primaryReading": "こんいん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Matrimony"
+  ],
+  "otherReadings": [],
+  "wkSlug": "婚姻",
+  "related": {
+    "radicals": [
+      19,
+      147,
+      22,
+      16,
+      18
+    ],
+    "kanjis": [
+      1416,
+      2415
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こんいん",
+      "url": "https://files.wanikani.com/5wrdag8d0k7t9znfxif0m9c35yky"
+    }
+  ]
+}

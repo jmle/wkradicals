@@ -1,0 +1,40 @@
+{
+  "id": 7049,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "綿"
+  },
+  "primaryMeaning": "Cotton Plant",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "わた",
+  "readingMnemonic": "The reading can be either the kun'yomi or on'yomi reading, so you have a choice there. Let's learn the わた reading, though. Just think <reading>what</reading> (わた) is cotton? What is it? What does it mean? Ask a lot of \"what\" questions about cotton to yourself.",
+  "otherMeanings": [
+    "Cotton Material"
+  ],
+  "otherReadings": [
+    "めん"
+  ],
+  "wkSlug": "綿",
+  "related": {
+    "radicals": [
+      86,
+      52,
+      102
+    ],
+    "kanjis": [
+      1975
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めん",
+      "url": "https://files.wanikani.com/409kbbu5eedzf8bvg395ssbfzogc"
+    },
+    {
+      "reading": "わた",
+      "url": "https://files.wanikani.com/bt3nm2uncommjucdef5pg351skhm"
+    }
+  ]
+}

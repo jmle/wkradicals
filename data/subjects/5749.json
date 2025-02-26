@@ -1,0 +1,36 @@
+{
+  "id": 5749,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "貴様"
+  },
+  "primaryMeaning": "You",
+  "meaningMnemonic": "A <kanji>valuable</kanji> <kanji>formal name ender</kanji>. It's like saying something like \"the valuable great you\"... or something. Anyways, this means <vocabulary>you</vocabulary>, but it isn't as nice as it sounds. Probably a lot of irony and sarcasm going into this word, because if you use きさま to say \"you\" to someone, you're probably not pleased with that person, or you're just trying to be rude.",
+  "primaryReading": "きさま",
+  "readingMnemonic": "The readings are the reading you learned with 貴 plus the vocab reading for 様.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "貴様",
+  "related": {
+    "radicals": [
+      49,
+      1,
+      94,
+      23,
+      136,
+      45
+    ],
+    "kanjis": [
+      1547,
+      865
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きさま",
+      "url": "https://files.wanikani.com/e82es175u0plpsyjkxzyvak9e8pg"
+    }
+  ]
+}

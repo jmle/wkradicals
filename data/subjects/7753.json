@@ -1,0 +1,39 @@
+{
+  "id": 7753,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "近代的"
+  },
+  "primaryMeaning": "Contemporary",
+  "meaningMnemonic": "Something that is <kanji>near</kanji> <kanji>period</kanji> <kanji>like</kanji> is very <vocabulary>contemporary</vocabulary>. But if it looks like it's from a period not near the one you're in... throw it away! It isn't <vocabulary>modern</vocabulary> enough to touch your hands!",
+  "primaryReading": "きんだいてき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Modern"
+  ],
+  "otherReadings": [],
+  "wkSlug": "近代的",
+  "related": {
+    "radicals": [
+      114,
+      115,
+      75,
+      79,
+      52,
+      236
+    ],
+    "kanjis": [
+      596,
+      530,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんだいてき",
+      "url": "https://files.wanikani.com/6o5d99l8qbt5l8ykddynn1p2tb94"
+    }
+  ]
+}

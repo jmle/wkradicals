@@ -1,0 +1,39 @@
+{
+  "id": 4859,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "施設"
+  },
+  "primaryMeaning": "Institution",
+  "meaningMnemonic": "Go ahead and <kanji>carry out</kanji> the task and <kanji>establish</kanji> the <vocabulary>institution</vocabulary>. To carry out and establish something is to institute it too. What do you institute? An institution.",
+  "primaryReading": "しせつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Facilities",
+    "Facility",
+    "Establishment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "施設",
+  "related": {
+    "radicals": [
+      66,
+      8762,
+      77,
+      117,
+      160
+    ],
+    "kanjis": [
+      1210,
+      1132
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しせつ",
+      "url": "https://files.wanikani.com/6ilfsffeklfguzpz62ago400ji7o"
+    }
+  ]
+}

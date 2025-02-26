@@ -1,0 +1,33 @@
+{
+  "id": 4916,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "回復"
+  },
+  "primaryMeaning": "Recovery",
+  "meaningMnemonic": "Many <kanji>times</kanji> you <kanji>restore</kanji> something. You do this over and over for the <vocabulary>recovery</vocabulary> of this thing.",
+  "primaryReading": "かいふく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "回復",
+  "related": {
+    "radicals": [
+      16,
+      99,
+      265
+    ],
+    "kanjis": [
+      569,
+      1285
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいふく",
+      "url": "https://files.wanikani.com/eg2ujmzrpm2uaiwxg5kj4jh5hfoc"
+    }
+  ]
+}

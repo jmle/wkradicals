@@ -1,0 +1,33 @@
+{
+  "id": 2788,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "学生"
+  },
+  "primaryMeaning": "Student",
+  "meaningMnemonic": "Who has a <kanji>study</kanji> <kanji>life</kanji>? Only one person that I know of, and that's a <vocabulary>student</vocabulary>.",
+  "primaryReading": "がくせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "学生",
+  "related": {
+    "radicals": [
+      8769,
+      34,
+      210
+    ],
+    "kanjis": [
+      599,
+      850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がくせい",
+      "url": "https://files.wanikani.com/imhptjmjmhj8hsp9lq9nnfj2utdw"
+    }
+  ]
+}

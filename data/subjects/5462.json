@@ -1,0 +1,35 @@
+{
+  "id": 5462,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "直径"
+  },
+  "primaryMeaning": "Diameter",
+  "meaningMnemonic": "<kanji>Fix</kanji> the <kanji>diameter</kanji>. It is the wrong diameter and must be a new <vocabulary>diameter</vocabulary>. Test it now, what's the <vocabulary>diameter</vocabulary>?",
+  "primaryReading": "ちょっけい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "直径",
+  "related": {
+    "radicals": [
+      56,
+      15,
+      53,
+      99,
+      179
+    ],
+    "kanjis": [
+      630,
+      1464
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょっけい",
+      "url": "https://files.wanikani.com/86xc87omhtdrr9ihain9dxmjnyoy"
+    }
+  ]
+}

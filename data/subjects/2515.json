@@ -1,0 +1,32 @@
+{
+  "id": 2515,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "小さい"
+  },
+  "primaryMeaning": "Small",
+  "meaningMnemonic": "This kanji has hiragana attached and ends with an い sound. That means it's probably an adjective (and it is!). So, if you take the kanji 小 and its meaning (small), you can figure out the adjective version of it. What is the adjective version of \"small?\" Actually, it's the same thing: <vocabulary>small</vocabulary>.",
+  "primaryReading": "ちいさい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you to remember the ちい portion: \n\nWhen you think of the word <vocabulary>small</vocabulary>, try to think of this <reading>chee</reading>se (ちい) store. You go inside, and all of their cheeses are so small. They hand you a magnifying glass to see all the cheeses. You look at them and exclaim: \"Why are these cheeses so small???\"",
+  "otherMeanings": [
+    "Little"
+  ],
+  "otherReadings": [],
+  "wkSlug": "小さい",
+  "related": {
+    "radicals": [
+      35
+    ],
+    "kanjis": [
+      463
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちいさい",
+      "url": "https://files.wanikani.com/6y61ir4hxig6fd0rtcypr7pail37"
+    }
+  ]
+}

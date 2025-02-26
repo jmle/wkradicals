@@ -1,0 +1,36 @@
+{
+  "id": 6552,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "侵攻"
+  },
+  "primaryMeaning": "Invasion",
+  "meaningMnemonic": "If you <kanji>invade</kanji> with <kanji>aggression</kanji> that's an <vocabulary>invasion</vocabulary>.",
+  "primaryReading": "しんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "侵攻",
+  "related": {
+    "radicals": [
+      75,
+      105,
+      76,
+      30,
+      25,
+      60
+    ],
+    "kanjis": [
+      1802,
+      1378
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんこう",
+      "url": "https://files.wanikani.com/vca53uzsza8gbu9h6yjqoevvj9yu"
+    }
+  ]
+}

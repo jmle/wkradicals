@@ -1,0 +1,38 @@
+{
+  "id": 4240,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "私財"
+  },
+  "primaryMeaning": "Private Funds",
+  "meaningMnemonic": "<kanji>Private</kanji> <kanji>wealth</kanji> are <vocabulary>private funds</vocabulary> or your <vocabulary>own funds</vocabulary>.",
+  "primaryReading": "しざい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Own Funds",
+    "Private Property",
+    "Personal Funds"
+  ],
+  "otherReadings": [],
+  "wkSlug": "私財",
+  "related": {
+    "radicals": [
+      135,
+      140,
+      94,
+      264
+    ],
+    "kanjis": [
+      923,
+      1064
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しざい",
+      "url": "https://files.wanikani.com/vq7f5s29b15tnx4szaujpsrhw9ih"
+    }
+  ]
+}

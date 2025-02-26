@@ -1,0 +1,37 @@
+{
+  "id": 3990,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "幻想"
+  },
+  "primaryMeaning": "Fantasy",
+  "meaningMnemonic": "An <kanji>illusion</kanji> that you <kanji>imagine</kanji> is your big <vocabulary>fantasy</vocabulary> (it's also an <vocabulary>illusion</vocabulary>). This makes sense, though, right? An illusion is an illusion, sure. But, when you imagine it, it becomes your fantasy!",
+  "primaryReading": "げんそう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Illusion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "幻想",
+  "related": {
+    "radicals": [
+      87,
+      8780,
+      23,
+      53,
+      65
+    ],
+    "kanjis": [
+      1027,
+      861
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんそう",
+      "url": "https://files.wanikani.com/9zbdr1u1mbcrru93oasdjslnijf8"
+    }
+  ]
+}

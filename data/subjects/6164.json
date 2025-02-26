@@ -1,0 +1,34 @@
+{
+  "id": 6164,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "避難"
+  },
+  "primaryMeaning": "Evacuation",
+  "meaningMnemonic": "<kanji>Dodge</kanji> a <kanji>difficult</kanji> situation by getting away from it. Do an <vocabulary>evacuation</vocabulary> to get out of there!",
+  "primaryReading": "ひなん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "避難",
+  "related": {
+    "radicals": [
+      114,
+      367,
+      8774,
+      240
+    ],
+    "kanjis": [
+      1679,
+      1095
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひなん",
+      "url": "https://files.wanikani.com/kx7unqx6k0u8xw1rtz3zieptopro"
+    }
+  ]
+}

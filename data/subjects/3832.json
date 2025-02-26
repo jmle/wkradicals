@@ -1,0 +1,37 @@
+{
+  "id": 3832,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "不幸"
+  },
+  "primaryMeaning": "Unhappiness",
+  "meaningMnemonic": "When you do <kanji>not</kanji> have <kanji>happiness</kanji>, you have <vocabulary>unhappiness</vocabulary>, <vocabulary>misfortune</vocabulary> and <vocabulary>misery</vocabulary>. This can also mean <vocabulary>death</vocabulary>, usually of a family member.",
+  "primaryReading": "ふこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Misfortune",
+    "Misery",
+    "Death"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不幸",
+  "related": {
+    "radicals": [
+      96,
+      8,
+      178
+    ],
+    "kanjis": [
+      563,
+      969
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふこう",
+      "url": "https://files.wanikani.com/9c0okiv1k0kgswrb4mm8sfxa2hgk"
+    }
+  ]
+}

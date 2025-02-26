@@ -1,0 +1,36 @@
+{
+  "id": 7189,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "畜生"
+  },
+  "primaryMeaning": "Damn It",
+  "meaningMnemonic": "The <kanji>livestock</kanji> <kanji>life</kanji>. The life of a <vocabulary>beast</vocabulary>! Arghhh, <vocabulary>damnit</vocabulary>, I hate the life of a beast. Damnit.",
+  "primaryReading": "ちくしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Beast",
+    "Son Of A Bitch"
+  ],
+  "otherReadings": [],
+  "wkSlug": "畜生",
+  "related": {
+    "radicals": [
+      403,
+      51,
+      210
+    ],
+    "kanjis": [
+      2023,
+      850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちくしょう",
+      "url": "https://files.wanikani.com/95xlbvslx4yuo2rsbm1un6d9mj3n"
+    }
+  ]
+}

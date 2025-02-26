@@ -1,0 +1,31 @@
+{
+  "id": 6089,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "旬"
+  },
+  "primaryMeaning": "In Season",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しゅん",
+  "readingMnemonic": "The reading is the same as the kanji reading you learned.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "旬",
+  "related": {
+    "radicals": [
+      14,
+      22
+    ],
+    "kanjis": [
+      1656
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅん",
+      "url": "https://files.wanikani.com/70h4rz8cpglto9w9u1gl4r3sve04"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 8725,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "傷む"
+  },
+  "primaryMeaning": "To Be Damaged",
+  "meaningMnemonic": "The kanji means <kanji>wound</kanji>, and this verb is intransitive, so it means <vocabulary>to be damaged</vocabulary> or <vocabulary>to go bad</vocabulary>. After all, fruit with a wound on it is going bad, isn't it?",
+  "primaryReading": "いたむ",
+  "readingMnemonic": "This shares the same reading as 痛む. The meanings are similar too, so that should be easy to remember, unless your brain was damaged by these mnemonics or something.",
+  "otherMeanings": [
+    "To Go Bad",
+    "To Spoil"
+  ],
+  "otherReadings": [],
+  "wkSlug": "傷む",
+  "related": {
+    "radicals": [
+      75,
+      8762,
+      172
+    ],
+    "kanjis": [
+      1499
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いたむ",
+      "url": "https://files.wanikani.com/urhbclkc8wf4wr6b3512w107avz4"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1384,
+  "type": "kanji",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "欧"
+  },
+  "primaryReading": "おう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "おう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Europe",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>district</radical> that <radical>lack</radical>s things will be in <kanji>Europe</kanji>.",
+  "readingMnemonic": "<kanji>Europe</kanji> is lacking so much because their <reading>王</reading> (おう) keeps taking everything.",
+  "wkSlug": "欧",
+  "related": {
+    "radicals": [
+      322,
+      142
+    ],
+    "vocabularies": [
+      5244,
+      5245,
+      5246
+    ]
+  },
+  "radicalNames": [
+    "District",
+    "Lack"
+  ]
+}

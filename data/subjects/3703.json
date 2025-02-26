@@ -1,0 +1,35 @@
+{
+  "id": 3703,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "骨格"
+  },
+  "primaryMeaning": "Skeleton",
+  "meaningMnemonic": "The <kanji>status</kanji> of your <kanji>bones</kanji> (aka how they're all arranged and put together) equals your <vocabulary>skeleton</vocabulary>. That bone status is lookin' good on you!",
+  "primaryReading": "こっかく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just note that こつ changes to こっ.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "骨格",
+  "related": {
+    "radicals": [
+      121,
+      76,
+      43,
+      23,
+      180
+    ],
+    "kanjis": [
+      924,
+      920
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こっかく",
+      "url": "https://files.wanikani.com/vf4a4kkotg5f89mhqull0xwbcdb9"
+    }
+  ]
+}

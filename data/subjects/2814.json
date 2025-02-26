@@ -1,0 +1,32 @@
+{
+  "id": 2814,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "声"
+  },
+  "primaryMeaning": "Voice",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "こえ",
+  "readingMnemonic": "The reading for this word is the same as the one you learned with the kanji making it easy to remember!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "声",
+  "related": {
+    "radicals": [
+      97,
+      37,
+      8761
+    ],
+    "kanjis": [
+      586
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こえ",
+      "url": "https://files.wanikani.com/p59olbgffs5yq9lxgj7erj00v496"
+    }
+  ]
+}

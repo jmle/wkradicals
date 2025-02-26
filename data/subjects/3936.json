@@ -1,0 +1,34 @@
+{
+  "id": 3936,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "イギリス人"
+  },
+  "primaryMeaning": "British Person",
+  "meaningMnemonic": "イギリス means \"Great Britain\" or \"United Kingdom.\" So what is a \"Great Britain person?\" You guessed it — a <vocabulary>British person</vocabulary>, or <vocabulary>Brit</vocabulary>.",
+  "primaryReading": "いぎりすじん",
+  "readingMnemonic": "Often times, when two kanji come together to form a kanji compound (or jukugo), you use the on'yomi readings. This is similar to that, though instead of another kanji it's a foreign word. This pattern works with almost any country as well. Just add 人 to a country name and you've described the people who live there. You'll see more of these before you're finished here.\n\nAnd since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use: \n\nAs with all words for nationalities, the 人 here is pronounced じん. All nationalities, including <vocabulary>Brit</vocabulary>s, love <reading>jean</reading>s (じん)!",
+  "otherMeanings": [
+    "Brit"
+  ],
+  "otherReadings": [
+    "イギリスじん"
+  ],
+  "wkSlug": "イギリス人",
+  "related": {
+    "radicals": [
+      9
+    ],
+    "kanjis": [
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いぎりすじん",
+      "url": "https://files.wanikani.com/wsi9ldh6obcv9b3g4sjvxm5p8ine"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 8147,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "賠償金"
+  },
+  "primaryMeaning": "Reparations",
+  "meaningMnemonic": "<kanji>Gold</kanji> you get as <kanji>compensation</kanji> for <kanji>reparation</kanji>s is called <vocabulary>reparations</vocabulary>.",
+  "primaryReading": "ばいしょうきん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Compensation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "賠償金",
+  "related": {
+    "radicals": [
+      94,
+      175,
+      75,
+      364,
+      118
+    ],
+    "kanjis": [
+      2162,
+      1646,
+      602
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばいしょうきん",
+      "url": "https://files.wanikani.com/pgck97qir10z5ivaj1ylb8lhi4tm"
+    }
+  ]
+}

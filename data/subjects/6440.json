@@ -1,0 +1,36 @@
+{
+  "id": 6440,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "栄誉"
+  },
+  "primaryMeaning": "Honor",
+  "meaningMnemonic": "You have a <kanji>prosper</kanji>ity of <kanji>honor</kanji>, therefore you have <vocabulary>honor</vocabulary>.",
+  "primaryReading": "えいよ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "栄誉",
+  "related": {
+    "radicals": [
+      8769,
+      23,
+      8783,
+      1,
+      2,
+      117
+    ],
+    "kanjis": [
+      1006,
+      1769
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えいよ",
+      "url": "https://files.wanikani.com/cie53qkz7rj5mw0dh5cczq33rdb0"
+    }
+  ]
+}

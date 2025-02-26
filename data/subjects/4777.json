@@ -1,0 +1,35 @@
+{
+  "id": 4777,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "渡る"
+  },
+  "primaryMeaning": "To Cross",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>transit</kanji>, which is just another word for crossing through or crossing over. That's why this word is <vocabulary>to cross</vocabulary> or <vocabulary>to cross over</vocabulary>.",
+  "primaryReading": "わたる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "To Cross Over",
+    "To Go Across"
+  ],
+  "otherReadings": [],
+  "wkSlug": "渡る",
+  "related": {
+    "radicals": [
+      103,
+      8787,
+      30
+    ],
+    "kanjis": [
+      1253
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わたる",
+      "url": "https://files.wanikani.com/3b8yh4ouwbzkmgs5m86t7d08iv1p"
+    }
+  ]
+}

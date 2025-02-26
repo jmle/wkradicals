@@ -1,0 +1,33 @@
+{
+  "id": 4977,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "輸出する"
+  },
+  "primaryMeaning": "To Export",
+  "meaningMnemonic": "Remember how 輸出 is an export? This is the verb, so this is <vocabulary>to export</vocabulary>.",
+  "primaryReading": "ゆしゅつする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will also help to know the word 輸出.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "輸出する",
+  "related": {
+    "radicals": [
+      93,
+      8790,
+      20
+    ],
+    "kanjis": [
+      1221,
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆしゅつする",
+      "url": "https://files.wanikani.com/lcqqne1gjvxm6bqw1odijcji8m46"
+    }
+  ]
+}

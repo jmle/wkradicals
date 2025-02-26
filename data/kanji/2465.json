@@ -1,0 +1,47 @@
+{
+  "id": 2465,
+  "type": "kanji",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "倹"
+  },
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けん",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つづまやか",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つま",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Thrifty",
+  "otherMeanings": [
+    "Frugal"
+  ],
+  "meaningMnemonic": "The <radical>leader</radical> <radical>squid</radical> tells all of its squid people to be <kanji>thrifty</kanji>.",
+  "readingMnemonic": "Who is a <kanji>thrifty</kanji> squid? <reading>Ken</reading> (けん) the samurai's squid buddy, who gets carried around in a bucket and never pays rent.",
+  "wkSlug": "倹",
+  "related": {
+    "radicals": [
+      75,
+      8785
+    ],
+    "vocabularies": [
+      8594
+    ]
+  },
+  "radicalNames": [
+    "Leader",
+    "Squid"
+  ]
+}

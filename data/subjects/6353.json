@@ -1,0 +1,36 @@
+{
+  "id": 6353,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "贈り物"
+  },
+  "primaryMeaning": "A Present",
+  "meaningMnemonic": "Remember 贈る, which means \"to give a present\"? A <kanji>thing</kanji> that you give as a <kanji>present</kanji> is <vocabulary>a present</vocabulary>.",
+  "primaryReading": "おくりもの",
+  "readingMnemonic": "The reading comes from 贈る and 物.",
+  "otherMeanings": [
+    "Present"
+  ],
+  "otherReadings": [],
+  "wkSlug": "贈り物",
+  "related": {
+    "radicals": [
+      94,
+      259,
+      126,
+      173
+    ],
+    "kanjis": [
+      1704,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おくりもの",
+      "url": "https://files.wanikani.com/mlp0jrp2yjgkczypk87kl45so0ok"
+    }
+  ]
+}

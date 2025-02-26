@@ -1,0 +1,37 @@
+{
+  "id": 6969,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "穏当"
+  },
+  "primaryMeaning": "Proper",
+  "meaningMnemonic": "Everything is <kanji>calm</kanji> and <kanji>right</kanji>. It is <vocabulary>proper</vocabulary> and <vocabulary>reasonable</vocabulary>.",
+  "primaryReading": "おんとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Reasonable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "穏当",
+  "related": {
+    "radicals": [
+      135,
+      8772,
+      105,
+      65,
+      8765
+    ],
+    "kanjis": [
+      1943,
+      571
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おんとう",
+      "url": "https://files.wanikani.com/3ektb5hkto1q5h2bltb19m12vnpf"
+    }
+  ]
+}

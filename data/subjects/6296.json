@@ -1,0 +1,38 @@
+{
+  "id": 6296,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "勧告"
+  },
+  "primaryMeaning": "Recommendation",
+  "meaningMnemonic": "If you take what you <kanji>recommend</kanji> and <kanji>announce</kanji> it to the world, you are making a <vocabulary>recommendation</vocabulary>.",
+  "primaryReading": "かんこく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Official Advice"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勧告",
+  "related": {
+    "radicals": [
+      72,
+      240,
+      13,
+      5,
+      17,
+      16
+    ],
+    "kanjis": [
+      1723,
+      1031
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんこく",
+      "url": "https://files.wanikani.com/2z7c89evsjmaffuv2tnfyol56twn"
+    }
+  ]
+}

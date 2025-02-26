@@ -1,0 +1,36 @@
+{
+  "id": 8032,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "艦艇"
+  },
+  "primaryMeaning": "Military Vessel",
+  "meaningMnemonic": "What do a <kanji>warship</kanji> and a <kanji>rowboat</kanji> have in common? In wartime they're both considered <vocabulary>military vessel</vocabulary>s.",
+  "primaryReading": "かんてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "War Fleet"
+  ],
+  "otherReadings": [],
+  "wkSlug": "艦艇",
+  "related": {
+    "radicals": [
+      149,
+      328,
+      206,
+      48
+    ],
+    "kanjis": [
+      1790,
+      2200
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんてい",
+      "url": "https://files.wanikani.com/g8dtkmz1gv45y7znlihsfr61hxec"
+    }
+  ]
+}

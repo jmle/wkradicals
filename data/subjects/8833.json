@@ -1,0 +1,22 @@
+{
+  "id": 8833,
+  "type": "radical",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "喜"
+  },
+  "primaryMeaning": "Rejoice",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>rejoice</radical>.",
+  "wkSlug": "rejoice",
+  "related": {
+    "kanjis": [
+      8835
+    ],
+    "vocabularies": [
+      8843,
+      8844
+    ]
+  }
+}

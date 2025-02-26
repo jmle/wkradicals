@@ -1,0 +1,35 @@
+{
+  "id": 7570,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "毎朝"
+  },
+  "primaryMeaning": "Every Morning",
+  "meaningMnemonic": "<kanji>Every</kanji> <kanji>morning</kanji> is <vocabulary>every morning</vocabulary>!",
+  "primaryReading": "まいあさ",
+  "readingMnemonic": "The reading is a combination of on'yomi and kun'yomi. That being said, both readings for both kanji are the readings you learned with the kanji so you should be able to read this.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "毎朝",
+  "related": {
+    "radicals": [
+      8762,
+      107,
+      15,
+      22,
+      43
+    ],
+    "kanjis": [
+      572,
+      695
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まいあさ",
+      "url": "https://files.wanikani.com/3pzqtfvc5ey8jyh5kkjiio73iai8"
+    }
+  ]
+}

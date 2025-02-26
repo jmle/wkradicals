@@ -1,0 +1,36 @@
+{
+  "id": 7026,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "稲穂"
+  },
+  "primaryMeaning": "Head Of Rice",
+  "meaningMnemonic": "A <kanji>head of plant</kanji> of a <kanji>rice plant</kanji> is the <vocabulary>head of rice</vocabulary> or <vocabulary>ear of rice</vocabulary>.",
+  "primaryReading": "いなほ",
+  "readingMnemonic": "The readings are the readings you learned with the kanji.",
+  "otherMeanings": [
+    "Ear Of Rice"
+  ],
+  "otherReadings": [],
+  "wkSlug": "稲穂",
+  "related": {
+    "radicals": [
+      135,
+      8772,
+      374,
+      400
+    ],
+    "kanjis": [
+      1735,
+      1966
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いなほ",
+      "url": "https://files.wanikani.com/99py2c9vz1zg1usa2wiw31g2evij"
+    }
+  ]
+}

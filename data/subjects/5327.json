@@ -1,0 +1,38 @@
+{
+  "id": 5327,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "更新"
+  },
+  "primaryMeaning": "Renewal",
+  "meaningMnemonic": "You’re <kanji>renew</kanji>ing something to become <kanji>new</kanji> again. We’re talking about a <vocabulary>renewal</vocabulary> or <vocabulary>update</vocabulary> to something.",
+  "primaryReading": "こうしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Update"
+  ],
+  "otherReadings": [],
+  "wkSlug": "更新",
+  "related": {
+    "radicals": [
+      1,
+      51,
+      31,
+      55,
+      23,
+      115
+    ],
+    "kanjis": [
+      1431,
+      857
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうしん",
+      "url": "https://files.wanikani.com/3wax3n199hle39o5tov9mihfqo6i"
+    }
+  ]
+}

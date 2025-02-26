@@ -1,0 +1,31 @@
+{
+  "id": 6757,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "揚げ"
+  },
+  "primaryMeaning": "Deep-Fried",
+  "meaningMnemonic": "Remember how 揚げる means \"to deep fry\"? This is the prefix or suffix version of that word, making it <vocabulary>deep-fried</vocabulary>...\n\nNote that 揚げ can sometimes be used as a standalone word, in which case it usually refers to deep-fried tofu.",
+  "primaryReading": "あげ",
+  "readingMnemonic": "The reading comes from 揚げる as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "揚げ",
+  "related": {
+    "radicals": [
+      63,
+      172
+    ],
+    "kanjis": [
+      1815
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あげ",
+      "url": "https://files.wanikani.com/6w09efkwqwv5mr3d2fshicqo99bl"
+    }
+  ]
+}

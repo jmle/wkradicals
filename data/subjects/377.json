@@ -1,0 +1,25 @@
+{
+  "id": 377,
+  "type": "radical",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "三"
+  },
+  "primaryMeaning": "Three",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>three</radical>.",
+  "wkSlug": "three",
+  "related": {
+    "kanjis": [
+      1708,
+      2423
+    ],
+    "vocabularies": [
+      6259,
+      6260,
+      6261,
+      8589
+    ]
+  }
+}

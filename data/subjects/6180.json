@@ -1,0 +1,36 @@
+{
+  "id": 6180,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "併殺"
+  },
+  "primaryMeaning": "Double Play",
+  "meaningMnemonic": "A <kanji>join</kanji> <kanji>kill</kanji> is when in one play you get two kills (outs) in baseball, making it a <vocabulary>double play</vocabulary>.",
+  "primaryReading": "へいさつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "併殺",
+  "related": {
+    "radicals": [
+      75,
+      8767,
+      171,
+      31,
+      23,
+      160
+    ],
+    "kanjis": [
+      1686,
+      880
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へいさつ",
+      "url": "https://files.wanikani.com/uucof11b8679m6wj6n163c5pkjlx"
+    }
+  ]
+}

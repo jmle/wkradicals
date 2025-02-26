@@ -1,0 +1,36 @@
+{
+  "id": 8740,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "絵文字"
+  },
+  "primaryMeaning": "Emoji",
+  "meaningMnemonic": "When you use a <kanji>picture</kanji> to replace your <kanji>letter</kanji>s to type, you're using <vocabulary>emoji</vocabulary>! Those are the faces you send when you text or email. ",
+  "primaryReading": "えもじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "絵文字",
+  "related": {
+    "radicals": [
+      86,
+      155,
+      42,
+      78,
+      34
+    ],
+    "kanjis": [
+      698,
+      475,
+      545
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えもじ",
+      "url": "https://files.wanikani.com/ms40c0qxuolbl9r8dxfow7sb0iww"
+    }
+  ]
+}

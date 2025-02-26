@@ -1,0 +1,35 @@
+{
+  "id": 7439,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "彩り"
+  },
+  "primaryMeaning": "Coloring",
+  "meaningMnemonic": "This is the noun version of the kanji and has the same meaning as well: <vocabulary>coloring</vocabulary>.",
+  "primaryReading": "いろどり",
+  "readingMnemonic": "The reading has いろ (like 色) in it, then a ど, so think about an <reading>色 do</reading>g, running around coloring things, because that's what an 色 dog does.",
+  "otherMeanings": [
+    "Color Scheme",
+    "Makeup"
+  ],
+  "otherReadings": [],
+  "wkSlug": "彩り",
+  "related": {
+    "radicals": [
+      8772,
+      23,
+      38
+    ],
+    "kanjis": [
+      2028
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いろどり",
+      "url": "https://files.wanikani.com/xadqjeznb7ug0ihsltzp1cyrcacu"
+    }
+  ]
+}

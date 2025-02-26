@@ -1,0 +1,33 @@
+{
+  "id": 2589,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "二万"
+  },
+  "primaryMeaning": "Twenty Thousand",
+  "meaningMnemonic": "When you have <kanji>two</kanji> <kanji>ten thousand</kanji>s, you have <vocabulary>twenty thousand</vocabulary>.",
+  "primaryReading": "にまん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "二万",
+  "related": {
+    "radicals": [
+      7,
+      8763,
+      24
+    ],
+    "kanjis": [
+      441,
+      495
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にまん",
+      "url": "https://files.wanikani.com/3rzmf5c5h0lfhc84xqa2ihqh83pg"
+    }
+  ]
+}

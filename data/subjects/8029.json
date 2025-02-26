@@ -1,0 +1,38 @@
+{
+  "id": 8029,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "店舗"
+  },
+  "primaryMeaning": "Shop",
+  "meaningMnemonic": "A <kanji>shop</kanji> <kanji>shop</kanji> is still a <vocabulary>shop</vocabulary>.",
+  "primaryReading": "てんぽ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Store",
+    "Shop Counter",
+    "Store Counter"
+  ],
+  "otherReadings": [],
+  "wkSlug": "店舗",
+  "related": {
+    "radicals": [
+      62,
+      143,
+      433,
+      300
+    ],
+    "kanjis": [
+      625,
+      2197
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てんぽ",
+      "url": "https://files.wanikani.com/fmtoo3kiflxsfos3zg03nrvpka6k"
+    }
+  ]
+}

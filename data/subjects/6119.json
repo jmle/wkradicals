@@ -1,0 +1,37 @@
+{
+  "id": 6119,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "前兆"
+  },
+  "primaryMeaning": "Omen",
+  "meaningMnemonic": "A <kanji>before</kanji> <kanji>omen</kanji> is something that tells you about something that will happen before it happens. Really this is just an <vocabulary>omen</vocabulary> or <vocabulary>sign</vocabulary>.",
+  "primaryReading": "ぜんちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sign"
+  ],
+  "otherReadings": [],
+  "wkSlug": "前兆",
+  "related": {
+    "radicals": [
+      8767,
+      1,
+      43,
+      128,
+      363
+    ],
+    "kanjis": [
+      633,
+      1666
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんちょう",
+      "url": "https://files.wanikani.com/kmrcx45aw1vbxyvbk8c4o0kqg0jt"
+    }
+  ]
+}

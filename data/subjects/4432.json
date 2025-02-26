@@ -1,0 +1,34 @@
+{
+  "id": 4432,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "投資"
+  },
+  "primaryMeaning": "Investment",
+  "meaningMnemonic": "Go ahead and <kanji>throw</kanji> your <kanji>resources</kanji> at the project. It could use the <vocabulary>investment</vocabulary>.",
+  "primaryReading": "とうし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "投資",
+  "related": {
+    "radicals": [
+      63,
+      160,
+      278,
+      94
+    ],
+    "kanjis": [
+      686,
+      1133
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうし",
+      "url": "https://files.wanikani.com/zbotfhoeb0d5603fy545urhqzx1n"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5191,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "絶望"
+  },
+  "primaryMeaning": "Despair",
+  "meaningMnemonic": "When <kanji>hope</kanji> has <kanji>died out</kanji>, you have no more hope, only <vocabulary>despair</vocabulary>.",
+  "primaryReading": "ぜつぼう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Hopelessness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "絶望",
+  "related": {
+    "radicals": [
+      86,
+      110,
+      212,
+      43,
+      48
+    ],
+    "kanjis": [
+      1371,
+      908
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜつぼう",
+      "url": "https://files.wanikani.com/sno05u4xvhhv70oxjxq4nwobjoz9"
+    }
+  ]
+}

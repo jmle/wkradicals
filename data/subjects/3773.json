@@ -1,0 +1,35 @@
+{
+  "id": 3773,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "方法"
+  },
+  "primaryMeaning": "Method",
+  "meaningMnemonic": "The <kanji>way</kanji> <kanji>method</kanji> or the <kanji>method</kanji> <kanji>way</kanji> is the <vocabulary>method</vocabulary> or <vocabulary>way</vocabulary>. This is a good word for talking about how to do something. What's the 方法? Well, first you...",
+  "primaryReading": "ほうほう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Way"
+  ],
+  "otherReadings": [],
+  "wkSlug": "方法",
+  "related": {
+    "radicals": [
+      66,
+      103,
+      244
+    ],
+    "kanjis": [
+      510,
+      949
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうほう",
+      "url": "https://files.wanikani.com/lm6mxk0ad9kytb8hbnpruzf73kev"
+    }
+  ]
+}

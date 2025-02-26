@@ -1,0 +1,35 @@
+{
+  "id": 6583,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "括る"
+  },
+  "primaryMeaning": "To Tie Up",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>fasten</kanji> and the verb vocab version is <vocabulary>to fasten</vocabulary> or <vocabulary>to tie up</vocabulary> or <vocabulary>to tie together</vocabulary>.",
+  "primaryReading": "くくる",
+  "readingMnemonic": "You are fastening up the <reading>coocoo</reading> (くく) clock, so the coocoo bird doesn't come out anymore. That annoying coocoo bird.",
+  "otherMeanings": [
+    "To Fasten",
+    "To Tie Together",
+    "To Bind"
+  ],
+  "otherReadings": [],
+  "wkSlug": "括る",
+  "related": {
+    "radicals": [
+      63,
+      174
+    ],
+    "kanjis": [
+      1811
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くくる",
+      "url": "https://files.wanikani.com/knc2mzr3tavk86aiexko8r3g959y"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4897,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "創造"
+  },
+  "primaryMeaning": "Creation",
+  "meaningMnemonic": "<kanji>Create</kanji>! <kanji>Create</kanji>! If you do this, you are doing <vocabulary>creation</vocabulary>.",
+  "primaryReading": "そうぞう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "創造",
+  "related": {
+    "radicals": [
+      8827,
+      128,
+      114,
+      306
+    ],
+    "kanjis": [
+      1284,
+      1281
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうぞう",
+      "url": "https://files.wanikani.com/78lrkaicfnvil0yjzujdzwk1mney"
+    }
+  ]
+}

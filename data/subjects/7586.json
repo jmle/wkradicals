@@ -1,0 +1,40 @@
+{
+  "id": 7586,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "動物園"
+  },
+  "primaryMeaning": "Zoo",
+  "meaningMnemonic": "Remember how 動物 means animal? Well when you add <kanji>park</kanji> it becomes a <vocabulary>zoo</vocabulary>. It's a park for animals. Except the animals can't leave. Ever.",
+  "primaryReading": "どうぶつえん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Zoological Gardens",
+    "Menagerie"
+  ],
+  "otherReadings": [],
+  "wkSlug": "動物園",
+  "related": {
+    "radicals": [
+      188,
+      13,
+      126,
+      173,
+      16,
+      8784
+    ],
+    "kanjis": [
+      827,
+      718,
+      960
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうぶつえん",
+      "url": "https://files.wanikani.com/qc2qo5ev2x5pvurue8o99pevmdjr"
+    }
+  ]
+}

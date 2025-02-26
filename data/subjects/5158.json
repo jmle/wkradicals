@@ -1,0 +1,36 @@
+{
+  "id": 5158,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "身振り"
+  },
+  "primaryMeaning": "Body Language",
+  "meaningMnemonic": "The way your <kanji>body</kanji> <kanji>shake</kanji>s is how you use <vocabulary>body language</vocabulary> or how you <vocabulary>gesture</vocabulary>.\n\n身振り generally refers to gestures in terms of body movements that make communication more expressive or help bridge language barriers. You'll often encounter this together with 手振り (hand gestures) in the phrase 身振り手振り.",
+  "primaryReading": "みぶり",
+  "readingMnemonic": "The reading for this is the kun'yomis for 身 and 振る put together, where the 振り gets rendaku'd to ぶり.",
+  "otherMeanings": [
+    "Gesture"
+  ],
+  "otherReadings": [],
+  "wkSlug": "身振り",
+  "related": {
+    "radicals": [
+      109,
+      5,
+      63,
+      183
+    ],
+    "kanjis": [
+      689,
+      1307
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みぶり",
+      "url": "https://files.wanikani.com/gkel9ze1ljo7t497ki8rfvj2bcgl"
+    }
+  ]
+}

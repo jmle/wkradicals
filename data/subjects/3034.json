@@ -1,0 +1,36 @@
+{
+  "id": 3034,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "場合"
+  },
+  "primaryMeaning": "Case",
+  "meaningMnemonic": "What <kanji>location</kanji> <kanji>suit</kanji>s a situation the best? That always depends on the <vocabulary>case</vocabulary> or <vocabulary>circumstance</vocabulary>. You can't know the suitability of the location until you have all the facts about the circumstances.",
+  "primaryReading": "ばあい",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji. You haven't learned this kun'yomi reading for 合 yet, so here's a mnemonic to help you:\n\n To know exactly what <vocabulary>case</vocabulary> or <vocabulary>circumstance</vocabulary> you're dealing with, you keep a close <reading>eye</reading> (あい) on things. Imagine your eye really close up to the circumstances, trying to figuring out exactly what's going on.",
+  "otherMeanings": [
+    "Circumstance",
+    "Situation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "場合",
+  "related": {
+    "radicals": [
+      17,
+      172,
+      216
+    ],
+    "kanjis": [
+      694,
+      852
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばあい",
+      "url": "https://files.wanikani.com/4z0jd7ch40mszftmjho7bgms4ea9"
+    }
+  ]
+}

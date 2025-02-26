@@ -1,0 +1,34 @@
+{
+  "id": 6514,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "潜む"
+  },
+  "primaryMeaning": "To Lurk",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>conceal</kanji>, so if you conceal yourself and walk around you are going <vocabulary>to lurk</vocabulary> or you are going <vocabulary>to lie dormant</vocabulary>.",
+  "primaryReading": "ひそむ",
+  "readingMnemonic": "<reading>He so</reading> (ひそ) hidden. Where you at?",
+  "otherMeanings": [
+    "To Lie Dormant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "潜む",
+  "related": {
+    "radicals": [
+      103,
+      146,
+      22
+    ],
+    "kanjis": [
+      1791
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひそむ",
+      "url": "https://files.wanikani.com/aolpz2xlnwcalfl2jwijs95nruyz"
+    }
+  ]
+}

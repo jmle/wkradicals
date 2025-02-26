@@ -1,0 +1,36 @@
+{
+  "id": 6526,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "包む"
+  },
+  "primaryMeaning": "To Wrap",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>wrap</kanji> so the verb vocab version is <vocabulary>to wrap</vocabulary>.",
+  "primaryReading": "つつむ",
+  "readingMnemonic": "You never wrap things once, you always wrap them twice. And then you double that. It's a <reading>two two</reading> (つつ) wrapping technique.\n\nつつむ is the reading we want you to focus on, but it's good to know that 包む can be read as くるむ as well. くるむ is used when you wrap something up carefully and protectively, like a baby in a blanket. つつむ on the other hand, has broader use and is commonly used for wrapping things like presents.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "くるむ"
+  ],
+  "wkSlug": "包む",
+  "related": {
+    "radicals": [
+      395
+    ],
+    "kanjis": [
+      1795
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つつむ",
+      "url": "https://files.wanikani.com/2jlsrdd0jlavukthqzyqpf7hl79w"
+    },
+    {
+      "reading": "くるむ",
+      "url": "https://files.wanikani.com/d4ku7cxom3pg1rsgthr7dy3jjit1"
+    }
+  ]
+}

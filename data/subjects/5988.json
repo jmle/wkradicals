@@ -1,0 +1,36 @@
+{
+  "id": 5988,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "摘発する"
+  },
+  "primaryMeaning": "To Unmask",
+  "meaningMnemonic": "To <kanji>pluck</kanji> off someone's mask and <kanji>departure</kanji> it off somewhere away from their face, that is <vocabulary>to unmask</vocabulary> or <vocabulary>to expose</vocabulary> someone.",
+  "primaryReading": "てきはつする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "To Expose"
+  ],
+  "otherReadings": [],
+  "wkSlug": "摘発する",
+  "related": {
+    "radicals": [
+      63,
+      276,
+      168,
+      171
+    ],
+    "kanjis": [
+      1625,
+      729
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てきはつする",
+      "url": "https://files.wanikani.com/xi019qzwvnn7ejvm2wtjkyraaew5"
+    }
+  ]
+}

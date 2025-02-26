@@ -1,0 +1,35 @@
+{
+  "id": 4599,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "有職"
+  },
+  "primaryMeaning": "Employed",
+  "meaningMnemonic": "When you <kanji>have</kanji> <kanji>employment</kanji> you are probably <vocabulary>employed</vocabulary>.",
+  "primaryReading": "ゆうしょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "有職",
+  "related": {
+    "radicals": [
+      26,
+      43,
+      88,
+      197,
+      194
+    ],
+    "kanjis": [
+      615,
+      1189
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうしょく",
+      "url": "https://files.wanikani.com/jigptkisbefti8gz1pdu19ig9s57"
+    }
+  ]
+}

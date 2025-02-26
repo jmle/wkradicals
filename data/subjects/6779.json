@@ -1,0 +1,35 @@
+{
+  "id": 6779,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "右翼"
+  },
+  "primaryMeaning": "Right Wing",
+  "meaningMnemonic": "The <kanji>right</kanji> <kanji>wing</kanji> is the <vocabulary>right wing</vocabulary>. As in, \"right wing politics\" or \"right wing beliefs.\"",
+  "primaryReading": "うよく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 右, so here's a mnemonic to help you:\n\nThose in the <vocabulary>right wing</vocabulary> love eating <reading>u</reading>ni (う), not because they like the taste, but because uni is expensive. Picture some right-wing people in your mind right now and watch as they try really hard to pretend they like eating uni as they shovel buckets of it down their throats.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "右翼",
+  "related": {
+    "radicals": [
+      26,
+      16,
+      213,
+      51,
+      269
+    ],
+    "kanjis": [
+      484,
+      1875
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うよく",
+      "url": "https://files.wanikani.com/vc9vncu48enojy0sasodbjfudf1s"
+    }
+  ]
+}

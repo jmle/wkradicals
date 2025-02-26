@@ -1,0 +1,37 @@
+{
+  "id": 5442,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "画廊"
+  },
+  "primaryMeaning": "Picture Gallery",
+  "meaningMnemonic": "An <kanji>image</kanji> <kanji>corridor</kanji> is a corridor in which there are images hanging on the wall. This is a <vocabulary>picture gallery</vocabulary>.\n\nNote that 画廊 generally refers to a physical <vocabulary>art gallery</vocabulary>, where artworks are exhibited for in-person viewing.",
+  "primaryReading": "がろう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Art Gallery"
+  ],
+  "otherReadings": [],
+  "wkSlug": "画廊",
+  "related": {
+    "radicals": [
+      27,
+      51,
+      127,
+      62,
+      8829
+    ],
+    "kanjis": [
+      629,
+      1454
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がろう",
+      "url": "https://files.wanikani.com/a3xza8z41zgzrhx4az1h7cumucef"
+    }
+  ]
+}

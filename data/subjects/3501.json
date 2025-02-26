@@ -1,0 +1,33 @@
+{
+  "id": 3501,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "名"
+  },
+  "primaryMeaning": "Name",
+  "meaningMnemonic": "This vocabulary word is the same as the 'name' meaning of the kanji. If you can remember that, you'll have no trouble remembering this word as well.",
+  "primaryReading": "な",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: Just think of the first part of the English word <vocabulary>name</vocabulary>. What is it? It's <reading>na</reading> (な), just like this word!",
+  "otherMeanings": [
+    "Reputation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "名",
+  "related": {
+    "radicals": [
+      33,
+      16
+    ],
+    "kanjis": [
+      544
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "な",
+      "url": "https://files.wanikani.com/42ql0zt7amnzhtn88wsr82ywh8bs"
+    }
+  ]
+}

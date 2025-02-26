@@ -1,0 +1,37 @@
+{
+  "id": 4387,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "履き物"
+  },
+  "primaryMeaning": "Footwear",
+  "meaningMnemonic": "Remember how 履く is \"to put on shoes\" and 物 means \"thing\"? Well, combine them and you have a word for things you put on your feet, a.k.a. <vocabulary>footwear</vocabulary> or <vocabulary>shoes</vocabulary>.\n\nYou might know that 履く is used for lots of different clothes you wear below the waist, but be careful: <vocabulary>履き物</vocabulary> only refers to footwear and shoes.",
+  "primaryReading": "はきもの",
+  "readingMnemonic": "The reading is that of 履く and 物 put together. Just know those separately and you should be able to figure this one out as well.",
+  "otherMeanings": [
+    "Shoes"
+  ],
+  "otherReadings": [],
+  "wkSlug": "履き物",
+  "related": {
+    "radicals": [
+      37,
+      99,
+      265,
+      126,
+      173
+    ],
+    "kanjis": [
+      1075,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はきもの",
+      "url": "https://files.wanikani.com/2u1jky5xhgw37krjqw1w73j70z6o"
+    }
+  ]
+}

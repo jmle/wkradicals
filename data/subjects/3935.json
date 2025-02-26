@@ -1,0 +1,35 @@
+{
+  "id": 3935,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "朝ご飯"
+  },
+  "primaryMeaning": "Breakfast",
+  "meaningMnemonic": "The <kanji>morning</kanji> <kanji>meal</kanji> is the meal you eat in the morning. That is <vocabulary>breakfast</vocabulary>. ",
+  "primaryReading": "あさごはん",
+  "readingMnemonic": "The readings are the ones you learned with the kanji. It's also like the vocab: 朝 is like the vocab version, あさ and ご飯 is like the word you learned, ごはん.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "朝ご飯",
+  "related": {
+    "radicals": [
+      15,
+      22,
+      43,
+      139,
+      218
+    ],
+    "kanjis": [
+      695,
+      955
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あさごはん",
+      "url": "https://files.wanikani.com/gp74irx1rwru04iasykfplk0j4qw"
+    }
+  ]
+}

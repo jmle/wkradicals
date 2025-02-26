@@ -1,0 +1,34 @@
+{
+  "id": 6633,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "網"
+  },
+  "primaryMeaning": "Net",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あみ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nWhen it comes to <vocabulary>net</vocabulary>s, you gotta go talk to <reading>Amy</reading> (あみ) if you want a good one. Only Amy makes good nets.",
+  "otherMeanings": [
+    "Netting",
+    "Web"
+  ],
+  "otherReadings": [],
+  "wkSlug": "網",
+  "related": {
+    "radicals": [
+      86,
+      376
+    ],
+    "kanjis": [
+      1832
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あみ",
+      "url": "https://files.wanikani.com/vus3o11a5rkjyg16lg4amfeop5jv"
+    }
+  ]
+}

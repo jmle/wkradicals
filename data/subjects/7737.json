@@ -1,0 +1,36 @@
+{
+  "id": 7737,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "役目"
+  },
+  "primaryMeaning": "Duty",
+  "meaningMnemonic": "If you have an <kanji>eye</kanji> for <kanji>service</kanji>, then you'll always think helping people is your <vocabulary>duty</vocabulary>! If you see someone in need of service, you’ll always offer your help, because that’s your duty.",
+  "primaryReading": "やくめ",
+  "readingMnemonic": "This word consists of the on'yomi reading for 役 and the kun'yomi reading for 目. You've learned them both so you should be able to read this word too!",
+  "otherMeanings": [
+    "Business",
+    "Role"
+  ],
+  "otherReadings": [],
+  "wkSlug": "役目",
+  "related": {
+    "radicals": [
+      99,
+      160,
+      53
+    ],
+    "kanjis": [
+      685,
+      492
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やくめ",
+      "url": "https://files.wanikani.com/atin3hfwbb3b6a92p89cl5jv55vv"
+    }
+  ]
+}

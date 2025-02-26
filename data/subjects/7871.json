@@ -1,0 +1,35 @@
+{
+  "id": 7871,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "噴水"
+  },
+  "primaryMeaning": "Water Fountain",
+  "meaningMnemonic": "<kanji>Water</kanji> <kanji>erupts</kanji> from <vocabulary>water fountains</vocabulary>. Sometimes they're big eruptions and sometimes they're small, but they're always fun to watch and enjoy in the hot summer.",
+  "primaryReading": "ふんすい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "噴水",
+  "related": {
+    "radicals": [
+      16,
+      15,
+      90,
+      94,
+      45
+    ],
+    "kanjis": [
+      2164,
+      479
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふんすい",
+      "url": "https://files.wanikani.com/d8qrepxn5hfo4mz99ndqtpozow11"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5221,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "全壊"
+  },
+  "primaryMeaning": "Complete Destruction",
+  "meaningMnemonic": "To <kanji>break</kanji> it <kanji>all</kanji> is to break everything. Everything is broken. <vocabulary>Complete destruction</vocabulary>!!!",
+  "primaryReading": "ぜんかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Total Destruction"
+  ],
+  "otherReadings": [],
+  "wkSlug": "全壊",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      17,
+      15,
+      163,
+      320
+    ],
+    "kanjis": [
+      610,
+      1389
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんかい",
+      "url": "https://files.wanikani.com/layuwzwg7zph4n4ot7o21a01tv5y"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8499,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "恩赦"
+  },
+  "primaryMeaning": "Amnesty",
+  "meaningMnemonic": "<kanji>Pardon</kanji> someone out of the <kanji>kindness</kanji> in your heart and you'll have granted them <vocabulary>amnesty</vocabulary>. How kind of you.",
+  "primaryReading": "おんしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Pardon"
+  ],
+  "otherReadings": [],
+  "wkSlug": "恩赦",
+  "related": {
+    "radicals": [
+      16,
+      18,
+      65,
+      92,
+      60
+    ],
+    "kanjis": [
+      1483,
+      2366
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おんしゃ",
+      "url": "https://files.wanikani.com/nixoj5cd6jp1qink9vicdwz6o03c"
+    }
+  ]
+}

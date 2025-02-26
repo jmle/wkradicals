@@ -1,0 +1,36 @@
+{
+  "id": 5008,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "効果的"
+  },
+  "primaryMeaning": "Effective",
+  "meaningMnemonic": "Remember how 効果 means \"effect\"? Add <kanji>~like</kanji> to that and it's <vocabulary>effective</vocabulary>!",
+  "primaryReading": "こうかてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "効果的",
+  "related": {
+    "radicals": [
+      302,
+      13,
+      235,
+      52,
+      236
+    ],
+    "kanjis": [
+      1267,
+      1005,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうかてき",
+      "url": "https://files.wanikani.com/mrp4908ep7smiz8ah6i4hkfejm4c"
+    }
+  ]
+}

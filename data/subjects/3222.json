@@ -1,0 +1,35 @@
+{
+  "id": 3222,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "調べる"
+  },
+  "primaryMeaning": "To Investigate",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>investigate</kanji> so the vocab verb version means <vocabulary>to investigate</vocabulary>.",
+  "primaryReading": "しらべる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou are hired <vocabulary>to investigate</vocabulary> someone's wife. It is said that <reading>she love</reading>s (しら) another man... but you need to investigate her to find out if that's true, for her husband of course.",
+  "otherMeanings": [
+    "To Examine",
+    "To Research",
+    "To Look Into"
+  ],
+  "otherReadings": [],
+  "wkSlug": "調べる",
+  "related": {
+    "radicals": [
+      117,
+      169
+    ],
+    "kanjis": [
+      769
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しらべる",
+      "url": "https://files.wanikani.com/e82c9gxjhx708uz82zb4coyzzgwc"
+    }
+  ]
+}

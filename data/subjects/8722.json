@@ -1,0 +1,39 @@
+{
+  "id": 8722,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "華美"
+  },
+  "primaryMeaning": "Gaudy",
+  "meaningMnemonic": "If something has <kanji>showy</kanji> <kanji>beauty</kanji> then it's going a little overboard and is going to come across as <vocabulary>gaudy</vocabulary>. Too much is too much.",
+  "primaryReading": "かび",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Pomp",
+    "Splendor",
+    "Splendour"
+  ],
+  "otherReadings": [],
+  "wkSlug": "華美",
+  "related": {
+    "radicals": [
+      90,
+      51,
+      15,
+      136,
+      18
+    ],
+    "kanjis": [
+      1446,
+      732
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かび",
+      "url": "https://files.wanikani.com/fnpwpq19rtry7nlb1rzgooy9bplm"
+    }
+  ]
+}

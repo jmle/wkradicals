@@ -1,0 +1,34 @@
+{
+  "id": 4072,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "取り分け"
+  },
+  "primaryMeaning": "Especially",
+  "meaningMnemonic": "You 取り (take) and then 分け (divide) something. But you'll want to be <vocabulary>especially</vocabulary> careful not to give anyone an unequal share. This is especially important because we’re dealing with money, and people will flip out and shoot you under the table if you aren't especially accurate.\n\nNote that this word is usually written in kana.",
+  "primaryReading": "とりわけ",
+  "readingMnemonic": "The readings come from the words 取る and 分ける. So long as you know those words you should be able to read this one as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "取り分け",
+  "related": {
+    "radicals": [
+      88,
+      30,
+      2,
+      24
+    ],
+    "kanjis": [
+      966,
+      501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とりわけ",
+      "url": "https://files.wanikani.com/5uhumvqxzw7knn8zw7jp6mbvbj78"
+    }
+  ]
+}

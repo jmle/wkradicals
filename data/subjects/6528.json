@@ -1,0 +1,35 @@
+{
+  "id": 6528,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "包囲"
+  },
+  "primaryMeaning": "Siege",
+  "meaningMnemonic": "<kanji>Wrap</kanji> and <kanji>surround</kanji> them. We are going to <vocabulary>siege</vocabulary> the enemy. This is <vocabulary>encirclement</vocabulary> around their base!",
+  "primaryReading": "ほうい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Encirclement"
+  ],
+  "otherReadings": [],
+  "wkSlug": "包囲",
+  "related": {
+    "radicals": [
+      395,
+      16,
+      246
+    ],
+    "kanjis": [
+      1795,
+      901
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうい",
+      "url": "https://files.wanikani.com/nnnsqy0p9twsaxymbp55xu2rvs6u"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2507,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "刀"
+  },
+  "primaryMeaning": "Sword",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well!",
+  "primaryReading": "かたな",
+  "readingMnemonic": "Since this word is made up of a single kanji, it uses the kun'yomi reading. I'm hoping you already know this word - that will make everything much easier. It's <reading>かたな</reading> (you know what a katana is, right?).",
+  "otherMeanings": [
+    "Katana"
+  ],
+  "otherReadings": [],
+  "wkSlug": "刀",
+  "related": {
+    "radicals": [
+      24
+    ],
+    "kanjis": [
+      458
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かたな",
+      "url": "https://files.wanikani.com/ttir96o3sjfaism59jzqy8xz7knr"
+    }
+  ]
+}

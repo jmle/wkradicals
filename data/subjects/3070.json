@@ -1,0 +1,37 @@
+{
+  "id": 3070,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "点数"
+  },
+  "primaryMeaning": "Points",
+  "meaningMnemonic": "The <kanji>number</kanji> of <kanji>point</kanji>s is how many <vocabulary>points</vocabulary> there are (aka the <vocabulary>score</vocabulary>).",
+  "primaryReading": "てんすう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Score"
+  ],
+  "otherReadings": [],
+  "wkSlug": "点数",
+  "related": {
+    "radicals": [
+      143,
+      131,
+      98,
+      19,
+      60
+    ],
+    "kanjis": [
+      641,
+      703
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てんすう",
+      "url": "https://files.wanikani.com/w374lql37acf9490fkx3cgykpjj5"
+    }
+  ]
+}

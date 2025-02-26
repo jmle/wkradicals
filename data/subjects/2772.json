@@ -1,0 +1,30 @@
+{
+  "id": 2772,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "色"
+  },
+  "primaryMeaning": "Color",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "いろ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it uses the kun'yomi reading. This is the reading you learned with the kanji, though, so enjoy.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "色",
+  "related": {
+    "radicals": [
+      110
+    ],
+    "kanjis": [
+      579
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いろ",
+      "url": "https://files.wanikani.com/nvbpefd16lq529c39ck31ke560ul"
+    }
+  ]
+}

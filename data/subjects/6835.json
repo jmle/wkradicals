@@ -1,0 +1,36 @@
+{
+  "id": 6835,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "粒子"
+  },
+  "primaryMeaning": "Particle",
+  "meaningMnemonic": "A <kanji>grain's</kanji> <kanji>child</kanji> is even smaller than a grain. It's a <vocabulary>particle</vocabulary>, sometimes even an <vocabulary>atomic particle</vocabulary>.",
+  "primaryReading": "りゅうし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Grain",
+    "Atomic Particle"
+  ],
+  "otherReadings": [],
+  "wkSlug": "粒子",
+  "related": {
+    "radicals": [
+      98,
+      55,
+      34
+    ],
+    "kanjis": [
+      1901,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りゅうし",
+      "url": "https://files.wanikani.com/3x8trhb6ahcwy8swb5no3dux2pir"
+    }
+  ]
+}

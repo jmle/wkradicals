@@ -1,0 +1,40 @@
+{
+  "id": 8363,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "不愉快"
+  },
+  "primaryMeaning": "Unpleasant",
+  "meaningMnemonic": "You already learned that 愉快 means \"pleasant\" or \"happy,\" so add <kanji>not</kanji> to that and you're <vocabulary>unpleasant</vocabulary> and <vocabulary>unhappy</vocabulary>.",
+  "primaryReading": "ふゆかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Unhappy",
+    "Discomfort",
+    "Disagreeable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不愉快",
+  "related": {
+    "radicals": [
+      96,
+      232,
+      8790,
+      9,
+      157
+    ],
+    "kanjis": [
+      563,
+      2287,
+      1420
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふゆかい",
+      "url": "https://files.wanikani.com/uepfjj7w7aikr4t7lbgue2bnxmb2"
+    }
+  ]
+}

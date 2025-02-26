@@ -1,0 +1,35 @@
+{
+  "id": 3912,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "折り目"
+  },
+  "primaryMeaning": "Fold",
+  "meaningMnemonic": "A <kanji>fold</kanji> you can see with your <kanji>eye</kanji> is a <vocabulary>fold</vocabulary> or <vocabulary>crease</vocabulary> in something.",
+  "primaryReading": "おりめ",
+  "readingMnemonic": "The readings are both kun'yomi vocab readings. You should have seen 折る by now which should help you to read 折り. Then there's 目, which I'm guessing you won't have a problem with.",
+  "otherMeanings": [
+    "Crease"
+  ],
+  "otherReadings": [],
+  "wkSlug": "折り目",
+  "related": {
+    "radicals": [
+      63,
+      115,
+      53
+    ],
+    "kanjis": [
+      907,
+      492
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おりめ",
+      "url": "https://files.wanikani.com/km9666peg4wu3y8vnnyfi4i1gtim"
+    }
+  ]
+}

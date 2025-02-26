@@ -1,0 +1,35 @@
+{
+  "id": 8865,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "噂"
+  },
+  "primaryMeaning": "Rumor",
+  "meaningMnemonic": "The kanji and the word are exactly the same.",
+  "primaryReading": "うわさ",
+  "readingMnemonic": "You learned this reading with the kanji, so you should be able to read it already!",
+  "otherMeanings": [
+    "Gossip"
+  ],
+  "otherReadings": [],
+  "wkSlug": "噂",
+  "related": {
+    "radicals": [
+      16,
+      8767,
+      182,
+      74
+    ],
+    "kanjis": [
+      8858
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うわさ",
+      "url": "https://files.wanikani.com/8syrka5v3zzuj1ydpk76d6c5mdbk"
+    }
+  ]
+}

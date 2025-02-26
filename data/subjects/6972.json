@@ -1,0 +1,39 @@
+{
+  "id": 6972,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "鈍い"
+  },
+  "primaryMeaning": "Dull",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>dull</kanji>? It's <vocabulary>dull</vocabulary>.",
+  "primaryReading": "にぶい",
+  "readingMnemonic": "To remember the reading, think about how when you're i<reading>neb</reading>riated (にぶ) you need to use a <vocabulary>dull</vocabulary> knife. The にぶい reading talks about a thing that is dull. For のろい, which refers to a dull mind (someone who's <vocabulary>thickheaded</vocabulary>). Think about a <reading>Nor</reading>se (のろ) God, the God of dullbrains.",
+  "otherMeanings": [
+    "Thickheaded"
+  ],
+  "otherReadings": [
+    "のろい"
+  ],
+  "wkSlug": "鈍い",
+  "related": {
+    "radicals": [
+      118,
+      315
+    ],
+    "kanjis": [
+      1944
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のろい",
+      "url": "https://files.wanikani.com/lmjdslvmsk4ndr1890riyg0sj14f"
+    },
+    {
+      "reading": "にぶい",
+      "url": "https://files.wanikani.com/iv8e772rlh1bnnr91w6opqpypbon"
+    }
+  ]
+}

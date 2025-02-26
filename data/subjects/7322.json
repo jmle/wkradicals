@@ -1,0 +1,36 @@
+{
+  "id": 7322,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "隔離"
+  },
+  "primaryMeaning": "Isolation",
+  "meaningMnemonic": "<kanji>Isolate</kanji> and <kanji>detach</kanji>ed from everything else. This thing (or person) is in <vocabulary>isolation</vocabulary> and <vocabulary>quarantine</vocabulary>.",
+  "primaryReading": "かくり",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Quarantine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "隔離",
+  "related": {
+    "radicals": [
+      176,
+      336,
+      337,
+      240
+    ],
+    "kanjis": [
+      2071,
+      1443
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かくり",
+      "url": "https://files.wanikani.com/vb7v3swi5qrdd5xodt0cky7alokr"
+    }
+  ]
+}

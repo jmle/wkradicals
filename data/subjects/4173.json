@@ -1,0 +1,34 @@
+{
+  "id": 4173,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "一冊"
+  },
+  "primaryMeaning": "One Book",
+  "meaningMnemonic": "When you have <kanji>one</kanji> <kanji>books</kanji> you really just have <vocabulary>one book</vocabulary>.",
+  "primaryReading": "いっさつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The 一 portion gets shortened to いっ as it often is.",
+  "otherMeanings": [
+    "One Volume"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一冊",
+  "related": {
+    "radicals": [
+      1,
+      226
+    ],
+    "kanjis": [
+      440,
+      1071
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いっさつ",
+      "url": "https://files.wanikani.com/hjx1iwboi72if37i9zh7u2ughbmr"
+    }
+  ]
+}

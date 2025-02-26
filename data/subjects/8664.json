@@ -1,0 +1,36 @@
+{
+  "id": 8664,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "番組"
+  },
+  "primaryMeaning": "Program",
+  "meaningMnemonic": "Use a <kanji>number in a series</kanji> to <kanji>group</kanji> the things you watch and listen to. That makes them your <vocabulary>program</vocabulary>s. Your TV and radio programs, specifically. If you watch TV you'll hear it a lot!",
+  "primaryReading": "ばんぐみ",
+  "readingMnemonic": "This word consists of the on'yomi reading for 番 and the kun'yomi reading for 組. You've learned them both so as long as you remember the rendaku, you should be able to read this word too!",
+  "otherMeanings": [
+    "Programme"
+  ],
+  "otherReadings": [],
+  "wkSlug": "番組",
+  "related": {
+    "radicals": [
+      164,
+      51,
+      86,
+      419
+    ],
+    "kanjis": [
+      696,
+      670
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばんぐみ",
+      "url": "https://files.wanikani.com/dkwkbz6ohogf32pvrfu4b9ltvu8r"
+    }
+  ]
+}

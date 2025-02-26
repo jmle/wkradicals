@@ -1,0 +1,34 @@
+{
+  "id": 6887,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "暦"
+  },
+  "primaryMeaning": "Calendar",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "こよみ",
+  "readingMnemonic": "When looking at a calendar, the <reading>子読み</reading> (こよみ) of it is to... well... not be able to read it at all. Because, children can't really read. So, when you look at a calendar you have to explain it to a child, since they cannot read it.",
+  "otherMeanings": [
+    "Almanac"
+  ],
+  "otherReadings": [],
+  "wkSlug": "暦",
+  "related": {
+    "radicals": [
+      116,
+      23,
+      22
+    ],
+    "kanjis": [
+      1921
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こよみ",
+      "url": "https://files.wanikani.com/hoxyb1h3yasqbdtexozdw4bdkd9s"
+    }
+  ]
+}

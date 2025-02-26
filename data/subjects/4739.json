@@ -1,0 +1,37 @@
+{
+  "id": 4739,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "良質"
+  },
+  "primaryMeaning": "Good Quality",
+  "meaningMnemonic": "<kanji>Good</kanji> <kanji>quality</kanji> is always <vocabulary>good quality</vocabulary>. Don't skimp!",
+  "primaryReading": "りょうしつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "High Quality",
+    "Superior Quality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "良質",
+  "related": {
+    "radicals": [
+      3,
+      196,
+      115,
+      94
+    ],
+    "kanjis": [
+      805,
+      1242
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょうしつ",
+      "url": "https://files.wanikani.com/c1dlr1eymbkctsin70qfyehg92rm"
+    }
+  ]
+}

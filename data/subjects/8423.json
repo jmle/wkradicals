@@ -1,0 +1,36 @@
+{
+  "id": 8423,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "醸造"
+  },
+  "primaryMeaning": "Brewing",
+  "meaningMnemonic": "<kanji>Create</kanji> a <kanji>brew</kanji> of beer by <vocabulary>brewing</vocabulary> it.",
+  "primaryReading": "じょうぞう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Distillation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "醸造",
+  "related": {
+    "radicals": [
+      182,
+      430,
+      114,
+      306
+    ],
+    "kanjis": [
+      2342,
+      1281
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうぞう",
+      "url": "https://files.wanikani.com/zu2ijxx5ocxlj56hcogpsvkypjdp"
+    }
+  ]
+}

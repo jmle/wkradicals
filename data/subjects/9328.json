@@ -1,0 +1,34 @@
+{
+  "id": 9328,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "応える"
+  },
+  "primaryMeaning": "To Respond To",
+  "meaningMnemonic": "The kanji means <kanji>respond</kanji>, and this is also <vocabulary>to respond to</vocabulary>, but often in the sense of trying <vocabulary>to meet</vocabulary> or <vocabulary>to live up to</vocabulary> some expectation, need, or other feelings.\n\nCheck out our common word combinations and context sentences for some example usages of this!",
+  "primaryReading": "こたえる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet, but it shares a reading (and some similarities in meaning) with 答える, so just try to think of that vocab in relation to this one!",
+  "otherMeanings": [
+    "To Meet",
+    "To Live Up To"
+  ],
+  "otherReadings": [],
+  "wkSlug": "応える",
+  "related": {
+    "radicals": [
+      62,
+      65
+    ],
+    "kanjis": [
+      1180
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こたえる",
+      "url": "https://files.wanikani.com/rjtxrp8ptu25rsg5g3vaid4e7spa"
+    }
+  ]
+}

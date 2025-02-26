@@ -1,0 +1,36 @@
+{
+  "id": 9241,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "正月"
+  },
+  "primaryMeaning": "New Year",
+  "meaningMnemonic": "You <kanji>correct</kanji> the <kanji>moon</kanji> because it's a <vocabulary>New Year</vocabulary>. It's the beginning of a fresh year, so you gotta have the moon in the correct position.\n\nThis usually refers to the first few days of a new year, and it's one of the biggest holidays in Japan.",
+  "primaryReading": "しょうがつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Both of these kanji have a couple of on'yomi readings, so here's a mnemonic to help you remember which ones to use:\n\nAt <vocabulary>New Year</vocabulary>, you hate your <reading>Shou</reading>gun's <reading>guts</reading> (しょうがつ). He doesn't celebrate New Year, you see, so none of you get any time off. He even started a war last New Year and ruined everyone's holidays. No wonder you hate that shougun's guts.",
+  "otherMeanings": [
+    "New Year's Holidays",
+    "Japanese New Year"
+  ],
+  "otherReadings": [],
+  "wkSlug": "正月",
+  "related": {
+    "radicals": [
+      1,
+      44,
+      43
+    ],
+    "kanjis": [
+      488,
+      477
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうがつ",
+      "url": "https://files.wanikani.com/87s2x32pi1ck3f17x0trgecnslr0"
+    }
+  ]
+}

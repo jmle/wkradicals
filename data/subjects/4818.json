@@ -1,0 +1,38 @@
+{
+  "id": 4818,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "満員"
+  },
+  "primaryMeaning": "Full House",
+  "meaningMnemonic": "<kanji>Full</kanji> of <kanji>member</kanji>s, so sorry, no more room. This place is a <vocabulary>full house</vocabulary>. That means there is <vocabulary>no vacancy</vocabulary> here.",
+  "primaryReading": "まんいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "No Vacancy",
+    "Jam-Packed"
+  ],
+  "otherReadings": [],
+  "wkSlug": "満員",
+  "related": {
+    "radicals": [
+      103,
+      90,
+      304,
+      16,
+      94
+    ],
+    "kanjis": [
+      1271,
+      821
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まんいん",
+      "url": "https://files.wanikani.com/q5ozhvrm7c2we2toletlli4jna8t"
+    }
+  ]
+}

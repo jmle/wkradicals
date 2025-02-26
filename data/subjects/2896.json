@@ -1,0 +1,37 @@
+{
+  "id": 2896,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "不明"
+  },
+  "primaryMeaning": "Unknown",
+  "meaningMnemonic": "Something that is <kanji>not</kanji> <kanji>bright</kanji> is cloudy and fuzzy. What do you think when you look into the fuzzy clouds? It is the <vocabulary>unknown</vocabulary>, the <vocabulary>unclear</vocabulary>, the <vocabulary>uncertain</vocabulary>.",
+  "primaryReading": "ふめい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Unclear",
+    "Uncertain",
+    "Unsure"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不明",
+  "related": {
+    "radicals": [
+      96,
+      22,
+      43
+    ],
+    "kanjis": [
+      563,
+      626
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふめい",
+      "url": "https://files.wanikani.com/8tay5b3861qlujfitn6kebpzswcb"
+    }
+  ]
+}

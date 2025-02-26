@@ -1,0 +1,33 @@
+{
+  "id": 6473,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "やり甲斐"
+  },
+  "primaryMeaning": "Worth Doing",
+  "meaningMnemonic": "The やり part is from やる which is \"to do.\" So, if the <kanji>effect</kanji> (甲斐) is good to do, then it is <vocabulary>worth doing</vocabulary>.",
+  "primaryReading": "やりがい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "やり甲斐",
+  "related": {
+    "radicals": [
+      330,
+      209,
+      42
+    ],
+    "kanjis": [
+      1732,
+      1733
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やりがい",
+      "url": "https://files.wanikani.com/j2witdxzwkhm2jkvjvl5w3d9eegz"
+    }
+  ]
+}

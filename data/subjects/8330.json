@@ -1,0 +1,41 @@
+{
+  "id": 8330,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "無報酬"
+  },
+  "primaryMeaning": "Without Pay",
+  "meaningMnemonic": "You already learned that 報酬 means \"compensation,\" so adding <kanji>not</kanji> to it means the person working isn't getting paid, aka working <vocabulary>without pay</vocabulary>. ",
+  "primaryReading": "むほうしゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Gratuitous",
+    "Free Of Charge"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無報酬",
+  "related": {
+    "radicals": [
+      252,
+      260,
+      145,
+      30,
+      182,
+      3,
+      21
+    ],
+    "kanjis": [
+      1008,
+      1035,
+      2231
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むほうしゅう",
+      "url": "https://files.wanikani.com/lncl6tbizhcnj7kwvg21225p12fe"
+    }
+  ]
+}

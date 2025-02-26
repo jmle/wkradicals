@@ -1,0 +1,35 @@
+{
+  "id": 7699,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "遠く"
+  },
+  "primaryMeaning": "Far Away",
+  "meaningMnemonic": "This is the noun/no-adjective version of the kanji <kanji>far</kanji>, so it means <vocabulary>far away</vocabulary> or <vocabulary>distant</vocabulary>.",
+  "primaryReading": "とおく",
+  "readingMnemonic": "This uses the kun'yomi reading which you learned with 遠い. How convenient!",
+  "otherMeanings": [
+    "Distant",
+    "At A Distance",
+    "Distant Place"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遠く",
+  "related": {
+    "radicals": [
+      114,
+      8784
+    ],
+    "kanjis": [
+      963
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とおく",
+      "url": "https://files.wanikani.com/ey7lx9oaktf1n1eewppmp2zs25rb"
+    }
+  ]
+}

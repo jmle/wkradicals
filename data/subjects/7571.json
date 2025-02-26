@@ -1,0 +1,41 @@
+{
+  "id": 7571,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "不自由"
+  },
+  "primaryMeaning": "Discomfort",
+  "meaningMnemonic": "Remember how 自由 means freedom? Well when you add <kanji>not</kanji> it causes you <vocabulary>discomfort</vocabulary> and really <vocabulary>inconveniences</vocabulary> you. That not is in the way of your freedom.",
+  "primaryReading": "ふじゆう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Inconvenience",
+    "Disability",
+    "Impairment",
+    "Poverty",
+    "Destitution"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不自由",
+  "related": {
+    "radicals": [
+      96,
+      109,
+      15,
+      16
+    ],
+    "kanjis": [
+      563,
+      578,
+      648
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふじゆう",
+      "url": "https://files.wanikani.com/7khp08pe59f58r4kxvv807liyczm"
+    }
+  ]
+}

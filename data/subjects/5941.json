@@ -1,0 +1,33 @@
+{
+  "id": 5941,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "奴ら"
+  },
+  "primaryMeaning": "Those Dudes",
+  "meaningMnemonic": "If a 奴 is just some dude or some guy, adding a ら on there makes it plural. Now it's <vocabulary>those dudes</vocabulary> or <vocabulary>those guys</vocabulary>.",
+  "primaryReading": "やつら",
+  "readingMnemonic": "The reading comes from 奴.",
+  "otherMeanings": [
+    "Those Guys"
+  ],
+  "otherReadings": [],
+  "wkSlug": "奴ら",
+  "related": {
+    "radicals": [
+      19,
+      30
+    ],
+    "kanjis": [
+      1551
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やつら",
+      "url": "https://files.wanikani.com/pb6r0svj8ftonahj66klrqq0tlpv"
+    }
+  ]
+}

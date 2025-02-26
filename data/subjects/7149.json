@@ -1,0 +1,37 @@
+{
+  "id": 7149,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "本屋"
+  },
+  "primaryMeaning": "Bookstore",
+  "meaningMnemonic": "A <kanji>book</kanji> <kanji>shop</kanji> is a shop that sells books. A <vocabulary>bookstore</vocabulary>.",
+  "primaryReading": "ほんや",
+  "readingMnemonic": "The readings are the ones that you learned with the kanji.",
+  "otherMeanings": [
+    "Bookshop"
+  ],
+  "otherReadings": [],
+  "wkSlug": "本屋",
+  "related": {
+    "radicals": [
+      50,
+      37,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      487,
+      724
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほんや",
+      "url": "https://files.wanikani.com/mq4sxsg6p03mre1k1c4ivqgz3oy3"
+    }
+  ]
+}

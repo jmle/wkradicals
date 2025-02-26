@@ -1,0 +1,34 @@
+{
+  "id": 7988,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "挟まる"
+  },
+  "primaryMeaning": "To Get Between",
+  "meaningMnemonic": "You already learned the word 挟む which means \"to put between.\" Well this is when something is between two things and you're not putting it there. It's just kinda doing it by itself. It means <vocabulary>to get between</vocabulary> or <vocabulary>to be caught in</vocabulary>.",
+  "primaryReading": "はさまる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading when you learned 挟む, so you should be able to read this word as well.",
+  "otherMeanings": [
+    "To Be Caught In"
+  ],
+  "otherReadings": [],
+  "wkSlug": "挟まる",
+  "related": {
+    "radicals": [
+      63,
+      146,
+      8767
+    ],
+    "kanjis": [
+      2123
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はさまる",
+      "url": "https://files.wanikani.com/iui3xs7w7ztwv8ecylx7l1sczf0s"
+    }
+  ]
+}

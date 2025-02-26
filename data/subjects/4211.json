@@ -1,0 +1,36 @@
+{
+  "id": 4211,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "暴力"
+  },
+  "primaryMeaning": "Violence",
+  "meaningMnemonic": "The <kanji>power</kanji> of <kanji>violence</kanji> is more <vocabulary>violence</vocabulary>, and it is a <vocabulary>force</vocabulary> to be reckoned with.",
+  "primaryReading": "ぼうりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Force"
+  ],
+  "otherReadings": [],
+  "wkSlug": "暴力",
+  "related": {
+    "radicals": [
+      22,
+      269,
+      45,
+      13
+    ],
+    "kanjis": [
+      1077,
+      447
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうりょく",
+      "url": "https://files.wanikani.com/hy3jmz292g9zjrlmrufo5mltpwgm"
+    }
+  ]
+}

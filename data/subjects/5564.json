@@ -1,0 +1,37 @@
+{
+  "id": 5564,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "傷者"
+  },
+  "primaryMeaning": "Injured Person",
+  "meaningMnemonic": "<kanji>Someone</kanji> who has a <kanji>wound</kanji> is someone who is wounded. They are an <vocabulary>injured person</vocabulary>.",
+  "primaryReading": "しょうしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Wounded Person"
+  ],
+  "otherReadings": [],
+  "wkSlug": "傷者",
+  "related": {
+    "radicals": [
+      75,
+      8762,
+      172,
+      104,
+      22
+    ],
+    "kanjis": [
+      1499,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうしゃ",
+      "url": "https://files.wanikani.com/sdia56tvlndgx8xbnq38o3kxzlj0"
+    }
+  ]
+}

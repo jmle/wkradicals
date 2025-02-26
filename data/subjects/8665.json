@@ -1,0 +1,36 @@
+{
+  "id": 8665,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "部室"
+  },
+  "primaryMeaning": "Clubroom",
+  "meaningMnemonic": "A <kanji>club</kanji> <kanji>room</kanji> is a <vocabulary>clubroom</vocabulary>!",
+  "primaryReading": "ぶしつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "部室",
+  "related": {
+    "radicals": [
+      175,
+      176,
+      78,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      721,
+      635
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶしつ",
+      "url": "https://files.wanikani.com/ymubpjc8ae24s4mmuq5ru7aa6y6h"
+    }
+  ]
+}

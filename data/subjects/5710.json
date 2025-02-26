@@ -1,0 +1,36 @@
+{
+  "id": 5710,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "掃除する"
+  },
+  "primaryMeaning": "To Clean",
+  "meaningMnemonic": "掃除 is <kanji>cleaning</kanji>, so the verb version would be <vocabulary>to clean</vocabulary>.",
+  "primaryReading": "そうじする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Also, it'll help to know the word 掃除 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "掃除する",
+  "related": {
+    "radicals": [
+      63,
+      105,
+      76,
+      102,
+      176,
+      313
+    ],
+    "kanjis": [
+      1455,
+      1451
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうじする",
+      "url": "https://files.wanikani.com/1omo0oa6gzzol8uo662tmyzdh5el"
+    }
+  ]
+}

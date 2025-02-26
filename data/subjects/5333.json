@@ -1,0 +1,36 @@
+{
+  "id": 5333,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "渇く"
+  },
+  "primaryMeaning": "To Become Thirsty",
+  "meaningMnemonic": "When you have a <kanji>thirst</kanji>, you tend <vocabulary>to become thirsty</vocabulary>.\n\nNote that this does not mean “to be thirsty” by itself, but only in combination with 喉, as in 喉が渇く.",
+  "primaryReading": "かわく",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Go grab a cup of water so you don't become dehydrated, okay?",
+  "otherMeanings": [
+    "To Be Thirsty",
+    "To Become Dry"
+  ],
+  "otherReadings": [],
+  "wkSlug": "渇く",
+  "related": {
+    "radicals": [
+      103,
+      22,
+      14,
+      57
+    ],
+    "kanjis": [
+      1414
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かわく",
+      "url": "https://files.wanikani.com/xmqvjkwl6za46ow37elr0pt7z0mv"
+    }
+  ]
+}

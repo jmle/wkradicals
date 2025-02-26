@@ -1,0 +1,31 @@
+{
+  "id": 6929,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "滝"
+  },
+  "primaryMeaning": "Waterfall",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たき",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "滝",
+  "related": {
+    "radicals": [
+      103,
+      394
+    ],
+    "kanjis": [
+      1938
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たき",
+      "url": "https://files.wanikani.com/ju30ilxhfil5joaeaouqwvnfaffy"
+    }
+  ]
+}

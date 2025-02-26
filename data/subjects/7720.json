@@ -1,0 +1,37 @@
+{
+  "id": 7720,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "恐れ"
+  },
+  "primaryMeaning": "Fear",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>fear</kanji>, so it means <vocabulary>fear</vocabulary> too.",
+  "primaryReading": "おそれ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "otherMeanings": [
+    "Horror",
+    "Anxiety",
+    "Concern",
+    "Uneasiness",
+    "Dread"
+  ],
+  "otherReadings": [],
+  "wkSlug": "恐れ",
+  "related": {
+    "radicals": [
+      241,
+      65
+    ],
+    "kanjis": [
+      1406
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おそれ",
+      "url": "https://files.wanikani.com/6bgwxzplv654dvcwsxoq1iytwwiv"
+    }
+  ]
+}

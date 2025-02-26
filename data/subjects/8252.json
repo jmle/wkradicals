@@ -1,0 +1,36 @@
+{
+  "id": 8252,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "脊髄"
+  },
+  "primaryMeaning": "Spinal Cord",
+  "meaningMnemonic": "<kanji>Marrow</kanji> that gives you <kanji>stature</kanji> is inside of your <vocabulary>spinal cord</vocabulary>. ",
+  "primaryReading": "せきずい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "脊髄",
+  "related": {
+    "radicals": [
+      7,
+      9,
+      43,
+      385,
+      371,
+      114
+    ],
+    "kanjis": [
+      2284,
+      2271
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せきずい",
+      "url": "https://files.wanikani.com/t3azpwixk40ky50rcag24p3fmj5q"
+    }
+  ]
+}

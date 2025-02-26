@@ -1,0 +1,32 @@
+{
+  "id": 8895,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "〜斤"
+  },
+  "primaryMeaning": "Bread Loaf Counter",
+  "meaningMnemonic": "This has the 〜 for counters, so you can bet this shares the <vocabulary>bread loaf counter</vocabulary> meaning with the kanji.",
+  "primaryReading": "きん",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Counter for Loaves of Bread"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜斤",
+  "related": {
+    "radicals": [
+      115
+    ],
+    "kanjis": [
+      8884
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きん",
+      "url": "https://files.wanikani.com/3w1bl19umi39u2o8ekhfk8cxnpqi"
+    }
+  ]
+}

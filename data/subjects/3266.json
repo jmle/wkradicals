@@ -1,0 +1,35 @@
+{
+  "id": 3266,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "特別"
+  },
+  "primaryMeaning": "Special",
+  "meaningMnemonic": "Something that is <kanji>special</kanji> and <kanji>separate</kanji> from the rest is, well, <vocabulary>special</vocabulary>.",
+  "primaryReading": "とくべつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "特別",
+  "related": {
+    "radicals": [
+      126,
+      192,
+      16,
+      24,
+      128
+    ],
+    "kanjis": [
+      807,
+      785
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とくべつ",
+      "url": "https://files.wanikani.com/ipuquqfee6h40k301p1zl9u6jkwl"
+    }
+  ]
+}

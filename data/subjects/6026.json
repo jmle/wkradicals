@@ -1,0 +1,34 @@
+{
+  "id": 6026,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "象牙"
+  },
+  "primaryMeaning": "Ivory",
+  "meaningMnemonic": "An <kanji>elephant</kanji> <kanji>tusk</kanji> is the material known as <vocabulary>ivory</vocabulary> (or just an <vocabulary>elephant tusk</vocabulary>).",
+  "primaryReading": "ぞうげ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Elephant Tusk"
+  ],
+  "otherReadings": [],
+  "wkSlug": "象牙",
+  "related": {
+    "radicals": [
+      8823,
+      333
+    ],
+    "kanjis": [
+      1237,
+      1642
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぞうげ",
+      "url": "https://files.wanikani.com/g4exz6f1ie1rf3ox8c9d08tp3taj"
+    }
+  ]
+}

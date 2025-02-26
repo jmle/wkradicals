@@ -1,0 +1,34 @@
+{
+  "id": 5830,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "腐食"
+  },
+  "primaryMeaning": "Corrosion",
+  "meaningMnemonic": "When something <kanji>rot</kanji>s and <kanji>eat</kanji>s away at something, that is <vocabulary>corrosion</vocabulary>. Not a good thing.",
+  "primaryReading": "ふしょく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "腐食",
+  "related": {
+    "radicals": [
+      62,
+      248,
+      108,
+      139
+    ],
+    "kanjis": [
+      1578,
+      644
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふしょく",
+      "url": "https://files.wanikani.com/sdg0cngml3lpea4mmpmht97ygvrf"
+    }
+  ]
+}

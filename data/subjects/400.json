@@ -1,0 +1,22 @@
+{
+  "id": 400,
+  "type": "radical",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "恵"
+  },
+  "primaryMeaning": "Favor",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>favor</radical>.",
+  "wkSlug": "favor",
+  "related": {
+    "kanjis": [
+      1966
+    ],
+    "vocabularies": [
+      7025,
+      7026
+    ]
+  }
+}

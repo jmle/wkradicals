@@ -1,0 +1,36 @@
+{
+  "id": 4969,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "お誕生日おめでとう"
+  },
+  "primaryMeaning": "Happy Birthday",
+  "meaningMnemonic": "誕生日 is <kanji>birthday</kanji>. おめでとう is like \"congratulations.\" So, congratulations for your birthday is like <vocabulary>happy birthday</vocabulary>!",
+  "primaryReading": "おたんじょうびおめでとう",
+  "readingMnemonic": "The reading is the same as 誕生日, so if you know that you know this!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "お誕生日おめでとう",
+  "related": {
+    "radicals": [
+      117,
+      206,
+      229,
+      210,
+      22
+    ],
+    "kanjis": [
+      1156,
+      850,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おたんじょうびおめでとう",
+      "url": "https://files.wanikani.com/s1rzq9zhnkfs9ce2vod2m46j1ubj"
+    }
+  ]
+}

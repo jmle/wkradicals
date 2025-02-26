@@ -1,0 +1,33 @@
+{
+  "id": 7172,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "辱める"
+  },
+  "primaryMeaning": "To Humiliate",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>humiliate</kanji> so the verb vocab version is <vocabulary>to humiliate</vocabulary>.",
+  "primaryReading": "はずかしめる",
+  "readingMnemonic": "Remember the word 恥ずかしい? It has the same reading as this one, and a similar meaning as well.",
+  "otherMeanings": [
+    "To Embarrass"
+  ],
+  "otherReadings": [],
+  "wkSlug": "辱める",
+  "related": {
+    "radicals": [
+      183,
+      74
+    ],
+    "kanjis": [
+      2016
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はずかしめる",
+      "url": "https://files.wanikani.com/ar9eoo77n7vj897wzdnqi00llthf"
+    }
+  ]
+}

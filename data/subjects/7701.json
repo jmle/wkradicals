@@ -1,0 +1,38 @@
+{
+  "id": 7701,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "相変わらず"
+  },
+  "primaryMeaning": "As Usual",
+  "meaningMnemonic": "A <kanji>mutual</kanji> <kanji>change</kanji> you make with other people will go so smoothly that it will seem like everything is working <vocabulary>as usual</vocabulary>. It will be like everything is <vocabulary>the same</vocabulary> as it was before because the change was mutual.",
+  "primaryReading": "あいかわらず",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "As Ever",
+    "The Same",
+    "As Before"
+  ],
+  "otherReadings": [],
+  "wkSlug": "相変わらず",
+  "related": {
+    "radicals": [
+      23,
+      53,
+      9329,
+      60
+    ],
+    "kanjis": [
+      730,
+      944
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あいかわらず",
+      "url": "https://files.wanikani.com/gx288eoj59jz9jlgrf1lwrorpzzy"
+    }
+  ]
+}

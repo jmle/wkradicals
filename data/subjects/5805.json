@@ -1,0 +1,39 @@
+{
+  "id": 5805,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "震源地"
+  },
+  "primaryMeaning": "Epicenter",
+  "meaningMnemonic": "The <kanji>earthquake</kanji> <kanji>origin</kanji> <kanji>ground</kanji> is where the earthquake started from. It is the <vocabulary>epicenter</vocabulary>.",
+  "primaryReading": "しんげんち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Epicentre"
+  ],
+  "otherReadings": [],
+  "wkSlug": "震源地",
+  "related": {
+    "radicals": [
+      119,
+      183,
+      103,
+      230,
+      17,
+      77
+    ],
+    "kanjis": [
+      1099,
+      1568,
+      608
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんげんち",
+      "url": "https://files.wanikani.com/0lg6ly33cc4bpx2zhizc68v3k41s"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8900,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "長袖"
+  },
+  "primaryMeaning": "Long Sleeves",
+  "meaningMnemonic": "<kanji>Long</kanji> <kanji>sleeve</kanji>s are <vocabulary>long sleeves</vocabulary>.",
+  "primaryReading": "ながそで",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji. You've learned them both already, so you should be able to read this already!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "長袖",
+  "related": {
+    "radicals": [
+      138,
+      80,
+      268
+    ],
+    "kanjis": [
+      632,
+      8885
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ながそで",
+      "url": "https://files.wanikani.com/jyuihkstmzbs88doxp857jl277kx"
+    }
+  ]
+}

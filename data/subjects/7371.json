@@ -1,0 +1,36 @@
+{
+  "id": 7371,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "下駄"
+  },
+  "primaryMeaning": "Geta",
+  "meaningMnemonic": "Look <kanji>below</kanji> you. These things carry your <kanji>burdensome</kanji> weight. All of it. These are the shoes you wear, though in this case they are specifically <vocabulary>geta</vocabulary>, or <vocabulary>Japanese wooden clogs</vocabulary>. The clogs themselves are kind of burdensome and hard to wear too, actually, so you can think of it that way as well.",
+  "primaryReading": "げた",
+  "readingMnemonic": "The reading for 駄 is the secondary kanji reading. Instead of だ it's た. Hopefully you've heard of \"geta\" before. This will make it really easy for you to remember the reading of this vocab word.",
+  "otherMeanings": [
+    "Japanese Wooden Clogs"
+  ],
+  "otherReadings": [],
+  "wkSlug": "下駄",
+  "related": {
+    "radicals": [
+      1,
+      10,
+      165,
+      411
+    ],
+    "kanjis": [
+      451,
+      2087
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げた",
+      "url": "https://files.wanikani.com/s6y728i4a548ntu9jaj1f73x9t93"
+    }
+  ]
+}

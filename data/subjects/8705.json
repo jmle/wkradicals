@@ -1,0 +1,37 @@
+{
+  "id": 8705,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "神様"
+  },
+  "primaryMeaning": "God",
+  "meaningMnemonic": "<kanji>God</kanji> (<kanji>formal name ender</kanji>) is <vocabulary>God</vocabulary>! Or the <vocabulary>gods</vocabulary>, if you're talking to more than one. You have to be polite to them, so you add that ender on there. ",
+  "primaryReading": "かみさま",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned them both already so you should be able to read this too!",
+  "otherMeanings": [
+    "Gods"
+  ],
+  "otherReadings": [],
+  "wkSlug": "神様",
+  "related": {
+    "radicals": [
+      80,
+      190,
+      23,
+      136,
+      45
+    ],
+    "kanjis": [
+      799,
+      865
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かみさま",
+      "url": "https://files.wanikani.com/fxn8zhy6tfq0tu07yxqh2f5ltv4e"
+    }
+  ]
+}

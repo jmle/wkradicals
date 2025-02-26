@@ -1,0 +1,34 @@
+{
+  "id": 2836,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "三角"
+  },
+  "primaryMeaning": "Triangle",
+  "meaningMnemonic": "When you have something with <kanji>three</kanji> <kanji>angle</kanji>s, what shape is that? It's a <vocabulary>triangle</vocabulary>.",
+  "primaryReading": "さんかく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "三角",
+  "related": {
+    "radicals": [
+      1,
+      7,
+      14,
+      71
+    ],
+    "kanjis": [
+      449,
+      592
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんかく",
+      "url": "https://files.wanikani.com/1oqtajjio0rxwsc0kda0i4fe46d4"
+    }
+  ]
+}

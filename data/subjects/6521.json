@@ -1,0 +1,35 @@
+{
+  "id": 6521,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "炭素"
+  },
+  "primaryMeaning": "Carbon",
+  "meaningMnemonic": "Things of the <kanji>charcoal</kanji> <kanji>element</kanji> are made up of much <vocabulary>carbon</vocabulary>. Just look deep into the charcoal to see all the carbon in there.",
+  "primaryReading": "たんそ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "炭素",
+  "related": {
+    "radicals": [
+      20,
+      116,
+      46,
+      210,
+      86
+    ],
+    "kanjis": [
+      1793,
+      1138
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たんそ",
+      "url": "https://files.wanikani.com/9oz098q9si91f0ze1rwegt5lp3zm"
+    }
+  ]
+}

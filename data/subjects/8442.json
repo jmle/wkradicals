@@ -1,0 +1,38 @@
+{
+  "id": 8442,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "嘱託"
+  },
+  "primaryMeaning": "Part Time Employee",
+  "meaningMnemonic": "A company <kanji>request</kanji>s <kanji>consign</kanji>ment work and you take it to become a <vocabulary>part time employee</vocabulary>.",
+  "primaryReading": "しょくたく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Temporary Employee"
+  ],
+  "otherReadings": [],
+  "wkSlug": "嘱託",
+  "related": {
+    "radicals": [
+      16,
+      37,
+      425,
+      117,
+      5,
+      4
+    ],
+    "kanjis": [
+      2381,
+      1701
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょくたく",
+      "url": "https://files.wanikani.com/hggw3wfgs72vjjmex44dtti8vyv0"
+    }
+  ]
+}

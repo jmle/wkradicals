@@ -1,0 +1,35 @@
+{
+  "id": 4741,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "述べる"
+  },
+  "primaryMeaning": "To Mention",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>mention</kanji> so the verb vocab version is <vocabulary>to mention</vocabulary>.\n\nThis is a formal word often used in writing.",
+  "primaryReading": "のべる",
+  "readingMnemonic": "I have <vocabulary>to mention</vocabulary> this thing... \"<reading>NO</reading>,\" (の) you quickly respond. I don't want you mentioning that here and now.",
+  "otherMeanings": [
+    "To State",
+    "To Explain"
+  ],
+  "otherReadings": [],
+  "wkSlug": "述べる",
+  "related": {
+    "radicals": [
+      114,
+      130,
+      3
+    ],
+    "kanjis": [
+      1243
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のべる",
+      "url": "https://files.wanikani.com/bv6t5y700d4rd1prg7621jncdkck"
+    }
+  ]
+}

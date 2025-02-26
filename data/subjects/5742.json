@@ -1,0 +1,37 @@
+{
+  "id": 5742,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "賛成する"
+  },
+  "primaryMeaning": "To Agree",
+  "meaningMnemonic": "The 賛成 portion means \"agreement\", \"approval\", or \"support\", so the verb version would also be <vocabulary>to agree</vocabulary>, <vocabulary>to approve</vocabulary>, or <vocabulary>to support</vocabulary>!",
+  "primaryReading": "さんせいする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "To Approve",
+    "To Support"
+  ],
+  "otherReadings": [],
+  "wkSlug": "賛成する",
+  "related": {
+    "radicals": [
+      146,
+      94,
+      194,
+      24
+    ],
+    "kanjis": [
+      1495,
+      780
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんせいする",
+      "url": "https://files.wanikani.com/nurp8iuf00c4a30q3e8womula14c"
+    }
+  ]
+}

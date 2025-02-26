@@ -1,0 +1,38 @@
+{
+  "id": 5318,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "撮影"
+  },
+  "primaryMeaning": "Photography",
+  "meaningMnemonic": "If you <kanji>photograph</kanji> a <kanji>shadow</kanji>, you're obviously doing some kind of <vocabulary>photography</vocabulary>. (In the old days photography meant using light to burn shadows onto special paper, but now it's all fancy and digital.) This isn't just still photography though; it also means <vocabulary>filming</vocabulary> (as in a video or movie). Basically, if it has to do with taking photos or video, 撮影 is your dude.",
+  "primaryReading": "さつえい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Filming"
+  ],
+  "otherReadings": [],
+  "wkSlug": "撮影",
+  "related": {
+    "radicals": [
+      63,
+      22,
+      88,
+      30,
+      299,
+      38
+    ],
+    "kanjis": [
+      1441,
+      1251
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さつえい",
+      "url": "https://files.wanikani.com/raplfcqsl699yflwcpqvmj38blbv"
+    }
+  ]
+}

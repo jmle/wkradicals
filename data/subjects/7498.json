@@ -1,0 +1,33 @@
+{
+  "id": 7498,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "僕"
+  },
+  "primaryMeaning": "I",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well!",
+  "primaryReading": "ぼく",
+  "readingMnemonic": "This word uses the same reading as the one you learned with the kanji. <vocabulary> I</vocabulary> certainly like that and I bet you do too.",
+  "otherMeanings": [
+    "Me"
+  ],
+  "otherReadings": [],
+  "wkSlug": "僕",
+  "related": {
+    "radicals": [
+      75,
+      390
+    ],
+    "kanjis": [
+      1890
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼく",
+      "url": "https://files.wanikani.com/wf7vp2qvfqy9ptteyg75ln749gtb"
+    }
+  ]
+}

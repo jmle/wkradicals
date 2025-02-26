@@ -1,0 +1,33 @@
+{
+  "id": 3604,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "橋"
+  },
+  "primaryMeaning": "Bridge",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はし",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji! No need to burn any 橋s with this word and its kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "橋",
+  "related": {
+    "radicals": [
+      23,
+      40,
+      16,
+      121
+    ],
+    "kanjis": [
+      866
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はし",
+      "url": "https://files.wanikani.com/knar5u7xt0aeultfvtwzjl3nlx4h"
+    }
+  ]
+}

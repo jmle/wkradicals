@@ -1,0 +1,35 @@
+{
+  "id": 6866,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "凶器"
+  },
+  "primaryMeaning": "Dangerous Weapon",
+  "meaningMnemonic": "A <kanji>villain</kanji> <kanji>vessel</kanji> is a vessel used by a villain. This vessel holds bullets, and is a <vocabulary>dangerous weapon</vocabulary>.",
+  "primaryReading": "きょうき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Lethal Weapon"
+  ],
+  "otherReadings": [],
+  "wkSlug": "凶器",
+  "related": {
+    "radicals": [
+      262,
+      18,
+      227
+    ],
+    "kanjis": [
+      1911,
+      876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうき",
+      "url": "https://files.wanikani.com/mje64tcqm6ij0bckbhpw8twaf0fh"
+    }
+  ]
+}

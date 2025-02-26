@@ -1,0 +1,37 @@
+{
+  "id": 8629,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "泌尿器"
+  },
+  "primaryMeaning": "Urinary Organs",
+  "meaningMnemonic": "The <kanji>container</kanji>s your <kanji>urine</kanji> <kanji>secrete</kanji>s into are your <vocabulary>urinary organs</vocabulary>. ",
+  "primaryReading": "ひにょうき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "泌尿器",
+  "related": {
+    "radicals": [
+      103,
+      343,
+      37,
+      45,
+      18,
+      227
+    ],
+    "kanjis": [
+      2460,
+      2276,
+      876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひにょうき",
+      "url": "https://files.wanikani.com/1ecng0ytkei52ou97p3bx020cgo3"
+    }
+  ]
+}

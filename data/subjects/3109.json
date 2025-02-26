@@ -1,0 +1,38 @@
+{
+  "id": 3109,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "名物"
+  },
+  "primaryMeaning": "Local Specialty",
+  "meaningMnemonic": "The <kanji>famous</kanji> <kanji>thing</kanji> of an area is their <vocabulary>famous product</vocabulary>, but it sounds better in English if you say it's the <vocabulary>local specialty</vocabulary>. When you're traveling around Japan, be sure to be on the lookout for the 名物! It's always fun.",
+  "primaryReading": "めいぶつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Famous Product",
+    "Specialty",
+    "Famous Goods"
+  ],
+  "otherReadings": [],
+  "wkSlug": "名物",
+  "related": {
+    "radicals": [
+      33,
+      16,
+      126,
+      173
+    ],
+    "kanjis": [
+      544,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めいぶつ",
+      "url": "https://files.wanikani.com/8xcfor82sjihka6xe6izo2g4wc11"
+    }
+  ]
+}

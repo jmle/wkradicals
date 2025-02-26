@@ -1,0 +1,36 @@
+{
+  "id": 7089,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "土塀"
+  },
+  "primaryMeaning": "Mud Wall",
+  "meaningMnemonic": "A <kanji>soil</kanji> <kanji>fence</kanji> is a fence made from soil. Usually this is in the form of a <vocabulary>mud wall</vocabulary> or an <vocabulary>earthen wall</vocabulary>.",
+  "primaryReading": "どべい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Earthen Wall"
+  ],
+  "otherReadings": [],
+  "wkSlug": "土塀",
+  "related": {
+    "radicals": [
+      17,
+      37,
+      8767,
+      171
+    ],
+    "kanjis": [
+      459,
+      1989
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どべい",
+      "url": "https://files.wanikani.com/xa6x3pc8im95lficvijk79r44c6h"
+    }
+  ]
+}

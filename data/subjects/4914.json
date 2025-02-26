@@ -1,0 +1,38 @@
+{
+  "id": 4914,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "従来"
+  },
+  "primaryMeaning": "Up To Now",
+  "meaningMnemonic": "You've <kanji>obey</kanji>ed all that has <kanji>come</kanji> <vocabulary>up to now</vocabulary>. That's because it's the <vocabulary>conventional</vocabulary> way of doing things, and it's what's <vocabulary>conventionally</vocabulary> expected of you.\n\nThis word is a relatively formal way to talk about how things have been up to now. It's commonly used with の to modify a noun or phrase, or as an adverb.",
+  "primaryReading": "じゅうらい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Conventional",
+    "Conventionally"
+  ],
+  "otherReadings": [],
+  "wkSlug": "従来",
+  "related": {
+    "radicals": [
+      99,
+      8767,
+      229,
+      1,
+      98
+    ],
+    "kanjis": [
+      1293,
+      590
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうらい",
+      "url": "https://files.wanikani.com/jd0jzy2wadz0c7hhzxku89ae9kq2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4788,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "訴える"
+  },
+  "primaryMeaning": "To Sue",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>sue</kanji> so the verb vocab version is <vocabulary>to sue</vocabulary>.",
+  "primaryReading": "うったえる",
+  "readingMnemonic": "<reading>YOU TA</reading>KE (うった) MY THINGS, I AM GOING <vocabulary>TO SUE</vocabulary> YOU!",
+  "otherMeanings": [
+    "To Accuse",
+    "To Appeal",
+    "To Complain"
+  ],
+  "otherReadings": [],
+  "wkSlug": "訴える",
+  "related": {
+    "radicals": [
+      117,
+      115,
+      3
+    ],
+    "kanjis": [
+      1258
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うったえる",
+      "url": "https://files.wanikani.com/a6tey6mceq91yan9n43sbws76obd"
+    }
+  ]
+}

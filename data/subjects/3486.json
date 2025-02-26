@@ -1,0 +1,45 @@
+{
+  "id": 3486,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "研究所"
+  },
+  "primaryMeaning": "Research Institute",
+  "meaningMnemonic": "You've seen that 研究 is \"research\" from previous vocab, and you might remember 所 can mean \"facility.\" So this word means <vocabulary>research institute</vocabulary> or, of course, <vocabulary>research facility</vocabulary>.",
+  "primaryReading": "けんきゅうしょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will also help if you know the reading of 研究 already.\n\nAlso note that 所 is normal in first reading, but gets rendaku'd in the second reading, meaning しょ becomes じょ. Both readings are valid and they don't affect the meaning, so it just comes down to personal preference!",
+  "otherMeanings": [
+    "Research Facility"
+  ],
+  "otherReadings": [
+    "けんきゅうじょ"
+  ],
+  "wkSlug": "研究所",
+  "related": {
+    "radicals": [
+      54,
+      171,
+      170,
+      11,
+      73,
+      115
+    ],
+    "kanjis": [
+      691,
+      688,
+      707
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんきゅうしょ",
+      "url": "https://files.wanikani.com/yc35pqttvygb8ywcr2p049lr3b65"
+    },
+    {
+      "reading": "けんきゅうじょ",
+      "url": "https://files.wanikani.com/oqgahop90u0qu4otov6k50p8vrtg"
+    }
+  ]
+}

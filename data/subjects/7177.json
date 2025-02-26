@@ -1,0 +1,34 @@
+{
+  "id": 7177,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "鉢巻"
+  },
+  "primaryMeaning": "Headband",
+  "meaningMnemonic": "A <kanji>bowl</kanji> <kanji>scroll</kanji> is a little bowl thing that you put on your head. It's a <vocabulary>headband</vocabulary>.",
+  "primaryReading": "はちまき",
+  "readingMnemonic": "The reading is the reading of 鉢 and 巻く, put together into one word. The reading's pretty weird, but hopefully you can wrap it around your head.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鉢巻",
+  "related": {
+    "radicals": [
+      118,
+      50,
+      8819,
+      228
+    ],
+    "kanjis": [
+      2017,
+      1273
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はちまき",
+      "url": "https://files.wanikani.com/kgs3oz175vqzf15q2fboer6tfayv"
+    }
+  ]
+}

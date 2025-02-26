@@ -1,0 +1,38 @@
+{
+  "id": 2570,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "日本"
+  },
+  "primaryMeaning": "Japan",
+  "meaningMnemonic": "Remember the secondary meaning of 本 being \"origin\"? That technically makes this <kanji>sun</kanji> <kanji>origin</kanji>. Does that sound familiar? Japan is known as the \"land of the rising sun\", which is why this means <vocabulary>Japan</vocabulary>!",
+  "primaryReading": "にほん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. The 本 is read just how you learned it, but the 日 reading is sort of an exception here, so here's a mnemonic to help you:\n\nYou've finally arrived in <vocabulary>Japan</vocabulary> and immediately fall down on your <reading>knee</reading>s (に). After two excruciatingly long flights, you've finally made it. You're here. This is Japan. Now get up off your knees, people are starting to stare.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "にっぽん"
+  ],
+  "wkSlug": "日本",
+  "related": {
+    "radicals": [
+      22,
+      50
+    ],
+    "kanjis": [
+      476,
+      487
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にほん",
+      "url": "https://files.wanikani.com/74t8r5migm9q350bxemx58b5vj5g"
+    },
+    {
+      "reading": "にっぽん",
+      "url": "https://files.wanikani.com/7d5ekip8ik1q0076v2i4r048lggg"
+    }
+  ]
+}

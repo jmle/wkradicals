@@ -1,0 +1,34 @@
+{
+  "id": 2842,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "近い"
+  },
+  "primaryMeaning": "Close",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>near</kanji>? It's <vocabulary>close</vocabulary> or <vocabulary>nearby</vocabulary>.",
+  "primaryReading": "ちかい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have to remember the ちか portion to be able to read this word. Imagine someone <vocabulary>close</vocabulary> to you... Too close. They are so close to you that they're touching their <reading>cheek</reading> (ちか) to your cheek. Feel the cheek on yours, it's getting awkward.",
+  "otherMeanings": [
+    "Nearby",
+    "Near"
+  ],
+  "otherReadings": [],
+  "wkSlug": "近い",
+  "related": {
+    "radicals": [
+      114,
+      115
+    ],
+    "kanjis": [
+      596
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちかい",
+      "url": "https://files.wanikani.com/l9g89cwp8b7h4kpqbobo4qz1xkdu"
+    }
+  ]
+}

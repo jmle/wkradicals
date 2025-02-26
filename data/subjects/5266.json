@@ -1,0 +1,33 @@
+{
+  "id": 5266,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "積もる"
+  },
+  "primaryMeaning": "To Accumulate",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>accumulate</kanji> and the verb version is <vocabulary>to accumulate</vocabulary>.",
+  "primaryReading": "つもる",
+  "readingMnemonic": "If something accumulates, you can start with one, but you need at least <reading>two</reading> (つ) things to say it has accumulated. If you don't, then there's nothing accumulating at all.",
+  "otherMeanings": [
+    "To Get Piled Up"
+  ],
+  "otherReadings": [],
+  "wkSlug": "積もる",
+  "related": {
+    "radicals": [
+      135,
+      321
+    ],
+    "kanjis": [
+      1393
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つもる",
+      "url": "https://files.wanikani.com/6y7eqrifzsx10jyt3npsqw0msj0j"
+    }
+  ]
+}

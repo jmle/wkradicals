@@ -1,0 +1,38 @@
+{
+  "id": 8811,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "御札"
+  },
+  "primaryMeaning": "Amulet",
+  "meaningMnemonic": "You learned another vocabulary word 札 as \"amulet,\" but this is a special <kanji>honorable</kanji> <vocabulary>amulet</vocabulary>. It's a <vocabulary>talisman</vocabulary>.",
+  "primaryReading": "おふだ",
+  "readingMnemonic": "The reading for the 御 is お because ふだ uses the kun'yomi reading. Kun'yomi + kun'yomi = yes.",
+  "otherMeanings": [
+    "Talisman"
+  ],
+  "otherReadings": [],
+  "wkSlug": "御札",
+  "related": {
+    "radicals": [
+      99,
+      8762,
+      229,
+      145,
+      23,
+      211
+    ],
+    "kanjis": [
+      1728,
+      649
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おふだ",
+      "url": "https://files.wanikani.com/wow22avznwgy96uvulgg52emdkpw"
+    }
+  ]
+}

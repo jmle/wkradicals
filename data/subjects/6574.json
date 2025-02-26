@@ -1,0 +1,37 @@
+{
+  "id": 6574,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "双眼鏡"
+  },
+  "primaryMeaning": "Binoculars",
+  "meaningMnemonic": "A <kanji>pair</kanji> of <kanji>eyeball</kanji> <kanji>mirror</kanji>s - that's <vocabulary>binoculars</vocabulary>. Binoculars have mirrors in them to allow you to see through the pair of eye holes, which is how this word makes sense.",
+  "primaryReading": "そうがんきょう",
+  "readingMnemonic": "The 鏡 part uses the on'yomi reading, which you didn't learn. To remember this, just think about how when you look down binoculars, you see something strange (like a strange reading for 鏡). That strange thing you see through these fantastic binoculars is... tomorrow. Your binoculars are so strong that you can already see tomorrow, <reading>today</reading> (きょう)!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "双眼鏡",
+  "related": {
+    "radicals": [
+      30,
+      53,
+      196,
+      118,
+      55,
+      91
+    ],
+    "kanjis": [
+      1806,
+      1488,
+      887
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうがんきょう",
+      "url": "https://files.wanikani.com/rbcfqvo6uualfseyge64ria4wqsm"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7085,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "唇"
+  },
+  "primaryMeaning": "Lips",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "くちびる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "唇",
+  "related": {
+    "radicals": [
+      183,
+      16
+    ],
+    "kanjis": [
+      1988
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くちびる",
+      "url": "https://files.wanikani.com/lvjrpjmln4n80ife66sz7a7qdir2"
+    }
+  ]
+}

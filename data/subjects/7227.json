@@ -1,0 +1,36 @@
+{
+  "id": 7227,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "街灯"
+  },
+  "primaryMeaning": "Streetlight",
+  "meaningMnemonic": "A <kanji>street</kanji> <kanji>lamp</kanji> is a <vocabulary>streetlight</vocabulary>. Brightening up my street!",
+  "primaryReading": "がいとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Street Lamp"
+  ],
+  "otherReadings": [],
+  "wkSlug": "街灯",
+  "related": {
+    "radicals": [
+      17,
+      111,
+      46,
+      27
+    ],
+    "kanjis": [
+      1400,
+      2037
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がいとう",
+      "url": "https://files.wanikani.com/z35ralc7ck46dyuleijeo0swilwc"
+    }
+  ]
+}

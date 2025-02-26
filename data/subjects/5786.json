@@ -1,0 +1,31 @@
+{
+  "id": 5786,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "幕"
+  },
+  "primaryMeaning": "Curtain",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "まく",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, you lucky duck.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "幕",
+  "related": {
+    "radicals": [
+      356,
+      102
+    ],
+    "kanjis": [
+      1562
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まく",
+      "url": "https://files.wanikani.com/zpdj7r0mntn4cbt7fkxbt22s2vaa"
+    }
+  ]
+}

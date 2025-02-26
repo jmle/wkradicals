@@ -1,0 +1,35 @@
+{
+  "id": 3239,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "戦争"
+  },
+  "primaryMeaning": "War",
+  "meaningMnemonic": "You have <kanji>war</kanji> and <kanji>conflict</kanji>. Of course, conflict comes with war, so this word just means <vocabulary>war</vocabulary>.",
+  "primaryReading": "せんそう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "戦争",
+  "related": {
+    "radicals": [
+      199,
+      194,
+      14,
+      105,
+      6
+    ],
+    "kanjis": [
+      803,
+      775
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんそう",
+      "url": "https://files.wanikani.com/r25x4ah7dotnbej9x7d6yuztcdmb"
+    }
+  ]
+}

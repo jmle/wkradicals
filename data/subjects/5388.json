@@ -1,0 +1,33 @@
+{
+  "id": 5388,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "輸入する"
+  },
+  "primaryMeaning": "To Import",
+  "meaningMnemonic": "輸入 is <kanji>import</kanji>. Now let's make it a verb. <vocabulary>To import</vocabulary>.",
+  "primaryReading": "ゆにゅうする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know the word 輸入 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "輸入する",
+  "related": {
+    "radicals": [
+      93,
+      8790,
+      12
+    ],
+    "kanjis": [
+      1221,
+      445
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆにゅうする",
+      "url": "https://files.wanikani.com/l7zqfwnbj4tvzdw2zw0m4fmvdeo5"
+    }
+  ]
+}

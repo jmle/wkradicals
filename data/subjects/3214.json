@@ -1,0 +1,34 @@
+{
+  "id": 3214,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "主語"
+  },
+  "primaryMeaning": "Subject",
+  "meaningMnemonic": "The <kanji>main</kanji> thing you talk about in your <kanji>language</kanji> becomes the <vocabulary>subject</vocabulary> of the sentence.",
+  "primaryReading": "しゅご",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "主語",
+  "related": {
+    "radicals": [
+      154,
+      117,
+      39,
+      16
+    ],
+    "kanjis": [
+      528,
+      764
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅご",
+      "url": "https://files.wanikani.com/97mqtq6pqztvytc9wsm7zsfmc7fa"
+    }
+  ]
+}

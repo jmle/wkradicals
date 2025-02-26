@@ -1,0 +1,35 @@
+{
+  "id": 7438,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "尽くす"
+  },
+  "primaryMeaning": "To Exhaust Something",
+  "meaningMnemonic": "尽きる is \"to be exhausted\". 尽くす is when you're doing the exhausting of something, which makes it <vocabulary>to exhaust something</vocabulary> or <vocabulary>to run out</vocabulary>. It can also mean <vocabulary>to devote oneself</vocabulary> to a certain cause.",
+  "primaryReading": "つくす",
+  "readingMnemonic": "The reading comes from 尽きる.",
+  "otherMeanings": [
+    "To Run Out",
+    "To Do To Exhaustion",
+    "To Devote Oneself"
+  ],
+  "otherReadings": [],
+  "wkSlug": "尽くす",
+  "related": {
+    "radicals": [
+      215,
+      123
+    ],
+    "kanjis": [
+      2027
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つくす",
+      "url": "https://files.wanikani.com/xa02jmu1fw8sb0h9894wiqikuax5"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 7493,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "丁度いい"
+  },
+  "primaryMeaning": "Just Right",
+  "meaningMnemonic": "If 丁度 is \"exactly\", then \"exactly good\" is going to be just the right amount, aka <vocabulary>just right</vocabulary>.",
+  "primaryReading": "ちょうどいい",
+  "readingMnemonic": "If you know the reading for 丁度 you'll know the reading for this too. Your knowledge should be <vocabulary>just right</vocabulary>, as they say inside my head.",
+  "otherMeanings": [
+    "Exactly Right"
+  ],
+  "otherReadings": [],
+  "wkSlug": "丁度いい",
+  "related": {
+    "radicals": [
+      27,
+      8787,
+      30
+    ],
+    "kanjis": [
+      464,
+      725
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょうどいい",
+      "url": "https://files.wanikani.com/bhv5jahnth106ujrhvaq1hzd5jhr"
+    }
+  ]
+}

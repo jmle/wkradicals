@@ -1,0 +1,37 @@
+{
+  "id": 4319,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "経験者"
+  },
+  "primaryMeaning": "Experienced Person",
+  "meaningMnemonic": "<kanji>Someone</kanji> who has experience (経験) is an <vocabulary>experienced person</vocabulary>.",
+  "primaryReading": "けいけんしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "経験者",
+  "related": {
+    "radicals": [
+      86,
+      179,
+      165,
+      8785,
+      104,
+      22
+    ],
+    "kanjis": [
+      1120,
+      1048,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいけんしゃ",
+      "url": "https://files.wanikani.com/767d3mqvvypciy8zccwxpqhxm23j"
+    }
+  ]
+}

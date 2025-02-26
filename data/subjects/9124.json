@@ -1,0 +1,33 @@
+{
+  "id": 9124,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "某氏"
+  },
+  "primaryMeaning": "A Certain Person",
+  "meaningMnemonic": "A <kanji>certain</kanji> <kanji>family name</kanji> belongs to <vocabulary>a certain person</vocabulary>.",
+  "primaryReading": "ぼうし",
+  "readingMnemonic": "This word uses the on'yomi for both kanji, and you learned those readings with the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "某氏",
+  "related": {
+    "radicals": [
+      360,
+      23,
+      147
+    ],
+    "kanjis": [
+      2458,
+      647
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうし",
+      "url": "https://files.wanikani.com/r272vbehl5mzvekr01d4jythodlk"
+    }
+  ]
+}

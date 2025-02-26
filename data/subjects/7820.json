@@ -1,0 +1,36 @@
+{
+  "id": 7820,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "耕作"
+  },
+  "primaryMeaning": "Cultivation",
+  "meaningMnemonic": "<kanji>Plow</kanji> the earth to <kanji>make</kanji> it ready for <vocabulary>cultivation</vocabulary> and <vocabulary>farming</vocabulary>.",
+  "primaryReading": "こうさく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Farming"
+  ],
+  "otherReadings": [],
+  "wkSlug": "耕作",
+  "related": {
+    "radicals": [
+      388,
+      246,
+      75,
+      122
+    ],
+    "kanjis": [
+      2129,
+      584
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうさく",
+      "url": "https://files.wanikani.com/8zjjeqp49oxrf9ueflg11cot1knd"
+    }
+  ]
+}

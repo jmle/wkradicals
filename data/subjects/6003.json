@@ -1,0 +1,36 @@
+{
+  "id": 6003,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "維持"
+  },
+  "primaryMeaning": "Maintenance",
+  "meaningMnemonic": "<kanji>Maintain</kanji> what we have and put it on <kanji>hold</kanji>. We need to keep it up to date and fixed, so we need <vocabulary>maintenance</vocabulary>.",
+  "primaryReading": "いじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Support"
+  ],
+  "otherReadings": [],
+  "wkSlug": "維持",
+  "related": {
+    "radicals": [
+      86,
+      240,
+      63,
+      192
+    ],
+    "kanjis": [
+      1633,
+      727
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いじ",
+      "url": "https://files.wanikani.com/teu0zfhd3o19o06rnwzi2oefipn2"
+    }
+  ]
+}

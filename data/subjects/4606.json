@@ -1,0 +1,40 @@
+{
+  "id": 4606,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "弁護士"
+  },
+  "primaryMeaning": "Attorney",
+  "meaningMnemonic": "A <kanji>samurai</kanji> who uses <kanji>speech</kanji> to <kanji>defend</kanji> people. This samurai does their battle in the court of law. This \"samurai\" is an <vocabulary>attorney</vocabulary> or a <vocabulary>lawyer</vocabulary>.",
+  "primaryReading": "べんごし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Lawyer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "弁護士",
+  "related": {
+    "radicals": [
+      140,
+      106,
+      117,
+      90,
+      240,
+      30,
+      97
+    ],
+    "kanjis": [
+      984,
+      1192,
+      877
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "べんごし",
+      "url": "https://files.wanikani.com/5xnsak9q5yg0v651fr8liyjjah6k"
+    }
+  ]
+}

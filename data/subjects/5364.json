@@ -1,0 +1,39 @@
+{
+  "id": 5364,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "観覧"
+  },
+  "primaryMeaning": "Viewing",
+  "meaningMnemonic": "If you <kanji>view</kanji> and <kanji>look at</kanji> something, you are <vocabulary>viewing</vocabulary> that thing, or <vocabulary>watching</vocabulary> it.",
+  "primaryReading": "かんらん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Watching",
+    "Seeing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "観覧",
+  "related": {
+    "radicals": [
+      72,
+      240,
+      91,
+      323,
+      8762,
+      1
+    ],
+    "kanjis": [
+      1175,
+      1428
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんらん",
+      "url": "https://files.wanikani.com/pmkldk34ajcppf3ibq8tgyu3d4zu"
+    }
+  ]
+}

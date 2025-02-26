@@ -1,0 +1,39 @@
+{
+  "id": 7635,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "落ち"
+  },
+  "primaryMeaning": "Conclusion",
+  "meaningMnemonic": "When you're talking or writing a paper, the part that <kanji>falls</kanji> at the end is the <vocabulary>conclusion</vocabulary>.",
+  "primaryReading": "おち",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "otherMeanings": [
+    "Final Result",
+    "The End",
+    "Punch Line",
+    "Slip",
+    "Omission",
+    "Outcome"
+  ],
+  "otherReadings": [],
+  "wkSlug": "落ち",
+  "related": {
+    "radicals": [
+      90,
+      103,
+      180
+    ],
+    "kanjis": [
+      749
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おち",
+      "url": "https://files.wanikani.com/sk5lk9y75cq87h3vse6ur96r6xcg"
+    }
+  ]
+}

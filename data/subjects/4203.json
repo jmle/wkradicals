@@ -1,0 +1,37 @@
+{
+  "id": 4203,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "恋人"
+  },
+  "primaryMeaning": "Lover",
+  "meaningMnemonic": "A <kanji>person</kanji> of <kanji>romance</kanji> is someone you do romancey things with. That person is your <vocabulary>lover</vocabulary>.",
+  "primaryReading": "こいびと",
+  "readingMnemonic": "The reading is a bit strange. it's the two separate words 恋 and 人 put together, making the reading <reading>こいびと</reading>. Oooh lala. Two words coming together like two people coming together. Rawrs.",
+  "otherMeanings": [
+    "Significant Other",
+    "Boyfriend",
+    "Girlfriend"
+  ],
+  "otherReadings": [],
+  "wkSlug": "恋人",
+  "related": {
+    "radicals": [
+      9329,
+      65,
+      9
+    ],
+    "kanjis": [
+      1024,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こいびと",
+      "url": "https://files.wanikani.com/ds63tl06a6os01eycjfceu99krw2"
+    }
+  ]
+}

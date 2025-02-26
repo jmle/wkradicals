@@ -1,0 +1,39 @@
+{
+  "id": 8356,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "峡谷"
+  },
+  "primaryMeaning": "Ravine",
+  "meaningMnemonic": "A <kanji>ravine</kanji> in a <kanji>valley</kanji> is still a <vocabulary>ravine</vocabulary>. It can also be a <vocabulary>gorge</vocabulary> or a <vocabulary>canyon</vocabulary>. They're usually really big. Like the Grand Canyon!",
+  "primaryReading": "きょうこく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 谷 yet, so here's a mnemonic to help you:\n\nIf you're going to travel through a huge <vocabulary>ravine</vocabulary> you have to stay hydrated. The best thing to bring is some taste, cold <reading>Coke</reading> (こく). Nothing quenches your thirst from sweating through a long, rough ravine like delicious Coke!",
+  "otherMeanings": [
+    "Gorge",
+    "Canyon"
+  ],
+  "otherReadings": [],
+  "wkSlug": "峡谷",
+  "related": {
+    "radicals": [
+      20,
+      8767,
+      146,
+      2,
+      8764,
+      16
+    ],
+    "kanjis": [
+      2340,
+      594
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうこく",
+      "url": "https://files.wanikani.com/ty1ehuvy3qo2rktu6g9l0ohxaeju"
+    }
+  ]
+}

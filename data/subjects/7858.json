@@ -1,0 +1,33 @@
+{
+  "id": 7858,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "山頂"
+  },
+  "primaryMeaning": "Summit",
+  "meaningMnemonic": "The <kanji>mountain</kanji> <kanji>summit</kanji> is still called the <vocabulary>summit</vocabulary>.",
+  "primaryReading": "さんちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "山頂",
+  "related": {
+    "radicals": [
+      20,
+      27,
+      184
+    ],
+    "kanjis": [
+      455,
+      2121
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんちょう",
+      "url": "https://files.wanikani.com/ny43o2q6vin51h5feb5d4m2pxeyz"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 3308,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "戦車"
+  },
+  "primaryMeaning": "Tank",
+  "meaningMnemonic": "A <kanji>war</kanji> <kanji>car</kanji> is probably a little more dangerous than the Honda you drive. No, a war car is a <vocabulary>tank</vocabulary>.",
+  "primaryReading": "せんしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "戦車",
+  "related": {
+    "radicals": [
+      199,
+      194,
+      93
+    ],
+    "kanjis": [
+      803,
+      562
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんしゃ",
+      "url": "https://files.wanikani.com/ja123ldc8dmrbvz2j31mb7n5ju1b"
+    }
+  ]
+}

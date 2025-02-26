@@ -1,0 +1,40 @@
+{
+  "id": 4282,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "一夫多妻"
+  },
+  "primaryMeaning": "Polygamy",
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>husband</kanji>, <kanji>many</kanji> <kanji>wives</kanji>. Sounds a bit sketchy. This is <vocabulary>polygamy</vocabulary>.",
+  "primaryReading": "いっぷたさい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just note that the 一 gets changed to いっ and the 夫 gets changed to ぷ from ふう for some reason. You can imagine that this is because when you are the type that has many wives, you're probably the type who makes them clean up your <reading>poo</reading> for you as well.",
+  "otherMeanings": [
+    "Polygyny"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一夫多妻",
+  "related": {
+    "radicals": [
+      1,
+      146,
+      33,
+      15,
+      105,
+      19
+    ],
+    "kanjis": [
+      440,
+      945,
+      570,
+      1113
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いっぷたさい",
+      "url": "https://files.wanikani.com/pfg0dziupkayjnt5jzbdfjlnr2ec"
+    }
+  ]
+}

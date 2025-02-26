@@ -1,0 +1,37 @@
+{
+  "id": 3195,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "道路"
+  },
+  "primaryMeaning": "Paved Road",
+  "meaningMnemonic": "A <kanji>road</kanji> <kanji>road</kanji> is obviously the best kind of road. It's double road, after all. So, what is this ultimate road? It is a <vocabulary>paved road</vocabulary>.",
+  "primaryReading": "どうろ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Road",
+    "Sealed Road"
+  ],
+  "otherReadings": [],
+  "wkSlug": "道路",
+  "related": {
+    "radicals": [
+      114,
+      156,
+      95,
+      180
+    ],
+    "kanjis": [
+      700,
+      758
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうろ",
+      "url": "https://files.wanikani.com/fsiz4ytrvl82fbs4lzmtkyi2jkif"
+    }
+  ]
+}

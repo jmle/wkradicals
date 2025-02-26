@@ -1,0 +1,41 @@
+{
+  "id": 4296,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "飛行機"
+  },
+  "primaryMeaning": "Airplane",
+  "meaningMnemonic": "The <kanji>fly</kanji> and <kanji>go</kanji> <kanji>machine</kanji> is some machine you get into that flies and goes places. It's an <vocabulary>airplane</vocabulary>.",
+  "primaryReading": "ひこうき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Aeroplane",
+    "Aircraft",
+    "Plane"
+  ],
+  "otherReadings": [],
+  "wkSlug": "飛行機",
+  "related": {
+    "radicals": [
+      270,
+      111,
+      23,
+      87,
+      194,
+      9
+    ],
+    "kanjis": [
+      1092,
+      580,
+      1090
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひこうき",
+      "url": "https://files.wanikani.com/8nd64t3oyu8w5q6namwlo4kvigr2"
+    }
+  ]
+}

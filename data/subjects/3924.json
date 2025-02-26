@@ -1,0 +1,37 @@
+{
+  "id": 3924,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "要求"
+  },
+  "primaryMeaning": "Demand",
+  "meaningMnemonic": "You <kanji>need</kanji> this <kanji>request</kanji> to happen, so you don't just ask nicely, you <vocabulary>demand</vocabulary> it. ",
+  "primaryReading": "ようきゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Requirement"
+  ],
+  "otherReadings": [],
+  "wkSlug": "要求",
+  "related": {
+    "radicals": [
+      424,
+      19,
+      1,
+      45,
+      3
+    ],
+    "kanjis": [
+      737,
+      913
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようきゅう",
+      "url": "https://files.wanikani.com/78ng1v7ppp3uauixh4g1w310sa8z"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 5192,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "お菓子屋"
+  },
+  "primaryMeaning": "Candy Store",
+  "meaningMnemonic": "お菓子 is \"candy,\" right? Add <kanji>store</kanji> onto that and you have a <vocabulary>candy store</vocabulary>.",
+  "primaryReading": "おかしや",
+  "readingMnemonic": "This word uses the readings you learned with the kanji. It will help to know the word お菓子 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "お菓子屋",
+  "related": {
+    "radicals": [
+      90,
+      235,
+      34,
+      37,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      1305,
+      462,
+      724
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おかしや",
+      "url": "https://files.wanikani.com/q8g7zpphoasi7b7nrk9n6gpy0gp9"
+    },
+    {
+      "reading": "かしや",
+      "url": "https://files.wanikani.com/322yszxrn7oiwl84fhqfxwmxiqm6"
+    }
+  ]
+}

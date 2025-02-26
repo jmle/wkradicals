@@ -1,0 +1,36 @@
+{
+  "id": 7167,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "手帳"
+  },
+  "primaryMeaning": "Notebook",
+  "meaningMnemonic": "A <kanji>hand</kanji> <kanji>notebook</kanji> is a notebook you can hold in your hand. This could simply be a <vocabulary>notebook</vocabulary>, but it could also be a <vocabulary>planner</vocabulary>.",
+  "primaryReading": "てちょう",
+  "readingMnemonic": "The readings are the readings you learned with the kanji.",
+  "otherMeanings": [
+    "Planner",
+    "Memo Pad"
+  ],
+  "otherReadings": [],
+  "wkSlug": "手帳",
+  "related": {
+    "radicals": [
+      41,
+      102,
+      138
+    ],
+    "kanjis": [
+      474,
+      2012
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てちょう",
+      "url": "https://files.wanikani.com/1moa0h2lbfhy6q56hn1cmbnd61fi"
+    }
+  ]
+}

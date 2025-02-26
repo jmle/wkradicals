@@ -1,0 +1,40 @@
+{
+  "id": 7169,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "電話帳"
+  },
+  "primaryMeaning": "Telephone Book",
+  "meaningMnemonic": "A <kanji>telephone</kanji> (電話) <kanji>notebook</kanji> is a book you use with your telephone. It's a <vocabulary>telephone book</vocabulary> or <vocabulary>telephone directory</vocabulary>.",
+  "primaryReading": "でんわちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Telephone Directory"
+  ],
+  "otherReadings": [],
+  "wkSlug": "電話帳",
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      117,
+      174,
+      102,
+      138
+    ],
+    "kanjis": [
+      706,
+      705,
+      2012
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんわちょう",
+      "url": "https://files.wanikani.com/ivtktrg6piv0mnlarnuamml3pdnf"
+    }
+  ]
+}

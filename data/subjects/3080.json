@@ -1,0 +1,36 @@
+{
+  "id": 3080,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "電子"
+  },
+  "primaryMeaning": "Electron",
+  "meaningMnemonic": "An <kanji>electricity</kanji> <kanji>child</kanji>. What is a really small part of electricity? What makes up electricity? That would be the <vocabulary>electron</vocabulary>. This word can also refer to things that are <vocabulary>electronic</vocabulary> as well.",
+  "primaryReading": "でんし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Electronic"
+  ],
+  "otherReadings": [],
+  "wkSlug": "電子",
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      34
+    ],
+    "kanjis": [
+      706,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんし",
+      "url": "https://files.wanikani.com/fv90pr439shx0rwz4sy46lhua8ow"
+    }
+  ]
+}

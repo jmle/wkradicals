@@ -1,0 +1,33 @@
+{
+  "id": 3507,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "苦しむ"
+  },
+  "primaryMeaning": "To Suffer",
+  "meaningMnemonic": "You've already been introduced to the word 苦しい. That word means painful, or agonizing. So, if you turn that into a verb, you have <vocabulary>to suffer</vocabulary> or <vocabulary>to struggle</vocabulary>.",
+  "primaryReading": "くるしむ",
+  "readingMnemonic": "The reading comes from 苦しい, so as long as you're on top of that word, this word should be readable for you as well.",
+  "otherMeanings": [
+    "To Struggle"
+  ],
+  "otherReadings": [],
+  "wkSlug": "苦しむ",
+  "related": {
+    "radicals": [
+      90,
+      69
+    ],
+    "kanjis": [
+      719
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くるしむ",
+      "url": "https://files.wanikani.com/e0rq0y2hrf54i6hbz7kqgd6fewwm"
+    }
+  ]
+}

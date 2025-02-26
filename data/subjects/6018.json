@@ -1,0 +1,43 @@
+{
+  "id": 6018,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "依存"
+  },
+  "primaryMeaning": "Dependence",
+  "meaningMnemonic": "Being <kanji>reliant</kanji> on something in order to <kanji>exist</kanji> is <vocabulary>dependence</vocabulary> or <vocabulary>reliance</vocabulary>.",
+  "primaryReading": "いぞん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Reliance"
+  ],
+  "otherReadings": [
+    "いそん"
+  ],
+  "wkSlug": "依存",
+  "related": {
+    "radicals": [
+      75,
+      320,
+      26,
+      8761,
+      34
+    ],
+    "kanjis": [
+      1639,
+      990
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いぞん",
+      "url": "https://files.wanikani.com/pdap8gfvg1t54kswyai5r8zv2i63"
+    },
+    {
+      "reading": "いそん",
+      "url": "https://files.wanikani.com/melu6wo77ihwluwz9of6x4jbls3i"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7234,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "悔しい"
+  },
+  "primaryMeaning": "Regrettable",
+  "meaningMnemonic": "The kanji is <kanji>regret</kanji> and this is <vocabulary>regrettable</vocabulary>. Could also be <vocabulary>vexing</vocabulary> or <vocabulary>annoying</vocabulary> as well.",
+  "primaryReading": "くやしい",
+  "readingMnemonic": "It's <vocabulary>regrettable</vocabulary> if you're not <reading>coo</reading>l, <reading>yah</reading> (くや)? Yah, that would be pretty <vocabulary>vexing</vocabulary>. ",
+  "otherMeanings": [
+    "Vexing",
+    "Annoying"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悔しい",
+  "related": {
+    "radicals": [
+      232,
+      379
+    ],
+    "kanjis": [
+      2040
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くやしい",
+      "url": "https://files.wanikani.com/t61dig6t3u2rewot214pvpv2z1q7"
+    }
+  ]
+}

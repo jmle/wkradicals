@@ -1,0 +1,42 @@
+{
+  "id": 7929,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "貫徹"
+  },
+  "primaryMeaning": "Persistence",
+  "meaningMnemonic": "You have to <kanji>pierce</kanji> this piece of information into your brain until it finally <kanji>penetrate</kanji>s, which takes a lot of <vocabulary>persistence</vocabulary>. Do that and it will be quite the <vocabulary>accomplishment</vocabulary>!",
+  "primaryReading": "かんてつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Accomplishment",
+    "Carry Through",
+    "Perseverance",
+    "Realization",
+    "Realisation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貫徹",
+  "related": {
+    "radicals": [
+      107,
+      94,
+      99,
+      8776,
+      43,
+      60
+    ],
+    "kanjis": [
+      2156,
+      1776
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんてつ",
+      "url": "https://files.wanikani.com/p262cyfbp64titdkfogqakyliyvg"
+    }
+  ]
+}

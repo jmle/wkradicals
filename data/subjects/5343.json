@@ -1,0 +1,31 @@
+{
+  "id": 5343,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "盗む"
+  },
+  "primaryMeaning": "To Steal",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>steal</kanji>, so the verb vocab version is <vocabulary>to steal</vocabulary>.",
+  "primaryReading": "ぬすむ",
+  "readingMnemonic": "What are you going <vocabulary>to steal</vocabulary>? How about a <reading>noose</reading> (ぬす)? Wait, why are you stealing a noose? That sounds like trouble to me...",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "盗む",
+  "related": {
+    "radicals": [
+      278,
+      84
+    ],
+    "kanjis": [
+      1442
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぬすむ",
+      "url": "https://files.wanikani.com/0rlfq5dhmiiluhaqmgqvhejkujq0"
+    }
+  ]
+}

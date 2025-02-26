@@ -1,0 +1,39 @@
+{
+  "id": 6383,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "薬剤師"
+  },
+  "primaryMeaning": "Pharmacist",
+  "meaningMnemonic": "A <kanji>medicine</kanji> <kanji>dose</kanji> <kanji>expert</kanji> is someone who knows exactly how much dose of each medicine you should be getting. The person who specializes in this is a <vocabulary>pharmacist</vocabulary>.",
+  "primaryReading": "やくざいし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "薬剤師",
+  "related": {
+    "radicals": [
+      90,
+      251,
+      277,
+      128,
+      3,
+      8777,
+      1,
+      102
+    ],
+    "kanjis": [
+      997,
+      1750,
+      1198
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やくざいし",
+      "url": "https://files.wanikani.com/a4wtaa64rv5odg9uo31mk1jos6b8"
+    }
+  ]
+}

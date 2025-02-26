@@ -1,0 +1,37 @@
+{
+  "id": 4344,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "人類学"
+  },
+  "primaryMeaning": "Anthropology",
+  "meaningMnemonic": "The <kanji>study</kanji> of <kanji>mankind</kanji> (人類) is known as <vocabulary>anthropology</vocabulary>.",
+  "primaryReading": "じんるいがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "人類学",
+  "related": {
+    "radicals": [
+      9,
+      98,
+      18,
+      184,
+      8769,
+      34
+    ],
+    "kanjis": [
+      444,
+      1034,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じんるいがく",
+      "url": "https://files.wanikani.com/ma8jmqxol55s1x7leq5yn2pcbo4h"
+    }
+  ]
+}

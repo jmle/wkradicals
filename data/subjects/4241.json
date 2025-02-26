@@ -1,0 +1,34 @@
+{
+  "id": 4241,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "借財"
+  },
+  "primaryMeaning": "Debt",
+  "meaningMnemonic": "The <kanji>wealth</kanji> you <kanji>borrow</kanji> is your <vocabulary>debt</vocabulary>.",
+  "primaryReading": "しゃくざい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Make sure you remember ざい over さい, though. Why? Because you got all this debt trying to buy your way into <reading>Z</reading>ion.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "借財-4241",
+  "related": {
+    "radicals": [
+      75,
+      256,
+      94,
+      264
+    ],
+    "kanjis": [
+      1039,
+      1064
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃくざい",
+      "url": "https://files.wanikani.com/lg1h399d7432tgo8yw9o8w4wq790"
+    }
+  ]
+}

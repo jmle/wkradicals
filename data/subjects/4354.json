@@ -1,0 +1,46 @@
+{
+  "id": 4354,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "入学試験"
+  },
+  "primaryMeaning": "Entrance Exam",
+  "meaningMnemonic": "For <kanji>school admission</kanji> (入学) you're taking an <kanji>examination</kanji> (試験). What exams do you have to take to get into a school? How about <vocabulary>entrance exam</vocabulary>s? The Japanese ones are pretty hard. Another word for them is \"hell tests.\"",
+  "primaryReading": "にゅうがくしけん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It'll also help if you know the two separate words that make up this longer word.",
+  "otherMeanings": [
+    "Entrance Examination",
+    "Admission Test",
+    "Admission Exam",
+    "Admission Examination",
+    "Entrance Test"
+  ],
+  "otherReadings": [],
+  "wkSlug": "入学試験",
+  "related": {
+    "radicals": [
+      12,
+      8769,
+      34,
+      117,
+      79,
+      25,
+      165,
+      8785
+    ],
+    "kanjis": [
+      445,
+      599,
+      1029,
+      1048
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にゅうがくしけん",
+      "url": "https://files.wanikani.com/euavrh68wn01xoo9v5rbkmdyunv4"
+    }
+  ]
+}

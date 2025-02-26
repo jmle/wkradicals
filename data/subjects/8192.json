@@ -1,0 +1,36 @@
+{
+  "id": 8192,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "信奉"
+  },
+  "primaryMeaning": "Belief",
+  "meaningMnemonic": "<kanji>Dedicate</kanji> your life to what you <kanji>believe</kanji> in and you'll have really strong <vocabulary>belief</vocabulary> and <vocabulary>faith</vocabulary> in whatever that thing is. Just try to dedicate yourself to something nice.",
+  "primaryReading": "しんぽう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Faith"
+  ],
+  "otherReadings": [],
+  "wkSlug": "信奉",
+  "related": {
+    "radicals": [
+      75,
+      117,
+      8779,
+      61
+    ],
+    "kanjis": [
+      940,
+      2262
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんぽう",
+      "url": "https://files.wanikani.com/z4w0lj3aspfg2lsl9ms4r2kgiiy5"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4676,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "残額"
+  },
+  "primaryMeaning": "Remaining Amount",
+  "meaningMnemonic": "The <kanji>remainder</kanji> <kanji>amount</kanji> is the <vocabulary>remaining amount</vocabulary>, aka the <vocabulary>balance</vocabulary>.",
+  "primaryReading": "ざんがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Balance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "残額",
+  "related": {
+    "radicals": [
+      132,
+      8782,
+      295,
+      184
+    ],
+    "kanjis": [
+      912,
+      1218
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ざんがく",
+      "url": "https://files.wanikani.com/cucdljc4jt2gev8ot09u1lzi0g4w"
+    }
+  ]
+}

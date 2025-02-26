@@ -1,0 +1,35 @@
+{
+  "id": 6161,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "宜しい"
+  },
+  "primaryMeaning": "Good",
+  "meaningMnemonic": "You send your <kanji>best regards</kanji> to everyone. Is this <vocabulary>good</vocabulary>? Is it <vocabulary>okay?</vocabulary> Is it <vocabulary>all right</vocabulary>? Yes, of course, how nice of you.",
+  "primaryReading": "よろしい",
+  "readingMnemonic": "The reading comes from the reading you learned with the kanji.",
+  "otherMeanings": [
+    "Okay",
+    "All Right",
+    "Fine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "宜しい",
+  "related": {
+    "radicals": [
+      78,
+      419
+    ],
+    "kanjis": [
+      1677
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よろしい",
+      "url": "https://files.wanikani.com/1g3pg7h3htms01kli2tf866hb6j9"
+    }
+  ]
+}

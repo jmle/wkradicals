@@ -1,0 +1,36 @@
+{
+  "id": 8265,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "嘉日"
+  },
+  "primaryMeaning": "Auspicious Day",
+  "meaningMnemonic": "A <kanji>day</kanji> you hold in high <kanji>esteem</kanji> is an <vocabulary>auspicious day</vocabulary>. That's a fancy way of saying it's a really <vocabulary>lucky day</vocabulary>! ",
+  "primaryReading": "かじつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Lucky Day"
+  ],
+  "otherReadings": [],
+  "wkSlug": "嘉日",
+  "related": {
+    "radicals": [
+      421,
+      13,
+      16,
+      22
+    ],
+    "kanjis": [
+      2320,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かじつ",
+      "url": "https://files.wanikani.com/1xxvzt4rd0bofc0wpvllv4j0toqf"
+    }
+  ]
+}

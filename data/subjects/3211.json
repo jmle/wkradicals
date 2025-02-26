@@ -1,0 +1,36 @@
+{
+  "id": 3211,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "フランス語"
+  },
+  "primaryMeaning": "French Language",
+  "meaningMnemonic": "I bet you can guess that フランス means \"France.\" So what happens when you add <kanji>language</kanji> to it? You get the \"France Language\" aka the <vocabulary>French Language</vocabulary>.",
+  "primaryReading": "ふらんすご",
+  "readingMnemonic": "The reading is just the on'yomi reading for 語 which is the reading you learned with the kanji. This is probably because it gets added onto a lot of other words so it's treated like a jukugo. For example: 日本語 = \"Japanese Language.\" 中国語 = \"Chinese Language.\" スペイン語 = \"Spanish Language.\"",
+  "otherMeanings": [
+    "French"
+  ],
+  "otherReadings": [
+    "フランスご"
+  ],
+  "wkSlug": "フランス語",
+  "related": {
+    "radicals": [
+      117,
+      39,
+      16
+    ],
+    "kanjis": [
+      764
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふらんすご",
+      "url": "https://files.wanikani.com/z1e1e5llbrtj1mnmxqyu360l85ab"
+    }
+  ]
+}

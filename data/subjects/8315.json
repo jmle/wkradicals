@@ -1,0 +1,33 @@
+{
+  "id": 8315,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "紳士"
+  },
+  "primaryMeaning": "Gentleman",
+  "meaningMnemonic": "<kanji>Gentlemen</kanji> who are also <kanji>samurai</kanji> are still <vocabulary>gentlemen</vocabulary>. They just carry swords.",
+  "primaryReading": "しんし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "紳士",
+  "related": {
+    "radicals": [
+      86,
+      190,
+      97
+    ],
+    "kanjis": [
+      2317,
+      877
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんし",
+      "url": "https://files.wanikani.com/d9qu03ojg48rhe1xi5qwt0mpc6rn"
+    }
+  ]
+}

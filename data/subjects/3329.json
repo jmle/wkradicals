@@ -1,0 +1,43 @@
+{
+  "id": 3329,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "根本"
+  },
+  "primaryMeaning": "Root",
+  "meaningMnemonic": "The <kanji>root</kanji> <kanji>origin</kanji> is the <vocabulary>root</vocabulary> of something. Possibly even more root than root, but we'll stick with root.",
+  "primaryReading": "こんぽん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Careful, 本 is ぽん, which is a weird rendaku.",
+  "otherMeanings": [
+    "Source",
+    "Origin",
+    "Foundation"
+  ],
+  "otherReadings": [
+    "ねもと"
+  ],
+  "wkSlug": "根本",
+  "related": {
+    "radicals": [
+      23,
+      196,
+      50
+    ],
+    "kanjis": [
+      817,
+      487
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こんぽん",
+      "url": "https://files.wanikani.com/w7sy4yoiags54nn3p0tclgskc5w7"
+    },
+    {
+      "reading": "ねもと",
+      "url": "https://files.wanikani.com/m84i9f8h1pmhu0vdgeunpnb51442"
+    }
+  ]
+}

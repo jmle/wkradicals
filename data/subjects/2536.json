@@ -1,0 +1,34 @@
+{
+  "id": 2536,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "天才"
+  },
+  "primaryMeaning": "Genius",
+  "meaningMnemonic": "If <kanji>heaven</kanji> has given you <kanji>talent</kanji>, you must be a <vocabulary>genius</vocabulary>.",
+  "primaryReading": "てんさい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. As long as you know the readings for these kanji, you should be able to read this word just fine.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "天才",
+  "related": {
+    "radicals": [
+      40,
+      1,
+      6,
+      5
+    ],
+    "kanjis": [
+      473,
+      468
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てんさい",
+      "url": "https://files.wanikani.com/xyx6pflcdji5z2je156yy1gwq8aj"
+    }
+  ]
+}

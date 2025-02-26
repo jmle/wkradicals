@@ -1,0 +1,31 @@
+{
+  "id": 7263,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "憎しみ"
+  },
+  "primaryMeaning": "Hatred",
+  "meaningMnemonic": "If 憎む is \"to hate\" then the noun version would be <vocabulary>hatred</vocabulary>.",
+  "primaryReading": "にくしみ",
+  "readingMnemonic": "The reading comes from 憎む.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "憎しみ",
+  "related": {
+    "radicals": [
+      232,
+      259
+    ],
+    "kanjis": [
+      1997
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にくしみ",
+      "url": "https://files.wanikani.com/8h89j5p50bwcueb1rfyax1nxz256"
+    }
+  ]
+}

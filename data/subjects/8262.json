@@ -1,0 +1,34 @@
+{
+  "id": 8262,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "呆れる"
+  },
+  "primaryMeaning": "To Be Amazed",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>shock</kanji>, so the verb version is <vocabulary>to be shocked</vocabulary> or <vocabulary>to be amazed</vocabulary>.",
+  "primaryReading": "あきれる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nIf you were going <vocabulary>to be shocked</vocabulary>, you'd shout, \"<reading>ACK</reading> (あき)!\"",
+  "otherMeanings": [
+    "To Be Shocked",
+    "To Be Astonished"
+  ],
+  "otherReadings": [],
+  "wkSlug": "呆れる",
+  "related": {
+    "radicals": [
+      16,
+      23
+    ],
+    "kanjis": [
+      2251
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あきれる",
+      "url": "https://files.wanikani.com/r3ql8zzo7pwy8s60iq3qx95onc35"
+    }
+  ]
+}

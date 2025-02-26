@@ -1,0 +1,38 @@
+{
+  "id": 3553,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "三番目"
+  },
+  "primaryMeaning": "Third Thing",
+  "meaningMnemonic": "Remember 一番目? This is just like that, but with three, making it the <vocabulary>third thing</vocabulary> or simply <vocabulary>the third</vocabulary>.",
+  "primaryReading": "さんばんめ",
+  "readingMnemonic": "Use your knowledge of the reading for 一番目 to remember the reading for this word as well.",
+  "otherMeanings": [
+    "The Third"
+  ],
+  "otherReadings": [],
+  "wkSlug": "三番目",
+  "related": {
+    "radicals": [
+      1,
+      7,
+      164,
+      51,
+      53
+    ],
+    "kanjis": [
+      449,
+      696,
+      492
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんばんめ",
+      "url": "https://files.wanikani.com/20ojmjr1dk0k5188scwqp8it73rm"
+    }
+  ]
+}

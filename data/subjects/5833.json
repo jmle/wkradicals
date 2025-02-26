@@ -1,0 +1,33 @@
+{
+  "id": 5833,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "爪切り"
+  },
+  "primaryMeaning": "Nail Clipper",
+  "meaningMnemonic": "When you <kanji>cut</kanji> your <kanji>claw</kanji> you use a <vocabulary>nail clipper</vocabulary>.",
+  "primaryReading": "つめきり",
+  "readingMnemonic": "The reading is the reading you learned for the kanji 爪 and the word for the reading 切る.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "爪切り",
+  "related": {
+    "radicals": [
+      350,
+      4,
+      24
+    ],
+    "kanjis": [
+      1575,
+      502
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つめきり",
+      "url": "https://files.wanikani.com/x7oibadzv5if7fg2fvhel2gocuia"
+    }
+  ]
+}

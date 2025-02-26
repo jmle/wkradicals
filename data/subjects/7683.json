@@ -1,0 +1,33 @@
+{
+  "id": 7683,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "泳ぎ"
+  },
+  "primaryMeaning": "Swimming",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>swim</kanji>, so it means <vocabulary>swimming</vocabulary>.",
+  "primaryReading": "およぎ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "otherMeanings": [
+    "Swim"
+  ],
+  "otherReadings": [],
+  "wkSlug": "泳ぎ",
+  "related": {
+    "radicals": [
+      103,
+      8820
+    ],
+    "kanjis": [
+      717
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "およぎ",
+      "url": "https://files.wanikani.com/55nxkumiyakjuzjrc2dcnz32f49f"
+    }
+  ]
+}

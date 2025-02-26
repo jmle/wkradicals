@@ -1,0 +1,35 @@
+{
+  "id": 6760,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "揺する"
+  },
+  "primaryMeaning": "To Shake",
+  "meaningMnemonic": "<kanji>Shake</kanji> plus \"to do\" is the verb version of shake. That's <vocabulary>to shake</vocabulary> or <vocabulary>to rock</vocabulary> slowly.",
+  "primaryReading": "ゆする",
+  "readingMnemonic": "The reading comes from 揺る.",
+  "otherMeanings": [
+    "To Rock",
+    "To Sway",
+    "To Jolt"
+  ],
+  "otherReadings": [],
+  "wkSlug": "揺する",
+  "related": {
+    "radicals": [
+      63,
+      8798
+    ],
+    "kanjis": [
+      1817
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆする",
+      "url": "https://files.wanikani.com/va7bi4w42z5q8sk6ecedubd4retn"
+    }
+  ]
+}

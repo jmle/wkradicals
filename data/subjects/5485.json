@@ -1,0 +1,37 @@
+{
+  "id": 5485,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "平均"
+  },
+  "primaryMeaning": "Average",
+  "meaningMnemonic": "Something that's <kanji>flat</kanji> and <kanji>equal</kanji> to everything around it, all those flat things around it, are <vocabulary>average</vocabulary>. They're the <vocabulary>mean</vocabulary> (same as average).",
+  "primaryReading": "へいきん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Mean"
+  ],
+  "otherReadings": [],
+  "wkSlug": "平均",
+  "related": {
+    "radicals": [
+      61,
+      8767,
+      17,
+      236,
+      3
+    ],
+    "kanjis": [
+      535,
+      1473
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へいきん",
+      "url": "https://files.wanikani.com/8k8zk0rmhshg6rb4jamyx65mrecv"
+    }
+  ]
+}

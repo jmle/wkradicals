@@ -1,0 +1,35 @@
+{
+  "id": 9160,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "自撮り"
+  },
+  "primaryMeaning": "Selfie",
+  "meaningMnemonic": "A <kanji>self</kanji> <kanji>photograph</kanji> is exactly that: a <vocabulary>selfie</vocabulary>.",
+  "primaryReading": "じどり",
+  "readingMnemonic": "This word uses the on'yomi of 自, which you learned with the kanji, and the kun'yomi of 撮, which you learned with the word 撮る. Though it's a bit of an unusual combo, you can probably guess the first one since it's such a common reading, and the second one because of the り on the end. Just watch out for rendaku, which turns とり into どり.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "自撮り",
+  "related": {
+    "radicals": [
+      109,
+      63,
+      22,
+      88,
+      30
+    ],
+    "kanjis": [
+      578,
+      1441
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じどり",
+      "url": "https://files.wanikani.com/xe14qghv2qajh79n2ftxll6ht5z4"
+    }
+  ]
+}

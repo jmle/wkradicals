@@ -1,0 +1,21 @@
+{
+  "id": 436,
+  "type": "radical",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "下"
+  },
+  "primaryMeaning": "Below",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>below</radical>.",
+  "wkSlug": "below",
+  "related": {
+    "kanjis": [
+      2402
+    ],
+    "vocabularies": [
+      8531
+    ]
+  }
+}

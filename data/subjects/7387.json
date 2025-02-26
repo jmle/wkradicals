@@ -1,0 +1,36 @@
+{
+  "id": 7387,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "銘柄"
+  },
+  "primaryMeaning": "Brand",
+  "meaningMnemonic": "The <kanji>inscription</kanji>'s <kanji>pattern</kanji> shows what <vocabulary>brand</vocabulary> or <vocabulary>make</vocabulary> this item is. If the pattern of the inscription is an apple, you'll know the brand is Apple. If it's a Window, you know it's Microsoft. Etc.",
+  "primaryReading": "めいがら",
+  "readingMnemonic": "This word uses the on'yomi reading for the first kanji and the kun'yomi reading for the second. Luckily, you've learned them both already so you should be able to slap them together and know the reading of this word!",
+  "otherMeanings": [
+    "Make"
+  ],
+  "otherReadings": [],
+  "wkSlug": "銘柄",
+  "related": {
+    "radicals": [
+      118,
+      409,
+      23,
+      186
+    ],
+    "kanjis": [
+      2098,
+      1823
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めいがら",
+      "url": "https://files.wanikani.com/o897pxs8l5wemt84s1vkosh4xw94"
+    }
+  ]
+}

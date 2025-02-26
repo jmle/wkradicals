@@ -1,0 +1,36 @@
+{
+  "id": 6720,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "摩擦"
+  },
+  "primaryMeaning": "Friction",
+  "meaningMnemonic": "Things that <kanji>chafe</kanji> and <kanji>rub</kanji> have lots of <vocabulary>friction</vocabulary>.",
+  "primaryReading": "まさつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "摩擦",
+  "related": {
+    "radicals": [
+      62,
+      23,
+      41,
+      63,
+      78,
+      8825
+    ],
+    "kanjis": [
+      1859,
+      1860
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まさつ",
+      "url": "https://files.wanikani.com/7wlbfgwsmhvbh4862dby8no0jx1t"
+    }
+  ]
+}

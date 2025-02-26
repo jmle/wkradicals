@@ -1,0 +1,36 @@
+{
+  "id": 3033,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "工学者"
+  },
+  "primaryMeaning": "Engineer",
+  "meaningMnemonic": "Do you remember 工学 from a couple levels ago? This is <kanji>someone</kanji> who is in 工学. If 工学 is \"engineering\" then 工学者 is an <vocabulary>engineer</vocabulary>.",
+  "primaryReading": "こうがくしゃ",
+  "readingMnemonic": "The readings are just the on'yomi readings of the kanji. All things you should know now.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "工学者",
+  "related": {
+    "radicals": [
+      25,
+      8769,
+      34,
+      104,
+      22
+    ],
+    "kanjis": [
+      457,
+      599,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうがくしゃ",
+      "url": "https://files.wanikani.com/272x46f23kiqtjeok2nlqm8r7b02"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7327,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "遠征"
+  },
+  "primaryMeaning": "Expedition",
+  "meaningMnemonic": "A <kanji>far</kanji> distance we must travel to <kanji>subjugate</kanji> our enemies. This is a long <vocabulary>expedition</vocabulary> and <vocabulary>campaign</vocabulary> to do just that!",
+  "primaryReading": "えんせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Campaign"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遠征",
+  "related": {
+    "radicals": [
+      114,
+      8784,
+      99,
+      229
+    ],
+    "kanjis": [
+      963,
+      2072
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんせい",
+      "url": "https://files.wanikani.com/xg1s9gxme8ndhjixdi6n9ltpy8ax"
+    }
+  ]
+}

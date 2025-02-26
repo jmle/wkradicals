@@ -1,0 +1,37 @@
+{
+  "id": 3270,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "労働"
+  },
+  "primaryMeaning": "Manual Labor",
+  "meaningMnemonic": "The <kanji>labor</kanji> <kanji>work</kanji> is when you're doing work with your body, right? That's <vocabulary>manual labor</vocabulary>.",
+  "primaryReading": "ろうどう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Labor",
+    "Work"
+  ],
+  "otherReadings": [],
+  "wkSlug": "労働",
+  "related": {
+    "radicals": [
+      8769,
+      13,
+      75,
+      188
+    ],
+    "kanjis": [
+      788,
+      809
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろうどう",
+      "url": "https://files.wanikani.com/e5gg3940h5z84qg5gny2jha3bfgq"
+    }
+  ]
+}

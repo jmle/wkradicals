@@ -1,0 +1,34 @@
+{
+  "id": 6909,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "磨き"
+  },
+  "primaryMeaning": "Polish",
+  "meaningMnemonic": "A <kanji>polish</kanji> is a <vocabulary>polish</vocabulary> or even a <vocabulary>shine</vocabulary>.",
+  "primaryReading": "みがき",
+  "readingMnemonic": "The reading comes from the reading you learned with the kanji.",
+  "otherMeanings": [
+    "Shine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "磨き",
+  "related": {
+    "radicals": [
+      62,
+      23,
+      54
+    ],
+    "kanjis": [
+      1929
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みがき",
+      "url": "https://files.wanikani.com/z0fkmzyr0o377skmxzug49wxy5vz"
+    }
+  ]
+}

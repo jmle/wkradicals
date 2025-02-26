@@ -1,0 +1,34 @@
+{
+  "id": 8981,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "鉄柵"
+  },
+  "primaryMeaning": "Iron Fence",
+  "meaningMnemonic": "Ready for this one? An <kanji>iron</kanji> <kanji>fence </kanji> is an <vocabulary>iron fence</vocabulary>. Don't you love it when it's straightforward?",
+  "primaryReading": "てっさく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Be careful though, 鉄 is normally read as てつ, but in this case it is shortened to てっ.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鉄柵",
+  "related": {
+    "radicals": [
+      118,
+      275,
+      23,
+      226
+    ],
+    "kanjis": [
+      760,
+      8965
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てっさく",
+      "url": "https://files.wanikani.com/fvny9l1jp6np6ooyb0txpy3wwoyn"
+    }
+  ]
+}

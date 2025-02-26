@@ -1,0 +1,32 @@
+{
+  "id": 3419,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "方言"
+  },
+  "primaryMeaning": "Dialect",
+  "meaningMnemonic": "The <kanji>way</kanji> you <kanji>say</kanji> things is your <vocabulary>dialect</vocabulary>. It's an entire \"way\" of speaking. \n\nYou can even think of the  方 as being a \"direction.\" If you go far enough in different directions in a country, you'll discover different regional dialects.",
+  "primaryReading": "ほうげん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "方言",
+  "related": {
+    "radicals": [
+      66,
+      117
+    ],
+    "kanjis": [
+      510,
+      593
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうげん",
+      "url": "https://files.wanikani.com/et8lm0t7r7ysi5qfrznctqmkb5cp"
+    }
+  ]
+}

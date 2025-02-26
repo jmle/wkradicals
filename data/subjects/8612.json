@@ -1,0 +1,39 @@
+{
+  "id": 8612,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "寡黙"
+  },
+  "primaryMeaning": "Silent",
+  "meaningMnemonic": "Tell a <kanji>widow</kanji> to <kanji>shut up</kanji> and she'll be <vocabulary>silent</vocabulary> for the rest of the day. That wasn't very nice. You're a mean person.",
+  "primaryReading": "かもく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Shy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "寡黙",
+  "related": {
+    "radicals": [
+      78,
+      184,
+      1,
+      24,
+      125,
+      47,
+      131
+    ],
+    "kanjis": [
+      2437,
+      1973
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かもく",
+      "url": "https://files.wanikani.com/g2ror7i3rq6m5d6gh08gwxbmyg1k"
+    }
+  ]
+}

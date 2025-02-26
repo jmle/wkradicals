@@ -1,0 +1,47 @@
+{
+  "id": 8709,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "一昨日"
+  },
+  "primaryMeaning": "Day Before Last",
+  "meaningMnemonic": "Remember how you learned that 昨日 means \"yesterday?\" Well <kanji>one</kanji> day <kanji>previous</kanji> to that <kanji>day</kanji> is the <vocabulary>day before last</vocabulary>. ",
+  "primaryReading": "おととい",
+  "readingMnemonic": "This reading is an exception. Let's use this mnemonic to remember it:\n\nThe <vocabulary>day before last</vocabulary> you bought an <reading>\"O\" toe toy</reading> (おととい). It's a kid's toy in the shape of the letter O that you put on your toe. You know it was the day before last because you wore it all yesterday, and now today your toe is sore. If only you could go back to the <vocabulary>day before yesterday</vocabulary> to tell yourself not to buy that O toe toy! Or at least not to wear it for the whole next day!",
+  "otherMeanings": [
+    "Day Before Yesterday"
+  ],
+  "otherReadings": [
+    "いっさくじつ",
+    "おとつい"
+  ],
+  "wkSlug": "一昨日",
+  "related": {
+    "radicals": [
+      1,
+      22,
+      122
+    ],
+    "kanjis": [
+      440,
+      947,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いっさくじつ",
+      "url": "https://files.wanikani.com/hp35vyg7sm0gjixami48n8u2o7b3"
+    },
+    {
+      "reading": "おととい",
+      "url": "https://files.wanikani.com/0dqg9o2a1m59s4mstcr6hhop9log"
+    },
+    {
+      "reading": "おとつい",
+      "url": "https://files.wanikani.com/hha5fb8cgfqb1k1g82vb0d8c13jc"
+    }
+  ]
+}

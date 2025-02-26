@@ -1,0 +1,35 @@
+{
+  "id": 6960,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "叫び"
+  },
+  "primaryMeaning": "Shout",
+  "meaningMnemonic": "叫ぶ is \"to shout\" and \"to scream.\" This is the noun version. This is a <vocabulary>shout</vocabulary> or <vocabulary>scream</vocabulary>.",
+  "primaryReading": "さけび",
+  "readingMnemonic": "The reading comes from 叫ぶ.",
+  "otherMeanings": [
+    "Scream",
+    "A Shout",
+    "A Scream"
+  ],
+  "otherReadings": [],
+  "wkSlug": "叫び",
+  "related": {
+    "radicals": [
+      16,
+      289
+    ],
+    "kanjis": [
+      1892
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さけび",
+      "url": "https://files.wanikani.com/fxqwbtehbzpo6zwmebpq6elli4q8"
+    }
+  ]
+}

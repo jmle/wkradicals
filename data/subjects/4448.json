@@ -1,0 +1,34 @@
+{
+  "id": 4448,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "批判"
+  },
+  "primaryMeaning": "Criticism",
+  "meaningMnemonic": "A <kanji>criticism</kanji> is when you <kanji>judge</kanji>. It is still just a <vocabulary>criticism</vocabulary>.",
+  "primaryReading": "ひはん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "批判",
+  "related": {
+    "radicals": [
+      63,
+      161,
+      305,
+      128
+    ],
+    "kanjis": [
+      1141,
+      1127
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひはん",
+      "url": "https://files.wanikani.com/c0b6u227h3iz96l6m5ui1plsijpe"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8464,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "扶助"
+  },
+  "primaryMeaning": "Aid",
+  "meaningMnemonic": "<kanji>Help</kanji> and <kanji>aid</kanji> someone and you will <vocabulary>help</vocabulary> and <vocabulary>aid</vocabulary> them! Good job, you're a good person.",
+  "primaryReading": "ふじょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Help",
+    "Support"
+  ],
+  "otherReadings": [],
+  "wkSlug": "扶助",
+  "related": {
+    "radicals": [
+      63,
+      146,
+      419,
+      13
+    ],
+    "kanjis": [
+      2369,
+      680
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふじょ",
+      "url": "https://files.wanikani.com/bgmwynf3vbiv18fplo3ft07y2zhp"
+    }
+  ]
+}

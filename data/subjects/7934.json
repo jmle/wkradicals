@@ -1,0 +1,35 @@
+{
+  "id": 7934,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "遭遇"
+  },
+  "primaryMeaning": "Encounter",
+  "meaningMnemonic": "The kanji here are <kanji>encounter</kanji> and <kanji>encounter</kanji>, which makes this… <vocabulary>encounter</vocabulary>!",
+  "primaryReading": "そうぐう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "遭遇",
+  "related": {
+    "radicals": [
+      114,
+      1,
+      185,
+      22,
+      410
+    ],
+    "kanjis": [
+      2182,
+      2176
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうぐう",
+      "url": "https://files.wanikani.com/dcg140sdzd2esyd7botrtsx0n3ta"
+    }
+  ]
+}

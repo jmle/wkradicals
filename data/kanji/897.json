@@ -1,0 +1,39 @@
+{
+  "id": 897,
+  "type": "kanji",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "卒"
+  },
+  "primaryReading": "そつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "そつ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Graduate",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>person</radical> puts a <radical>lid</radical> on their <radical>cross</radical> after they <kanji>graduate</kanji>. It’s a symbolic gesture, putting the lid over the cross, but it’s just what you do when you graduate around these parts.",
+  "readingMnemonic": "Oops, looks like you forgot your lid. Without the lid, you’ll be held back. <reading>So two</reading> (そつ) more years now until you can graduate. So two more years, eh? Just for forgetting a lid? Nonsense!",
+  "wkSlug": "卒",
+  "related": {
+    "radicals": [
+      8,
+      9,
+      15
+    ],
+    "vocabularies": [
+      3913,
+      3914,
+      3929
+    ]
+  },
+  "radicalNames": [
+    "Lid",
+    "Person",
+    "Cross"
+  ]
+}

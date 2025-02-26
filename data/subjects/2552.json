@@ -1,0 +1,30 @@
+{
+  "id": 2552,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "王"
+  },
+  "primaryMeaning": "King",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "おう",
+  "readingMnemonic": "The reading for this word is the same as the one you learned when learning the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "王",
+  "related": {
+    "radicals": [
+      48
+    ],
+    "kanjis": [
+      482
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おう",
+      "url": "https://files.wanikani.com/dslcbzvcha7rurdr3oh3pizbczub"
+    }
+  ]
+}

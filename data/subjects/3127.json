@@ -1,0 +1,33 @@
+{
+  "id": 3127,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "〜度"
+  },
+  "primaryMeaning": "Degrees",
+  "meaningMnemonic": "The kanji <kanji>degree</kanji> can mean both degree in terms of angles and degree in terms of temperature. This word is how you talk about these things. Just attach it to a number and you have yourself the number of <vocabulary>degrees</vocabulary> that something is. After the numbers 1, 2 and 3 (and in some other situations) this can also mean <vocabulary>times</vocabulary>.",
+  "primaryReading": "ど",
+  "readingMnemonic": "The reading is the same as the kanji reading you learned. When writing out the answer to this reading, omit the 〜 as it's only there to let you know that some other word should come before it.",
+  "otherMeanings": [
+    "Times"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜度",
+  "related": {
+    "radicals": [
+      8787,
+      30
+    ],
+    "kanjis": [
+      725
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ど",
+      "url": "https://files.wanikani.com/653n9x2uvq3tomn8r555ca0wxfg4"
+    }
+  ]
+}

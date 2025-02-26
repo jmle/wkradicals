@@ -1,0 +1,34 @@
+{
+  "id": 5604,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "英訳"
+  },
+  "primaryMeaning": "English Translation",
+  "meaningMnemonic": "<kanji>English</kanji> <kanji>translate</kanji> is an <vocabulary>English translation</vocabulary>.",
+  "primaryReading": "えいやく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "英訳",
+  "related": {
+    "radicals": [
+      90,
+      231,
+      117,
+      215
+    ],
+    "kanjis": [
+      953,
+      1511
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えいやく",
+      "url": "https://files.wanikani.com/qtpmim9yewbfydmlqyx8ev1edbqu"
+    }
+  ]
+}

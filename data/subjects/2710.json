@@ -1,0 +1,36 @@
+{
+  "id": 2710,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "車内"
+  },
+  "primaryMeaning": "Inside The Car",
+  "meaningMnemonic": "The <kanji>car</kanji> <kanji>inside</kanji> is simply that, <vocabulary>inside the car</vocabulary>. This can be used for other means of transport too, so it can also mean <vocabulary>inside the train</vocabulary> or <vocabulary>inside the bus</vocabulary>.",
+  "primaryReading": "しゃない",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Inside The Train",
+    "Inside The Bus"
+  ],
+  "otherReadings": [],
+  "wkSlug": "車内",
+  "related": {
+    "radicals": [
+      93,
+      29,
+      9
+    ],
+    "kanjis": [
+      562,
+      500
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃない",
+      "url": "https://files.wanikani.com/nffdmehji5d8idlpxveu12ubv6av"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8533,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "崇拝"
+  },
+  "primaryMeaning": "Worship",
+  "meaningMnemonic": "<kanji>Worship</kanji> in the morning, <kanji>worship</kanji> in the night, <vocabulary>worship</vocabulary> all day! Worship that WaniKani poster. Do it.",
+  "primaryReading": "すうはい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Adoration",
+    "Admiration",
+    "Cult"
+  ],
+  "otherReadings": [],
+  "wkSlug": "崇拝",
+  "related": {
+    "radicals": [
+      20,
+      78,
+      207,
+      63,
+      61
+    ],
+    "kanjis": [
+      2409,
+      1563
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すうはい",
+      "url": "https://files.wanikani.com/qxy2qoq3t8i3gcs5c3pc0zg46u50"
+    }
+  ]
+}

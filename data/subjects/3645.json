@@ -1,0 +1,39 @@
+{
+  "id": 3645,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "駅員"
+  },
+  "primaryMeaning": "Train Station Employee",
+  "meaningMnemonic": "A train <kanji>station</kanji> <kanji>member</kanji> is someone who works at the train station. They are a <vocabulary>train station employee</vocabulary>. Feel free to ask them if you need help knowing which direction to train in.",
+  "primaryReading": "えきいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Train Station Staff",
+    "Train Station Attendant",
+    "Station Attendant",
+    "Station Employee"
+  ],
+  "otherReadings": [],
+  "wkSlug": "駅員",
+  "related": {
+    "radicals": [
+      165,
+      215,
+      16,
+      94
+    ],
+    "kanjis": [
+      874,
+      821
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えきいん",
+      "url": "https://files.wanikani.com/hoctpu92zqa7ct8vzqk0gweemrpb"
+    }
+  ]
+}

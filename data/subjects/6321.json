@@ -1,0 +1,36 @@
+{
+  "id": 6321,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "謙虚"
+  },
+  "primaryMeaning": "Modesty",
+  "meaningMnemonic": "The <kanji>modesty</kanji> <kanji>void</kanji> is that big pit you go into when you are showing <vocabulary>modesty</vocabulary> or <vocabulary>humility</vocabulary>.",
+  "primaryReading": "けんきょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Humility"
+  ],
+  "otherReadings": [],
+  "wkSlug": "謙虚",
+  "related": {
+    "radicals": [
+      117,
+      271,
+      254,
+      8768
+    ],
+    "kanjis": [
+      1737,
+      1017
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんきょ",
+      "url": "https://files.wanikani.com/oeby7uo8yb2u7xns6ctdo9vsp206"
+    }
+  ]
+}

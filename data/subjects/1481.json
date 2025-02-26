@@ -1,0 +1,39 @@
+{
+  "id": 1481,
+  "type": "kanji",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "迎"
+  },
+  "primaryReading": "げい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "げい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "むか",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Welcome",
+  "otherMeanings": [],
+  "meaningMnemonic": "In its <radical>scooter</radical>, a <radical>cat pirate</radical> scoots up to <kanji>welcome</kanji> you!",
+  "readingMnemonic": "The cat pirate then launches into a speech about how they <kanji>welcome</kanji> all kinds of people. Especially <reading>gay</reading> (げい) people. He puts a certain emphasis on gay, so you figure that the cat pirate either thinks you're gay or wants you to be.",
+  "wkSlug": "迎",
+  "related": {
+    "radicals": [
+      114,
+      340
+    ],
+    "vocabularies": [
+      5517,
+      5739,
+      7722,
+      8412
+    ]
+  }
+}

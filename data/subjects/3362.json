@@ -1,0 +1,38 @@
+{
+  "id": 3362,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "民族"
+  },
+  "primaryMeaning": "Ethnic Group",
+  "meaningMnemonic": "A <kanji>peoples</kanji> <kanji>tribe</kanji> (or tribe of peoples) is a group that all stick together. They are one single <vocabulary>ethnic group</vocabulary>. What's your 民族?",
+  "primaryReading": "みんぞく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Ethnicity",
+    "Race"
+  ],
+  "otherReadings": [],
+  "wkSlug": "民族",
+  "related": {
+    "radicals": [
+      16,
+      147,
+      66,
+      8762,
+      72
+    ],
+    "kanjis": [
+      650,
+      830
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みんぞく",
+      "url": "https://files.wanikani.com/b0z4tmzxxdu2lqsuxgdbwcvjm5gp"
+    }
+  ]
+}

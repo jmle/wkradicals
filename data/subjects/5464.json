@@ -1,0 +1,36 @@
+{
+  "id": 5464,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "経路"
+  },
+  "primaryMeaning": "Route",
+  "meaningMnemonic": "If you <kanji>pass through</kanji> the <kanji>road</kanji>s, you are figuring out which roads to use, when to use them, and essentially coming up with the <vocabulary>route</vocabulary> and <vocabulary>course</vocabulary> to take to get to wherever you're going.",
+  "primaryReading": "けいろ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Course"
+  ],
+  "otherReadings": [],
+  "wkSlug": "経路",
+  "related": {
+    "radicals": [
+      86,
+      179,
+      95,
+      180
+    ],
+    "kanjis": [
+      1120,
+      758
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいろ",
+      "url": "https://files.wanikani.com/vel79u7jxpzibd066rttnj6e8enr"
+    }
+  ]
+}

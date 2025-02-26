@@ -1,0 +1,34 @@
+{
+  "id": 2976,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "船"
+  },
+  "primaryMeaning": "Boat",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ふね",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nYou're riding in a boat. It's great. Imagine it being the best time you've had in your life. You tell everyone: \"This is <reading>fun, eh</reading>?\" (ふね). You're on a Canadian ship, which is why you add the \"eh\" in there. Say this out loud wherever you are right now while imagining the sea smell, the wind, and the excitement of boats.",
+  "otherMeanings": [
+    "Ship"
+  ],
+  "otherReadings": [],
+  "wkSlug": "船",
+  "related": {
+    "radicals": [
+      149,
+      2,
+      16
+    ],
+    "kanjis": [
+      671
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふね",
+      "url": "https://files.wanikani.com/cwsj23p6e3uy16n66fgpslhkwj91"
+    }
+  ]
+}

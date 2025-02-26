@@ -1,0 +1,34 @@
+{
+  "id": 9260,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "貰う"
+  },
+  "primaryMeaning": "To Receive Something",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>receive</kanji>, making this <vocabulary>to receive something</vocabulary>, or alternatively, <vocabulary>to get something from someone</vocabulary> or <vocabulary>to be given something</vocabulary>.",
+  "primaryReading": "もらう",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned that reading with the kanji, so you should be good to go here!",
+  "otherMeanings": [
+    "To Get Something From Someone",
+    "To Be Given Something"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貰う",
+  "related": {
+    "radicals": [
+      83,
+      94
+    ],
+    "kanjis": [
+      9259
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もらう",
+      "url": "https://files.wanikani.com/pdxzhxpzsq0znz2wtl056pbh7vz0"
+    }
+  ]
+}

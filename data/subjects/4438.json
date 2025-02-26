@@ -1,0 +1,37 @@
+{
+  "id": 4438,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "派手"
+  },
+  "primaryMeaning": "Showy",
+  "meaningMnemonic": "This is a weird one. Just think about the <kanji>sect</kanji> of <kanji>hand</kanji>s. They are always doing jazz hands and things like that, trying to be all <vocabulary>showy</vocabulary> and <vocabulary>flashy</vocabulary>. Ugh, what a dumb sect, you think.",
+  "primaryReading": "はで",
+  "readingMnemonic": "The readings are the ones you learned with the kanji, though て goes to で.",
+  "otherMeanings": [
+    "Flashy",
+    "Gaudy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "派手",
+  "related": {
+    "radicals": [
+      103,
+      116,
+      8778,
+      41
+    ],
+    "kanjis": [
+      1136,
+      474
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はで",
+      "url": "https://files.wanikani.com/5q0hfdeglgoiue5x2czfg9219qvd"
+    }
+  ]
+}

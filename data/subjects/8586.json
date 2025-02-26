@@ -1,0 +1,39 @@
+{
+  "id": 8586,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "遷都"
+  },
+  "primaryMeaning": "Move The Capital",
+  "meaningMnemonic": "If you want to <kanji>transition</kanji> the <kanji>capital</kanji> to a new, better place, you need to <vocabulary>move the capital</vocabulary>. This used to happen a lot way back in Japanese history. It's actually pretty interesting so you might want to read up on it!",
+  "primaryReading": "せんと",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Transfer The Capital",
+    "Relocation Of The Capital"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遷都",
+  "related": {
+    "radicals": [
+      114,
+      424,
+      18,
+      228,
+      203,
+      176
+    ],
+    "kanjis": [
+      2400,
+      826
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんと",
+      "url": "https://files.wanikani.com/qd0e3557z1bhr6z3zcegx7fznksr"
+    }
+  ]
+}

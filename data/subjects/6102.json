@@ -1,0 +1,36 @@
+{
+  "id": 6102,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "聴く"
+  },
+  "primaryMeaning": "To Listen To",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>listen</kanji> and the verb vocab version is <vocabulary>to listen to</vocabulary> or <vocabulary>to hear</vocabulary>.",
+  "primaryReading": "きく",
+  "readingMnemonic": "The meaning is really similar to 聞く, right? The reading is the same.",
+  "otherMeanings": [
+    "To Hear",
+    "To Listen"
+  ],
+  "otherReadings": [],
+  "wkSlug": "聴く",
+  "related": {
+    "radicals": [
+      88,
+      15,
+      163,
+      65
+    ],
+    "kanjis": [
+      1660
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きく",
+      "url": "https://files.wanikani.com/7gd5fmhg7tf89ojy5nac6htv2pbw"
+    }
+  ]
+}

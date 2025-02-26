@@ -1,0 +1,36 @@
+{
+  "id": 7035,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "誇大"
+  },
+  "primaryMeaning": "Exaggeration",
+  "meaningMnemonic": "Your <kanji>pride</kanji> is too <kanji>big</kanji>. You make it bigger than it is, in fact. You do this with <vocabulary>exaggeration</vocabulary> and <vocabulary>hyperbole</vocabulary>.",
+  "primaryReading": "こだい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Hyperbole"
+  ],
+  "otherReadings": [],
+  "wkSlug": "誇大",
+  "related": {
+    "radicals": [
+      117,
+      18,
+      7,
+      14
+    ],
+    "kanjis": [
+      1970,
+      453
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こだい",
+      "url": "https://files.wanikani.com/mmtgcda9hjni8640gcj1dfi38m8c"
+    }
+  ]
+}

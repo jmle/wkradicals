@@ -1,0 +1,50 @@
+{
+  "id": 3973,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "塩味"
+  },
+  "primaryMeaning": "Salty Taste",
+  "meaningMnemonic": "The <kanji>taste</kanji> of <kanji>salt</kanji> is a <vocabulary>salty taste</vocabulary> (it's also when something <vocabulary>tastes salty</vocabulary>).",
+  "primaryReading": "しおあじ",
+  "readingMnemonic": "The readings are the kun'yomi vocab readings. So, take the readings of 塩 (you learned the reading with the kanji) and 味 and you have yourself <reading>しおあじ</reading>.\n\nIf you happen to be a cooking show fan, you might also hear the on'yomi reading of this word - <reading>えんみ</reading>. This word can also be read as <reading>しおみ</reading>, which has more or less the same meaning as the primary reading you learned. ",
+  "otherMeanings": [
+    "Tastes Salty",
+    "Salty",
+    "Salty Flavor"
+  ],
+  "otherReadings": [
+    "えんみ",
+    "しおみ"
+  ],
+  "wkSlug": "塩味",
+  "related": {
+    "radicals": [
+      17,
+      8762,
+      16,
+      84,
+      134
+    ],
+    "kanjis": [
+      1002,
+      812
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんみ",
+      "url": "https://files.wanikani.com/3dcrv2cdhaok1awcwb44sc4fm7mi"
+    },
+    {
+      "reading": "しおみ",
+      "url": "https://files.wanikani.com/astw8gvxol4a0l6t6lbr6ylnbmam"
+    },
+    {
+      "reading": "しおあじ",
+      "url": "https://files.wanikani.com/81q4gyrlt13088gdj267yux1q0jq"
+    }
+  ]
+}

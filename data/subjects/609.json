@@ -1,0 +1,40 @@
+{
+  "id": 609,
+  "type": "kanji",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "両"
+  },
+  "primaryReading": "りょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "りょう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Both",
+  "otherMeanings": [],
+  "meaningMnemonic": "Under the <radical>ground</radical>, which you dug into, you found two great finds. You found <kanji>both</kanji> a <radical>mountain</radical> and a <radical>head</radical>, two strange things to find underground.",
+  "readingMnemonic": "But, you dig too deep and water flows into where you are. Your only hope is a <reading>row</reading> (りょう) boat floating off in the distance.",
+  "wkSlug": "両",
+  "related": {
+    "radicals": [
+      1,
+      29,
+      20
+    ],
+    "vocabularies": [
+      2851,
+      2852,
+      2853,
+      3030,
+      3957,
+      5035,
+      7482,
+      7781,
+      8715
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3358,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "悪人"
+  },
+  "primaryMeaning": "Bad Person",
+  "meaningMnemonic": "A <kanji>bad</kanji> <kanji>person</kanji> is a <vocabulary>bad person</vocabulary>.",
+  "primaryReading": "あくにん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Villain",
+    "Evildoer",
+    "Bad Guy",
+    "Wicked Person",
+    "Evil Person"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悪人",
+  "related": {
+    "radicals": [
+      204,
+      65,
+      9
+    ],
+    "kanjis": [
+      829,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あくにん",
+      "url": "https://files.wanikani.com/zghfxrc1g37grlwq8ps938zqa3s6"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6213,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "緩む"
+  },
+  "primaryMeaning": "To Loosen",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>loose</kanji>, so the verb version is <vocabulary>to loosen</vocabulary>. This is when something loosens on its own, and not via your actions. You know this because a cow is loosening things, <reading>moo</reading> (む)...",
+  "primaryReading": "ゆるむ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji! ",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "緩む",
+  "related": {
+    "radicals": [
+      86,
+      286
+    ],
+    "kanjis": [
+      1700
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆるむ",
+      "url": "https://files.wanikani.com/r6c4ym03lbxwdbldsuj90jyl9s0w"
+    }
+  ]
+}

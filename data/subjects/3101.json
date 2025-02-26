@@ -1,0 +1,37 @@
+{
+  "id": 3101,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "決定"
+  },
+  "primaryMeaning": "Decision",
+  "meaningMnemonic": "It's been <kanji>decide</kanji>d and <kanji>determine</kanji>d. The <vocabulary>decision</vocabulary> has been made.",
+  "primaryReading": "けってい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just be sure to take note of the shortened けつ in 決. It goes to けっ.",
+  "otherMeanings": [
+    "Determination"
+  ],
+  "otherReadings": [],
+  "wkSlug": "決定",
+  "related": {
+    "radicals": [
+      103,
+      9,
+      157,
+      78,
+      229
+    ],
+    "kanjis": [
+      687,
+      714
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けってい",
+      "url": "https://files.wanikani.com/i9023fu62b4zeas4yv192xhvlc9t"
+    }
+  ]
+}

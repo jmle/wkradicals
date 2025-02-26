@@ -1,0 +1,33 @@
+{
+  "id": 6831,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "棚"
+  },
+  "primaryMeaning": "Shelf",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たな",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Cabinet"
+  ],
+  "otherReadings": [],
+  "wkSlug": "棚",
+  "related": {
+    "radicals": [
+      23,
+      43
+    ],
+    "kanjis": [
+      1900
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たな",
+      "url": "https://files.wanikani.com/uhjg8iez5hr9gojy12gp149jz9wu"
+    }
+  ]
+}

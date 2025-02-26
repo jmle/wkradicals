@@ -1,0 +1,33 @@
+{
+  "id": 6979,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "寮"
+  },
+  "primaryMeaning": "Dormitory",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Can also refer to a <vocabulary>hostel</vocabulary>.",
+  "primaryReading": "りょう",
+  "readingMnemonic": "This is a word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Hostel"
+  ],
+  "otherReadings": [],
+  "wkSlug": "寮",
+  "related": {
+    "radicals": [
+      78,
+      319
+    ],
+    "kanjis": [
+      1946
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょう",
+      "url": "https://files.wanikani.com/y5t8sqqp1wysq3pitjwwl871vqm9"
+    }
+  ]
+}

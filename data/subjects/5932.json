@@ -1,0 +1,34 @@
+{
+  "id": 5932,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "給油"
+  },
+  "primaryMeaning": "Fueling",
+  "meaningMnemonic": "You take your <kanji>salary</kanji> and buy <kanji>oil</kanji>. When you are doing this, you are <vocabulary>fueling</vocabulary> something.",
+  "primaryReading": "きゅうゆ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "給油",
+  "related": {
+    "radicals": [
+      86,
+      216,
+      103,
+      268
+    ],
+    "kanjis": [
+      1345,
+      1609
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうゆ",
+      "url": "https://files.wanikani.com/wh3oc4ygkyesj3eb6zek6re6jqw0"
+    }
+  ]
+}

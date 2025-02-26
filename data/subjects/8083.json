@@ -1,0 +1,34 @@
+{
+  "id": 8083,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "進呈"
+  },
+  "primaryMeaning": "Presentation",
+  "meaningMnemonic": "<kanji>Present</kanji> your findings in <kanji>advance</kanji> during an early <vocabulary>presentation</vocabulary>.",
+  "primaryReading": "しんてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "進呈",
+  "related": {
+    "radicals": [
+      114,
+      240,
+      16,
+      48
+    ],
+    "kanjis": [
+      748,
+      2242
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんてい",
+      "url": "https://files.wanikani.com/fw93wufhpct8pd2j5aovqojujplj"
+    }
+  ]
+}

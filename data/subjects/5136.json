@@ -1,0 +1,37 @@
+{
+  "id": 5136,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "創造的"
+  },
+  "primaryMeaning": "Creative",
+  "meaningMnemonic": "If 創造 is <kanji>creation</kanji>, then you add 的 to it, which means you have a creational thing, which is quite <vocabulary>creative</vocabulary> wouldn't you say?",
+  "primaryReading": "そうぞうてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "創造的",
+  "related": {
+    "radicals": [
+      8827,
+      128,
+      114,
+      306,
+      52,
+      236
+    ],
+    "kanjis": [
+      1284,
+      1281,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうぞうてき",
+      "url": "https://files.wanikani.com/og4cj7mrfg8hfpg9vrn31ywtu7i3"
+    }
+  ]
+}

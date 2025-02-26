@@ -1,0 +1,37 @@
+{
+  "id": 5418,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "既決"
+  },
+  "primaryMeaning": "Decided",
+  "meaningMnemonic": "It was <kanji>previously</kanji> <kanji>decide</kanji>d, which means it's been <vocabulary>decided</vocabulary> and <vocabulary>settled</vocabulary>.",
+  "primaryReading": "きけつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Settled"
+  ],
+  "otherReadings": [],
+  "wkSlug": "既決",
+  "related": {
+    "radicals": [
+      196,
+      333,
+      103,
+      9,
+      157
+    ],
+    "kanjis": [
+      1447,
+      687
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きけつ",
+      "url": "https://files.wanikani.com/77c2tlpubg5p1b5m8sshaw81mosl"
+    }
+  ]
+}

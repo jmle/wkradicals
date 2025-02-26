@@ -1,0 +1,43 @@
+{
+  "id": 8169,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "必須条件"
+  },
+  "primaryMeaning": "Essential Condition",
+  "meaningMnemonic": "You already learned that 必須 can mean \"essential\" and that 条件 means \"condition,\" so put them together and you get <vocabulary>essential condition</vocabulary>! That basically means that it's a <vocabulary>must</vocabulary>.",
+  "primaryReading": "ひっすじょうけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Requisite",
+    "Must"
+  ],
+  "otherReadings": [],
+  "wkSlug": "必須条件",
+  "related": {
+    "radicals": [
+      65,
+      5,
+      38,
+      184,
+      60,
+      23,
+      75,
+      126
+    ],
+    "kanjis": [
+      655,
+      2174,
+      1145,
+      1135
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひっすじょうけん",
+      "url": "https://files.wanikani.com/p715dzi6yauiqtixn4pqxwkvi7ol"
+    }
+  ]
+}

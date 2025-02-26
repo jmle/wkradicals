@@ -1,0 +1,37 @@
+{
+  "id": 6813,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "絶叫"
+  },
+  "primaryMeaning": "Exclamation",
+  "meaningMnemonic": "<kanji>Extinction</kanji> caused by a <kanji>shout</kanji>. You are making everyone else's voices go extinct, and you <vocabulary>scream</vocabulary> and <vocabulary>shout</vocabulary> over them. You are making an <vocabulary>exclamation</vocabulary>, gosh darn it.",
+  "primaryReading": "ぜっきょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Careful of the shortening.",
+  "otherMeanings": [
+    "Scream",
+    "Shout"
+  ],
+  "otherReadings": [],
+  "wkSlug": "絶叫",
+  "related": {
+    "radicals": [
+      86,
+      110,
+      16,
+      289
+    ],
+    "kanjis": [
+      1371,
+      1892
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜっきょう",
+      "url": "https://files.wanikani.com/pr382jg036glct91qpyncx6zqrlc"
+    }
+  ]
+}

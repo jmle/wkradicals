@@ -1,0 +1,40 @@
+{
+  "id": 4635,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "優勝"
+  },
+  "primaryMeaning": "Victory",
+  "meaningMnemonic": "The <kanji>superior</kanji> person <kanji>win</kanji>s. They will win the <vocabulary>championship</vocabulary> and be able to claim <vocabulary>victory</vocabulary> over all others.",
+  "primaryReading": "ゆうしょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Championship"
+  ],
+  "otherReadings": [],
+  "wkSlug": "優勝",
+  "related": {
+    "radicals": [
+      75,
+      239,
+      76,
+      65,
+      60,
+      43,
+      8819,
+      13
+    ],
+    "kanjis": [
+      1206,
+      738
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうしょう",
+      "url": "https://files.wanikani.com/u89icrybhoedlvefqzetwthhrjrd"
+    }
+  ]
+}

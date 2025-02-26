@@ -1,0 +1,30 @@
+{
+  "id": 7521,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "白い"
+  },
+  "primaryMeaning": "White",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>white</kanji>? <vocabulary>White</vocabulary>, of course!",
+  "primaryReading": "しろい",
+  "readingMnemonic": "This has the same reading as the vocab 白 you learned, so you already know the reading. Go you!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "白い",
+  "related": {
+    "radicals": [
+      52
+    ],
+    "kanjis": [
+      491
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しろい",
+      "url": "https://files.wanikani.com/4l9cl44c8t2q8spzzgfcrewujo65"
+    }
+  ]
+}

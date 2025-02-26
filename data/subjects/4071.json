@@ -1,0 +1,35 @@
+{
+  "id": 4071,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "取り出す"
+  },
+  "primaryMeaning": "To Pick Out",
+  "meaningMnemonic": "To <kanji>take</kanji> something and then <kanji>remove</kanji> it, is when you reach in and grab something and choose it and pull it out. This is <vocabulary>to pick out</vocabulary> or <vocabulary>to take out</vocabulary>.",
+  "primaryReading": "とりだす",
+  "readingMnemonic": "The readings come from the individual words 取る and 出す. Put them together and you should be able to read this word too.",
+  "otherMeanings": [
+    "To Take Out"
+  ],
+  "otherReadings": [],
+  "wkSlug": "取り出す",
+  "related": {
+    "radicals": [
+      88,
+      30,
+      20
+    ],
+    "kanjis": [
+      966,
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とりだす",
+      "url": "https://files.wanikani.com/s0o88jta8mdnky7ln6vauxh3rb6r"
+    }
+  ]
+}

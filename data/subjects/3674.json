@@ -1,0 +1,36 @@
+{
+  "id": 3674,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "完成"
+  },
+  "primaryMeaning": "Completion",
+  "meaningMnemonic": "When something has <kanji>become</kanji> <kanji>perfect</kanji> it has reached <vocabulary>completion</vocabulary>.",
+  "primaryReading": "かんせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Accomplishment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "完成",
+  "related": {
+    "radicals": [
+      78,
+      64,
+      194,
+      24
+    ],
+    "kanjis": [
+      904,
+      780
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんせい",
+      "url": "https://files.wanikani.com/2803quvqcvlzd0iqa0oqxmqo5d43"
+    }
+  ]
+}

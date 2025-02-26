@@ -1,0 +1,34 @@
+{
+  "id": 4812,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "慣れる"
+  },
+  "primaryMeaning": "To Become Accustomed To",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>accustomed</kanji> so the verb vocab version is <vocabulary>to become accustomed</vocabulary>.",
+  "primaryReading": "なれる",
+  "readingMnemonic": "What have you <vocabulary>become accustomed to</vocabulary>? All the <reading>Na</reading>rwhals (な) you hang out with. They take some getting used to.",
+  "otherMeanings": [
+    "To Get Used To"
+  ],
+  "otherReadings": [],
+  "wkSlug": "慣れる",
+  "related": {
+    "radicals": [
+      232,
+      107,
+      94
+    ],
+    "kanjis": [
+      1269
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なれる",
+      "url": "https://files.wanikani.com/n5804zrln2tgght1c1fn7g7qoedj"
+    }
+  ]
+}

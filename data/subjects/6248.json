@@ -1,0 +1,38 @@
+{
+  "id": 6248,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "言葉遣い"
+  },
+  "primaryMeaning": "Choice Of Words",
+  "meaningMnemonic": "If you try <kanji>to consider</kanji> (遣う) your <kanji>words</kanji> (言葉) you are making a <vocabulary>choice of words</vocabulary>.",
+  "primaryReading": "ことばづかい",
+  "readingMnemonic": "The reading is 言葉 and 遣う combined together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "言葉遣い",
+  "related": {
+    "radicals": [
+      117,
+      90,
+      83,
+      23,
+      114,
+      89,
+      8777
+    ],
+    "kanjis": [
+      593,
+      750,
+      1662
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ことばづかい",
+      "url": "https://files.wanikani.com/qulewqaa660z0uzul6wlqu34td2o"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5210,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "〜隊"
+  },
+  "primaryMeaning": "Squad",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たい",
+  "readingMnemonic": "The reading is the same as the kanji reading you learned, probably because this is stuck onto things, describing various squads.",
+  "otherMeanings": [
+    "Party",
+    "Team"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜隊",
+  "related": {
+    "radicals": [
+      176,
+      8767,
+      233
+    ],
+    "kanjis": [
+      1359
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たい",
+      "url": "https://files.wanikani.com/wgyj5ooszcw9i4sysvgr563ivt21"
+    }
+  ]
+}

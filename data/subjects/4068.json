@@ -1,0 +1,37 @@
+{
+  "id": 4068,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "僧院"
+  },
+  "primaryMeaning": "Temple",
+  "meaningMnemonic": "An <kanji>monk</kanji>’s <kanji>institution</kanji> is going to be a <vocabulary>monastery</vocabulary> or <vocabulary>temple</vocabulary>. What a nice place to live, I'm sure!\n\nThis word refers to Buddhist monasteries, and it's often used for ones outside of Japan.",
+  "primaryReading": "そういん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Monastery"
+  ],
+  "otherReadings": [],
+  "wkSlug": "僧院",
+  "related": {
+    "radicals": [
+      75,
+      259,
+      176,
+      78,
+      64
+    ],
+    "kanjis": [
+      1046,
+      744
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そういん",
+      "url": "https://files.wanikani.com/jk9hkpydlk61x9hrsnhl1d7j83t6"
+    }
+  ]
+}

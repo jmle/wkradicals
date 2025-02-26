@@ -1,0 +1,37 @@
+{
+  "id": 8655,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "醜悪"
+  },
+  "primaryMeaning": "Ugly",
+  "meaningMnemonic": "<kanji>Ugly</kanji>, <kanji>bad</kanji> things are <vocabulary>ugly</vocabulary>, <vocabulary>mean</vocabulary>, and <vocabulary>offensive</vocabulary>.",
+  "primaryReading": "しゅうあく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Mean",
+    "Offensive"
+  ],
+  "otherReadings": [],
+  "wkSlug": "醜悪",
+  "related": {
+    "radicals": [
+      182,
+      292,
+      204,
+      65
+    ],
+    "kanjis": [
+      2448,
+      829
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅうあく",
+      "url": "https://files.wanikani.com/ze797lz7divlihg6lyaldhyp1579"
+    }
+  ]
+}

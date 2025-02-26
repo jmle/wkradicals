@@ -1,0 +1,39 @@
+{
+  "id": 4559,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "区域"
+  },
+  "primaryMeaning": "Zone",
+  "meaningMnemonic": "When there's a <kanji>district</kanji> in a <kanji>region</kanji>, it's called a <vocabulary>zone</vocabulary> or <vocabulary>district</vocabulary>.\n\n区域 is a formal word for a kind of designated <vocabulary>area</vocabulary>, usually one defined by specific boundaries or characteristics. It's often used in urban planning, like for no-parking zones or residential areas. It can also apply to regions like postal districts, police jurisdictions, or restricted areas.",
+  "primaryReading": "くいき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "District",
+    "Area"
+  ],
+  "otherReadings": [],
+  "wkSlug": "区域",
+  "related": {
+    "radicals": [
+      217,
+      31,
+      17,
+      194,
+      16,
+      1
+    ],
+    "kanjis": [
+      937,
+      1178
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くいき",
+      "url": "https://files.wanikani.com/no3ddedu1v5ezd04qp6z37mb8ffe"
+    }
+  ]
+}

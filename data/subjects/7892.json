@@ -1,0 +1,35 @@
+{
+  "id": 7892,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "擁する"
+  },
+  "primaryMeaning": "To Have",
+  "meaningMnemonic": "To do an <kanji>embrace</kanji> is <vocabulary>to have</vocabulary> that person or animal in your arms. You hug it and then run away with it. It's yours now.",
+  "primaryReading": "ようする",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "To Possess"
+  ],
+  "otherReadings": [],
+  "wkSlug": "擁する",
+  "related": {
+    "radicals": [
+      63,
+      8,
+      87,
+      240
+    ],
+    "kanjis": [
+      2160
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようする",
+      "url": "https://files.wanikani.com/drpll7uo9oekf9tydd0ycmzwz2w4"
+    }
+  ]
+}

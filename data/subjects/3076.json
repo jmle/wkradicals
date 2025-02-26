@@ -1,0 +1,35 @@
+{
+  "id": 3076,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "会話"
+  },
+  "primaryMeaning": "Conversation",
+  "meaningMnemonic": "When you <kanji>meet</kanji> and <kanji>talk</kanji> with someone else, you're having a <vocabulary>conversation</vocabulary>.",
+  "primaryReading": "かいわ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Dialogue"
+  ],
+  "otherReadings": [],
+  "wkSlug": "会話",
+  "related": {
+    "radicals": [
+      155,
+      117,
+      174
+    ],
+    "kanjis": [
+      566,
+      705
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいわ",
+      "url": "https://files.wanikani.com/59l3mlb0omv2cjvi46pe4ztbkkwb"
+    }
+  ]
+}

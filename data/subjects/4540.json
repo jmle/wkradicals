@@ -1,0 +1,39 @@
+{
+  "id": 4540,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "領域"
+  },
+  "primaryMeaning": "Domain",
+  "meaningMnemonic": "This is my <kanji>territory</kanji>. This is my <kanji>region</kanji>. This is my <vocabulary>domain</vocabulary>!",
+  "primaryReading": "りょういき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Territory",
+    "Realm"
+  ],
+  "otherReadings": [],
+  "wkSlug": "領域",
+  "related": {
+    "radicals": [
+      189,
+      184,
+      17,
+      194,
+      16,
+      1
+    ],
+    "kanjis": [
+      1171,
+      1178
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょういき",
+      "url": "https://files.wanikani.com/kcdk964ocbvocaumn1q4w8wnnd7h"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3555,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "話し方"
+  },
+  "primaryMeaning": "Way Of Speaking",
+  "meaningMnemonic": "Your <kanji>speak</kanji>ing <kanji>way</kanji> is… your <vocabulary>way of speaking</vocabulary>, or your <vocabulary>speaking style</vocabulary>. This includes your tone of voice, speed, and even how you use gestures when talking. It's more about the whole way you communicate, not just the wording or how you phrase things.",
+  "primaryReading": "はなしかた",
+  "readingMnemonic": "This uses the kun'yomi readings from the vocab words 話す and 方. So as long as you're okay with those, you can apply that knowledge over here.",
+  "otherMeanings": [
+    "Speaking Style",
+    "Way Of Talking",
+    "Talking Style"
+  ],
+  "otherReadings": [],
+  "wkSlug": "話し方",
+  "related": {
+    "radicals": [
+      117,
+      174,
+      66
+    ],
+    "kanjis": [
+      705,
+      510
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はなしかた",
+      "url": "https://files.wanikani.com/3qil0nt2v7y46y3od06tujqyg175"
+    }
+  ]
+}

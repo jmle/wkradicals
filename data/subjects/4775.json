@@ -1,0 +1,32 @@
+{
+  "id": 4775,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "影"
+  },
+  "primaryMeaning": "Shadow",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かげ",
+  "readingMnemonic": "Just imagine the <vocabulary>shadow</vocabulary> of a <reading>cage</reading> (かげ). Lots of long bars. Looks good.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "影",
+  "related": {
+    "radicals": [
+      22,
+      299,
+      38
+    ],
+    "kanjis": [
+      1251
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かげ",
+      "url": "https://files.wanikani.com/ycwd8xofxay5d4kdostyrrr0iufi"
+    }
+  ]
+}

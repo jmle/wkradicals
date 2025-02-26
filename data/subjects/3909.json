@@ -1,0 +1,33 @@
+{
+  "id": 3909,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "自動"
+  },
+  "primaryMeaning": "Automatic",
+  "meaningMnemonic": "Something that can <kanji>move</kanji> by its <kanji>self</kanji> is something that's <vocabulary>automatic</vocabulary>.",
+  "primaryReading": "じどう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "自動",
+  "related": {
+    "radicals": [
+      109,
+      188,
+      13
+    ],
+    "kanjis": [
+      578,
+      827
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じどう",
+      "url": "https://files.wanikani.com/3we1s8jn7biwjsf4pwb7cbxs2mub"
+    }
+  ]
+}

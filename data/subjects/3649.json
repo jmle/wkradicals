@@ -1,0 +1,35 @@
+{
+  "id": 3649,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "都合"
+  },
+  "primaryMeaning": "One's Convenience",
+  "meaningMnemonic": "This one makes no sense (sorry!). When you <kanji>join</kanji> together with someone at a <kanji>metropolis</kanji>, you do it <vocabulary>at your convenience</vocabulary>. You're important, after all, so you just do what you want and make the other person wait in this giant metropolis while you move along leisurely. Imagine this, and keep thinking \"at your convenience\" as you walk about.\n\nThis word is usually used in a nicer way, though. As in, \"do it at your convenience!\"",
+  "primaryReading": "つごう",
+  "readingMnemonic": "The reading for 都 is an exception from what you learned with the kanji. To remember this, just think about someone who does something at their own convenience. They say, I'm going <reading>to go</reading> (つごう) where I want, when I want, at my own convenience.\n\nThe 合 (ごう) part is a reading you know from the kanji, though, so if you can get to \"to go\" with the mnemonic, you should be able to put two and two together to know that it's a long vowel ごう.",
+  "otherMeanings": [
+    "Circumstances"
+  ],
+  "otherReadings": [],
+  "wkSlug": "都合",
+  "related": {
+    "radicals": [
+      203,
+      176,
+      216
+    ],
+    "kanjis": [
+      826,
+      852
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つごう",
+      "url": "https://files.wanikani.com/3wh2c31q1dix5rur34ifje3uc4k1"
+    }
+  ]
+}

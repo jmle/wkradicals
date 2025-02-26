@@ -1,0 +1,35 @@
+{
+  "id": 4219,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "対比"
+  },
+  "primaryMeaning": "Contrast",
+  "meaningMnemonic": "When you look at something <kanji>versus</kanji> something else, you <kanji>compare</kanji> them with one another. You look at the <vocabulary>contrast</vocabulary> between them and make a <vocabulary>comparison</vocabulary>.",
+  "primaryReading": "たいひ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Comparison"
+  ],
+  "otherReadings": [],
+  "wkSlug": "対比",
+  "related": {
+    "radicals": [
+      42,
+      74,
+      161
+    ],
+    "kanjis": [
+      683,
+      1088
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいひ",
+      "url": "https://files.wanikani.com/q1auiobh0fhzpf0dccqq4wahh83z"
+    }
+  ]
+}

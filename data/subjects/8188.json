@@ -1,0 +1,37 @@
+{
+  "id": 8188,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "凝固"
+  },
+  "primaryMeaning": "Solidify",
+  "meaningMnemonic": "Your pudding <kanji>congeal</kanji>ed and is all <kanji>hard</kanji>. How on earth did it <vocabulary>solidify</vocabulary> like this? It shouldn't <vocabulary>freeze</vocabulary> unless you put it in the freezer. Unless, did you? Oh... ",
+  "primaryReading": "ぎょうこ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Coagulate",
+    "Freeze"
+  ],
+  "otherReadings": [],
+  "wkSlug": "凝固",
+  "related": {
+    "radicals": [
+      123,
+      8832,
+      16,
+      69
+    ],
+    "kanjis": [
+      2283,
+      902
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎょうこ",
+      "url": "https://files.wanikani.com/p7sbt75wuijo51opta91nkry5ln1"
+    }
+  ]
+}

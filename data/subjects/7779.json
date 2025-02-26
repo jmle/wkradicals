@@ -1,0 +1,35 @@
+{
+  "id": 7779,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "埋まる"
+  },
+  "primaryMeaning": "To Be Buried",
+  "meaningMnemonic": "Remember how you learned that 埋める means \"to bury?\" Well this is something that is being buried, maybe even you! Either way, you're not the one doing the burying. It means <vocabulary>to be buried</vocabulary>.\n\n埋まる can also mean to be filled, like a pond being completely filled by dirt from a landslide or seats being filled at an event.",
+  "primaryReading": "うまる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned the kanji, so you should be able to read it already!",
+  "otherMeanings": [
+    "To Be Surrounded",
+    "To Overflow",
+    "To Be Filled"
+  ],
+  "otherReadings": [],
+  "wkSlug": "埋まる",
+  "related": {
+    "radicals": [
+      17,
+      125
+    ],
+    "kanjis": [
+      1725
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うまる",
+      "url": "https://files.wanikani.com/yc7l3w0wj4aqdfuz1dou3vq6bx3u"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8233,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "山葵"
+  },
+  "primaryMeaning": "Wasabi",
+  "meaningMnemonic": "If you dig up <kanji>hollyhock</kanji>s in the <kanji>mountain</kanji>s, and grind up their roots, you'll have <vocabulary>wasabi</vocabulary>! Don't eat too much, or you'll burn your tongue off.",
+  "primaryReading": "わさび",
+  "readingMnemonic": "This reading is an exception, but I'm sure (at least I hope) that you've heard the word wasabi before. It's the same in Japanese so just remember the meaning and you'll know the reading too!",
+  "otherMeanings": [
+    "Japanese Horseradish"
+  ],
+  "otherReadings": [],
+  "wkSlug": "山葵",
+  "related": {
+    "radicals": [
+      20,
+      90,
+      168,
+      40
+    ],
+    "kanjis": [
+      455,
+      2221
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わさび",
+      "url": "https://files.wanikani.com/s70ix6esfzfr1ezy9erqxd54p4ki"
+    }
+  ]
+}

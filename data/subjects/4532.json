@@ -1,0 +1,38 @@
+{
+  "id": 4532,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "県営"
+  },
+  "primaryMeaning": "Run By The Prefecture",
+  "meaningMnemonic": "<kanji>Prefecture</kanji> <kanji>manage</kanji>d things are <vocabulary>run by the prefecture</vocabulary>.",
+  "primaryReading": "けんえい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Prefecture Run",
+    "Prefectural"
+  ],
+  "otherReadings": [],
+  "wkSlug": "県営",
+  "related": {
+    "radicals": [
+      53,
+      56,
+      35,
+      8769,
+      282
+    ],
+    "kanjis": [
+      731,
+      1168
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんえい",
+      "url": "https://files.wanikani.com/02fwj622w7ur0fukavdp0zwjpq2p"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 396,
+  "type": "radical",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "守"
+  },
+  "primaryMeaning": "Protect",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>protect</radical>.",
+  "wkSlug": "protect",
+  "related": {
+    "kanjis": [
+      1913
+    ],
+    "vocabularies": [
+      6869,
+      6870,
+      7142,
+      7909
+    ]
+  }
+}

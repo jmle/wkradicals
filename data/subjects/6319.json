@@ -1,0 +1,36 @@
+{
+  "id": 6319,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "移譲"
+  },
+  "primaryMeaning": "Transfer",
+  "meaningMnemonic": "<kanji>Shift</kanji> something and <kanji>defer</kanji> it somewhere else. This is a <vocabulary>transfer</vocabulary> or <vocabulary>assignment</vocabulary>.\n\nThis is a formal term used to describe the legal transfer of rights, properties, or liabilities, so it's most commonly seen in official or legal documents.",
+  "primaryReading": "いじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Assignment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "移譲",
+  "related": {
+    "radicals": [
+      135,
+      33,
+      117,
+      430
+    ],
+    "kanjis": [
+      1368,
+      1736
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いじょう",
+      "url": "https://files.wanikani.com/jhbw1c15weq1um4pz5w2zuponenq"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4886,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "構造"
+  },
+  "primaryMeaning": "Structure",
+  "meaningMnemonic": "First you have to <kanji>set up</kanji> the <vocabulary>structure</vocabulary> of something to <kanji>create</kanji> it. This structure is important for the creation of everything, otherwise it would just fall apart.",
+  "primaryReading": "こうぞう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "構造",
+  "related": {
+    "radicals": [
+      23,
+      303,
+      114,
+      306
+    ],
+    "kanjis": [
+      1263,
+      1281
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうぞう",
+      "url": "https://files.wanikani.com/dnhlujx1dyi9q85cxmq46kgxpe5z"
+    }
+  ]
+}

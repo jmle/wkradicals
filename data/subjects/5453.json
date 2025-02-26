@@ -1,0 +1,33 @@
+{
+  "id": 5453,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "倉"
+  },
+  "primaryMeaning": "Storehouse",
+  "meaningMnemonic": "The kanji means <kanji>storehouse</kanji>, and the vocab is also <vocabulary>storehouse</vocabulary>!\n\nWondering what the difference between 倉 and 庫 is? Long ago, 倉 were places to store grain, while 庫 used to be associated with places to store vehicles, as the kanji composition suggests. These days, they're both used for general storage, but also refer to places to store goods and merchandise. Between the two, 倉 is much more commonly used.",
+  "primaryReading": "くら",
+  "readingMnemonic": "The reading is the same as the other storehouse reading you learned earlier with 庫. They're basically the same thing, and lucky for you they share the same reading too (<reading>くら</reading>).",
+  "otherMeanings": [
+    "Warehouse",
+    "Kura"
+  ],
+  "otherReadings": [],
+  "wkSlug": "倉",
+  "related": {
+    "radicals": [
+      8827
+    ],
+    "kanjis": [
+      1460
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くら",
+      "url": "https://files.wanikani.com/6ops4iiqx6p1vpcqsja2qdetvau8"
+    }
+  ]
+}

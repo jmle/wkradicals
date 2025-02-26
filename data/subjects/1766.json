@@ -1,0 +1,38 @@
+{
+  "id": 1766,
+  "type": "kanji",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "殖"
+  },
+  "primaryReading": "しょく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しょく",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Multiply",
+  "otherMeanings": [],
+  "meaningMnemonic": "When you go to the <radical>yakuza</radical> to <radical>fix</radical> your problems they'll just <kanji>multiply</kanji>.",
+  "readingMnemonic": "Just like I said, your problems <kanji>multiply</kanji> before your eyes and give you quite a <reading>shock</reading> (しょく). You really shouldn't be shocked though, because I warned you this would happen.",
+  "wkSlug": "殖",
+  "related": {
+    "radicals": [
+      132,
+      8821
+    ],
+    "vocabularies": [
+      6427,
+      6432,
+      6433
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6991,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "〜歳"
+  },
+  "primaryMeaning": "Years Old",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This is put on the end of numbers to show how old someone is.",
+  "primaryReading": "さい",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "〜歳",
+  "related": {
+    "radicals": [
+      44,
+      5,
+      194,
+      207
+    ],
+    "kanjis": [
+      1953
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さい",
+      "url": "https://files.wanikani.com/lvpzaj0pnzz61v4x5wu2gll6jbuz"
+    }
+  ]
+}

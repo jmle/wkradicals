@@ -1,0 +1,36 @@
+{
+  "id": 7399,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "軌道"
+  },
+  "primaryMeaning": "Orbit",
+  "meaningMnemonic": "A <kanji>rut</kanji> in the <kanji>road</kanji> is for some reason an <vocabulary>orbit</vocabulary> or <vocabulary>trajectory</vocabulary>. Maybe imagine a big ol' rut in the road. You drive at it at very high speeds, hit it, and fly into the sky at a <vocabulary>trajectory</vocabulary> that will send you into <vocabulary>orbit</vocabulary>. Now you're up in space, circling the earth, wishing you didn't drive so fast.",
+  "primaryReading": "きどう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Trajectory"
+  ],
+  "otherReadings": [],
+  "wkSlug": "軌道",
+  "related": {
+    "radicals": [
+      93,
+      11,
+      114,
+      156
+    ],
+    "kanjis": [
+      2103,
+      700
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きどう",
+      "url": "https://files.wanikani.com/izpxcusd4oehrtfhamlhp581yuut"
+    }
+  ]
+}

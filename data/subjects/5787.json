@@ -1,0 +1,34 @@
+{
+  "id": 5787,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "字幕"
+  },
+  "primaryMeaning": "Subtitles",
+  "meaningMnemonic": "A <kanji>curtain</kanji> of <kanji>letter</kanji>s that goes on your screen are <vocabulary>subtitles</vocabulary>. Sometimes they have black bar backgrounds too, which are like curtains!",
+  "primaryReading": "じまく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "字幕",
+  "related": {
+    "radicals": [
+      78,
+      34,
+      356,
+      102
+    ],
+    "kanjis": [
+      545,
+      1562
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じまく",
+      "url": "https://files.wanikani.com/yohnz4f3snv37sk04txb6zlzcjaq"
+    }
+  ]
+}

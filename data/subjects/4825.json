@@ -1,0 +1,34 @@
+{
+  "id": 4825,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "上巻"
+  },
+  "primaryMeaning": "First Volume",
+  "meaningMnemonic": "The <kanji>above</kanji> <kanji>scroll</kanji> is the top scroll, the one you read first. It's the <vocabulary>first volume</vocabulary>. Many Japanese books come in parts, so look for this if you want to get the first one.",
+  "primaryReading": "じょうかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "上巻",
+  "related": {
+    "radicals": [
+      10,
+      1,
+      8819,
+      228
+    ],
+    "kanjis": [
+      450,
+      1273
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうかん",
+      "url": "https://files.wanikani.com/6pkh1haeuisymp9ayznsp4osby7p"
+    }
+  ]
+}

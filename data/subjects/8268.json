@@ -1,0 +1,43 @@
+{
+  "id": 8268,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "寂しい"
+  },
+  "primaryMeaning": "Lonely",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>lonely</kanji>? It's still <vocabulary>lonely</vocabulary>!",
+  "primaryReading": "さびしい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nNo one is as <vocabulary>lonely</vocabulary> as a <reading>sa</reading>d <reading>bee</reading> (さび). The sad bee is sad because it has no friends and that makes is super lonely. Poor sad bee.",
+  "otherMeanings": [
+    "Lonesome",
+    "Solitary",
+    "Desolate"
+  ],
+  "otherReadings": [
+    "さみしい"
+  ],
+  "wkSlug": "寂しい",
+  "related": {
+    "radicals": [
+      78,
+      325,
+      35,
+      30
+    ],
+    "kanjis": [
+      2298
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さびしい",
+      "url": "https://files.wanikani.com/l8u8bajq5z8x7a57ugfh3l8egkjg"
+    },
+    {
+      "reading": "さみしい",
+      "url": "https://files.wanikani.com/ucgokkkumu41e7ahz94a8k46a5w1"
+    }
+  ]
+}

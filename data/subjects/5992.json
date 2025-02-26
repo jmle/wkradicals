@@ -1,0 +1,33 @@
+{
+  "id": 5992,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "沖合"
+  },
+  "primaryMeaning": "Open Sea",
+  "meaningMnemonic": "The <kanji>open sea</kanji> is where the sea <kanji>join</kanji>s together to be the <vocabulary>open sea</vocabulary>.",
+  "primaryReading": "おきあい",
+  "readingMnemonic": "The readings are the kun'yomi readings that you learned when you learned the kanji. Just remember that this time 合 takes the あい reading.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "沖合",
+  "related": {
+    "radicals": [
+      103,
+      49,
+      216
+    ],
+    "kanjis": [
+      1627,
+      852
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おきあい",
+      "url": "https://files.wanikani.com/gn7mizbezwlqqxugjzxbvrz0n6qt"
+    }
+  ]
+}

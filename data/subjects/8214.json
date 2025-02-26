@@ -1,0 +1,35 @@
+{
+  "id": 8214,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "一旦"
+  },
+  "primaryMeaning": "Once",
+  "meaningMnemonic": "You only have time to do <kanji>one</kanji> thing at <kanji>dawn</kanji> <vocabulary>once</vocabulary>. Dawn is really short so you can do whatever it is <vocabulary>for a moment</vocabulary>, but that's it.",
+  "primaryReading": "いったん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "For A Moment",
+    "Temporarily"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一旦",
+  "related": {
+    "radicals": [
+      1,
+      293
+    ],
+    "kanjis": [
+      440,
+      2286
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いったん",
+      "url": "https://files.wanikani.com/oib6tbv2upuxlqu29wsydj8trk56"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 4284,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "嫌い"
+  },
+  "primaryMeaning": "Dislike",
+  "meaningMnemonic": "You know that 嫌 means <kanji>dislike</kanji> and this vocab word means the same thing: <vocabulary>dislike</vocabulary> or <vocabulary>hate</vocabulary>!\n\nThough this word is an adjective in Japanese, it usually makes sense to translate it as a verb in English, because of the difference in sentence structure. However, a more literal translation would be <vocabulary>dislikable</vocabulary> or <vocabulary>detestable</vocabulary>.",
+  "primaryReading": "きらい",
+  "readingMnemonic": "Of all the things out there to <vocabulary>dislike</vocabulary> the thing I dislike the most is the <reading>killer</reading> (きら) of people. People should never kill people.",
+  "otherMeanings": [
+    "Hate",
+    "Dislikable",
+    "Detestable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "嫌い",
+  "related": {
+    "radicals": [
+      19,
+      271
+    ],
+    "kanjis": [
+      1104
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きらい",
+      "url": "https://files.wanikani.com/l1uwm8unva6j2ju41eljsydnnsbz"
+    }
+  ]
+}

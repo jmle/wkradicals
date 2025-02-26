@@ -1,0 +1,30 @@
+{
+  "id": 4313,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "穴"
+  },
+  "primaryMeaning": "Hole",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あな",
+  "readingMnemonic": "The reading you learned with the kanji is the same as the reading for this word. No <vocabulary>hole</vocabulary>s in your knowledge!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "穴",
+  "related": {
+    "radicals": [
+      170
+    ],
+    "kanjis": [
+      1118
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あな",
+      "url": "https://files.wanikani.com/r9ri1p6n9ai6o64nzqyul2ploobk"
+    }
+  ]
+}

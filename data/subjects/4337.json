@@ -1,0 +1,36 @@
+{
+  "id": 4337,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "予防"
+  },
+  "primaryMeaning": "Prevention",
+  "meaningMnemonic": "To <kanji>prevent</kanji> <kanji>beforehand</kanji> is still <vocabulary>prevention</vocabulary>.",
+  "primaryReading": "よぼう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Prevent"
+  ],
+  "otherReadings": [],
+  "wkSlug": "予防",
+  "related": {
+    "radicals": [
+      141,
+      27,
+      176,
+      66
+    ],
+    "kanjis": [
+      854,
+      1117
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よぼう",
+      "url": "https://files.wanikani.com/b0nhsl6pa4oonvffyls3zfr6taa6"
+    }
+  ]
+}

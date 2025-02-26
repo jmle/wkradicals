@@ -1,0 +1,38 @@
+{
+  "id": 5407,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "緊張する"
+  },
+  "primaryMeaning": "To Stress",
+  "meaningMnemonic": "緊張 is <vocabulary>stress</vocabulary>. So, the verb version is <vocabulary>to stress out</vocabulary>.",
+  "primaryReading": "きんちょうする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "To Stress Out",
+    "To Be Nervous"
+  ],
+  "otherReadings": [],
+  "wkSlug": "緊張する",
+  "related": {
+    "radicals": [
+      323,
+      30,
+      86,
+      36,
+      138
+    ],
+    "kanjis": [
+      1402,
+      1205
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんちょうする",
+      "url": "https://files.wanikani.com/hfjmlwzchaovylnfndtiitzjsqwm"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3715,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "私生活"
+  },
+  "primaryMeaning": "Personal Life",
+  "meaningMnemonic": "You've seen 生活 before, right? So what about the \"life\" of <kanji>I</kanji>? Whose life is that? Why, that's my own <vocabulary>personal life</vocabulary>.",
+  "primaryReading": "しせいかつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "One's Personal Life",
+    "Private Life",
+    "One's Private Life"
+  ],
+  "otherReadings": [],
+  "wkSlug": "私生活",
+  "related": {
+    "radicals": [
+      135,
+      140,
+      210,
+      103,
+      174
+    ],
+    "kanjis": [
+      923,
+      850,
+      639
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しせいかつ",
+      "url": "https://files.wanikani.com/70zvbw9l8sexhkny7ziy7ink6iog"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8675,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "議長"
+  },
+  "primaryMeaning": "Chairman",
+  "meaningMnemonic": "The person in charge of <kanji>long</kanji> <kanji>discussion</kanji>s is the <vocabulary>chairman</vocabulary>, or the <vocabulary>speaker</vocabulary>. They also say who gets to talk and for how long.",
+  "primaryReading": "ぎちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Chairperson",
+    "Speaker"
+  ],
+  "otherReadings": [],
+  "wkSlug": "議長",
+  "related": {
+    "radicals": [
+      117,
+      383,
+      138
+    ],
+    "kanjis": [
+      1114,
+      632
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎちょう",
+      "url": "https://files.wanikani.com/ra3q28vn0no4s3o52e7ajatuq05n"
+    }
+  ]
+}

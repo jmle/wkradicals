@@ -1,0 +1,38 @@
+{
+  "id": 2939,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "以上"
+  },
+  "primaryMeaning": "More Than",
+  "meaningMnemonic": "<kanji>Compared with</kanji> something else, this is <kanji>above</kanji>. That's another way to say that what you have is <vocabulary>more than</vocabulary> something else. <vocabulary>That's all</vocabulary>. ;)",
+  "primaryReading": "いじょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Or More",
+    "That's All"
+  ],
+  "otherReadings": [],
+  "wkSlug": "以上",
+  "related": {
+    "radicals": [
+      56,
+      3,
+      9,
+      10,
+      1
+    ],
+    "kanjis": [
+      653,
+      450
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いじょう",
+      "url": "https://files.wanikani.com/6i4awn3wiuvu0q644qq3bhqv31kc"
+    }
+  ]
+}

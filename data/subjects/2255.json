@@ -1,0 +1,46 @@
+{
+  "id": 2255,
+  "type": "kanji",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "阿"
+  },
+  "primaryReading": "あ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "お",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おもね",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "くま",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Flatter",
+  "otherMeanings": [],
+  "meaningMnemonic": "You see a <radical>building</radical> with a <radical>lip ring</radical> and it's just so cute you have to <kanji>flatter</kanji> it. \"That lip ring looks wonderful on you, Buildingさん,\" you say.",
+  "readingMnemonic": "The building is <kanji>flatter</kanji>ed and you hear it shout, \"<reading>Ah</reading> (あ)!\" and blush. The entire building turns red.",
+  "wkSlug": "阿",
+  "related": {
+    "radicals": [
+      176,
+      113
+    ],
+    "vocabularies": [
+      8080
+    ]
+  }
+}

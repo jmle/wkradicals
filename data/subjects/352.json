@@ -1,0 +1,24 @@
+{
+  "id": 352,
+  "type": "radical",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "帯"
+  },
+  "primaryMeaning": "Belt",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>belt</radical>.",
+  "wkSlug": "belt",
+  "related": {
+    "kanjis": [
+      1585
+    ],
+    "vocabularies": [
+      5877,
+      5878,
+      6252,
+      6733
+    ]
+  }
+}

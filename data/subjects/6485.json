@@ -1,0 +1,37 @@
+{
+  "id": 6485,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "撤兵"
+  },
+  "primaryMeaning": "Withdrawal Of Troops",
+  "meaningMnemonic": "A <kanji>withdrawal</kanji> of <kanji>soldier</kanji>s is a <vocabulary>withdrawal of troops</vocabulary>.",
+  "primaryReading": "てっぺい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Look out for the shortened てっ spot.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "撤兵",
+  "related": {
+    "radicals": [
+      63,
+      8776,
+      43,
+      60,
+      115,
+      1,
+      2
+    ],
+    "kanjis": [
+      1778,
+      1000
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てっぺい",
+      "url": "https://files.wanikani.com/zf62h6ts4bahdgh9e4bj3gyjyq4f"
+    }
+  ]
+}

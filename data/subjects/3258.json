@@ -1,0 +1,34 @@
+{
+  "id": 3258,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "低い"
+  },
+  "primaryMeaning": "Low",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>low</kanji>? It's <vocabulary>low</vocabulary>.",
+  "primaryReading": "ひくい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou look down and very <vocabulary>low</vocabulary> to the ground is a man, looking up at you. Your friend is there too, but you don't know this little man. Your friend says \"<reading>He coo'</reading>, he coo,\" referring to the low to the ground man.",
+  "otherMeanings": [
+    "Short"
+  ],
+  "otherReadings": [],
+  "wkSlug": "低い",
+  "related": {
+    "radicals": [
+      75,
+      147,
+      1
+    ],
+    "kanjis": [
+      783
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひくい",
+      "url": "https://files.wanikani.com/5q7va8uibbn7rmgx6fwhbknexkse"
+    }
+  ]
+}

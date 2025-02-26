@@ -1,0 +1,36 @@
+{
+  "id": 4080,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "不可欠"
+  },
+  "primaryMeaning": "Indispensable",
+  "meaningMnemonic": "It's <kanji>not</kanji> <kanji>possible</kanji> to <kanji>lack</kanji>. It is <vocabulary> indispensable</vocabulary> and <vocabulary>essential</vocabulary>, so don't lack it!",
+  "primaryReading": "ふかけつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Essential"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不可欠",
+  "related": {
+    "radicals": [
+      96,
+      113,
+      142
+    ],
+    "kanjis": [
+      563,
+      1049,
+      646
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふかけつ",
+      "url": "https://files.wanikani.com/x2k3x21jiwszw45s7naqkf4eya4r"
+    }
+  ]
+}

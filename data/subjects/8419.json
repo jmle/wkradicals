@@ -1,0 +1,34 @@
+{
+  "id": 8419,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "酵素"
+  },
+  "primaryMeaning": "Enzyme",
+  "meaningMnemonic": "The one <kanji>element</kanji> you need to <kanji>ferment</kanji> something is an <vocabulary>enzyme</vocabulary>. That breaks whatever you're trying to ferment down in just the right way. ",
+  "primaryReading": "こうそ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "酵素",
+  "related": {
+    "radicals": [
+      182,
+      418,
+      210,
+      86
+    ],
+    "kanjis": [
+      2354,
+      1138
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうそ",
+      "url": "https://files.wanikani.com/2sfq3149rcfl9e6wa62v830objat"
+    }
+  ]
+}

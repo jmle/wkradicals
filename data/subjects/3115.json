@@ -1,0 +1,35 @@
+{
+  "id": 3115,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "お客さん"
+  },
+  "primaryMeaning": "Guest",
+  "meaningMnemonic": "The さん on the end is the name honorific さん. It's there to show some respect. It's like saying \"Mr. Guest!\" or something like that. But that sounds dumb in English. We'll just call this word <vocabulary>guest</vocabulary>, <vocabulary>visitor</vocabulary>, or <vocabulary>customer</vocabulary>. You'll hear this word a lot when you're at a store or you're a customer somewhere in Japan. You are the お客さん, in that situation. Alternatively, you'll also hear お客さま which is a more polite version of this word (because it ends in さま and not さん).",
+  "primaryReading": "おきゃくさん",
+  "readingMnemonic": "The reading is the reading you learned with the kanji. Just add the hiragana on the end and you'll be good to go.",
+  "otherMeanings": [
+    "Visitor",
+    "Customer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "お客さん",
+  "related": {
+    "radicals": [
+      78,
+      60,
+      16
+    ],
+    "kanjis": [
+      723
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おきゃくさん",
+      "url": "https://files.wanikani.com/sezdtowlx04gisynwl1sxgzvt04f"
+    }
+  ]
+}

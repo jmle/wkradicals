@@ -1,0 +1,37 @@
+{
+  "id": 4484,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "機会"
+  },
+  "primaryMeaning": "Opportunity",
+  "meaningMnemonic": "When the <kanji>machine</kanji>s <kanji>meet</kanji>, you finally have the <vocabulary>opportunity</vocabulary> to take them all out at once. DIE MACHINES!",
+  "primaryReading": "きかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Chance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "機会",
+  "related": {
+    "radicals": [
+      23,
+      87,
+      194,
+      9,
+      155
+    ],
+    "kanjis": [
+      1090,
+      566
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きかい",
+      "url": "https://files.wanikani.com/gkysw8pfed0fco20u54wq0elmm9y"
+    }
+  ]
+}

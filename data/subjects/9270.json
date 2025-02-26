@@ -1,0 +1,36 @@
+{
+  "id": 9270,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "手軽"
+  },
+  "primaryMeaning": "Simple And Easy",
+  "meaningMnemonic": "Your <kanji>hand</kanji>s are <kanji>light</kanji> because it was a <vocabulary>simple and easy</vocabulary> task, so you didn't get your hands full. This word describes something that's hassle-free and doesn't take much effort, time, or sometimes cost to do.",
+  "primaryReading": "てがる",
+  "readingMnemonic": "Both kanji use kun'yomi readings in this word, which you've already learned. Just make sure you rendaku the 軽.",
+  "otherMeanings": [
+    "Convenient",
+    "Quick"
+  ],
+  "otherReadings": [],
+  "wkSlug": "手軽",
+  "related": {
+    "radicals": [
+      41,
+      93,
+      179
+    ],
+    "kanjis": [
+      474,
+      751
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てがる",
+      "url": "https://files.wanikani.com/gq481qwaq4cf1bz42t1ln98jag5d"
+    }
+  ]
+}

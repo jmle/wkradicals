@@ -1,0 +1,33 @@
+{
+  "id": 5652,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "灰皿"
+  },
+  "primaryMeaning": "Ashtray",
+  "meaningMnemonic": "An <kanji>ash</kanji> <kanji>plate</kanji> is a plate you use for ashes. That's an <vocabulary>ashtray</vocabulary>.",
+  "primaryReading": "はいざら",
+  "readingMnemonic": "The reading is the two vocab words, 灰 and 皿, put together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "灰皿",
+  "related": {
+    "radicals": [
+      116,
+      46,
+      84
+    ],
+    "kanjis": [
+      1528,
+      540
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいざら",
+      "url": "https://files.wanikani.com/c6xd6wcbbmhpcl5e5yaxxdeycc04"
+    }
+  ]
+}

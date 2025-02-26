@@ -1,0 +1,35 @@
+{
+  "id": 7562,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "七日"
+  },
+  "primaryMeaning": "Seventh Day",
+  "meaningMnemonic": "<vocabulary>Seventh day</vocabulary> or <vocabulary>day seven</vocabulary>. No matter how you look at this word, it makes a lot of sense.",
+  "primaryReading": "なのか",
+  "readingMnemonic": "Words that count days use an exceptional reading. Even though this is a jukugo word, it uses kun'yomi readings for both the kanji. Think about this word this way:\n\nYou've been stuck inside working for <vocabulary>seven days</vocabulary> and today you finally have a day off. Your friend asks you if you want to go for a drive but you say, \"<reading>Nah, no car</reading> today\" (なのか), because you've been cooped up long enough. Seven days is too long to be inside.",
+  "otherMeanings": [
+    "Day Seven",
+    "Seven Days"
+  ],
+  "otherReadings": [],
+  "wkSlug": "七日",
+  "related": {
+    "radicals": [
+      4,
+      22
+    ],
+    "kanjis": [
+      443,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なのか",
+      "url": "https://files.wanikani.com/s369iolno27h4e453wlwkhxlo6nu"
+    }
+  ]
+}

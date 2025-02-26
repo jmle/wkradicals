@@ -1,0 +1,38 @@
+{
+  "id": 8298,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "猶予"
+  },
+  "primaryMeaning": "Extension",
+  "meaningMnemonic": "If you <kanji>still</kanji> need more time to finish a project and you tell whoever is in charge <kanji>beforehand</kanji> you'll be able to get an <vocabulary>extension</vocabulary>. Then you'll be able to finish it.",
+  "primaryReading": "ゆうよ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Delay",
+    "Postpone"
+  ],
+  "otherReadings": [],
+  "wkSlug": "猶予",
+  "related": {
+    "radicals": [
+      144,
+      8767,
+      182,
+      141,
+      27
+    ],
+    "kanjis": [
+      2296,
+      854
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうよ",
+      "url": "https://files.wanikani.com/svlcoigtvgqvchtp55j4qz2pq1y9"
+    }
+  ]
+}

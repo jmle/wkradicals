@@ -1,0 +1,34 @@
+{
+  "id": 6903,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "塾生"
+  },
+  "primaryMeaning": "Cram School Student",
+  "meaningMnemonic": "Remember how 学生 is \"student\"? This plays off that. A <kanji>cram school</kanji> \"student\" is a student of a cram school, a <vocabulary>cram school student</vocabulary>.",
+  "primaryReading": "じゅくせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "塾生",
+  "related": {
+    "radicals": [
+      345,
+      223,
+      17,
+      210
+    ],
+    "kanjis": [
+      1927,
+      850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅくせい",
+      "url": "https://files.wanikani.com/12467owadpallocaf889euuzyooy"
+    }
+  ]
+}

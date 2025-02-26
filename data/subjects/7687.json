@@ -1,0 +1,39 @@
+{
+  "id": 7687,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "初歩"
+  },
+  "primaryMeaning": "Basics",
+  "meaningMnemonic": "The <kanji>first</kanji> thing you <kanji>walk</kanji> through when you learn something new will always be the <vocabulary>basics</vocabulary>. You never start by running, you always have to start slow and work your way through the <vocabulary>ABCs</vocabulary> before you start to run.",
+  "primaryReading": "しょほ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Rudiments",
+    "Elements",
+    "ABCs"
+  ],
+  "otherReadings": [],
+  "wkSlug": "初歩",
+  "related": {
+    "radicals": [
+      80,
+      24,
+      44,
+      35,
+      5
+    ],
+    "kanjis": [
+      784,
+      628
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょほ",
+      "url": "https://files.wanikani.com/hnsefiad7x02o3lf8xyctc6pa0yx"
+    }
+  ]
+}

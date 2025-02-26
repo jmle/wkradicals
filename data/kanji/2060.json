@@ -1,0 +1,35 @@
+{
+  "id": 2060,
+  "type": "kanji",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "剛"
+  },
+  "primaryReading": "ごう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ごう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Sturdy",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>hill</radical> <radical>knife</radical> is the most <kanji>sturdy</kanji> knife you can find.",
+  "readingMnemonic": "This <kanji>sturdy</kanji> (but strangely shaped) knife is used by Grandpa <reading>ごう</reading>いち. ",
+  "wkSlug": "剛",
+  "related": {
+    "radicals": [
+      376,
+      128
+    ],
+    "vocabularies": [
+      7291
+    ]
+  },
+  "radicalNames": [
+    "Hill",
+    "Knife"
+  ]
+}

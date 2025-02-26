@@ -1,0 +1,38 @@
+{
+  "id": 6355,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "沖縄県"
+  },
+  "primaryMeaning": "Okinawa Prefecture",
+  "meaningMnemonic": "Remember how 沖縄 is \"Okinawa\"? This is the prefecture, <vocabulary>Okinawa Prefecture</vocabulary>.",
+  "primaryReading": "おきなわけん",
+  "readingMnemonic": "The reading comes from 沖縄 and 県 put together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "沖縄県",
+  "related": {
+    "radicals": [
+      103,
+      49,
+      86,
+      353,
+      53,
+      56,
+      35
+    ],
+    "kanjis": [
+      1627,
+      1628,
+      731
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おきなわけん",
+      "url": "https://files.wanikani.com/9ctgcxfg7en48d91u9aavxrqt155"
+    }
+  ]
+}

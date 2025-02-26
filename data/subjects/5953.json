@@ -1,0 +1,36 @@
+{
+  "id": 5953,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "復旧"
+  },
+  "primaryMeaning": "Restoration",
+  "meaningMnemonic": "<kanji>Restore</kanji> to the <kanji>former</kanji> self. This is <vocabulary>restoration</vocabulary>.",
+  "primaryReading": "ふっきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Recovery"
+  ],
+  "otherReadings": [],
+  "wkSlug": "復旧",
+  "related": {
+    "radicals": [
+      99,
+      265,
+      8761,
+      22
+    ],
+    "kanjis": [
+      1285,
+      1611
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふっきゅう",
+      "url": "https://files.wanikani.com/y14gmpy9ceyq2jsp33rdf6cpfyrb"
+    }
+  ]
+}

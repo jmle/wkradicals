@@ -1,0 +1,37 @@
+{
+  "id": 4547,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "副題"
+  },
+  "primaryMeaning": "Subtitle",
+  "meaningMnemonic": "The <kanji>side</kanji> <kanji>topic</kanji> is the <vocabulary>subtitle</vocabulary> or <vocabulary>subheading</vocabulary>, for example of a book or an article.",
+  "primaryReading": "ふくだい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Subheading"
+  ],
+  "otherReadings": [],
+  "wkSlug": "副題",
+  "related": {
+    "radicals": [
+      8824,
+      128,
+      22,
+      229,
+      184
+    ],
+    "kanjis": [
+      1174,
+      872
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふくだい",
+      "url": "https://files.wanikani.com/repzqaogyn3egt0lwbo314ffxkxs"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8484,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "紳士協定"
+  },
+  "primaryMeaning": "Gentlemen's Agreement",
+  "meaningMnemonic": "Remember how you learned that 紳士 means \"gentleman?\" Well when two men <kanji>determine</kanji> that the best thing to do is <kanji>cooperate</kanji> they form a <vocabulary>gentlemen's agreement</vocabulary>.",
+  "primaryReading": "しんしきょうてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "紳士協定",
+  "related": {
+    "radicals": [
+      86,
+      190,
+      97,
+      15,
+      13,
+      78,
+      229
+    ],
+    "kanjis": [
+      2317,
+      877,
+      898,
+      714
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんしきょうてい",
+      "url": "https://files.wanikani.com/djy33g567vg2r8ioz7wi4cyv6kyl"
+    }
+  ]
+}

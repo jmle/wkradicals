@@ -1,0 +1,35 @@
+{
+  "id": 4049,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "鼻歌"
+  },
+  "primaryMeaning": "Humming",
+  "meaningMnemonic": "Try singing a <kanji>nose</kanji> <kanji>song</kanji>. How does it sound? Like <vocabulary>humming</vocabulary> perhaps?",
+  "primaryReading": "はなうた",
+  "readingMnemonic": "The readings are both kun'yomi vocab readings, probably because a 鼻 is a body part, and body parts do that to jukugo words. You know 鼻's reading from the kanji (はな) and you know 歌's reading from the vocabulary word 歌 (うた). Combine them together and you have a very nice humming tune and reading, はなうた.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鼻歌",
+  "related": {
+    "radicals": [
+      109,
+      51,
+      106,
+      113,
+      142
+    ],
+    "kanjis": [
+      998,
+      761
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はなうた",
+      "url": "https://files.wanikani.com/ck3smxw7vo598y0x5hmkvo88cqzi"
+    }
+  ]
+}

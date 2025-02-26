@@ -1,0 +1,38 @@
+{
+  "id": 3984,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "常識"
+  },
+  "primaryMeaning": "Common Sense",
+  "meaningMnemonic": "<kanji>Normal</kanji> <kanji>discerning</kanji> is the discerning you do on a daily basis, without thinking. It is all the things that you do that are <vocabulary>common sense</vocabulary>.",
+  "primaryReading": "じょうしき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Common Knowledge"
+  ],
+  "otherReadings": [],
+  "wkSlug": "常識",
+  "related": {
+    "radicals": [
+      8769,
+      16,
+      102,
+      117,
+      197,
+      194
+    ],
+    "kanjis": [
+      1011,
+      1012
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうしき",
+      "url": "https://files.wanikani.com/oyi4s5vy6060nmhgcz6cxxc7lvj1"
+    }
+  ]
+}

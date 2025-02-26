@@ -1,0 +1,36 @@
+{
+  "id": 7395,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "翻意"
+  },
+  "primaryMeaning": "Change One's Mind",
+  "meaningMnemonic": "When you <kanji>flip</kanji> your <kanji>idea</kanji> of something, you're changing how you think about it. That's why this word is <vocabulary>change one's mind</vocabulary>.",
+  "primaryReading": "ほんい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Change Your Mind"
+  ],
+  "otherReadings": [],
+  "wkSlug": "翻意",
+  "related": {
+    "radicals": [
+      280,
+      213,
+      197,
+      65
+    ],
+    "kanjis": [
+      2102,
+      811
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほんい",
+      "url": "https://files.wanikani.com/egn05hdav4ed4zdug9lffkrihfy2"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 9169,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "三日月"
+  },
+  "primaryMeaning": "Crescent Moon",
+  "meaningMnemonic": "What's a \"third day moon\"? It's a <vocabulary>crescent moon</vocabulary>. A crescent moon is the newly visible moon that appears on the third day of the month in the lunar calendar that Japanese people used back in the day.",
+  "primaryReading": "みかづき",
+  "readingMnemonic": "The word comes from 三日 and 月, but the readings are slightly different. There's no small つ in the reading for 三日, and you need to rendaku 月, all to make it easier to pronounce. Try reading it aloud yourself to see what I mean!\nTo write the character づ, type \"du\" on your keyboard.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "三日月",
+  "related": {
+    "radicals": [
+      1,
+      7,
+      22,
+      43
+    ],
+    "kanjis": [
+      449,
+      476,
+      477
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みかづき",
+      "url": "https://files.wanikani.com/glg12btxbmyc35ea4cgkusp08bi8"
+    }
+  ]
+}

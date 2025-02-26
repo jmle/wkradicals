@@ -1,0 +1,35 @@
+{
+  "id": 7295,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "壇"
+  },
+  "primaryMeaning": "Podium",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "だん",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Platform"
+  ],
+  "otherReadings": [],
+  "wkSlug": "壇",
+  "related": {
+    "radicals": [
+      17,
+      8,
+      406,
+      293
+    ],
+    "kanjis": [
+      2062
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だん",
+      "url": "https://files.wanikani.com/6aa8rd8dgxf6j42mf2pneazcbtkm"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3947,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "証明"
+  },
+  "primaryMeaning": "Proof",
+  "meaningMnemonic": "Is the <kanji>evidence</kanji> <kanji>bright</kanji> enough to convince me? Is this really <vocabulary>proof</vocabulary> enough to <vocabulary>prove</vocabulary> it?",
+  "primaryReading": "しょうめい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Prove",
+    "Verify"
+  ],
+  "otherReadings": [],
+  "wkSlug": "証明",
+  "related": {
+    "radicals": [
+      117,
+      229,
+      22,
+      43
+    ],
+    "kanjis": [
+      987,
+      626
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうめい",
+      "url": "https://files.wanikani.com/besiptpau3qfab9d0ttlz7zfoadq"
+    }
+  ]
+}

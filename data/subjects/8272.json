@@ -1,0 +1,36 @@
+{
+  "id": 8272,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "中尉"
+  },
+  "primaryMeaning": "First Lieutenant",
+  "meaningMnemonic": "A <kanji>military officer</kanji> who's in the <kanji>middle</kanji> of their career has become a <vocabulary>first lieutenant</vocabulary>.",
+  "primaryReading": "ちゅうい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Lieutenant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "中尉",
+  "related": {
+    "radicals": [
+      49,
+      37,
+      207,
+      74
+    ],
+    "kanjis": [
+      469,
+      2324
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうい",
+      "url": "https://files.wanikani.com/ayybzrshktb0a57ry2bz7v43cmir"
+    }
+  ]
+}

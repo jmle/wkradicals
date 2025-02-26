@@ -1,0 +1,39 @@
+{
+  "id": 6177,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "演奏"
+  },
+  "primaryMeaning": "Musical Performance",
+  "meaningMnemonic": "If you <kanji>perform</kanji> and <kanji>play music</kanji> you are doing a <vocabulary>musical performance</vocabulary>.",
+  "primaryReading": "えんそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Performance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "演奏",
+  "related": {
+    "radicals": [
+      103,
+      78,
+      27,
+      51,
+      2,
+      8779,
+      40
+    ],
+    "kanjis": [
+      1196,
+      1684
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんそう",
+      "url": "https://files.wanikani.com/x2gm7d9114hpw4b63pcz5uxu96ai"
+    }
+  ]
+}

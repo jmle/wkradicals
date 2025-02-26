@@ -1,0 +1,35 @@
+{
+  "id": 5823,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "大損"
+  },
+  "primaryMeaning": "Heavy Loss",
+  "meaningMnemonic": "A <kanji>big</kanji> <kanji>loss</kanji> is a <vocabulary>heavy loss</vocabulary>.",
+  "primaryReading": "おおぞん",
+  "readingMnemonic": "The reading is the おお reading of 大 coupled with the on'yomi reading for 損. Just keep in mind that the そん changes to ぞん and you'll be good here.",
+  "otherMeanings": [
+    "Big Loss"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大損",
+  "related": {
+    "radicals": [
+      18,
+      63,
+      349
+    ],
+    "kanjis": [
+      453,
+      1573
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おおぞん",
+      "url": "https://files.wanikani.com/cpv9pisqo4zcv9lcpqn73zrffysw"
+    }
+  ]
+}

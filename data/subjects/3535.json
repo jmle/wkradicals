@@ -1,0 +1,36 @@
+{
+  "id": 3535,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "食器"
+  },
+  "primaryMeaning": "Tableware",
+  "meaningMnemonic": "Your <kanji>eat</kanji>ing <kanji>container</kanji>s refer to <vocabulary>tableware</vocabulary>, including <vocabulary>eating utensils</vocabulary>, such as knives, forks, spoons, and chopsticks, as well as <vocabulary>serving utensils</vocabulary>, like plates, bowls, and saucers. Basically, it's stuff you use to eat your food.",
+  "primaryReading": "しょっき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just be sure to note the shortened しょく.",
+  "otherMeanings": [
+    "Eating Utensils",
+    "Serving Utensils"
+  ],
+  "otherReadings": [],
+  "wkSlug": "食器",
+  "related": {
+    "radicals": [
+      139,
+      18,
+      227
+    ],
+    "kanjis": [
+      644,
+      876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょっき",
+      "url": "https://files.wanikani.com/i7q0vijk729yz8zwu6ehjlw1kx90"
+    }
+  ]
+}

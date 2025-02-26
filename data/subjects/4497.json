@@ -1,0 +1,34 @@
+{
+  "id": 4497,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "罰する"
+  },
+  "primaryMeaning": "To Punish",
+  "meaningMnemonic": "When you do a <kanji> penalty</kanji> to someone you are trying <vocabulary>to punish</vocabulary> or <vocabulary>to penalize</vocabulary> them.",
+  "primaryReading": "ばっする",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji. Just remember that the つ becomes a small っ so I don't have <vocabulary>to punish</vocabulary> you.",
+  "otherMeanings": [
+    "To Penalize"
+  ],
+  "otherReadings": [],
+  "wkSlug": "罰する",
+  "related": {
+    "radicals": [
+      163,
+      117,
+      128
+    ],
+    "kanjis": [
+      1155
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばっする",
+      "url": "https://files.wanikani.com/wz4gkcil0ybm7h1gf6mmhlejsc57"
+    }
+  ]
+}

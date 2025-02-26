@@ -1,0 +1,34 @@
+{
+  "id": 5334,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "漏水"
+  },
+  "primaryMeaning": "Water Leakage",
+  "meaningMnemonic": "A <kanji>leak</kanji> of <kanji>water</kanji> is a <vocabulary>water leakage</vocabulary>.",
+  "primaryReading": "ろうすい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "漏水",
+  "related": {
+    "radicals": [
+      103,
+      37,
+      119,
+      45
+    ],
+    "kanjis": [
+      1434,
+      479
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろうすい",
+      "url": "https://files.wanikani.com/kx9mnw1bkiyhrqcp4yaj9teurn6v"
+    }
+  ]
+}

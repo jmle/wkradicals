@@ -1,0 +1,35 @@
+{
+  "id": 6792,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "辛子"
+  },
+  "primaryMeaning": "Mustard",
+  "meaningMnemonic": "The <kanji>spicy</kanji> <kanji>child</kanji> is the child of spicy. So, not as spicy as mamma spicy, but still a bit spicy. This child spicy is <vocabulary>mustard</vocabulary>. Not too spicy, but not too mild.\n\n辛子 generally refers to <vocabulary>Japanese mustard</vocabulary>, which tends to be browner and stronger than マスタード (Western mustard). Sometimes, especially as a prefix, it can also indicate spiciness from red pepper, like 辛子マヨネーズ (spicy mayo).",
+  "primaryReading": "からし",
+  "readingMnemonic": "The reading is 辛い (からい) and the on'yomi reading for 子 combined together. It's one of those weird words that mixes the on'yomi and kun'yomi readings.",
+  "otherMeanings": [
+    "Japanese Mustard",
+    "Karashi"
+  ],
+  "otherReadings": [],
+  "wkSlug": "辛子",
+  "related": {
+    "radicals": [
+      178,
+      34
+    ],
+    "kanjis": [
+      1880,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "からし",
+      "url": "https://files.wanikani.com/e81orf60bjdplb1iaqovo1vlsue4"
+    }
+  ]
+}

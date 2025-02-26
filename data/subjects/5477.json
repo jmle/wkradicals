@@ -1,0 +1,35 @@
+{
+  "id": 5477,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "野菜"
+  },
+  "primaryMeaning": "Vegetable",
+  "meaningMnemonic": "A <kanji>field</kanji> <kanji>vegetable</kanji> is still a <vocabulary>vegetable</vocabulary>, whether it comes from the field or not.",
+  "primaryReading": "やさい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "野菜",
+  "related": {
+    "radicals": [
+      125,
+      339,
+      90,
+      8772,
+      23
+    ],
+    "kanjis": [
+      848,
+      1469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やさい",
+      "url": "https://files.wanikani.com/tx801cnxe3hb3igwk9bx0rljan6o"
+    }
+  ]
+}

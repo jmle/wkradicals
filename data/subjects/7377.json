@@ -1,0 +1,39 @@
+{
+  "id": 7377,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "名簿"
+  },
+  "primaryMeaning": "Register Of Names",
+  "meaningMnemonic": "A <kanji>name</kanji> <kanji>record book</kanji> is a book that contains names. That is a <vocabulary>register of names</vocabulary> or a <vocabulary>list of names</vocabulary>. Is your name on the list?",
+  "primaryReading": "めいぼ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "List Of Names",
+    "Roll"
+  ],
+  "otherReadings": [],
+  "wkSlug": "名簿",
+  "related": {
+    "radicals": [
+      33,
+      16,
+      85,
+      103,
+      3,
+      317
+    ],
+    "kanjis": [
+      544,
+      2093
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めいぼ",
+      "url": "https://files.wanikani.com/hty7uial8lcbf2ityq3zz1crvgxy"
+    }
+  ]
+}

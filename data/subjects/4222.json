@@ -1,0 +1,36 @@
+{
+  "id": 4222,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "減る"
+  },
+  "primaryMeaning": "To Decrease",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>decrease</kanji> so the verb vocab version is <vocabulary>to decrease</vocabulary> or <vocabulary>to be decreased</vocabulary>.",
+  "primaryReading": "へる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: Your status is <vocabulary>to be decreased</vocabulary> amongst the eyes of the Gods. They decide your punishment is to be decreased into <reading>hell</reading> (へる) where you will live the rest of your days.",
+  "otherMeanings": [
+    "To Be Decreased",
+    "To Get Decreased"
+  ],
+  "otherReadings": [],
+  "wkSlug": "減る",
+  "related": {
+    "radicals": [
+      103,
+      5,
+      194,
+      8781
+    ],
+    "kanjis": [
+      1059
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へる",
+      "url": "https://files.wanikani.com/o9q4l9hrd0nvgywm5vyh0txw8kb9"
+    }
+  ]
+}

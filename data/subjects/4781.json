@@ -1,0 +1,33 @@
+{
+  "id": 4781,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "票"
+  },
+  "primaryMeaning": "Ballot",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. It can also be <vocabulary>a vote</vocabulary>, because that's what ballots tend to do.",
+  "primaryReading": "ひょう",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "A Vote"
+  ],
+  "otherReadings": [],
+  "wkSlug": "票",
+  "related": {
+    "radicals": [
+      424,
+      207
+    ],
+    "kanjis": [
+      1255
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひょう",
+      "url": "https://files.wanikani.com/dsbvz7jpa888vaj50asj716hvt2p"
+    }
+  ]
+}

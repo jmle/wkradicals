@@ -1,0 +1,37 @@
+{
+  "id": 4854,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "理解する"
+  },
+  "primaryMeaning": "To Understand",
+  "meaningMnemonic": "理解 is understanding, so the verb version would be...? How about <vocabulary>to understand</vocabulary> or <vocabulary>to comprehend</vocabulary>? Well, do you?",
+  "primaryReading": "りかいする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Of course, if you know 理解 already this one is easy <vocabulary>to comprehend</vocabulary>.",
+  "otherMeanings": [
+    "To Comprehend"
+  ],
+  "otherReadings": [],
+  "wkSlug": "理解する",
+  "related": {
+    "radicals": [
+      48,
+      125,
+      281,
+      24,
+      126
+    ],
+    "kanjis": [
+      669,
+      1150
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りかいする",
+      "url": "https://files.wanikani.com/7hbvfqbjz4vksvf1t5898x6baekp"
+    }
+  ]
+}

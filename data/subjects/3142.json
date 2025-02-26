@@ -1,0 +1,33 @@
+{
+  "id": 3142,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "負ける"
+  },
+  "primaryMeaning": "To Lose",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lose</kanji> so the verb vocab version means <vocabulary>to lose</vocabulary>.",
+  "primaryReading": "まける",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou lose your tournament/soccer game/whatever (you decide something applicable to you). You're sad about this. Who's there to comfort you? Your <reading>Ma</reading> (ま). She's a nice lady.",
+  "otherMeanings": [
+    "To Be Defeated"
+  ],
+  "otherReadings": [],
+  "wkSlug": "負ける",
+  "related": {
+    "radicals": [
+      14,
+      94
+    ],
+    "kanjis": [
+      733
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まける",
+      "url": "https://files.wanikani.com/vsnt0j356t76uzd39b31960h0qul"
+    }
+  ]
+}

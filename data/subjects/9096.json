@@ -1,0 +1,37 @@
+{
+  "id": 9096,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "勿論"
+  },
+  "primaryMeaning": "Of Course",
+  "meaningMnemonic": "You <kanji>must not</kanji> consider this a <kanji>theory</kanji>, because <vocabulary>of course</vocabulary> it's a fact. <vocabulary>Needless to say</vocabulary>, this is the way things are.\n\nThis word is often written in kana, but it's worth knowing the kanji version too.",
+  "primaryReading": "もちろん",
+  "readingMnemonic": "This word uses the readings you learned with the kanji. <vocabulary>Needless to say</vocabulary>, you should be able to read this on your own!",
+  "otherMeanings": [
+    "Needless To Say"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勿論",
+  "related": {
+    "radicals": [
+      173,
+      117,
+      8764,
+      1,
+      226
+    ],
+    "kanjis": [
+      9095,
+      1119
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もちろん",
+      "url": "https://files.wanikani.com/vud35c6qt2ngkwgxofyngmj3u7sw"
+    }
+  ]
+}

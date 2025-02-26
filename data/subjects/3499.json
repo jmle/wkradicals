@@ -1,0 +1,36 @@
+{
+  "id": 3499,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "使い方"
+  },
+  "primaryMeaning": "How To Use",
+  "meaningMnemonic": "You've seen the word 使う hopefully by now. If you have, you know it means \"to use.\" So, the <kanji>way</kanji> to <kanji>use</kanji> something is the <vocabulary>way of using</vocabulary> (aka <vocabulary>how to use</vocabulary>). This will be a word you see when you're looking at directions for how to use something.",
+  "primaryReading": "つかいかた",
+  "readingMnemonic": "This uses the kun'yomi readings from the vocab words 使う and 方. So as long as you're okay with those, you can apply that knowledge over here.",
+  "otherMeanings": [
+    "Way Of Using"
+  ],
+  "otherReadings": [],
+  "wkSlug": "使い方",
+  "related": {
+    "radicals": [
+      75,
+      1,
+      167,
+      66
+    ],
+    "kanjis": [
+      709,
+      510
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つかいかた",
+      "url": "https://files.wanikani.com/vzudb4q60qjw0cksmmovh87ysnyj"
+    }
+  ]
+}

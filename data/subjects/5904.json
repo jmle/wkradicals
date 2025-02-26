@@ -1,0 +1,33 @@
+{
+  "id": 5904,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "味噌"
+  },
+  "primaryMeaning": "Miso",
+  "meaningMnemonic": "A <kanji>flavor</kanji> that makes foods <kanji>boisterous</kanji> is a great flavor. In this case, it's the flavor of <vocabulary>miso</vocabulary>, which goes in a lot of Japanese dishes, and certainly does make the flavor of things boisterous.",
+  "primaryReading": "みそ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "味噌",
+  "related": {
+    "radicals": [
+      16,
+      134,
+      259
+    ],
+    "kanjis": [
+      812,
+      1598
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みそ",
+      "url": "https://files.wanikani.com/f9veqoq71qqmuk3bul7551lj1m7y"
+    }
+  ]
+}

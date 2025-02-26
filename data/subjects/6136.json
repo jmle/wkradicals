@@ -1,0 +1,36 @@
+{
+  "id": 6136,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "葬式"
+  },
+  "primaryMeaning": "Funeral",
+  "meaningMnemonic": "A <kanji>burial</kanji> <kanji>ceremony</kanji> is a <vocabulary>funeral</vocabulary>.",
+  "primaryReading": "そうしき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "葬式",
+  "related": {
+    "radicals": [
+      90,
+      132,
+      57,
+      106,
+      79,
+      25
+    ],
+    "kanjis": [
+      1674,
+      939
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうしき",
+      "url": "https://files.wanikani.com/ub48orzr24kuui8d43cg6yfs0op3"
+    }
+  ]
+}

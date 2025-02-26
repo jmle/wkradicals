@@ -1,0 +1,40 @@
+{
+  "id": 4707,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "警視庁"
+  },
+  "primaryMeaning": "Metropolitan Police Department",
+  "meaningMnemonic": "They <kanji>warn</kanji>, they <kanji>look at</kanji> crime, and they're an <kanji>agency</kanji> of the government. They are the <vocabulary>metropolitan police department</vocabulary>.",
+  "primaryReading": "けいしちょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Metro Police Department"
+  ],
+  "otherReadings": [],
+  "wkSlug": "警視庁",
+  "related": {
+    "radicals": [
+      255,
+      60,
+      117,
+      80,
+      91,
+      62,
+      27
+    ],
+    "kanjis": [
+      1023,
+      1234,
+      1233
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいしちょう",
+      "url": "https://files.wanikani.com/m7mp2aa5vkif0gj9foac91uduvfj"
+    }
+  ]
+}

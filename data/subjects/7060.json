@@ -1,0 +1,33 @@
+{
+  "id": 7060,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "粘る"
+  },
+  "primaryMeaning": "To Be Sticky",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>sticky</kanji> and the verb vocab version is <vocabulary>to be sticky</vocabulary>. It can also mean <vocabulary>to persevere</vocabulary>, because if you're being sticky towards the situation, not giving up and not letting go. You're totally persevering by sticking around.",
+  "primaryReading": "ねばる",
+  "readingMnemonic": "Will I give up? I'll <reading>never</reading> (ねば) give up! I'll also never unstick from you.",
+  "otherMeanings": [
+    "To Persevere"
+  ],
+  "otherReadings": [],
+  "wkSlug": "粘る",
+  "related": {
+    "radicals": [
+      98,
+      143
+    ],
+    "kanjis": [
+      1978
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねばる",
+      "url": "https://files.wanikani.com/5i820kuhxdkcdb4wz23zmpalzi15"
+    }
+  ]
+}

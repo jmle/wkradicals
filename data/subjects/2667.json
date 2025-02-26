@@ -1,0 +1,34 @@
+{
+  "id": 2667,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "去年"
+  },
+  "primaryMeaning": "Last Year",
+  "meaningMnemonic": "The <kanji>past</kanji> <kanji>year</kanji> is just <vocabulary>last year</vocabulary>.",
+  "primaryReading": "きょねん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "去年",
+  "related": {
+    "radicals": [
+      17,
+      140,
+      8762,
+      126
+    ],
+    "kanjis": [
+      532,
+      546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょねん",
+      "url": "https://files.wanikani.com/zbv14nbw2rmn3thk096n3so6joq9"
+    }
+  ]
+}

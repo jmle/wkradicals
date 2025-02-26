@@ -1,0 +1,33 @@
+{
+  "id": 4499,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "脱ぐ"
+  },
+  "primaryMeaning": "To Undress",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>undress</kanji> and the verb is <vocabulary>to undress</vocabulary>.",
+  "primaryReading": "ぬぐ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: When you go <vocabulary>to undress</vocabulary> your goal is to become <reading>nu</reading>de (ぬ).",
+  "otherMeanings": [
+    "To Take Off Clothes"
+  ],
+  "otherReadings": [],
+  "wkSlug": "脱ぐ",
+  "related": {
+    "radicals": [
+      43,
+      422
+    ],
+    "kanjis": [
+      1157
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぬぐ",
+      "url": "https://files.wanikani.com/h7n0ljisokeim5r9ksq1taaefhb1"
+    }
+  ]
+}

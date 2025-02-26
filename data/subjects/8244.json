@@ -1,0 +1,36 @@
+{
+  "id": 8244,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "鎮圧"
+  },
+  "primaryMeaning": "Suppression",
+  "meaningMnemonic": "<kanji>Tranquilize</kanji> <kanji>pressure</kanji> with medication that helps with its <vocabulary>suppression</vocabulary>. Then you won't have to feel it anymore.",
+  "primaryReading": "ちんあつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Subjugation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鎮圧",
+  "related": {
+    "radicals": [
+      118,
+      413,
+      116,
+      17
+    ],
+    "kanjis": [
+      2261,
+      1106
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちんあつ",
+      "url": "https://files.wanikani.com/gok0hhtqy8fp2fwve9r02j5od3d9"
+    }
+  ]
+}

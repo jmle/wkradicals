@@ -1,0 +1,32 @@
+{
+  "id": 7590,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "無し"
+  },
+  "primaryMeaning": "Without",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>nothing</kanji>, so when you have nothing, you are <vocabulary>without</vocabulary>. ",
+  "primaryReading": "なし",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nWhen you are <vocabulary>without</vocabulary> you don't have anything to eat either, so you end up <reading>gnashi</reading>ng (なし) your teeth together instead.",
+  "otherMeanings": [
+    "With No"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無し",
+  "related": {
+    "radicals": [
+      252
+    ],
+    "kanjis": [
+      1008
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なし",
+      "url": "https://files.wanikani.com/mlx5jo7esmfnodv1yzurigk1jr7j"
+    }
+  ]
+}

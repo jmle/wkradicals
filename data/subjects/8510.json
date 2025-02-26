@@ -1,0 +1,33 @@
+{
+  "id": 8510,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "飽くまでも"
+  },
+  "primaryMeaning": "To The Last",
+  "meaningMnemonic": "I'm so <kanji>bored</kanji>. On top of my boredom is くまでも. If you took this separately, it would mean \"even as a bear.\" So it's like you're saying I'm so <kanji>bored</kanji>, even if I was a bear. If you're so bored that you'd be bored even as a bear, you're going to be bored <vocabulary>to the last</vocabulary> or <vocabulary>to the end</vocabulary>. Nothing will please you, you bored bear person.",
+  "primaryReading": "あくまでも",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already when you learned 飽きる so you should be able to read this one too!",
+  "otherMeanings": [
+    "To The End"
+  ],
+  "otherReadings": [],
+  "wkSlug": "飽くまでも",
+  "related": {
+    "radicals": [
+      139,
+      395
+    ],
+    "kanjis": [
+      2316
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あくまでも",
+      "url": "https://files.wanikani.com/u19dnxvaafemks2cvhim8gwp3j3q"
+    }
+  ]
+}

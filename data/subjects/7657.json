@@ -1,0 +1,40 @@
+{
+  "id": 7657,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "家政婦"
+  },
+  "primaryMeaning": "Housekeeper",
+  "meaningMnemonic": "The person who <kanji>govern</kanji>s your <kanji>house</kanji> like a <kanji>wife</kanji> is your <vocabulary>housekeeper</vocabulary>.",
+  "primaryReading": "かせいふ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Maid"
+  ],
+  "otherReadings": [],
+  "wkSlug": "家政婦",
+  "related": {
+    "radicals": [
+      398,
+      229,
+      60,
+      19,
+      105,
+      76,
+      102
+    ],
+    "kanjis": [
+      660,
+      985,
+      1362
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かせいふ",
+      "url": "https://files.wanikani.com/v95x8pcq7v4duvpx2muqb8mqk5a5"
+    }
+  ]
+}

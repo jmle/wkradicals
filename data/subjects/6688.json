@@ -1,0 +1,37 @@
+{
+  "id": 6688,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "潮流"
+  },
+  "primaryMeaning": "Tide",
+  "meaningMnemonic": "A <kanji>tide</kanji>s <kanji>stream</kanji> is the stream going through the tide. It's the <vocabulary>tide</vocabulary> or the <vocabulary>tidal current</vocabulary>.",
+  "primaryReading": "ちょうりゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Tidal Current"
+  ],
+  "otherReadings": [],
+  "wkSlug": "潮流",
+  "related": {
+    "radicals": [
+      103,
+      8793,
+      43,
+      8776,
+      21
+    ],
+    "kanjis": [
+      1849,
+      818
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょうりゅう",
+      "url": "https://files.wanikani.com/d0qrdzxxdd9nuoj7ryr10xniyz72"
+    }
+  ]
+}

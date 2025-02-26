@@ -1,0 +1,37 @@
+{
+  "id": 4716,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "交差点"
+  },
+  "primaryMeaning": "Intersection",
+  "meaningMnemonic": "You <kanji>mix</kanji>, but there's a <kanji>distinction</kanji> as to where you mix at this <kanji>point</kanji>. Where is this point? It can be found when two streets cross, at an <vocabulary>intersection</vocabulary>, also known as a <vocabulary>crossing</vocabulary>.",
+  "primaryReading": "こうさてん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "交差点",
+  "related": {
+    "radicals": [
+      8,
+      68,
+      136,
+      25,
+      143,
+      131
+    ],
+    "kanjis": [
+      565,
+      1235,
+      641
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうさてん",
+      "url": "https://files.wanikani.com/9dadfg7o6r5mj54vydk9wdq6lbnx"
+    }
+  ]
+}

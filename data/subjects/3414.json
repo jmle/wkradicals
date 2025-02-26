@@ -1,0 +1,33 @@
+{
+  "id": 3414,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "今まで"
+  },
+  "primaryMeaning": "Until Now",
+  "meaningMnemonic": "You know that 今 means now. What you probably don't know is that まで means \"until.\" So, this word means <vocabulary>until now</vocabulary>.",
+  "primaryReading": "いままで",
+  "readingMnemonic": "The reading for this word is the kun'yomi reading which you learned previously when you learned the vocab word 今. You can tell this is a kun'yomi reading because it has hiragana attached. So if you know that, you should be able to read this word as well.",
+  "otherMeanings": [
+    "Up To Now",
+    "So Far"
+  ],
+  "otherReadings": [],
+  "wkSlug": "今まで",
+  "related": {
+    "radicals": [
+      238
+    ],
+    "kanjis": [
+      497
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いままで",
+      "url": "https://files.wanikani.com/71tzk8cgelxj1kijstp5a1pejr53"
+    }
+  ]
+}

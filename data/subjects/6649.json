@@ -1,0 +1,36 @@
+{
+  "id": 6649,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "偽物"
+  },
+  "primaryMeaning": "Fake",
+  "meaningMnemonic": "A <kanji>fake</kanji> <kanji>thing</kanji> is <vocabulary>fake</vocabulary> or <vocabulary>counterfeit</vocabulary>.",
+  "primaryReading": "にせもの",
+  "readingMnemonic": "You've learned both of these readings already. No fakes there.",
+  "otherMeanings": [
+    "Counterfeit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "偽物",
+  "related": {
+    "radicals": [
+      75,
+      355,
+      126,
+      173
+    ],
+    "kanjis": [
+      1803,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にせもの",
+      "url": "https://files.wanikani.com/awlr3e9zydnoh6ujstermoelg12h"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6162,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "繰る"
+  },
+  "primaryMeaning": "To Spin",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>spin</kanji> so the verb vocab version is <vocabulary>to spin</vocabulary>.",
+  "primaryReading": "くる",
+  "readingMnemonic": "The reading you learned with the kanji is used here.",
+  "otherMeanings": [
+    "To Turn Over",
+    "To Reel In",
+    "To Shuffle"
+  ],
+  "otherReadings": [],
+  "wkSlug": "繰る",
+  "related": {
+    "radicals": [
+      86,
+      8830
+    ],
+    "kanjis": [
+      1678
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くる",
+      "url": "https://files.wanikani.com/1vj6gpwrw7rk2cs3e9b1etvdx66i"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8225,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "癒着"
+  },
+  "primaryMeaning": "Adhesion",
+  "meaningMnemonic": "What do you <kanji>wear</kanji> to <kanji>heal</kanji> a really serious injury? An <vocabulary>adhesion</vocabulary>. Okay, so you don't actually wear these, but your body makes them for your insides to wear so you can heal. Nice job insides!",
+  "primaryReading": "ゆちゃく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Collusion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "癒着",
+  "related": {
+    "radicals": [
+      187,
+      8790,
+      65,
+      136,
+      53
+    ],
+    "kanjis": [
+      2274,
+      846
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆちゃく",
+      "url": "https://files.wanikani.com/sryt2zmaj24gq6owhtkx7lxiudvf"
+    }
+  ]
+}

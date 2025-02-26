@@ -1,0 +1,30 @@
+{
+  "id": 2550,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "犬"
+  },
+  "primaryMeaning": "Dog",
+  "meaningMnemonic": "This vocab made up of a single kanji shares its meaning with said single kanji. That meaning is <vocabulary>dog</vocabulary>.",
+  "primaryReading": "いぬ",
+  "readingMnemonic": "Since this is a word made up of a single kanji and nothing else, you can assume that this word will use the kun'yomi reading. The reading you learned for this kanji happens to be the kun'yomi reading as well. So if you know the kanji you know the reading.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "犬",
+  "related": {
+    "radicals": [
+      47
+    ],
+    "kanjis": [
+      481
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いぬ",
+      "url": "https://files.wanikani.com/ukrsue9e3gwtlnxkdpjh7r8izyvk"
+    }
+  ]
+}

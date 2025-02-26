@@ -1,0 +1,36 @@
+{
+  "id": 7335,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "桑畑"
+  },
+  "primaryMeaning": "Mulberry Field",
+  "meaningMnemonic": "A <kanji>mulberry</kanji> <kanji>field</kanji> is a <vocabulary>mulberry field</vocabulary> or <vocabulary>mulberry plantation</vocabulary>. This is more like a commercial / organized mulberry growing operation, so not some random field of mulberries.",
+  "primaryReading": "くわばたけ",
+  "readingMnemonic": "The reading comes from 桑 (kanji reading) and the vocab word 畑. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Mulberry Plantation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "桑畑",
+  "related": {
+    "radicals": [
+      30,
+      23,
+      46,
+      51
+    ],
+    "kanjis": [
+      2075,
+      1794
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くわばたけ",
+      "url": "https://files.wanikani.com/tqsk4ey0n2pn9qk1kpdck10qstcx"
+    }
+  ]
+}

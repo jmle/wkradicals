@@ -1,0 +1,32 @@
+{
+  "id": 8485,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "絹"
+  },
+  "primaryMeaning": "Silk",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "きぬ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You already learned this reading with the kanji, but here's a mnemonic in case you need to refresh your memory:\n\nWearing <vocabulary>silk</vocabulary> is the <reading>key</reading> (き) to not being <reading>nude</reading> (ぬ). Wear it!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "絹",
+  "related": {
+    "radicals": [
+      86,
+      16,
+      43
+    ],
+    "kanjis": [
+      2384
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きぬ",
+      "url": "https://files.wanikani.com/ibni3uoa9rghifun1tfig3drdg75"
+    }
+  ]
+}

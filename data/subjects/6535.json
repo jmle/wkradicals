@@ -1,0 +1,35 @@
+{
+  "id": 6535,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "鉱石"
+  },
+  "primaryMeaning": "Ore",
+  "meaningMnemonic": "A <kanji>mineral</kanji> <kanji>stone</kanji> is an <vocabulary>ore</vocabulary> / <vocabulary>mineral</vocabulary>.",
+  "primaryReading": "こうせき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of the kanji, you'll know how to read this as well. ",
+  "otherMeanings": [
+    "Mineral"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鉱石",
+  "related": {
+    "radicals": [
+      118,
+      382,
+      54
+    ],
+    "kanjis": [
+      1798,
+      493
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうせき",
+      "url": "https://files.wanikani.com/0p3nolmcv2qrnh42pnzamv6itq9d"
+    }
+  ]
+}

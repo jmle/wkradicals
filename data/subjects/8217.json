@@ -1,0 +1,36 @@
+{
+  "id": 8217,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "素朴"
+  },
+  "primaryMeaning": "Simple",
+  "meaningMnemonic": "People made from <kanji>simple</kanji> <kanji>element</kanji>s are also pretty <vocabulary>simple</vocabulary>. And they can be <vocabulary>naive</vocabulary> too. But that's just how they're built.",
+  "primaryReading": "そぼく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Naive"
+  ],
+  "otherReadings": [],
+  "wkSlug": "素朴",
+  "related": {
+    "radicals": [
+      210,
+      86,
+      23,
+      10
+    ],
+    "kanjis": [
+      1138,
+      2264
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そぼく",
+      "url": "https://files.wanikani.com/jmrbwdlqn363waba23jb1e6btz9o"
+    }
+  ]
+}

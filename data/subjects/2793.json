@@ -1,0 +1,36 @@
+{
+  "id": 2793,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "休学"
+  },
+  "primaryMeaning": "Absence From School",
+  "meaningMnemonic": "When you <kanji>rest</kanji> from <kanji>school</kanji> you are taking an <vocabulary>absence from school</vocabulary>. This is only for very long absences though, not a day or a week, but months or years. Think about it like taking an extended leave of absence from school.",
+  "primaryReading": "きゅうがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "School Absence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "休学",
+  "related": {
+    "radicals": [
+      75,
+      23,
+      8769,
+      34
+    ],
+    "kanjis": [
+      542,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうがく",
+      "url": "https://files.wanikani.com/thpkuwjpryre4r3b49sbea0j60jy"
+    }
+  ]
+}

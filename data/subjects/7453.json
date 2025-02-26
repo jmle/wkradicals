@@ -1,0 +1,35 @@
+{
+  "id": 7453,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "〜付き"
+  },
+  "primaryMeaning": "Including",
+  "meaningMnemonic": "You know that the kanji 付 means <kanji>attach</kanji> and words like 付く mean \"to be attached.\" This has the same idea. When you see this attached to another word, for example, you might know that something is attached to something else, or perhaps <vocabulary>included</vocabulary> with it. For example, if you stay at a hotel room, maybe it is a breakfast付き, i.e. \"<vocabulary>including</vocabulary> breakfast.\"",
+  "primaryReading": "つき",
+  "readingMnemonic": "The reading comes from the reading of the kanji as well as from words like 付く and 付ける.",
+  "otherMeanings": [
+    "Included",
+    "Furnished With",
+    "Attached To"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜付き",
+  "related": {
+    "radicals": [
+      75,
+      74
+    ],
+    "kanjis": [
+      652
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つき",
+      "url": "https://files.wanikani.com/xravnn5rjlffy1js145x1fny6w0r"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5077,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "切腹"
+  },
+  "primaryMeaning": "Seppuku",
+  "meaningMnemonic": "When you <kanji>cut</kanji> your <kanji>abdomen</kanji> you are committing <vocabulary>seppuku</vocabulary> aka <vocabulary>ritual suicide</vocabulary>. It will help if you already know the word \"seppuku\" from English, as it is the reading.",
+  "primaryReading": "せっぷく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. But it's got shortening and rendaku going on, so you have to remember those if you want to get it right. Or just know the word seppuku already since it's pretty popular. That works too.",
+  "otherMeanings": [
+    "Ritual Suicide"
+  ],
+  "otherReadings": [],
+  "wkSlug": "切腹",
+  "related": {
+    "radicals": [
+      4,
+      24,
+      43,
+      265
+    ],
+    "kanjis": [
+      502,
+      1317
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せっぷく",
+      "url": "https://files.wanikani.com/a76y615cjaj5v0e5xd91knwsw2td"
+    }
+  ]
+}

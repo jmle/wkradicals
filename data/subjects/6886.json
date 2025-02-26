@@ -1,0 +1,33 @@
+{
+  "id": 6886,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "呪う"
+  },
+  "primaryMeaning": "To Curse",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>curse</kanji>, and the verb version is <vocabulary>to curse</vocabulary> or <vocabulary>to put a curse on</vocabulary>.",
+  "primaryReading": "のろう",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "To Put A Curse On"
+  ],
+  "otherReadings": [],
+  "wkSlug": "呪う",
+  "related": {
+    "radicals": [
+      16,
+      191
+    ],
+    "kanjis": [
+      1919
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のろう",
+      "url": "https://files.wanikani.com/brk8s41f8n3nlbsqr1x8wiyee7f3"
+    }
+  ]
+}

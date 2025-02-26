@@ -1,0 +1,34 @@
+{
+  "id": 4689,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "届く"
+  },
+  "primaryMeaning": "To Be Delivered",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>deliver</kanji> so the verb vocab version here is <vocabulary>to be delivered</vocabulary> or <vocabulary>to arrive</vocabulary>. You know this one is \"to be delivered\" (aka it's just getting delivered, you aren't doing the delivery) because when this item arrives at your house you say \"<reading>coo'</reading>\" (く), it arrived.",
+  "primaryReading": "とどく",
+  "readingMnemonic": "The reading is the one you learned with the kanji: とど!",
+  "otherMeanings": [
+    "To Arrive",
+    "To Reach"
+  ],
+  "otherReadings": [],
+  "wkSlug": "届く",
+  "related": {
+    "radicals": [
+      37,
+      268
+    ],
+    "kanjis": [
+      1224
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とどく",
+      "url": "https://files.wanikani.com/8852ft40es1hjlhayu9n04olntei"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2850,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "地図"
+  },
+  "primaryMeaning": "Map",
+  "meaningMnemonic": "The <kanji>diagram</kanji> of the <kanji>earth</kanji>. What could that be other than a <vocabulary>map</vocabulary>?",
+  "primaryReading": "ちず",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "地図",
+  "related": {
+    "radicals": [
+      17,
+      77,
+      16,
+      3,
+      31
+    ],
+    "kanjis": [
+      608,
+      585
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちず",
+      "url": "https://files.wanikani.com/5phaqevxq2ygm2dg2p21gzdqvfmn"
+    }
+  ]
+}

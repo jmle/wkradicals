@@ -1,0 +1,35 @@
+{
+  "id": 5746,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "誤算"
+  },
+  "primaryMeaning": "Miscalculation",
+  "meaningMnemonic": "A <kanji>mistake</kanji> in what you <kanji>calculate</kanji> is a <vocabulary>miscalculation</vocabulary>.",
+  "primaryReading": "ごさん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "誤算",
+  "related": {
+    "radicals": [
+      117,
+      348,
+      85,
+      53,
+      106
+    ],
+    "kanjis": [
+      1545,
+      762
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ごさん",
+      "url": "https://files.wanikani.com/qxeug2qprfpqu66139ngfrr7fnjt"
+    }
+  ]
+}

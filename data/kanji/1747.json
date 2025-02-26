@@ -1,0 +1,37 @@
+{
+  "id": 1747,
+  "type": "kanji",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "孝"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Filial Piety",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Teacher</radical>s are all around us. Those who came before us are our teachers, so it's important to respect them. This is the basic idea of <kanji>filial piety</kanji>.",
+  "readingMnemonic": "With <kanji>filial piety</kanji> in mind, you decide to go visit your father, who is <reading>こう</reading>いち.",
+  "wkSlug": "孝",
+  "related": {
+    "radicals": [
+      418
+    ],
+    "vocabularies": [
+      6375,
+      6376,
+      6563,
+      6564,
+      6934
+    ]
+  },
+  "radicalNames": [
+    "Teacher"
+  ]
+}

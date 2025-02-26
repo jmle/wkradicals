@@ -1,0 +1,38 @@
+{
+  "id": 8355,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "海峡"
+  },
+  "primaryMeaning": "Channel",
+  "meaningMnemonic": "A <kanji>ravine</kanji> in the water connecting two <kanji>sea</kanji>s is a <vocabulary>channel</vocabulary> or a <vocabulary>strait</vocabulary>. ",
+  "primaryReading": "かいきょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Strait"
+  ],
+  "otherReadings": [],
+  "wkSlug": "海峡",
+  "related": {
+    "radicals": [
+      103,
+      8762,
+      107,
+      20,
+      8767,
+      146
+    ],
+    "kanjis": [
+      640,
+      2340
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいきょう",
+      "url": "https://files.wanikani.com/2lka9ieyoqwdv4namts5lnv9scf8"
+    }
+  ]
+}

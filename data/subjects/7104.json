@@ -1,0 +1,39 @@
+{
+  "id": 7104,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "痛恨"
+  },
+  "primaryMeaning": "Regret",
+  "meaningMnemonic": "A <kanji>pain</kanji> <kanji>grudge</kanji> is pain you feel from the grudge. I wish I could change my grudge. It is my <vocabulary>regret</vocabulary>.",
+  "primaryReading": "つうこん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Regretful",
+    "Contrition",
+    "Remorse"
+  ],
+  "otherReadings": [],
+  "wkSlug": "痛恨",
+  "related": {
+    "radicals": [
+      187,
+      141,
+      71,
+      232,
+      196
+    ],
+    "kanjis": [
+      1318,
+      1996
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つうこん",
+      "url": "https://files.wanikani.com/bbwpqm5d3bgchs3x6ruo9zzapolq"
+    }
+  ]
+}

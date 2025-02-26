@@ -1,0 +1,32 @@
+{
+  "id": 8845,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "嘘"
+  },
+  "primaryMeaning": "Lie",
+  "meaningMnemonic": "The kanji and the word are exactly the same. A <kanji>lie</kanji> is a <vocabulary>lie</vocabulary>!",
+  "primaryReading": "うそ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You learned with reading with the kanji, so you should be able to read it already!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "嘘",
+  "related": {
+    "radicals": [
+      16,
+      254,
+      8768
+    ],
+    "kanjis": [
+      8836
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うそ",
+      "url": "https://files.wanikani.com/va5v4jwq68fiphlkpt6pod6jyxcg"
+    }
+  ]
+}

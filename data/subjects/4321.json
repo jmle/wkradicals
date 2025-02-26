@@ -1,0 +1,36 @@
+{
+  "id": 4321,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "有罪"
+  },
+  "primaryMeaning": "Guilty",
+  "meaningMnemonic": "To <kanji>have</kanji> <kanji>guilt</kanji> is to be <vocabulary>guilty</vocabulary>. This can also simply mean <vocabulary>guilt</vocabulary>.",
+  "primaryReading": "ゆうざい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Guilt"
+  ],
+  "otherReadings": [],
+  "wkSlug": "有罪",
+  "related": {
+    "radicals": [
+      26,
+      43,
+      163,
+      209
+    ],
+    "kanjis": [
+      615,
+      1116
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうざい",
+      "url": "https://files.wanikani.com/naaqg7000idycdy7hp109yaz54v3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8974,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "中華麺"
+  },
+  "primaryMeaning": "Chinese Noodles",
+  "meaningMnemonic": "You already know that 中華 means Chinese, and <kanji>麺</kanji> means noodles. Put them together and what have you got? That's right, <vocabulary>Chinese noodles</vocabulary>! Yum!",
+  "primaryReading": "ちゅうかめん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "中華麺",
+  "related": {
+    "radicals": [
+      49,
+      90,
+      51,
+      15,
+      8907,
+      250
+    ],
+    "kanjis": [
+      469,
+      1446,
+      8955
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうかめん",
+      "url": "https://files.wanikani.com/13tnko4nyqpf5oxcyvilyskq6bq9"
+    }
+  ]
+}

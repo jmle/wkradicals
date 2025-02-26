@@ -1,0 +1,39 @@
+{
+  "id": 7356,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "皇太子妃"
+  },
+  "primaryMeaning": "Crown Princess",
+  "meaningMnemonic": "Remember how 皇太子 is \"crown prince\"? Turn this crown prince into a \"crown prince <kanji>princess</kanji>.\" So, this is the <vocabulary>crown princess</vocabulary>.",
+  "primaryReading": "こうたいしひ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "皇太子妃",
+  "related": {
+    "radicals": [
+      52,
+      48,
+      18,
+      3,
+      34,
+      19,
+      228
+    ],
+    "kanjis": [
+      1531,
+      505,
+      462,
+      2082
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうたいしひ",
+      "url": "https://files.wanikani.com/wpejgfynifvv4pfuopejpyy7oldx"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7251,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "殴る"
+  },
+  "primaryMeaning": "To Punch",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>assault</kanji>. What are some ways to assault a person? How about <vocabulary>to punch</vocabulary>, <vocabulary>to strike</vocabulary>, or <vocabulary>to hit</vocabulary>, to name a few?",
+  "primaryReading": "なぐる",
+  "readingMnemonic": "Someone is <reading>nag</reading>ging (なぐ) you and nagging you about something. You can't take it any more, so you turn around <vocabulary>to punch</vocabulary> them in the face.",
+  "otherMeanings": [
+    "To Strike",
+    "To Hit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "殴る",
+  "related": {
+    "radicals": [
+      322,
+      160
+    ],
+    "kanjis": [
+      2046
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なぐる",
+      "url": "https://files.wanikani.com/nv1oahb3eb9nk9ij8lvdnw34sv8f"
+    }
+  ]
+}

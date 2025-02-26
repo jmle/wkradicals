@@ -1,0 +1,35 @@
+{
+  "id": 3968,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "主因"
+  },
+  "primaryMeaning": "Main Cause",
+  "meaningMnemonic": "The <kanji>main</kanji> <kanji>cause</kanji> is the <vocabulary>main cause</vocabulary> or the <vocabulary>primary cause</vocabulary>.",
+  "primaryReading": "しゅいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Primary Cause"
+  ],
+  "otherReadings": [],
+  "wkSlug": "主因",
+  "related": {
+    "radicals": [
+      154,
+      16,
+      18
+    ],
+    "kanjis": [
+      528,
+      1010
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅいん",
+      "url": "https://files.wanikani.com/x7lid6sz5k7pmd50ft6857dgfcsi"
+    }
+  ]
+}

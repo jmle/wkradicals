@@ -1,0 +1,36 @@
+{
+  "id": 5658,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "異状"
+  },
+  "primaryMeaning": "Abnormality",
+  "meaningMnemonic": "It <kanji>differ</kanji>s from the normal <kanji>condition</kanji> of things, making it weird. It is an <vocabulary>abnormality</vocabulary>. There is <vocabulary>something wrong</vocabulary>.",
+  "primaryReading": "いじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Something Wrong"
+  ],
+  "otherReadings": [],
+  "wkSlug": "異状",
+  "related": {
+    "radicals": [
+      51,
+      269,
+      8826,
+      47
+    ],
+    "kanjis": [
+      1530,
+      1183
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いじょう",
+      "url": "https://files.wanikani.com/w63vxizewbi08ni0tyvcgz2nfn6x"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6750,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "原子炉"
+  },
+  "primaryMeaning": "Atomic Reactor",
+  "meaningMnemonic": "If a 原子 is an <kanji>atom</kanji> and a 炉 is a <kanji>furnace</kanji>, what is a furnace that has atoms? It is an <vocabulary>atomic reactor</vocabulary> or <vocabulary>nuclear reactor</vocabulary>.",
+  "primaryReading": "げんしろ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Nuclear Reactor"
+  ],
+  "otherReadings": [],
+  "wkSlug": "原子炉",
+  "related": {
+    "radicals": [
+      230,
+      34,
+      46,
+      73
+    ],
+    "kanjis": [
+      995,
+      462,
+      1870
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんしろ",
+      "url": "https://files.wanikani.com/x96udmwtd1pidupemum9mg9rshf4"
+    }
+  ]
+}

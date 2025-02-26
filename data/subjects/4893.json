@@ -1,0 +1,37 @@
+{
+  "id": 4893,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "再度"
+  },
+  "primaryMeaning": "Again",
+  "meaningMnemonic": "<kanji>Again</kanji> with that <kanji>occurrence</kanji>? That occurrence has now happened <vocabulary>again</vocabulary>.\n\nNote that this word is relatively formal.",
+  "primaryReading": "さいど",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just remember that there's a い hiding in there!",
+  "otherMeanings": [
+    "A Second Time"
+  ],
+  "otherReadings": [],
+  "wkSlug": "再度",
+  "related": {
+    "radicals": [
+      1,
+      29,
+      17,
+      8787,
+      30
+    ],
+    "kanjis": [
+      1310,
+      725
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいど",
+      "url": "https://files.wanikani.com/zfe4oo2ybnrtsj0mx1jef3qz67is"
+    }
+  ]
+}

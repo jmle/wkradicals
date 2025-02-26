@@ -1,0 +1,37 @@
+{
+  "id": 2023,
+  "type": "kanji",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "畜"
+  },
+  "primaryReading": "ちく",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちく",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Livestock",
+  "otherMeanings": [],
+  "meaningMnemonic": "In the <radical>mysterious</radical> <radical>rice paddy</radical> there is some <kanji>livestock</kanji>. This livestock is also mysterious because no one knows where it came from. The mysterious livestock are only seen in the mysterious rice paddy. How mysterious indeed.",
+  "readingMnemonic": "Your favorite member of the mysterious <kanji>livestock</kanji> crew is a little <reading>chick</reading> (ちく). The chick is very cute and little. The chick is also very mysterious because it floats about without even flapping its little wings.",
+  "wkSlug": "畜",
+  "related": {
+    "radicals": [
+      403,
+      51
+    ],
+    "vocabularies": [
+      7187,
+      7188,
+      7189
+    ]
+  },
+  "radicalNames": [
+    "Mysterious",
+    "Rice Paddy"
+  ]
+}

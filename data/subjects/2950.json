@@ -1,0 +1,37 @@
+{
+  "id": 2950,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "高校"
+  },
+  "primaryMeaning": "High School",
+  "meaningMnemonic": "The <kanji>tall</kanji> <kanji>school</kanji> is for when your kids get about as tall as they're going to get. That's <vocabulary>high school</vocabulary>, when most people stop growing taller.",
+  "primaryReading": "こうこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Senior High School"
+  ],
+  "otherReadings": [],
+  "wkSlug": "高校",
+  "related": {
+    "radicals": [
+      8,
+      16,
+      121,
+      23,
+      68
+    ],
+    "kanjis": [
+      666,
+      658
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうこう",
+      "url": "https://files.wanikani.com/zmyv8gj1g43irdqimn4sj8iuc18q"
+    }
+  ]
+}

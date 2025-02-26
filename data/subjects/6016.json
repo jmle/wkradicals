@@ -1,0 +1,36 @@
+{
+  "id": 6016,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "信頼"
+  },
+  "primaryMeaning": "Reliance",
+  "meaningMnemonic": "I <kanji>believe</kanji> I can <kanji>trust</kanji> you. That's why I put so much <vocabulary>reliance</vocabulary> and <vocabulary>trust</vocabulary> on you to do well.",
+  "primaryReading": "しんらい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Trust"
+  ],
+  "otherReadings": [],
+  "wkSlug": "信頼",
+  "related": {
+    "radicals": [
+      75,
+      117,
+      219,
+      184
+    ],
+    "kanjis": [
+      940,
+      1638
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんらい",
+      "url": "https://files.wanikani.com/bmxlg1q54oidmlr53rpe9gllrl2l"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3929,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "卒業する"
+  },
+  "primaryMeaning": "To Graduate",
+  "meaningMnemonic": "You know that 卒業 is \"graduation.\" Make it a verb, and you have <vocabulary>to graduate</vocabulary>.",
+  "primaryReading": "そつぎょうする",
+  "readingMnemonic": "The reading is just the same as the vocab word 卒業.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "卒業する",
+  "related": {
+    "radicals": [
+      8,
+      9,
+      15,
+      8768,
+      136,
+      2
+    ],
+    "kanjis": [
+      897,
+      756
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そつぎょうする",
+      "url": "https://files.wanikani.com/o37ti0m801x4ea1thjmnqzi1emol"
+    }
+  ]
+}

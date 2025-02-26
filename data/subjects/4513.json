@@ -1,0 +1,36 @@
+{
+  "id": 4513,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "案外"
+  },
+  "primaryMeaning": "Unexpectedly",
+  "meaningMnemonic": "Something that happens <kanji>outside</kanji> the <kanji>plan</kanji> is something that happens <vocabulary>unexpectedly</vocabulary>.",
+  "primaryReading": "あんがい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "More Than Expected"
+  ],
+  "otherReadings": [],
+  "wkSlug": "案外",
+  "related": {
+    "radicals": [
+      283,
+      23,
+      33,
+      10
+    ],
+    "kanjis": [
+      1163,
+      521
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あんがい",
+      "url": "https://files.wanikani.com/l6lg68g8xhgf0ldf6mbhgu7f4jm8"
+    }
+  ]
+}

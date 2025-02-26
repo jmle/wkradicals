@@ -1,0 +1,36 @@
+{
+  "id": 8069,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "殊勲"
+  },
+  "primaryMeaning": "Meritorious Deeds",
+  "meaningMnemonic": "You do things <kanji>especially</kanji> worthy of <kanji>merit</kanji> and they're called <vocabulary>meritorious deeds</vocabulary>.",
+  "primaryReading": "しゅくん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "殊勲",
+  "related": {
+    "radicals": [
+      132,
+      5,
+      134,
+      188,
+      13,
+      131
+    ],
+    "kanjis": [
+      2178,
+      2230
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅくん",
+      "url": "https://files.wanikani.com/9rlstjrohz1oqkhfvy6xpy2ehhk3"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8975,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "苺"
+  },
+  "primaryMeaning": "Strawberry",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "いちご",
+  "readingMnemonic": "The reading for this vocabulary is the same as the reading you learned with the kanji. Go eat some strawberries to celebrate!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "苺",
+  "related": {
+    "radicals": [
+      90,
+      22,
+      3
+    ],
+    "kanjis": [
+      8963
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いちご",
+      "url": "https://files.wanikani.com/1ngxi7xrpulzcojfxxvdm4ilive7"
+    }
+  ]
+}

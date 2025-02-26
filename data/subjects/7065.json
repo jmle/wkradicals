@@ -1,0 +1,37 @@
+{
+  "id": 7065,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "詐欺"
+  },
+  "primaryMeaning": "Fraud",
+  "meaningMnemonic": "If there are <kanji>lie</kanji>s and <kanji>deceit</kanji> in your interactions with people, you're committing <vocabulary>fraud</vocabulary>, you're carrying out a <vocabulary>scam</vocabulary>, you're <vocabulary>swindling</vocabulary>.",
+  "primaryReading": "さぎ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Swindling",
+    "Scam"
+  ],
+  "otherReadings": [],
+  "wkSlug": "詐欺",
+  "related": {
+    "radicals": [
+      117,
+      122,
+      205,
+      142
+    ],
+    "kanjis": [
+      1981,
+      1980
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さぎ",
+      "url": "https://files.wanikani.com/6u3a4aengxrswttqdg601o2bh6im"
+    }
+  ]
+}

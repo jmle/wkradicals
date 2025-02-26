@@ -1,0 +1,38 @@
+{
+  "id": 8119,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "疎通"
+  },
+  "primaryMeaning": "Mutual Understanding",
+  "meaningMnemonic": "If you never <kanji>neglect</kanji> to <kanji>pass through</kanji> your thoughts to another person the two of you will be able to have a special <vocabulary>mutual understanding</vocabulary>.",
+  "primaryReading": "そつう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Removal Of Blockage",
+    "Drainage"
+  ],
+  "otherReadings": [],
+  "wkSlug": "疎通",
+  "related": {
+    "radicals": [
+      420,
+      219,
+      114,
+      141,
+      71
+    ],
+    "kanjis": [
+      2243,
+      665
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そつう",
+      "url": "https://files.wanikani.com/vl84c1cubeotagu807kmi2vo1gw3"
+    }
+  ]
+}

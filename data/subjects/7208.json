@@ -1,0 +1,33 @@
+{
+  "id": 7208,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "耐える"
+  },
+  "primaryMeaning": "To Endure",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>resistant</kanji>. If you're resisting things, then you're enduring and withstanding them. That's why this is <vocabulary>to endure</vocabulary> and <vocabulary>to withstand</vocabulary>.",
+  "primaryReading": "たえる",
+  "readingMnemonic": "What is it that you have <vocabulary>to endure</vocabulary>? A barrage of <reading>ta</reading>cos (た), coming at you.",
+  "otherMeanings": [
+    "To Withstand"
+  ],
+  "otherReadings": [],
+  "wkSlug": "耐える",
+  "related": {
+    "radicals": [
+      309,
+      74
+    ],
+    "kanjis": [
+      2031
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たえる",
+      "url": "https://files.wanikani.com/qd6ux2gtdomo0w2ch3nz4r7x4uko"
+    }
+  ]
+}

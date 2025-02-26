@@ -1,0 +1,33 @@
+{
+  "id": 5881,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "己"
+  },
+  "primaryMeaning": "Oneself",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. It also means <vocabulary>myself</vocabulary> and <vocabulary>I</vocabulary>.",
+  "primaryReading": "おのれ",
+  "readingMnemonic": "As for <vocabulary>myself</vocabulary>? I'm not Bob. <reading>oh no, Ray</reading> (おのれ), Ray is my name.",
+  "otherMeanings": [
+    "Myself",
+    "I"
+  ],
+  "otherReadings": [],
+  "wkSlug": "己",
+  "related": {
+    "radicals": [
+      228
+    ],
+    "kanjis": [
+      1588
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おのれ",
+      "url": "https://files.wanikani.com/v65l7yltvz1t7gpj25tozd8bxtnx"
+    }
+  ]
+}

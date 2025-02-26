@@ -1,0 +1,33 @@
+{
+  "id": 8384,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "盲人"
+  },
+  "primaryMeaning": "Blind Person",
+  "meaningMnemonic": "A <kanji>blind</kanji> <kanji>person</kanji> is a <vocabulary>blind person</vocabulary>.",
+  "primaryReading": "もうじん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "盲人",
+  "related": {
+    "radicals": [
+      212,
+      53,
+      9
+    ],
+    "kanjis": [
+      2352,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もうじん",
+      "url": "https://files.wanikani.com/dedr9gg13wkmmz4pr6jlfzmacntp"
+    }
+  ]
+}

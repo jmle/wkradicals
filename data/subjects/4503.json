@@ -1,0 +1,33 @@
+{
+  "id": 4503,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "脱税"
+  },
+  "primaryMeaning": "Tax Evasion",
+  "meaningMnemonic": "You're trying to <kanji>escape</kanji> from <kanji>tax</kanji>es? You scared of them? Huh? That's <vocabulary>tax evasion</vocabulary>, buddy. You're going to jail for that. ",
+  "primaryReading": "だつぜい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "脱税",
+  "related": {
+    "radicals": [
+      43,
+      422,
+      135
+    ],
+    "kanjis": [
+      1157,
+      1149
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だつぜい",
+      "url": "https://files.wanikani.com/762lh9gxlmn4p2dmsmsa72hb5lfj"
+    }
+  ]
+}

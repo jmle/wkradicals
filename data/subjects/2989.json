@@ -1,0 +1,34 @@
+{
+  "id": 2989,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "黒人"
+  },
+  "primaryMeaning": "Black Person",
+  "meaningMnemonic": "A <kanji>black</kanji> <kanji>person</kanji> is simply a <vocabulary>Black person</vocabulary>, kind of like how a 白人 is a \"White person,\" but a different  color.",
+  "primaryReading": "こくじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nImagine a <vocabulary>Black person</vocabulary> you know well wearing <reading>coke</reading> <reading>jean</reading>s (こくじん). Yep, jeans made entirely from coke bottles. That's actually a thing. Look it up if you don't believe me.",
+  "otherMeanings": [
+    "Black People"
+  ],
+  "otherReadings": [],
+  "wkSlug": "黒人",
+  "related": {
+    "radicals": [
+      153,
+      9
+    ],
+    "kanjis": [
+      677,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こくじん",
+      "url": "https://files.wanikani.com/g1oy3c3gws6tx9y938mhucc072k5"
+    }
+  ]
+}

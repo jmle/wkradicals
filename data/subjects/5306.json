@@ -1,0 +1,34 @@
+{
+  "id": 5306,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "奇数"
+  },
+  "primaryMeaning": "Odd Number",
+  "meaningMnemonic": "<kanji>Odd</kanji> <kanji>numbers</kanji> are <vocabulary>odd numbers</vocabulary> (as in, 1, 3, 5, 7, though they are a bit strange as well).",
+  "primaryReading": "きすう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "奇数",
+  "related": {
+    "radicals": [
+      326,
+      98,
+      19,
+      60
+    ],
+    "kanjis": [
+      1363,
+      703
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きすう",
+      "url": "https://files.wanikani.com/mux650xl11y6szgq6j5wau5689je"
+    }
+  ]
+}

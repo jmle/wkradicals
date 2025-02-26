@@ -1,0 +1,36 @@
+{
+  "id": 6340,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "繰り返す"
+  },
+  "primaryMeaning": "To Repeat",
+  "meaningMnemonic": "繰る is \"to spin\" (so spinning) and 返す is \"to return\" (so returning). Put them together and you have something that's spinning and returning to the same spot over and over. Something that does that is repeating itself, making this <vocabulary>to repeat</vocabulary> or <vocabulary>to repeat over and over</vocabulary>.",
+  "primaryReading": "くりかえす",
+  "readingMnemonic": "The readings come from 繰る and 返す. Combine them together to get the reading.",
+  "otherMeanings": [
+    "To Repeat Over And Over"
+  ],
+  "otherReadings": [],
+  "wkSlug": "繰り返す",
+  "related": {
+    "radicals": [
+      86,
+      8830,
+      114,
+      218
+    ],
+    "kanjis": [
+      1678,
+      858
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くりかえす",
+      "url": "https://files.wanikani.com/ha0xyzxlp9ob05uy4eozt2ok0pfa"
+    }
+  ]
+}

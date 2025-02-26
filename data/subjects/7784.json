@@ -1,0 +1,36 @@
+{
+  "id": 7784,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "偉大"
+  },
+  "primaryMeaning": "Greatness",
+  "meaningMnemonic": "<kanji>Big</kanji> <kanji>greatness</kanji> is still <vocabulary>greatness</vocabulary>, just a lot of it.",
+  "primaryReading": "いだい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Grand",
+    "Outstanding"
+  ],
+  "otherReadings": [],
+  "wkSlug": "偉大",
+  "related": {
+    "radicals": [
+      75,
+      294,
+      18
+    ],
+    "kanjis": [
+      2120,
+      453
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いだい",
+      "url": "https://files.wanikani.com/m6n36nt96khigf3hs9enox6htjat"
+    }
+  ]
+}

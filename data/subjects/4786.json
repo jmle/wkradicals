@@ -1,0 +1,38 @@
+{
+  "id": 4786,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "全景"
+  },
+  "primaryMeaning": "Complete View",
+  "meaningMnemonic": "When you can see <kanji>all</kanji> the <kanji>scene</kanji> you have a <vocabulary>complete view</vocabulary>.\n\nThis is not a common word in everyday conversations, but it can be found in literature, art, film, photography, and travel writing to describe a panoramic or comprehensive view of a scene.",
+  "primaryReading": "ぜんけい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Full View",
+    "Panoramic View",
+    "Panorama"
+  ],
+  "otherReadings": [],
+  "wkSlug": "全景",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      22,
+      299
+    ],
+    "kanjis": [
+      610,
+      1256
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんけい",
+      "url": "https://files.wanikani.com/swp0ey0w72ia5evmyqxmyuebb1cm"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6467,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "原爆"
+  },
+  "primaryMeaning": "Atomic Bomb",
+  "meaningMnemonic": "原 is often tied to atomic things, as atoms are the origin of all things. If an atom <kanji>explode</kanji>s, you have yourself an <vocabulary>atomic bomb</vocabulary>.",
+  "primaryReading": "げんばく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "原爆",
+  "related": {
+    "radicals": [
+      230,
+      46,
+      366
+    ],
+    "kanjis": [
+      995,
+      1658
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんばく",
+      "url": "https://files.wanikani.com/r118usa7kwj97pg7gq9u2ejcxnn8"
+    }
+  ]
+}

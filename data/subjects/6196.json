@@ -1,0 +1,33 @@
+{
+  "id": 6196,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "扱う"
+  },
+  "primaryMeaning": "To Handle",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>handle</kanji> so the verb vocab version is <vocabulary>to handle</vocabulary>.",
+  "primaryReading": "あつかう",
+  "readingMnemonic": "The reading is the one you learned with the kanji, actually! Can you handle that?",
+  "otherMeanings": [
+    "To Treat"
+  ],
+  "otherReadings": [],
+  "wkSlug": "扱う",
+  "related": {
+    "radicals": [
+      63,
+      193
+    ],
+    "kanjis": [
+      1693
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あつかう",
+      "url": "https://files.wanikani.com/0p1mg4bcdex79452s5gpyl47ioqu"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8144,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "童謡"
+  },
+  "primaryMeaning": "Nursery Rhyme",
+  "meaningMnemonic": "<kanji>Noh chanting</kanji> for <kanji>juvenile</kanji>s are <vocabulary>nursery rhyme</vocabulary>s. Kids won't understand the heavy stuff, so you have to dumb it down for them.",
+  "primaryReading": "どうよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Children's Song"
+  ],
+  "otherReadings": [],
+  "wkSlug": "童謡",
+  "related": {
+    "radicals": [
+      55,
+      125,
+      117,
+      8798
+    ],
+    "kanjis": [
+      833,
+      2245
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうよう",
+      "url": "https://files.wanikani.com/ujt1347szu1njdue3bb33jeckucd"
+    }
+  ]
+}

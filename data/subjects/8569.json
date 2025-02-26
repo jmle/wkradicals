@@ -1,0 +1,35 @@
+{
+  "id": 8569,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "紡績"
+  },
+  "primaryMeaning": "Spinning",
+  "meaningMnemonic": "<kanji>Spinning</kanji> <kanji>exploit</kanji>s sheep, but you keep <vocabulary>spinning</vocabulary> anyway because you're cold and you need the sweater you're making.",
+  "primaryReading": "ぼうせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Yarn Spinning"
+  ],
+  "otherReadings": [],
+  "wkSlug": "紡績",
+  "related": {
+    "radicals": [
+      86,
+      66,
+      321
+    ],
+    "kanjis": [
+      2412,
+      1490
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうせき",
+      "url": "https://files.wanikani.com/7zejb41u7gyjxciydwzogjhnwmym"
+    }
+  ]
+}

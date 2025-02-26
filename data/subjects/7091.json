@@ -1,0 +1,39 @@
+{
+  "id": 7091,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "墜落"
+  },
+  "primaryMeaning": "Falling",
+  "meaningMnemonic": "If you <kanji>crash</kanji> and <kanji>fall</kanji> then you're <vocabulary>crashing</vocabulary> or <vocabulary>falling</vocabulary>, maybe both.",
+  "primaryReading": "ついらく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Crashing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "墜落",
+  "related": {
+    "radicals": [
+      176,
+      8767,
+      233,
+      17,
+      90,
+      103,
+      180
+    ],
+    "kanjis": [
+      1990,
+      749
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ついらく",
+      "url": "https://files.wanikani.com/z4y3cgh5p77p4gsxt07jdp2ej4vk"
+    }
+  ]
+}

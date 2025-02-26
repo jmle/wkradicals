@@ -1,0 +1,38 @@
+{
+  "id": 3067,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "数字"
+  },
+  "primaryMeaning": "Numeral",
+  "meaningMnemonic": "A <kanji>number</kanji> <kanji>letter</kanji> isn't a letter like the ones you're reading now, it's more like a <vocabulary>numeral</vocabulary>, like 1, 2, 3, 4, 5, etc.",
+  "primaryReading": "すうじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Digit",
+    "Number"
+  ],
+  "otherReadings": [],
+  "wkSlug": "数字",
+  "related": {
+    "radicals": [
+      98,
+      19,
+      60,
+      78,
+      34
+    ],
+    "kanjis": [
+      703,
+      545
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すうじ",
+      "url": "https://files.wanikani.com/szxvd1msci3tkrvz6h6q9odm7cal"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5522,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "意志"
+  },
+  "primaryMeaning": "Will",
+  "meaningMnemonic": "You have an <kanji>idea</kanji> and you have <kanji>intent</kanji> to carry it out. This is your <vocabulary>will</vocabulary> and <vocabulary>volition</vocabulary>.",
+  "primaryReading": "いし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Volition"
+  ],
+  "otherReadings": [],
+  "wkSlug": "意志",
+  "related": {
+    "radicals": [
+      197,
+      65,
+      97
+    ],
+    "kanjis": [
+      811,
+      1482
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いし",
+      "url": "https://files.wanikani.com/6yqzknkoh86fbl8ik6k8fazolwg0"
+    }
+  ]
+}

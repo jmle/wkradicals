@@ -1,0 +1,37 @@
+{
+  "id": 8695,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "町民"
+  },
+  "primaryMeaning": "Townspeople",
+  "meaningMnemonic": "<kanji>Town</kanji> <kanji>peoples</kanji> are the <vocabulary>townspeople</vocabulary>! This can also be singular, so a <vocabulary>townsperson</vocabulary>.",
+  "primaryReading": "ちょうみん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Townsperson",
+    "Townsfolk"
+  ],
+  "otherReadings": [],
+  "wkSlug": "町民",
+  "related": {
+    "radicals": [
+      51,
+      27,
+      16,
+      147
+    ],
+    "kanjis": [
+      556,
+      650
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょうみん",
+      "url": "https://files.wanikani.com/wcikg2fr1eddna1sz9u64kbdpi1j"
+    }
+  ]
+}

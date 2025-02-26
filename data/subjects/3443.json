@@ -1,0 +1,33 @@
+{
+  "id": 3443,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "代わり"
+  },
+  "primaryMeaning": "Substitute",
+  "meaningMnemonic": "You've seen that 代わる means \"to substitute for\" or \"to replace.\" This is the noun version of that (no う sound on the end). So, what is the noun version of those verb words? It would be <vocabulary>substitute</vocabulary> or <vocabulary>replacement</vocabulary>.",
+  "primaryReading": "かわり",
+  "readingMnemonic": "You should be able to figure out the reading from learning 代わる in the previous level.",
+  "otherMeanings": [
+    "Replacement"
+  ],
+  "otherReadings": [],
+  "wkSlug": "代わり",
+  "related": {
+    "radicals": [
+      75,
+      79
+    ],
+    "kanjis": [
+      530
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かわり",
+      "url": "https://files.wanikani.com/d27stemqlysxrbnpc9akzyan27t8"
+    }
+  ]
+}

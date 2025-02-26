@@ -1,0 +1,35 @@
+{
+  "id": 5309,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "延長"
+  },
+  "primaryMeaning": "Prolonging",
+  "meaningMnemonic": "<kanji>Prolong</kanji> it for a <kanji>long</kanji> while. We need more time. We need a <vocabulary>prolonging</vocabulary> or <vocabulary> extension</vocabulary> of some kind.",
+  "primaryReading": "えんちょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Extension"
+  ],
+  "otherReadings": [],
+  "wkSlug": "延長",
+  "related": {
+    "radicals": [
+      206,
+      229,
+      138
+    ],
+    "kanjis": [
+      1426,
+      632
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんちょう",
+      "url": "https://files.wanikani.com/vx4j4h1ivtrjxkqynzoolgogf07o"
+    }
+  ]
+}

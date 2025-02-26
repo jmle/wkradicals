@@ -1,0 +1,40 @@
+{
+  "id": 5574,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "厳禁"
+  },
+  "primaryMeaning": "Strictly Forbidden",
+  "meaningMnemonic": "Something with <kanji>strict</kanji> <kanji>prohibition</kanji> is <vocabulary>strictly forbidden</vocabulary> / <vocabulary>strictly prohibited</vocabulary>.",
+  "primaryReading": "げんきん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Strictly Prohibited",
+    "Strict Prohibition",
+    "Ban"
+  ],
+  "otherReadings": [],
+  "wkSlug": "厳禁",
+  "related": {
+    "radicals": [
+      8783,
+      116,
+      8799,
+      60,
+      23,
+      207
+    ],
+    "kanjis": [
+      1502,
+      1054
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんきん",
+      "url": "https://files.wanikani.com/v61k46iezq1md5a4bf7ypnmzxhx1"
+    }
+  ]
+}

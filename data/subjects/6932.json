@@ -1,0 +1,36 @@
+{
+  "id": 6932,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "狂気"
+  },
+  "primaryMeaning": "Madness",
+  "meaningMnemonic": "<kanji>Lunatic</kanji> <kanji>energy</kanji> is <vocabulary>madness</vocabulary> and <vocabulary>insanity</vocabulary>.",
+  "primaryReading": "きょうき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Insanity"
+  ],
+  "otherReadings": [],
+  "wkSlug": "狂気",
+  "related": {
+    "radicals": [
+      144,
+      48,
+      82,
+      31
+    ],
+    "kanjis": [
+      1939,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうき",
+      "url": "https://files.wanikani.com/fk1tynj58d0wpm49md5e7383gnws"
+    }
+  ]
+}

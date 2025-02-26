@@ -1,0 +1,33 @@
+{
+  "id": 3799,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "仮面"
+  },
+  "primaryMeaning": "Mask",
+  "meaningMnemonic": "A <kanji>temporary</kanji> <kanji>face</kanji> is something you put over your face to cover it. It's a <vocabulary>mask</vocabulary>.",
+  "primaryReading": "かめん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "仮面",
+  "related": {
+    "radicals": [
+      75,
+      218,
+      250
+    ],
+    "kanjis": [
+      739,
+      974
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かめん",
+      "url": "https://files.wanikani.com/lhunkyuxcriflx41rnb4aelr2wja"
+    }
+  ]
+}

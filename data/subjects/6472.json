@@ -1,0 +1,32 @@
+{
+  "id": 6472,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "手の甲"
+  },
+  "primaryMeaning": "Back Of One's Hand",
+  "meaningMnemonic": "Your <kanji>hand</kanji>'s <kanji>turtle shell</kanji> is the back of it (see you can make it shaped like a turtle shell if you try hard!). That's why this is the <vocabulary>back of one's hand</vocabulary>.",
+  "primaryReading": "てのこう",
+  "readingMnemonic": "The readings are the respective vocab readings of 手 and 甲.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "手の甲",
+  "related": {
+    "radicals": [
+      41,
+      330
+    ],
+    "kanjis": [
+      474,
+      1732
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てのこう",
+      "url": "https://files.wanikani.com/dcxcczh6nviflyfdkpl3y2ceiqwa"
+    }
+  ]
+}

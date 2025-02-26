@@ -1,0 +1,33 @@
+{
+  "id": 6689,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "即〜"
+  },
+  "primaryMeaning": "Immediate",
+  "meaningMnemonic": "If you see 即 before a word, you know that it's probably something that happens really fast or instantaneously. That's why this is <vocabulary>immediate</vocabulary> or <vocabulary>instant</vocabulary>.",
+  "primaryReading": "そく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Instant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "即〜",
+  "related": {
+    "radicals": [
+      196,
+      145
+    ],
+    "kanjis": [
+      1850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そく",
+      "url": "https://files.wanikani.com/v6hqloh6aucpmnb3tpkx44e3xgc8"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6859,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "鳥肌"
+  },
+  "primaryMeaning": "Goosebumps",
+  "meaningMnemonic": "<kanji>Bird</kanji> <kanji>skin</kanji> is <vocabulary>goosebumps</vocabulary>. Makes sense, since a goose is a bird and a bird's skin is bumpy.",
+  "primaryReading": "とりはだ",
+  "readingMnemonic": "The reading is the individual vocab readings of the two kanji, 鳥 and 肌.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鳥肌",
+  "related": {
+    "radicals": [
+      151,
+      43,
+      177
+    ],
+    "kanjis": [
+      675,
+      1908
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とりはだ",
+      "url": "https://files.wanikani.com/c6xxlvoke7dte06yrh2jbz0x1ddh"
+    }
+  ]
+}

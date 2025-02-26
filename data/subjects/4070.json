@@ -1,0 +1,37 @@
+{
+  "id": 4070,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "切り取る"
+  },
+  "primaryMeaning": "To Cut Off",
+  "meaningMnemonic": "If you <kanji>cut</kanji> and <kanji>take</kanji> something, you are going to cut it right off. So, this verb is <vocabulary>to cut off</vocabulary>.",
+  "primaryReading": "きりとる",
+  "readingMnemonic": "The readings come from 切る and 取る. So, know those words separately and you can combine them into this word.",
+  "otherMeanings": [
+    "To Cut Out",
+    "To Clip"
+  ],
+  "otherReadings": [],
+  "wkSlug": "切り取る",
+  "related": {
+    "radicals": [
+      4,
+      24,
+      88,
+      30
+    ],
+    "kanjis": [
+      502,
+      966
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きりとる",
+      "url": "https://files.wanikani.com/y1hi1qr1ju6bdam7qe14pf06yanx"
+    }
+  ]
+}

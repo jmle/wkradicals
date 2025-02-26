@@ -1,0 +1,34 @@
+{
+  "id": 8899,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "半袖"
+  },
+  "primaryMeaning": "Short Sleeves",
+  "meaningMnemonic": "<kanji>Half</kanji> <kanji>sleeve</kanji>s is just another name for <vocabulary>short sleeves</vocabulary>.",
+  "primaryReading": "はんそで",
+  "readingMnemonic": "This word uses the on'yomi reading for 半 and the kun'yomi reading for 袖. You've learned them both already, so you should be able to read this word.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "半袖",
+  "related": {
+    "radicals": [
+      8765,
+      61,
+      80,
+      268
+    ],
+    "kanjis": [
+      518,
+      8885
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はんそで",
+      "url": "https://files.wanikani.com/k41yn8wwv6gudlbxru74qliikak0"
+    }
+  ]
+}

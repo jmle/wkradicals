@@ -1,0 +1,36 @@
+{
+  "id": 4413,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "制服"
+  },
+  "primaryMeaning": "Uniform",
+  "meaningMnemonic": "If you <kanji>control</kanji> people, you make them wear the same <kanji>clothes</kanji>. That's a <vocabulary>uniform</vocabulary>.",
+  "primaryReading": "せいふく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "制服",
+  "related": {
+    "radicals": [
+      126,
+      102,
+      128,
+      43,
+      145,
+      30
+    ],
+    "kanjis": [
+      1128,
+      716
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいふく",
+      "url": "https://files.wanikani.com/0560bql486kitsttink2ro18rusz"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3733,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "自信"
+  },
+  "primaryMeaning": "Confidence",
+  "meaningMnemonic": "When you <kanji>believe</kanji> in your <kanji>self</kanji> you have plenty of <vocabulary>confidence</vocabulary> (or <vocabulary>self confidence</vocabulary>). This is a good thing to have!",
+  "primaryReading": "じしん",
+  "readingMnemonic": "How much 自信 do you have that you know how to read this word already? I bet you have some, at least! This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Self Confidence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "自信",
+  "related": {
+    "radicals": [
+      109,
+      75,
+      117
+    ],
+    "kanjis": [
+      578,
+      940
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じしん",
+      "url": "https://files.wanikani.com/y2oxj2lejrtuwvykantdo53i50f0"
+    }
+  ]
+}

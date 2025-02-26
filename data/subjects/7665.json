@@ -1,0 +1,36 @@
+{
+  "id": 7665,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "小柄"
+  },
+  "primaryMeaning": "Small Build",
+  "meaningMnemonic": "Someone built from a <kanji>small</kanji> <kanji>pattern</kanji> has a <vocabulary>small build</vocabulary>. I know lots of little old ladies that were built from these small patterns.",
+  "primaryReading": "こがら",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Small Stature",
+    "Petite"
+  ],
+  "otherReadings": [],
+  "wkSlug": "小柄",
+  "related": {
+    "radicals": [
+      35,
+      23,
+      186
+    ],
+    "kanjis": [
+      463,
+      1823
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こがら",
+      "url": "https://files.wanikani.com/ys9z0o62gh0q040eez9ief0xvm01"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7558,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "逃がす"
+  },
+  "primaryMeaning": "To Let Go",
+  "meaningMnemonic": "Remember how 逃げる means \"to escape\"? Well this verbs means <vocabulary>to let go</vocabulary>, <vocabulary>to set free</vocabulary>, or <vocabulary>to let escape</vocabulary>.",
+  "primaryReading": "にがす",
+  "readingMnemonic": "You learned the に reading for this kanji when you learned 逃げる.\n\nIf you have trouble telling the two words apart, remember that if you're going <vocabulary>to let go</vocabulary> of someone, make sure they have their <reading>knee gua</reading>rds (にが). It's a dangerous world, you can't have them running free without some extra protection, you know.",
+  "otherMeanings": [
+    "To Set Free",
+    "To Let Escape"
+  ],
+  "otherReadings": [],
+  "wkSlug": "逃がす",
+  "related": {
+    "radicals": [
+      114,
+      363
+    ],
+    "kanjis": [
+      1705
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にがす",
+      "url": "https://files.wanikani.com/5ah14huu94lyv6ourbz3yqb70m6m"
+    }
+  ]
+}

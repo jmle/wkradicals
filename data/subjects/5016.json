@@ -1,0 +1,34 @@
+{
+  "id": 5016,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "春巻き"
+  },
+  "primaryMeaning": "Spring Rolls",
+  "meaningMnemonic": "巻く is \"to roll up.\" If you roll up spring, you get a roll that's spring flavored. These are known as <vocabulary>spring rolls</vocabulary>.",
+  "primaryReading": "はるまき",
+  "readingMnemonic": "The readings come from 春 and 巻く.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "春巻き",
+  "related": {
+    "radicals": [
+      8779,
+      22,
+      8819,
+      228
+    ],
+    "kanjis": [
+      931,
+      1273
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はるまき",
+      "url": "https://files.wanikani.com/ar65ksjxc81kcuz6r1umqir2fdyr"
+    }
+  ]
+}

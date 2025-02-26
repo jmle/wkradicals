@@ -1,0 +1,37 @@
+{
+  "id": 4756,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "展開"
+  },
+  "primaryMeaning": "Unfolding",
+  "meaningMnemonic": "To <kanji>expand</kanji> and <kanji>open</kanji>. Just imagine something happening like this. This is when something is <vocabulary>unfolding</vocabulary> or in <vocabulary>development</vocabulary>.",
+  "primaryReading": "てんかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Development"
+  ],
+  "otherReadings": [],
+  "wkSlug": "展開",
+  "related": {
+    "radicals": [
+      37,
+      8775,
+      8770,
+      214,
+      171
+    ],
+    "kanjis": [
+      1245,
+      753
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てんかい",
+      "url": "https://files.wanikani.com/nc69u2tnkjhjbc2fy6sxugrwra18"
+    }
+  ]
+}

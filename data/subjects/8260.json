@@ -1,0 +1,38 @@
+{
+  "id": 8260,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "師匠"
+  },
+  "primaryMeaning": "Master",
+  "meaningMnemonic": "An <kanji>artisan</kanji> who's good enough to be a <kanji>teacher</kanji> has to be a <vocabulary>master</vocabulary> of her craft.",
+  "primaryReading": "ししょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Teacher"
+  ],
+  "otherReadings": [],
+  "wkSlug": "師匠",
+  "related": {
+    "radicals": [
+      3,
+      8777,
+      1,
+      102,
+      217,
+      115
+    ],
+    "kanjis": [
+      1198,
+      2326
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ししょう",
+      "url": "https://files.wanikani.com/pndstp5lq9x3p08y6tktc71l3uug"
+    }
+  ]
+}

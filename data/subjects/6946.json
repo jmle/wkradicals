@@ -1,0 +1,33 @@
+{
+  "id": 6946,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "合わせる"
+  },
+  "primaryMeaning": "To Join Together",
+  "meaningMnemonic": "You know that the alternative kanji meaning for 合 is <kanji>join</kanji>, which is what we're using here. The verb form of join is <vocabulary>to join together</vocabulary>, and it can also mean <vocabulary>to unify</vocabulary> and <vocabulary>to match</vocabulary>.",
+  "primaryReading": "あわせる",
+  "readingMnemonic": "The reading comes from 合う, so if you know that reading you'll know this reading as well.",
+  "otherMeanings": [
+    "To Unify",
+    "To Match"
+  ],
+  "otherReadings": [],
+  "wkSlug": "合わせる",
+  "related": {
+    "radicals": [
+      216
+    ],
+    "kanjis": [
+      852
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あわせる",
+      "url": "https://files.wanikani.com/tzygsymydo1wtyppq4e8uptz5cnj"
+    }
+  ]
+}

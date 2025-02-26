@@ -1,0 +1,37 @@
+{
+  "id": 3383,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "虫歯"
+  },
+  "primaryMeaning": "Cavity",
+  "meaningMnemonic": "A <kanji>tooth</kanji> <kanji>bug</kanji>... Luckily, it's not some bug living in your tooth, though you can see why someone might think this is what happens. A tooth with a \"bug\" in it is a tooth with a <vocabulary>cavity</vocabulary>.",
+  "primaryReading": "むしば",
+  "readingMnemonic": "The readings are both kun'yomi, but those are the readings you learned with these kanji. Notice that は turns to ば, though. Presumably this is because you might yell out \"BAH!\" when you find out you have a cavity.",
+  "otherMeanings": [
+    "Decayed Tooth",
+    "Tooth Decay"
+  ],
+  "otherReadings": [],
+  "wkSlug": "虫歯",
+  "related": {
+    "radicals": [
+      89,
+      44,
+      127,
+      98
+    ],
+    "kanjis": [
+      553,
+      841
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むしば",
+      "url": "https://files.wanikani.com/8cju5j9uvjo7ax32a79ab4rq86pt"
+    }
+  ]
+}

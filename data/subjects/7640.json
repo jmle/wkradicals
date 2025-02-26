@@ -1,0 +1,38 @@
+{
+  "id": 7640,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "情けない"
+  },
+  "primaryMeaning": "Miserable",
+  "meaningMnemonic": "You've seen how the word 情け means pity, so adding ない to that turns it into an adjective meaning <vocabulary>pitiable</vocabulary> and <vocabulary>miserable</vocabulary>. ",
+  "primaryReading": "なさけない",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "otherMeanings": [
+    "Pathetic",
+    "Shameful",
+    "Deplorable",
+    "Wretched",
+    "Sad",
+    "Pitiable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "情けない",
+  "related": {
+    "radicals": [
+      232,
+      120
+    ],
+    "kanjis": [
+      891
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なさけない",
+      "url": "https://files.wanikani.com/tclw0zfoyl7kx5c1bweotwc37z6n"
+    }
+  ]
+}

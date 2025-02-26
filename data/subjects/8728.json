@@ -1,0 +1,33 @@
+{
+  "id": 8728,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "支払い"
+  },
+  "primaryMeaning": "Payment",
+  "meaningMnemonic": "The <kanji>pay</kanji> that <kanji>support</kanji>s you is made in <vocabulary>payment</vocabulary>s. Whether you make payments to keep your house or your car, or you get payments from your boss, they keep you going.",
+  "primaryReading": "しはらい",
+  "readingMnemonic": "This is a combination of the on'yomi reading of 支 and the kun'yomi reading of 払. You've learned them both, so you know this too!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "支払い",
+  "related": {
+    "radicals": [
+      81,
+      63,
+      140
+    ],
+    "kanjis": [
+      678,
+      1608
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しはらい",
+      "url": "https://files.wanikani.com/w6oorhmiex6mlgf1ioqvmka9u75u"
+    }
+  ]
+}

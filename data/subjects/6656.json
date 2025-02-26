@@ -1,0 +1,35 @@
+{
+  "id": 6656,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "珍味"
+  },
+  "primaryMeaning": "Delicacy",
+  "meaningMnemonic": "A <kanji>rare</kanji> <kanji>taste</kanji> is a taste you can't have very often, because it's rare. This is a <vocabulary>delicacy</vocabulary>.",
+  "primaryReading": "ちんみ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "珍味",
+  "related": {
+    "radicals": [
+      48,
+      8764,
+      38,
+      16,
+      134
+    ],
+    "kanjis": [
+      1838,
+      812
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちんみ",
+      "url": "https://files.wanikani.com/hn75s7p2laj0t612mjf2hgq4d993"
+    }
+  ]
+}

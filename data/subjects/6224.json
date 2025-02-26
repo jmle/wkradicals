@@ -1,0 +1,35 @@
+{
+  "id": 6224,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "逃亡"
+  },
+  "primaryMeaning": "Escape",
+  "meaningMnemonic": "If you <kanji>escape</kanji> <kanji>death</kanji> you have, well, an <vocabulary>escape</vocabulary>.",
+  "primaryReading": "とうぼう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Flight"
+  ],
+  "otherReadings": [],
+  "wkSlug": "逃亡",
+  "related": {
+    "radicals": [
+      114,
+      363,
+      212
+    ],
+    "kanjis": [
+      1705,
+      851
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうぼう",
+      "url": "https://files.wanikani.com/78ro0hwlhvhybb6r29dcbke6em0k"
+    }
+  ]
+}

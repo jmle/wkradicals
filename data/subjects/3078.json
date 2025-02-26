@@ -1,0 +1,37 @@
+{
+  "id": 3078,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "電気"
+  },
+  "primaryMeaning": "Electricity",
+  "meaningMnemonic": "<kanji>Electricity</kanji> <kanji>energy</kanji> is just a fancy way to say <vocabulary>electricity</vocabulary>.",
+  "primaryReading": "でんき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Light"
+  ],
+  "otherReadings": [],
+  "wkSlug": "電気",
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      82,
+      31
+    ],
+    "kanjis": [
+      706,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんき",
+      "url": "https://files.wanikani.com/fhrby7beyxst5gdskiwqc3jnlwjb"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4909,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "人差し指"
+  },
+  "primaryMeaning": "Index Finger",
+  "meaningMnemonic": "Your <kanji>person</kanji> <kanji>distinction</kanji> <kanji>finger</kanji> is the finger you use to point at people to distinguish them from other people. This is your <vocabulary>pointer finger</vocabulary>... your <vocabulary>index finger</vocabulary>.",
+  "primaryReading": "ひとさしゆび",
+  "readingMnemonic": "The readings are all the kun'yomi readings of everything. The word 人, the word 差す, and the word 指. Take your time with this one, it's kind of weird.",
+  "otherMeanings": [
+    "Pointer Finger"
+  ],
+  "otherReadings": [],
+  "wkSlug": "人差し指",
+  "related": {
+    "radicals": [
+      9,
+      136,
+      25,
+      63,
+      57,
+      22
+    ],
+    "kanjis": [
+      444,
+      1235,
+      797
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひとさしゆび",
+      "url": "https://files.wanikani.com/7xifpned88wcaiqkwpsgrfjfaa95"
+    }
+  ]
+}

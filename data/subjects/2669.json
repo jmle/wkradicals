@@ -1,0 +1,45 @@
+{
+  "id": 2669,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "早々"
+  },
+  "primaryMeaning": "As Soon As",
+  "meaningMnemonic": "Essentially you have the kanji <kanji>早</kanji> twice, because 々 is just a repeater kanji. When you have something <kanji>early</kanji> twice, it obviously has some kind of urgency to it. You'll need to take an action <vocabulary>as soon as</vocabulary> you finish whatever it is you're doing there.",
+  "primaryReading": "そうそう",
+  "readingMnemonic": "The reading is just the on'yomi readings (which you learned with the kanji) twice in a row.",
+  "otherMeanings": [
+    "Just After",
+    "Immediately After",
+    "Quickly",
+    "Early"
+  ],
+  "otherReadings": [
+    "はやばや"
+  ],
+  "wkSlug": "早々",
+  "related": {
+    "radicals": [
+      22,
+      15,
+      14,
+      3
+    ],
+    "kanjis": [
+      547,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうそう",
+      "url": "https://files.wanikani.com/f41v4h34omathgbnbrsk9k39l0qk"
+    },
+    {
+      "reading": "はやばや",
+      "url": "https://files.wanikani.com/69qvrd8vkrz90iht0xpeg49clxkc"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3724,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "芸人"
+  },
+  "primaryMeaning": "Comedian",
+  "meaningMnemonic": "What is the greatest <kanji>art</kanji> a <kanji>person</kanji> can possess? It’s got to be the art of making people laugh. That’s why this means <vocabulary>comedian</vocabulary>, though it can also mean a <vocabulary>performer</vocabulary> or <vocabulary>entertainer</vocabulary> more generally.",
+  "primaryReading": "げいにん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Performer",
+    "Entertainer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "芸人",
+  "related": {
+    "radicals": [
+      90,
+      159,
+      9
+    ],
+    "kanjis": [
+      916,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げいにん",
+      "url": "https://files.wanikani.com/r4qn3pfqvb0da7o78lm58d77bufh"
+    }
+  ]
+}

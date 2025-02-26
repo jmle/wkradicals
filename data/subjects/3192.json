@@ -1,0 +1,31 @@
+{
+  "id": 3192,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "飲む"
+  },
+  "primaryMeaning": "To Drink",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>drink</kanji> so the vocab verb version is <vocabulary>to drink</vocabulary>.",
+  "primaryReading": "のむ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Go have a drink in the great Allicrab's name!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "飲む",
+  "related": {
+    "radicals": [
+      139,
+      142
+    ],
+    "kanjis": [
+      755
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のむ",
+      "url": "https://files.wanikani.com/6kyhmxgk51tccqi6m3ywpwjonqrh"
+    }
+  ]
+}

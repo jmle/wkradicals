@@ -1,0 +1,36 @@
+{
+  "id": 5866,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "観測"
+  },
+  "primaryMeaning": "Observation",
+  "meaningMnemonic": "<kanji>View</kanji> and <kanji>measure</kanji> what you are watching. This is <vocabulary>observation</vocabulary>. It is no mere viewing, it is more than that.",
+  "primaryReading": "かんそく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "観測",
+  "related": {
+    "radicals": [
+      72,
+      240,
+      91,
+      103,
+      94,
+      128
+    ],
+    "kanjis": [
+      1175,
+      1581
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんそく",
+      "url": "https://files.wanikani.com/grwopm6ow2zr3jsuxi5pt1dtkh5g"
+    }
+  ]
+}

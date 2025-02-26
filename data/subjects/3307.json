@@ -1,0 +1,37 @@
+{
+  "id": 3307,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "作戦"
+  },
+  "primaryMeaning": "Tactics",
+  "meaningMnemonic": "When you <kanji>make</kanji> <kanji>war</kanji>, you're building it up like you'd build a building. You have to make <vocabulary>strategy</vocabulary>, you have to plan, you have to come up with awesome <vocabulary>tactics</vocabulary> for your <vocabulary>operation</vocabulary>.",
+  "primaryReading": "さくせん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Strategy",
+    "Operation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "作戦",
+  "related": {
+    "radicals": [
+      75,
+      122,
+      199,
+      194
+    ],
+    "kanjis": [
+      584,
+      803
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さくせん",
+      "url": "https://files.wanikani.com/v243fl0xvry5lu7thxhk1wisjs84"
+    }
+  ]
+}

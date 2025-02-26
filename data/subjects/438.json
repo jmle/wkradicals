@@ -1,0 +1,24 @@
+{
+  "id": 438,
+  "type": "radical",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "高"
+  },
+  "primaryMeaning": "Tall",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>tall</radical>.",
+  "wkSlug": "tall",
+  "related": {
+    "kanjis": [
+      2194
+    ],
+    "vocabularies": [
+      8008,
+      8009,
+      8010,
+      8011
+    ]
+  }
+}

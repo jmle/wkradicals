@@ -1,0 +1,38 @@
+{
+  "id": 3942,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "同期中"
+  },
+  "primaryMeaning": "Syncing",
+  "meaningMnemonic": "You're making things in two different places be exactly the <kanji>same</kanji> for <kanji>a period of time</kanji>. You're in the <kanji>middle</kanji> of a process called <vocabulary>syncing</vocabulary>. You can see 同期中 a lot in computery contexts, or if you change your device language to Japanese. (Not that I recommend that...)",
+  "primaryReading": "どうきちゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Synchronizing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "同期中",
+  "related": {
+    "radicals": [
+      121,
+      1,
+      205,
+      43,
+      49
+    ],
+    "kanjis": [
+      568,
+      839,
+      469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうきちゅう",
+      "url": "https://files.wanikani.com/16w5hlgy8yg92gpjq5khod780x38"
+    }
+  ]
+}

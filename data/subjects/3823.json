@@ -1,0 +1,34 @@
+{
+  "id": 3823,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "喜ぶ"
+  },
+  "primaryMeaning": "To Rejoice",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>rejoice</kanji> so the verb vocab version is <vocabulary>to rejoice</vocabulary>. Though <vocabulary>to become happy</vocabulary> probably sounds a little more natural.",
+  "primaryReading": "よろこぶ",
+  "readingMnemonic": "You start <vocabulary>to rejoice</vocabulary> by saying, \"<reading>Yo, rock on</reading> (よろこ)!\" Now you know how to rejoice from now on. At church or temple? \"Yo, rock on!\" Perfect.",
+  "otherMeanings": [
+    "To Become Happy",
+    "To Be Glad"
+  ],
+  "otherReadings": [],
+  "wkSlug": "喜ぶ",
+  "related": {
+    "radicals": [
+      421,
+      16
+    ],
+    "kanjis": [
+      976
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よろこぶ",
+      "url": "https://files.wanikani.com/c4ecq1rlje6wqtitwrarxn5p2ppz"
+    }
+  ]
+}

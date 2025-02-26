@@ -1,0 +1,33 @@
+{
+  "id": 7530,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "向ける"
+  },
+  "primaryMeaning": "To Turn Something Towards",
+  "meaningMnemonic": "You know that 向く means \"to face\" or \"to turn towards\", and this verb is related. This is a transitive verb, meaning it takes a direct object. It's when someone turns or points something. That something doesn't just turn on its own. So this verb means <vocabulary>to turn something towards</vocabulary> or <vocabulary>to point something at</vocabulary>.\n\nIn order to remember that this word means \"to turn something towards,\" focus on the け. You have a bottle of ketchup in your hands and you're turning it toward your worst enemy to spray them. Picture yourself pointing the ketchup toward them.",
+  "primaryReading": "むける",
+  "readingMnemonic": "The reading for this one is the same as 向く which you learned in a previous level. As long as you know that one you should be able to learn this one's reading as well.",
+  "otherMeanings": [
+    "To Point Something At"
+  ],
+  "otherReadings": [],
+  "wkSlug": "向ける",
+  "related": {
+    "radicals": [
+      3,
+      121
+    ],
+    "kanjis": [
+      611
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むける",
+      "url": "https://files.wanikani.com/abcdc9rgcrd7h7o07seqesqk6q7x"
+    }
+  ]
+}

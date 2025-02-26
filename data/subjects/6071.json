@@ -1,0 +1,37 @@
+{
+  "id": 6071,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "塁打"
+  },
+  "primaryMeaning": "Base Hit",
+  "meaningMnemonic": "A <kanji>baseball base</kanji> <kanji>hit</kanji> is a <vocabulary>base hit</vocabulary> or <vocabulary>single</vocabulary> in baseball terms. A 二塁打 is a double, a 三塁打 is a triple, and a homerun is something you'll learn here on WaniKani at some point if you haven't already.",
+  "primaryReading": "るいだ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned the readings for both of these kanji, so you should be able to read this word already!",
+  "otherMeanings": [
+    "Single"
+  ],
+  "otherReadings": [],
+  "wkSlug": "塁打",
+  "related": {
+    "radicals": [
+      51,
+      8788,
+      17,
+      63,
+      27
+    ],
+    "kanjis": [
+      1650,
+      536
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "るいだ",
+      "url": "https://files.wanikani.com/zqiph6bge8ymjuc95a6q3l0m7pz4"
+    }
+  ]
+}

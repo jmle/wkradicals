@@ -1,0 +1,35 @@
+{
+  "id": 7515,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "二日"
+  },
+  "primaryMeaning": "Second Day",
+  "meaningMnemonic": "<vocabulary>Second day</vocabulary> or <vocabulary>day two</vocabulary>. No matter how you look at this combination of kanji, the meaning of the word makes a lot of sense!",
+  "primaryReading": "ふつか",
+  "readingMnemonic": "Words that count days use an exceptional reading. Even though this is a jukugo word, it uses kun'yomi readings for both the kanji. Think about this word this way:\n\nThe circus is in town this weekend and you can't wait to get there. You want to show off your new <reading>foots car</reading> (ふつか) to all the circus clowns. But you have to use your feet to get it there and it ends up taking you <vocabulary>two days</vocabulary>! Darn this old fashioned foots car!",
+  "otherMeanings": [
+    "Day Two",
+    "Two Days"
+  ],
+  "otherReadings": [],
+  "wkSlug": "二日",
+  "related": {
+    "radicals": [
+      7,
+      22
+    ],
+    "kanjis": [
+      441,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふつか",
+      "url": "https://files.wanikani.com/r4zoitoar340nwd3idh2kcve3zhy"
+    }
+  ]
+}

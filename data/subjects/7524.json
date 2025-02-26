@@ -1,0 +1,35 @@
+{
+  "id": 7524,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "早く"
+  },
+  "primaryMeaning": "Early",
+  "meaningMnemonic": "This is the adverb version of the kanji <kanji>early</kanji>. It's a little thing you can begin sentences with to say you're doing something <vocabulary>early</vocabulary> or <vocabulary>quickly</vocabulary>.",
+  "primaryReading": "はやく",
+  "readingMnemonic": "Since you already know the reading of the vocab word 早い, you should be able to read this word as well.",
+  "otherMeanings": [
+    "Soon",
+    "Quickly",
+    "Fast"
+  ],
+  "otherReadings": [],
+  "wkSlug": "早く",
+  "related": {
+    "radicals": [
+      22,
+      15
+    ],
+    "kanjis": [
+      547
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はやく",
+      "url": "https://files.wanikani.com/0lxnwzk2stltv9nkt4gqbc1ba3xv"
+    }
+  ]
+}

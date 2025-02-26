@@ -1,0 +1,35 @@
+{
+  "id": 3117,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "〜屋"
+  },
+  "primaryMeaning": "Store",
+  "meaningMnemonic": "You'll see this attached to other words... like \"meat\" or \"fish.\" When you see this, you'll know it is a ___ store, making this word mean <vocabulary>store</vocabulary> (same as the kanji).",
+  "primaryReading": "や",
+  "readingMnemonic": "The reading is the kun'yomi reading. Don't type the 〜 out when writing the answer. It's just there to let you know that there's usually something attached to this word.",
+  "otherMeanings": [
+    "Shop"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜屋",
+  "related": {
+    "radicals": [
+      37,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      724
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "や",
+      "url": "https://files.wanikani.com/8n5iuq29e9b3586nar44rsk4hu8g"
+    }
+  ]
+}

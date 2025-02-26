@@ -1,0 +1,37 @@
+{
+  "id": 7059,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "粉砕"
+  },
+  "primaryMeaning": "Pulverization",
+  "meaningMnemonic": "To <kanji>powder</kanji> I will <kanji>smash</kanji> it! If I do that, it's <vocabulary>pulverization</vocabulary> and <vocabulary>smashing</vocabulary>.",
+  "primaryReading": "ふんさい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Smashing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "粉砕",
+  "related": {
+    "radicals": [
+      98,
+      247,
+      54,
+      11,
+      15
+    ],
+    "kanjis": [
+      1467,
+      1977
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふんさい",
+      "url": "https://files.wanikani.com/dm9xmg7kqol1xq9h5x4xfe885sp9"
+    }
+  ]
+}

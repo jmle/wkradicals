@@ -1,0 +1,38 @@
+{
+  "id": 4683,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "自家製"
+  },
+  "primaryMeaning": "Homemade",
+  "meaningMnemonic": "By my <kanji>self</kanji> at <kanji>home</kanji> I <kanji>manufacture</kanji>d this. It is <vocabulary>homemade</vocabulary>.",
+  "primaryReading": "じかせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Home Brewed",
+    "Made At Home"
+  ],
+  "otherReadings": [],
+  "wkSlug": "自家製",
+  "related": {
+    "radicals": [
+      109,
+      398,
+      296,
+      320
+    ],
+    "kanjis": [
+      578,
+      660,
+      1219
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じかせい",
+      "url": "https://files.wanikani.com/g3e7chrflrtjw15tcaamhbxt0wdd"
+    }
+  ]
+}

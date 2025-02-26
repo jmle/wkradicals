@@ -1,0 +1,34 @@
+{
+  "id": 5824,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "全損"
+  },
+  "primaryMeaning": "Total Loss",
+  "meaningMnemonic": "An <kanji>all</kanji> <kanji>loss</kanji> is when you lose it all. It is a <vocabulary>total loss</vocabulary>.",
+  "primaryReading": "ぜんそん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "全損",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      63,
+      349
+    ],
+    "kanjis": [
+      610,
+      1573
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんそん",
+      "url": "https://files.wanikani.com/jdalfkw8h5nifjgw3qdsk0gdjbbd"
+    }
+  ]
+}

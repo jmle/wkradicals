@@ -1,0 +1,36 @@
+{
+  "id": 6631,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "横綱"
+  },
+  "primaryMeaning": "Yokozuna",
+  "meaningMnemonic": "The \"<kanji>side</kanji> <kanji>rope</kanji>.\" This doesn't make much sense. What this is, though (you'll want to look at the reading), is the <vocabulary>Yokozuna</vocabulary>. This is the <vocabulary>Sumo Grand Champion</vocabulary>.",
+  "primaryReading": "よこづな",
+  "readingMnemonic": "The readings are the ones you learned with the kanji.",
+  "otherMeanings": [
+    "Sumo Grand Champion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "横綱",
+  "related": {
+    "radicals": [
+      23,
+      152,
+      86,
+      376
+    ],
+    "kanjis": [
+      768,
+      1831
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よこづな",
+      "url": "https://files.wanikani.com/50czod80hpzt9ct330j5fkbbsnps"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3380,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "時期"
+  },
+  "primaryMeaning": "Time",
+  "meaningMnemonic": "The <kanji>time</kanji> <kanji>period of time</kanji> is a period of time of time. If anything, just notice how many times the word \"time\" is used and you'll remember this word means <vocabulary>time</vocabulary>. The meaning is a specific type of time, though. This is talking about a <vocabulary>season</vocabulary> or <vocabulary>period</vocabulary> of time, not the concept of time itself. That would be 時間 or something.",
+  "primaryReading": "じき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Season",
+    "Period"
+  ],
+  "otherReadings": [],
+  "wkSlug": "時期",
+  "related": {
+    "radicals": [
+      22,
+      192,
+      205,
+      43
+    ],
+    "kanjis": [
+      662,
+      839
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じき",
+      "url": "https://files.wanikani.com/xdr2qpdh65s61m497cznhyv815ri"
+    }
+  ]
+}

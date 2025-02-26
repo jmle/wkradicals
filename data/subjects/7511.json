@@ -1,0 +1,39 @@
+{
+  "id": 7511,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "掲載する"
+  },
+  "primaryMeaning": "To Publish",
+  "meaningMnemonic": "掲載 is <kanji>publication</kanji> so the verb version of that is <vocabulary>to publish</vocabulary> or <vocabulary>to print</vocabulary>.",
+  "primaryReading": "けいさいする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will also help to know 掲載 as well.",
+  "otherMeanings": [
+    "To Print"
+  ],
+  "otherReadings": [],
+  "wkSlug": "掲載する",
+  "related": {
+    "radicals": [
+      63,
+      22,
+      14,
+      57,
+      15,
+      194,
+      93
+    ],
+    "kanjis": [
+      1672,
+      1230
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいさいする",
+      "url": "https://files.wanikani.com/jtg21lfu0lxx5p13zib2i0eb2581"
+    }
+  ]
+}

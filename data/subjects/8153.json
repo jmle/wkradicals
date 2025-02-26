@@ -1,0 +1,33 @@
+{
+  "id": 8153,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "逸らす"
+  },
+  "primaryMeaning": "To Turn Away",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>deviate</kanji>, so the verb version is <vocabulary>to turn away</vocabulary> or <vocabulary>to avert</vocabulary>.",
+  "primaryReading": "そらす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\nYou want <vocabulary>to turn away</vocabulary> from this movie because it's not worth watching. I mean, it isn't bad, but it isn't good. It's just <reading>so</reading>-so (そ). But that's not enough to keep your interest.",
+  "otherMeanings": [
+    "To Avert"
+  ],
+  "otherReadings": [],
+  "wkSlug": "逸らす",
+  "related": {
+    "radicals": [
+      114,
+      208
+    ],
+    "kanjis": [
+      2235
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そらす",
+      "url": "https://files.wanikani.com/a3ym43hr9fn16cnubn2bnb5bpvrb"
+    }
+  ]
+}

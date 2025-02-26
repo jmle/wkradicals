@@ -1,0 +1,38 @@
+{
+  "id": 5990,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "核兵器"
+  },
+  "primaryMeaning": "Nuclear Weapons",
+  "meaningMnemonic": "<kanji>Nucleus</kanji> arms (へいき), aka weapons, are <vocabulary>nuclear weapons</vocabulary>.",
+  "primaryReading": "かくへいき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "核兵器",
+  "related": {
+    "radicals": [
+      23,
+      351,
+      115,
+      1,
+      2,
+      18,
+      227
+    ],
+    "kanjis": [
+      1626,
+      1000,
+      876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かくへいき",
+      "url": "https://files.wanikani.com/15xfzse1fk7q4txpnwquyjry69lr"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3216,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "読み方"
+  },
+  "primaryMeaning": "Reading",
+  "meaningMnemonic": "You know that this has something to do with <kanji>read</kanji>ing and you know that 方 means <kanji>way</kanji> or <kanji>method</kanji>. So, when you think of a \"way of reading\" you can think of a couple other better words, such as <vocabulary>reading</vocabulary> (aka the reading of a word) or <vocabulary>pronunciation</vocabulary>. Anytime you need to know how something sounds, this is what you'll ask for.",
+  "primaryReading": "よみかた",
+  "readingMnemonic": "This uses the kun'yomi readings from the vocab words 読む and 方. So as long as you're okay with those, you can apply that knowledge over here.",
+  "otherMeanings": [
+    "Pronunciation",
+    "Way Of Reading"
+  ],
+  "otherReadings": [],
+  "wkSlug": "読み方",
+  "related": {
+    "radicals": [
+      117,
+      439,
+      66
+    ],
+    "kanjis": [
+      765,
+      510
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よみかた",
+      "url": "https://files.wanikani.com/b6tlvazwt7h7srrmvdbxk4d7j0c6"
+    }
+  ]
+}

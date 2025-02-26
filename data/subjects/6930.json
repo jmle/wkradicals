@@ -1,0 +1,33 @@
+{
+  "id": 6930,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "滝川"
+  },
+  "primaryMeaning": "Rapids",
+  "meaningMnemonic": "A <kanji>waterfall</kanji> <kanji>river</kanji> is a river that's moving like a waterfall! Fast and furious! Water that moves like this are <vocabulary>rapids</vocabulary>.",
+  "primaryReading": "たきがわ",
+  "readingMnemonic": "The reading is the kun'yomi vocab reading of each kanji: 滝 and 川. Careful of the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "滝川",
+  "related": {
+    "radicals": [
+      103,
+      394,
+      21
+    ],
+    "kanjis": [
+      1938,
+      456
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たきがわ",
+      "url": "https://files.wanikani.com/2o74lh4qb4xpmwr0gtfn0w8vmpf1"
+    }
+  ]
+}

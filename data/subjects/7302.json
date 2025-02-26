@@ -1,0 +1,38 @@
+{
+  "id": 7302,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "概念"
+  },
+  "primaryMeaning": "General Idea",
+  "meaningMnemonic": "An <kanji>approximation</kanji> of <kanji>thought</kanji> is just thinking up the <vocabulary>general idea</vocabulary>. The <vocabulary>concept</vocabulary> or <vocabulary>notion</vocabulary>.",
+  "primaryReading": "がいねん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Concept",
+    "Notion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "概念",
+  "related": {
+    "radicals": [
+      23,
+      196,
+      333,
+      238,
+      65
+    ],
+    "kanjis": [
+      2064,
+      906
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がいねん",
+      "url": "https://files.wanikani.com/dom77c3f07v0p6ur76y8sm9p5mar"
+    }
+  ]
+}

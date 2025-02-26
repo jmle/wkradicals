@@ -1,0 +1,36 @@
+{
+  "id": 5987,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "指摘"
+  },
+  "primaryMeaning": "Pointing Out",
+  "meaningMnemonic": "Take your <kanji>finger</kanji> and <kanji>pluck</kanji> out the one thing out of all the things that needs <vocabulary>pointing out</vocabulary> or <vocabulary>identification</vocabulary>. Yep, that's the one. Pluck that one.",
+  "primaryReading": "してき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.\n\n",
+  "otherMeanings": [
+    "Identification"
+  ],
+  "otherReadings": [],
+  "wkSlug": "指摘",
+  "related": {
+    "radicals": [
+      63,
+      57,
+      22,
+      276
+    ],
+    "kanjis": [
+      797,
+      1625
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "してき",
+      "url": "https://files.wanikani.com/louglfbes4068cmxr5na9twfckpm"
+    }
+  ]
+}

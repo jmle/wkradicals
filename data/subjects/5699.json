@@ -1,0 +1,40 @@
+{
+  "id": 5699,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "貨物船"
+  },
+  "primaryMeaning": "Freighter",
+  "meaningMnemonic": "A <kanji>freight</kanji> <kanji>thing</kanji>s <kanji>ship</kanji> is a boat that freights things. It's a <vocabulary>freighter</vocabulary>.",
+  "primaryReading": "かもつせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The 物 takes its もつ reading, which makes sense since it sounds like 持つ, which is \"to hold.\" What is this freighter doing? It's holding freight! So, that's how you can remember that bit.",
+  "otherMeanings": [
+    "Freight Ship"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貨物船",
+  "related": {
+    "radicals": [
+      311,
+      94,
+      126,
+      173,
+      149,
+      2,
+      16
+    ],
+    "kanjis": [
+      1470,
+      718,
+      671
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かもつせん",
+      "url": "https://files.wanikani.com/dlsoixmi798o6049ejpi6uftdhb1"
+    }
+  ]
+}

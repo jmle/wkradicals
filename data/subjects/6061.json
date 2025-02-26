@@ -1,0 +1,36 @@
+{
+  "id": 6061,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "刑罰"
+  },
+  "primaryMeaning": "Punishment",
+  "meaningMnemonic": "A <kanji>punish</kanji> <kanji>penalty</kanji> is a <vocabulary>punishment</vocabulary>.",
+  "primaryReading": "けいばつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Penalty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "刑罰",
+  "related": {
+    "radicals": [
+      171,
+      128,
+      163,
+      117
+    ],
+    "kanjis": [
+      1647,
+      1155
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいばつ",
+      "url": "https://files.wanikani.com/iixzvwo9mil8a1c0er9otcwjcsh5"
+    }
+  ]
+}

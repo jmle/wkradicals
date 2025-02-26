@@ -1,0 +1,35 @@
+{
+  "id": 7176,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "火鉢"
+  },
+  "primaryMeaning": "Brazier",
+  "meaningMnemonic": "A <kanji>fire</kanji> <kanji>bowl</kanji> is something you use to put fire in. It's a <vocabulary>brazier</vocabulary>.",
+  "primaryReading": "ひばち",
+  "readingMnemonic": "The reading is the vocab reading for 火 and the reading you learned for 鉢, rendaku'd.",
+  "otherMeanings": [
+    "Hibachi"
+  ],
+  "otherReadings": [],
+  "wkSlug": "火鉢",
+  "related": {
+    "radicals": [
+      46,
+      118,
+      50
+    ],
+    "kanjis": [
+      480,
+      2017
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひばち",
+      "url": "https://files.wanikani.com/k4lho7i1z7h1edxsvinhn825b30l"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7039,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "誇張"
+  },
+  "primaryMeaning": "Exaggeration",
+  "meaningMnemonic": "Take your <kanji>pride</kanji> and <kanji>stretch</kanji> it out. It's an <vocabulary>exaggeration</vocabulary>, because you've stretched your pride out pretty thin.",
+  "primaryReading": "こちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "誇張",
+  "related": {
+    "radicals": [
+      117,
+      18,
+      7,
+      14,
+      36,
+      138
+    ],
+    "kanjis": [
+      1970,
+      1205
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こちょう",
+      "url": "https://files.wanikani.com/k9p4zzrbc2dhgom7x4i2qpe1ohvo"
+    }
+  ]
+}

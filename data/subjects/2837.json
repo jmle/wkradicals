@@ -1,0 +1,37 @@
+{
+  "id": 2837,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "四角"
+  },
+  "primaryMeaning": "Square",
+  "meaningMnemonic": "What shape has <kanji>four</kanji> <kanji>angle</kanji>s? The most common one is a <vocabulary>square</vocabulary>, but it could also be a <vocabulary>rectangle</vocabulary> or even a <vocabulary>cube</vocabulary>.",
+  "primaryReading": "しかく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings for the kanji. You've learned them both already, so you should be able to read this word!",
+  "otherMeanings": [
+    "Rectangle",
+    "Cube"
+  ],
+  "otherReadings": [],
+  "wkSlug": "四角",
+  "related": {
+    "radicals": [
+      16,
+      28,
+      14,
+      71
+    ],
+    "kanjis": [
+      485,
+      592
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しかく",
+      "url": "https://files.wanikani.com/4xswss86x7s8hvkwowl2zcjrpar9"
+    }
+  ]
+}

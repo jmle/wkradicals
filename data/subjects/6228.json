@@ -1,0 +1,37 @@
+{
+  "id": 6228,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "湯豆腐"
+  },
+  "primaryMeaning": "Boiled Tofu",
+  "meaningMnemonic": "豆腐 is <kanji>tofu</kanji>, and 湯 means <kanji>hot water</kanji>, making it tofu you've put in hot water, aka <vocabulary>boiled tofu</vocabulary>.",
+  "primaryReading": "ゆどうふ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of 豆腐 and the kun'yomi reading of 湯. You should be able to read this on your own. Will of course help to know 豆腐 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "湯豆腐",
+  "related": {
+    "radicals": [
+      103,
+      172,
+      181,
+      62,
+      248,
+      108
+    ],
+    "kanjis": [
+      844,
+      1576,
+      1578
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆどうふ",
+      "url": "https://files.wanikani.com/sq57x65x0l96pcttps0b7qzvrvnp"
+    }
+  ]
+}

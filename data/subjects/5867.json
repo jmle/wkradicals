@@ -1,0 +1,34 @@
+{
+  "id": 5867,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "破る"
+  },
+  "primaryMeaning": "To Tear",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>tear</kanji> so the verb version is <vocabulary>to tear</vocabulary>.",
+  "primaryReading": "やぶる",
+  "readingMnemonic": "You start <vocabulary>to tear</vocabulary> the cloth. You don't know if you're supposed to or not. The crowd isn't sure either. You hear kind of a <reading>yah boo</reading> (やぶ) reaction going on, making you unsure if you should continue or stop. Yah! Boo. Yah! Boo!",
+  "otherMeanings": [
+    "To Rip",
+    "To Break"
+  ],
+  "otherReadings": [],
+  "wkSlug": "破る",
+  "related": {
+    "radicals": [
+      54,
+      195
+    ],
+    "kanjis": [
+      1582
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やぶる",
+      "url": "https://files.wanikani.com/8isz2drz1y9c6watdaum0f617nth"
+    }
+  ]
+}

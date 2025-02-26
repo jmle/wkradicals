@@ -1,0 +1,33 @@
+{
+  "id": 4692,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "腕"
+  },
+  "primaryMeaning": "Arm",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "うで",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "腕",
+  "related": {
+    "radicals": [
+      43,
+      78,
+      33,
+      158
+    ],
+    "kanjis": [
+      1227
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うで",
+      "url": "https://files.wanikani.com/xxnkohmb9qgu5w3gw9sor930yqh9"
+    }
+  ]
+}

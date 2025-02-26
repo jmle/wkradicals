@@ -1,0 +1,37 @@
+{
+  "id": 7650,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "価格"
+  },
+  "primaryMeaning": "Price",
+  "meaningMnemonic": "When you <kanji>value</kanji> <kanji>status</kanji> you really care about the <vocabulary>price</vocabulary> of things. And usually the higher the <vocabulary>value</vocabulary>, the higher the <vocabulary>cost</vocabulary>.\n\n価格 refers to something's market value, or to product pricing in a broader sense. It's sort of a formal word, so you might see it on fliers or in business and economic discussions about pricing strategies, for example.",
+  "primaryReading": "かかく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Value",
+    "Cost"
+  ],
+  "otherReadings": [],
+  "wkSlug": "価格",
+  "related": {
+    "radicals": [
+      75,
+      424,
+      23,
+      180
+    ],
+    "kanjis": [
+      1166,
+      920
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かかく",
+      "url": "https://files.wanikani.com/l9sulke99wjrjokmcjnlzxrzlspx"
+    }
+  ]
+}

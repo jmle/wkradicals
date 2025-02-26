@@ -1,0 +1,35 @@
+{
+  "id": 6628,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "紛糾"
+  },
+  "primaryMeaning": "Complication",
+  "meaningMnemonic": "<kanji>Distract</kanji> me with a <kanji>twist</kanji> in what we're doing. Just imagine you're working on something. Then, you get distracted by a twist in whatever it is that you're working on. This little twist doesn't destroy everything, but it does cause a <vocabulary>complication</vocabulary> and <vocabulary>confusion</vocabulary>.",
+  "primaryReading": "ふんきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Confusion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "紛糾",
+  "related": {
+    "radicals": [
+      86,
+      247,
+      289
+    ],
+    "kanjis": [
+      1829,
+      1830
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふんきゅう",
+      "url": "https://files.wanikani.com/r9id2sveu11t9ax0fdz4mowjiihh"
+    }
+  ]
+}

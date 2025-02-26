@@ -1,0 +1,35 @@
+{
+  "id": 8047,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "錦"
+  },
+  "primaryMeaning": "Brocade",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "にしき",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Fine Dress",
+    "Fine Clothes"
+  ],
+  "otherReadings": [],
+  "wkSlug": "錦",
+  "related": {
+    "radicals": [
+      118,
+      52,
+      102
+    ],
+    "kanjis": [
+      2202
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にしき",
+      "url": "https://files.wanikani.com/esmji9902wtxjot7s435x959j790"
+    }
+  ]
+}

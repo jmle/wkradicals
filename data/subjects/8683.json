@@ -1,0 +1,36 @@
+{
+  "id": 8683,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "浜辺"
+  },
+  "primaryMeaning": "Beach",
+  "meaningMnemonic": "A <kanji>beach</kanji> <kanji>area</kanji> is just a <vocabulary>beach</vocabulary>!",
+  "primaryReading": "はまべ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You haven't learned this reading for 辺 yet, so here's a mnemonic to help you:\n\n<vocabulary>Beach</vocabulary> starts with <reading>be</reading>. Be is べ! (I mean, it's pronounced differently, but they're spelled the same!) When you think of the beach, think of べ!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "浜辺",
+  "related": {
+    "radicals": [
+      103,
+      115,
+      1,
+      2,
+      114,
+      24
+    ],
+    "kanjis": [
+      1376,
+      651
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はまべ",
+      "url": "https://files.wanikani.com/p97idjmw5wiw9r7tc5jba2sqvudx"
+    }
+  ]
+}

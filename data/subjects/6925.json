@@ -1,0 +1,33 @@
+{
+  "id": 6925,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "嫁ぐ"
+  },
+  "primaryMeaning": "To Marry",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bride</kanji> and the verb vocab version is <vocabulary>to marry</vocabulary>, because you can't really \"to bride\" someone.\n\n嫁ぐ is often used when describing how someone has or is going <vocabulary>to marry into</vocabulary> another family.",
+  "primaryReading": "とつぐ",
+  "readingMnemonic": "Imagine you're getting married to a valley girl. You're all like. Hey, I'm gonna marry you! And she's all like <reading>Tots</reading> (とつ), we gonna get, like, married! Imagine her saying more \"tots\" things (tots = short for totally in valley girl speak, at least in my imagination).",
+  "otherMeanings": [
+    "To Marry Into"
+  ],
+  "otherReadings": [],
+  "wkSlug": "嫁ぐ",
+  "related": {
+    "radicals": [
+      19,
+      398
+    ],
+    "kanjis": [
+      1936
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とつぐ",
+      "url": "https://files.wanikani.com/irzxp7wruacvs81z1ey9zgt6jgpx"
+    }
+  ]
+}

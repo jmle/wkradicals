@@ -1,0 +1,34 @@
+{
+  "id": 8114,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "過疎"
+  },
+  "primaryMeaning": "Depopulation",
+  "meaningMnemonic": "If the <kanji>neglect</kanji> of an area <kanji>surpass</kanji>es what was expected, then the result will be <vocabulary>depopulation</vocabulary>. No one wants to live in a neglected town, especially one that's worse than what they were told.",
+  "primaryReading": "かそ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "過疎",
+  "related": {
+    "radicals": [
+      114,
+      121,
+      420,
+      219
+    ],
+    "kanjis": [
+      1158,
+      2243
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かそ",
+      "url": "https://files.wanikani.com/hetfaiz686gqdsxdx4w400g5cvsd"
+    }
+  ]
+}

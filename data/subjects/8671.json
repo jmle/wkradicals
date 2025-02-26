@@ -1,0 +1,37 @@
+{
+  "id": 8671,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "食料品"
+  },
+  "primaryMeaning": "Groceries",
+  "meaningMnemonic": "<kanji>Product</kanji>s you're paying a <kanji>fee</kanji> to <kanji>eat</kanji> later are your <vocabulary>groceries</vocabulary>. Buy them now, eat them later, yum!",
+  "primaryReading": "しょくりょうひん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Foodstuff"
+  ],
+  "otherReadings": [],
+  "wkSlug": "食料品",
+  "related": {
+    "radicals": [
+      139,
+      98,
+      129,
+      227
+    ],
+    "kanjis": [
+      644,
+      878,
+      967
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょくりょうひん",
+      "url": "https://files.wanikani.com/vf985s7dv7wvym27ur9doyzf7sfl"
+    }
+  ]
+}

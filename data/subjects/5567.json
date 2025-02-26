@@ -1,0 +1,34 @@
+{
+  "id": 5567,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "政党"
+  },
+  "primaryMeaning": "Political Party",
+  "meaningMnemonic": "A <kanji>politics</kanji> <kanji>party</kanji> is a <vocabulary>political party</vocabulary>.",
+  "primaryReading": "せいとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "政党",
+  "related": {
+    "radicals": [
+      229,
+      60,
+      8769,
+      191
+    ],
+    "kanjis": [
+      985,
+      1500
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいとう",
+      "url": "https://files.wanikani.com/4ccfn3imf4ocwnm7dw2ac8n3r6m2"
+    }
+  ]
+}

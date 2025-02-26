@@ -1,0 +1,22 @@
+{
+  "id": 8906,
+  "type": "radical",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "宣"
+  },
+  "primaryMeaning": "Proclaim",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>proclaim</radical>.",
+  "wkSlug": "proclaim",
+  "related": {
+    "kanjis": [
+      8922
+    ],
+    "vocabularies": [
+      8924,
+      8925
+    ]
+  }
+}

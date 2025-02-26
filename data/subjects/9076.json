@@ -1,0 +1,37 @@
+{
+  "id": 9076,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "豊富"
+  },
+  "primaryMeaning": "Abundant",
+  "meaningMnemonic": "Something that's <kanji>plentiful</kanji> and <kanji>rich</kanji> is <vocabulary>abundant</vocabulary>, <vocabulary>plentiful</vocabulary> and <vocabulary>rich</vocabulary>.",
+  "primaryReading": "ほうふ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi of both kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Plentiful",
+    "Rich"
+  ],
+  "otherReadings": [],
+  "wkSlug": "豊富",
+  "related": {
+    "radicals": [
+      185,
+      181,
+      78,
+      8824
+    ],
+    "kanjis": [
+      1270,
+      1475
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうふ",
+      "url": "https://files.wanikani.com/7twn0tqqf531jukljg2cbmniaf9k"
+    }
+  ]
+}

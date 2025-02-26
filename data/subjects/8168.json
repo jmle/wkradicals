@@ -1,0 +1,39 @@
+{
+  "id": 8168,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "陳列室"
+  },
+  "primaryMeaning": "Showroom",
+  "meaningMnemonic": "The <kanji>room</kanji> where you <kanji>exhibit</kanji> things in a <kanji>row</kanji> is a <vocabulary>showroom</vocabulary>. Maybe there are cars lined up, or boats, or tiny porcelain cats! Either way, they need a nice big showroom to show them off.",
+  "primaryReading": "ちんれつしつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "陳列室",
+  "related": {
+    "radicals": [
+      176,
+      224,
+      132,
+      128,
+      78,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      2173,
+      936,
+      635
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちんれつしつ",
+      "url": "https://files.wanikani.com/qbgeso7aiv5wgafxnbxg85so6nf0"
+    }
+  ]
+}

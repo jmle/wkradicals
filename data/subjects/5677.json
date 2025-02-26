@@ -1,0 +1,34 @@
+{
+  "id": 5677,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "肺病"
+  },
+  "primaryMeaning": "Lung Disease",
+  "meaningMnemonic": "A <kanji>lung</kanji> <kanji>sick</kanji>ness is bad for those lungs of yours. It means you have <vocabulary>lung disease</vocabulary>.",
+  "primaryReading": "はいびょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "肺病",
+  "related": {
+    "radicals": [
+      43,
+      267,
+      187,
+      186
+    ],
+    "kanjis": [
+      1537,
+      773
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいびょう",
+      "url": "https://files.wanikani.com/1kt7xfo3bmi5z3b5fvl6rmr5u4em"
+    }
+  ]
+}

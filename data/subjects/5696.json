@@ -1,0 +1,31 @@
+{
+  "id": 5696,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "諸〜"
+  },
+  "primaryMeaning": "Various",
+  "meaningMnemonic": "This has the same meaning as the kanji. Stick this onto another word and you have \"various _____.\"",
+  "primaryReading": "しょ",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "諸〜",
+  "related": {
+    "radicals": [
+      117,
+      203
+    ],
+    "kanjis": [
+      1543
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょ",
+      "url": "https://files.wanikani.com/qkw4enu9femixh6ktlszxcc8iyb6"
+    }
+  ]
+}

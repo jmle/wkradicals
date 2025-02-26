@@ -1,0 +1,36 @@
+{
+  "id": 3405,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "引き分け"
+  },
+  "primaryMeaning": "Tie",
+  "meaningMnemonic": "When you <kanji>pull</kanji> something and \"separate\" (分ける) it, you are making everything even. In a game, this would be a <vocabulary>tie</vocabulary> or a <vocabulary>draw</vocabulary>.",
+  "primaryReading": "ひきわけ",
+  "readingMnemonic": "See the hiragana stuck in there? That's hinting that these use the kun'yomi readings. You learned the kun'yomi readings of these two kanji separately in the previous level, so if you know those you should know this word's reading as well.",
+  "otherMeanings": [
+    "Draw"
+  ],
+  "otherReadings": [],
+  "wkSlug": "引き分け",
+  "related": {
+    "radicals": [
+      36,
+      8761,
+      2,
+      24
+    ],
+    "kanjis": [
+      507,
+      501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひきわけ",
+      "url": "https://files.wanikani.com/fxt4vo3tc7dqusdgujk9hliyatgj"
+    }
+  ]
+}

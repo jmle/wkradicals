@@ -1,0 +1,36 @@
+{
+  "id": 2784,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "何日"
+  },
+  "primaryMeaning": "How Many Days",
+  "meaningMnemonic": "<kanji>What</kanji> <kanji>day</kanji> equals the fairly obvious translation \"<vocabulary>what day</vocabulary>.\" But, it also means <vocabulary>how many days</vocabulary>.",
+  "primaryReading": "なんにち",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji, but 何 actually uses the kun'yomi reading here! And since 日 has two on'yomi readings, here's a mnemonic to help you remember this reading:\n\n<vocabulary>How many days</vocabulary> does it take you to bake a <reading>naan</reading> <reading>Nietzsche</reading> (なんにち)? It's not easy to make a Nietzsche entirely out of naan, so I wonder how many days it would take.",
+  "otherMeanings": [
+    "What Day",
+    "Which Day"
+  ],
+  "otherReadings": [],
+  "wkSlug": "何日",
+  "related": {
+    "radicals": [
+      75,
+      113,
+      22
+    ],
+    "kanjis": [
+      582,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なんにち",
+      "url": "https://files.wanikani.com/k3cb2so613ztxitgq3h6j0ogka2o"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8591,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "閑静"
+  },
+  "primaryMeaning": "Quiet",
+  "meaningMnemonic": "<kanji>Leisure</kanji>ly <kanji>quiet</kanji> is the best kind of <vocabulary>quiet</vocabulary>. Even your brain gets to be quiet because you don't have a care left in the world. ",
+  "primaryReading": "かんせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "閑静",
+  "related": {
+    "radicals": [
+      214,
+      23,
+      120,
+      261
+    ],
+    "kanjis": [
+      2418,
+      1052
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんせい",
+      "url": "https://files.wanikani.com/zufogt1mr873bj7umgi46g0bd5wq"
+    }
+  ]
+}

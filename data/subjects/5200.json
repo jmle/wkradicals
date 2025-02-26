@@ -1,0 +1,35 @@
+{
+  "id": 5200,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "逆らう"
+  },
+  "primaryMeaning": "To Go Against",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>opposite</kanji> so the verb version is <vocabulary>to oppose</vocabulary> or <vocabulary>to go against</vocabulary>.",
+  "primaryReading": "さからう",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nJust like when you play <reading>soccer</reading> (さか). You never play right, causing you <vocabulary>to go against</vocabulary> all things you're supposed to do and shoot goals into your own goalie's net.",
+  "otherMeanings": [
+    "To Oppose",
+    "To Be Contrary To"
+  ],
+  "otherReadings": [],
+  "wkSlug": "逆らう",
+  "related": {
+    "radicals": [
+      114,
+      315,
+      3
+    ],
+    "kanjis": [
+      1346
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さからう",
+      "url": "https://files.wanikani.com/x6pyrfpmb3flm3vir8lto313qdij"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6642,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "芝草"
+  },
+  "primaryMeaning": "Lawn",
+  "meaningMnemonic": "The <kanji>lawn</kanji> <kanji>grass</kanji> is the <vocabulary>lawn</vocabulary> or the <vocabulary>turf</vocabulary>.",
+  "primaryReading": "しばくさ",
+  "readingMnemonic": "This word uses the kun'yomi readings, which you learned already!",
+  "otherMeanings": [
+    "Turf"
+  ],
+  "otherReadings": [],
+  "wkSlug": "芝草",
+  "related": {
+    "radicals": [
+      90,
+      8771,
+      22,
+      15
+    ],
+    "kanjis": [
+      1834,
+      605
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しばくさ",
+      "url": "https://files.wanikani.com/s3jvd3j6c81ly84ecl0lxauzrhon"
+    }
+  ]
+}

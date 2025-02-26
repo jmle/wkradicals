@@ -1,0 +1,34 @@
+{
+  "id": 6697,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "石垣"
+  },
+  "primaryMeaning": "Stone Wall",
+  "meaningMnemonic": "A <kanji>stone</kanji> <kanji>hedge</kanji> is a wall (hedges are nice walls), but it's made of stone. It's a <vocabulary>stone wall</vocabulary>.",
+  "primaryReading": "いしがき",
+  "readingMnemonic": "The reading is the readings for 石 and 垣 combined into one word. Be careful of the rendakus.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "石垣",
+  "related": {
+    "radicals": [
+      54,
+      17,
+      1,
+      293
+    ],
+    "kanjis": [
+      493,
+      1851
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いしがき",
+      "url": "https://files.wanikani.com/81741669jwghfepnzmkqhmzd3973"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8980,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "柵"
+  },
+  "primaryMeaning": "Fence",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Isn't that fencetastic?",
+  "primaryReading": "さく",
+  "readingMnemonic": "This word uses the on'yomi, which you learned with the kanji. Just think about the <reading>sack</reading> (さく) hanging on the <vocabulary>fence</vocabulary>.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "柵",
+  "related": {
+    "radicals": [
+      23,
+      226
+    ],
+    "kanjis": [
+      8965
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さく",
+      "url": "https://files.wanikani.com/pueo1v2h9a1h8kmita8svo311qzi"
+    }
+  ]
+}

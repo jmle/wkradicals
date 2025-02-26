@@ -1,0 +1,35 @@
+{
+  "id": 6939,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "薄める"
+  },
+  "primaryMeaning": "To Dilute",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dilute</kanji> and the verb vocab version means <vocabulary>to dilute</vocabulary> or <vocabulary>to water down</vocabulary>.",
+  "primaryReading": "うすめる",
+  "readingMnemonic": "The reading comes from 薄い, so if you know that you'll be able to read this too.",
+  "otherMeanings": [
+    "To Water Down"
+  ],
+  "otherReadings": [],
+  "wkSlug": "薄める",
+  "related": {
+    "radicals": [
+      90,
+      103,
+      3,
+      317
+    ],
+    "kanjis": [
+      1767
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うすめる",
+      "url": "https://files.wanikani.com/aqqfrd43s7k9ao2czhv6mjzdaiih"
+    }
+  ]
+}

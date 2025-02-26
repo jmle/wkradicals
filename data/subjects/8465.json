@@ -1,0 +1,38 @@
+{
+  "id": 8465,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "扶養"
+  },
+  "primaryMeaning": "Support",
+  "meaningMnemonic": "<kanji>Aid</kanji> and <kanji>foster</kanji> someone to show your <vocabulary>support</vocabulary> for them. ",
+  "primaryReading": "ふよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Maintenance",
+    "Provide For"
+  ],
+  "otherReadings": [],
+  "wkSlug": "扶養",
+  "related": {
+    "radicals": [
+      63,
+      146,
+      136,
+      8822,
+      2
+    ],
+    "kanjis": [
+      2369,
+      889
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふよう",
+      "url": "https://files.wanikani.com/oty3g9ohsaz2a7tf36zsey2nf95e"
+    }
+  ]
+}

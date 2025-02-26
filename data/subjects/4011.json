@@ -1,0 +1,33 @@
+{
+  "id": 4011,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "結果"
+  },
+  "primaryMeaning": "Result",
+  "meaningMnemonic": "You <kanji>tie</kanji> up all the <kanji>fruit</kanji> because you're going to use them to make giant fruit letters. These giant fruit letters will show the <vocabulary>result</vocabulary> of the big monkey election.",
+  "primaryReading": "けっか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just note that the 結 gets shortened to けっ.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "結果",
+  "related": {
+    "radicals": [
+      86,
+      253,
+      235
+    ],
+    "kanjis": [
+      1009,
+      1005
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けっか",
+      "url": "https://files.wanikani.com/qrzytvjw1qs6otz46d1369qt6q3e"
+    }
+  ]
+}

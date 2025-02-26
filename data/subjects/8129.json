@@ -1,0 +1,38 @@
+{
+  "id": 8129,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "自粛"
+  },
+  "primaryMeaning": "Self Control",
+  "meaningMnemonic": "If you're <kanji>solemn</kanji> by your<kanji>self</kanji>, you have a lot of <vocabulary>self control</vocabulary>. You don't need anyone to tell you to be that way, you have your own <vocabulary>self discipline</vocabulary>.",
+  "primaryReading": "じしゅく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Self Discipline",
+    "Self Restraint"
+  ],
+  "otherReadings": [],
+  "wkSlug": "自粛",
+  "related": {
+    "radicals": [
+      109,
+      105,
+      8761,
+      28,
+      98
+    ],
+    "kanjis": [
+      578,
+      2238
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じしゅく",
+      "url": "https://files.wanikani.com/mamgiia47c0tqmiqm8rgurdgxxni"
+    }
+  ]
+}

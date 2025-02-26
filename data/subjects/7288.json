@@ -1,0 +1,34 @@
+{
+  "id": 7288,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "刈る"
+  },
+  "primaryMeaning": "To Prune",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>prune</kanji> and the verb vocab version is <vocabulary>to prune</vocabulary> (or <vocabulary>to mow</vocabulary> or <vocabulary>to cut</vocabulary>).",
+  "primaryReading": "かる",
+  "readingMnemonic": "The reading is the same as the reading you learned with the kanji.",
+  "otherMeanings": [
+    "To Mow",
+    "To Cut"
+  ],
+  "otherReadings": [],
+  "wkSlug": "刈る",
+  "related": {
+    "radicals": [
+      31,
+      128
+    ],
+    "kanjis": [
+      2059
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かる",
+      "url": "https://files.wanikani.com/b9e3bu66y0tzgdg2gqrhiqd7k1fz"
+    }
+  ]
+}

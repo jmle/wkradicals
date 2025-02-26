@@ -1,0 +1,36 @@
+{
+  "id": 8634,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "漸く"
+  },
+  "primaryMeaning": "Finally",
+  "meaningMnemonic": "If you do something <kanji>gradually</kanji> for a long time, when you finish it gives you that <vocabulary>FINALLY</vocabulary> feeling. It took so long and you worked so hard and you're finally done!",
+  "primaryReading": "ようやく",
+  "readingMnemonic": "The reading for this word is an exception, but you learned it with the kanji. Congratulations!",
+  "otherMeanings": [
+    "At Last",
+    "Narrowly",
+    "Hardly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "漸く",
+  "related": {
+    "radicals": [
+      103,
+      93,
+      115
+    ],
+    "kanjis": [
+      2461
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようやく",
+      "url": "https://files.wanikani.com/ywpzjk3xugl5xe3bee9d7myri3lo"
+    }
+  ]
+}

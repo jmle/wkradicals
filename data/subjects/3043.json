@@ -1,0 +1,34 @@
+{
+  "id": 3043,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "住所"
+  },
+  "primaryMeaning": "Address",
+  "meaningMnemonic": "If you <kanji>dwell</kanji> in a <kanji>place</kanji>, that place is your <vocabulary>address</vocabulary>.",
+  "primaryReading": "じゅうしょ",
+  "readingMnemonic": "This word is made up of the on'yomi readings that you've already learned with the kanji. Have at it!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "住所",
+  "related": {
+    "radicals": [
+      75,
+      154,
+      73,
+      115
+    ],
+    "kanjis": [
+      679,
+      707
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうしょ",
+      "url": "https://files.wanikani.com/wfzll5y5w041zeuo3a4ewxmo65f9"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7679,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "活用形"
+  },
+  "primaryMeaning": "Conjugated Form",
+  "meaningMnemonic": "You know that 活用 means \"conjugation\" and that 〜形 means \"form,\" so that means this is the <vocabulary>conjugated form</vocabulary>!",
+  "primaryReading": "かつようけい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "活用形",
+  "related": {
+    "radicals": [
+      103,
+      174,
+      71,
+      171,
+      38
+    ],
+    "kanjis": [
+      639,
+      525,
+      589
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かつようけい",
+      "url": "https://files.wanikani.com/yv4lkamm7bnc58atsf7cgw3mndrc"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5776,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "聖地"
+  },
+  "primaryMeaning": "Holy Land",
+  "meaningMnemonic": "<kanji>Holy</kanji> <kanji>ground</kanji> is <vocabulary>holy land</vocabulary>.",
+  "primaryReading": "せいち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Holy Ground"
+  ],
+  "otherReadings": [],
+  "wkSlug": "聖地",
+  "related": {
+    "radicals": [
+      88,
+      16,
+      48,
+      17,
+      77
+    ],
+    "kanjis": [
+      1558,
+      608
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいち",
+      "url": "https://files.wanikani.com/299gugeugvi2iszd1d1p5y668cjq"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3305,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "追う"
+  },
+  "primaryMeaning": "To Follow",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>follow</kanji> so the verb version is <vocabulary>to follow</vocabulary> (it's also <vocabulary>to chase</vocabulary>, because when you follow something you are chasing it too).",
+  "primaryReading": "おう",
+  "readingMnemonic": "You've learned this reading already, so you should know how to read this word!",
+  "otherMeanings": [
+    "To Chase"
+  ],
+  "otherReadings": [],
+  "wkSlug": "追う",
+  "related": {
+    "radicals": [
+      114,
+      8777,
+      3
+    ],
+    "kanjis": [
+      802
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おう",
+      "url": "https://files.wanikani.com/ua7l81zc5zug9azp5l88l17014v3"
+    }
+  ]
+}

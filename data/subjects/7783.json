@@ -1,0 +1,36 @@
+{
+  "id": 7783,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "偉人"
+  },
+  "primaryMeaning": "Great Person",
+  "meaningMnemonic": "A <kanji>person</kanji> with a lot of <kanji>greatness</kanji> is a <vocabulary>great person</vocabulary>.",
+  "primaryReading": "いじん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Great Man",
+    "Hero"
+  ],
+  "otherReadings": [],
+  "wkSlug": "偉人",
+  "related": {
+    "radicals": [
+      75,
+      294,
+      9
+    ],
+    "kanjis": [
+      2120,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いじん",
+      "url": "https://files.wanikani.com/ad3bhlp6lyvbz0d12qd4abxmecpk"
+    }
+  ]
+}

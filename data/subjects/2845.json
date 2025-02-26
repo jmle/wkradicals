@@ -1,0 +1,34 @@
+{
+  "id": 2845,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "麦"
+  },
+  "primaryMeaning": "Wheat",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "むぎ",
+  "readingMnemonic": "Since this word is made up of a single kanji that uses the kun'yomi reading which is the reading you learned with the kanji.",
+  "otherMeanings": [
+    "Barley",
+    "Oats"
+  ],
+  "otherReadings": [],
+  "wkSlug": "麦",
+  "related": {
+    "radicals": [
+      210,
+      60
+    ],
+    "kanjis": [
+      598
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むぎ",
+      "url": "https://files.wanikani.com/yld7uurho53wnnn1z06fmz91t2wq"
+    }
+  ]
+}

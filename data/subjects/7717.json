@@ -1,0 +1,41 @@
+{
+  "id": 7717,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "従兄弟"
+  },
+  "primaryMeaning": "Cousin",
+  "meaningMnemonic": "Remember how 兄弟 means \"siblings?\" Well when they're siblings you have to <kanji>obey</kanji> they're not your brother or sister, they're your <vocabulary>cousin</vocabulary>.",
+  "primaryReading": "いとこ",
+  "readingMnemonic": "The entire reading for this is an exception. Sorry about that. Here's a mnemonic to help you:\n\nWhat are the two defining traits your cousin has? They're good and a child. いいと子, or <reading>いとこ</reading> for short. Just remember your good, kid cousin. Your いとこ cousin.",
+  "otherMeanings": [
+    "Male Cousin"
+  ],
+  "otherReadings": [],
+  "wkSlug": "従兄弟",
+  "related": {
+    "radicals": [
+      99,
+      8767,
+      229,
+      16,
+      28,
+      36,
+      8761,
+      5
+    ],
+    "kanjis": [
+      1293,
+      515,
+      588
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いとこ",
+      "url": "https://files.wanikani.com/z7iefuhsaimwpw08i48llyy8m5gp"
+    }
+  ]
+}

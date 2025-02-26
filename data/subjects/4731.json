@@ -1,0 +1,35 @@
+{
+  "id": 4731,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "境界"
+  },
+  "primaryMeaning": "Boundary",
+  "meaningMnemonic": "The <kanji>boundary</kanji> separates <kanji>world</kanji>s. It is a <vocabulary>boundary</vocabulary>.",
+  "primaryReading": "きょうかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "境界",
+  "related": {
+    "radicals": [
+      17,
+      55,
+      91,
+      51,
+      166
+    ],
+    "kanjis": [
+      1239,
+      728
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうかい",
+      "url": "https://files.wanikani.com/87w5vez1n1llo0bds704e2rwwhmj"
+    }
+  ]
+}

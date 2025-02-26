@@ -1,0 +1,35 @@
+{
+  "id": 3974,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "官金"
+  },
+  "primaryMeaning": "Government Funds",
+  "meaningMnemonic": "<kanji>Government</kanji> <kanji>gold</kanji> (aka money) is what makes up <vocabulary>government funds</vocabulary>.",
+  "primaryReading": "かんきん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Government Money"
+  ],
+  "otherReadings": [],
+  "wkSlug": "官金",
+  "related": {
+    "radicals": [
+      78,
+      8777,
+      118
+    ],
+    "kanjis": [
+      1018,
+      602
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんきん",
+      "url": "https://files.wanikani.com/v8hswd8w6x9qbg6s8no7s1ygdr3j"
+    }
+  ]
+}

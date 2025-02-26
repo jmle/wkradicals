@@ -1,0 +1,37 @@
+{
+  "id": 4357,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "不可分"
+  },
+  "primaryMeaning": "Indivisible",
+  "meaningMnemonic": "When it's <kanji>not</kanji> <kanji>possible</kanji> to <kanji>divide</kanji> something, that makes it <vocabulary>indivisible</vocabulary> or <vocabulary>inseparable</vocabulary>.\n\n不可分 is a formal term describing something that is inherently linked and can't be separated without losing its meaning or function.",
+  "primaryReading": "ふかぶん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Inseparable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不可分",
+  "related": {
+    "radicals": [
+      96,
+      113,
+      2,
+      24
+    ],
+    "kanjis": [
+      563,
+      1049,
+      501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふかぶん",
+      "url": "https://files.wanikani.com/yysokmcam2k3lze8tbzly9xlvspv"
+    }
+  ]
+}

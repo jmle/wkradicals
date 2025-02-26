@@ -1,0 +1,34 @@
+{
+  "id": 6589,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "挑む"
+  },
+  "primaryMeaning": "To Challenge Someone",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>challenge</kanji> and the verb vocab version is <vocabulary>to challenge someone</vocabulary>.",
+  "primaryReading": "いどむ",
+  "readingMnemonic": "<reading>I do</reading>n't (いど) just challenge anyone, but when I challenge someone, it's for real. My challenging reflexes come from my <reading>Id</reading> (いど), after all.",
+  "otherMeanings": [
+    "To Challenge Something",
+    "To Challenge"
+  ],
+  "otherReadings": [],
+  "wkSlug": "挑む",
+  "related": {
+    "radicals": [
+      63,
+      363
+    ],
+    "kanjis": [
+      1813
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いどむ",
+      "url": "https://files.wanikani.com/zbqvcr9ti3deddrccuwtk3erfdou"
+    }
+  ]
+}

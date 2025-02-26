@@ -1,0 +1,36 @@
+{
+  "id": 8726,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "石油"
+  },
+  "primaryMeaning": "Oil",
+  "meaningMnemonic": "<kanji>Oil</kanji> that has <kanji>stone</kanji>s in it is from the ground. It's not olive oil, it's <vocabulary>petroleum</vocabulary>!",
+  "primaryReading": "せきゆ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Petroleum",
+    "Kerosene"
+  ],
+  "otherReadings": [],
+  "wkSlug": "石油",
+  "related": {
+    "radicals": [
+      54,
+      103,
+      268
+    ],
+    "kanjis": [
+      493,
+      1609
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せきゆ",
+      "url": "https://files.wanikani.com/14vb2h2rdtj1g3bdnqimovfwtv8j"
+    }
+  ]
+}

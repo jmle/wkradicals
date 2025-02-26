@@ -1,0 +1,42 @@
+{
+  "id": 7501,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "迷惑メール"
+  },
+  "primaryMeaning": "Spam",
+  "meaningMnemonic": "When you have \"troublesome\" (迷惑) mail, you have mail you don't want. This is known as <vocabulary>spam</vocabulary>, <vocabulary>spam mail</vocabulary>, or <vocabulary>junk mail</vocabulary>. On a more technical level it's <vocabulary>unsolicited mail</vocabulary>.",
+  "primaryReading": "めいわくめーる",
+  "readingMnemonic": "The reading comes from 迷惑, so if you know that you know this (and then this vocab word won't be unsolicited as well!)",
+  "otherMeanings": [
+    "Spam Mail",
+    "Junk Mail",
+    "Unsolicited Mail"
+  ],
+  "otherReadings": [
+    "めいわくメール"
+  ],
+  "wkSlug": "迷惑メール",
+  "related": {
+    "radicals": [
+      114,
+      98,
+      194,
+      16,
+      1,
+      65
+    ],
+    "kanjis": [
+      1325,
+      1326
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めいわくめーる",
+      "url": "https://files.wanikani.com/1txg5aiz8j2dxxj0fo9fs024qwwz"
+    }
+  ]
+}

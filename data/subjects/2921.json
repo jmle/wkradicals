@@ -1,0 +1,32 @@
+{
+  "id": 2921,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "お茶"
+  },
+  "primaryMeaning": "Tea",
+  "meaningMnemonic": "The お just makes the word more polite. Since tea is so important in Japan, it gets the お. Otherwise, you should be able to figure out the meaning as it's the same as the kanji.",
+  "primaryReading": "おちゃ",
+  "readingMnemonic": "The reading is the on'yomi reading, just like you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "お茶",
+  "related": {
+    "radicals": [
+      90,
+      8764,
+      130
+    ],
+    "kanjis": [
+      643
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おちゃ",
+      "url": "https://files.wanikani.com/w92wllnacxkaou9p6d4afon5hp7k"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4084,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "予告"
+  },
+  "primaryMeaning": "Advance Notice",
+  "meaningMnemonic": "If you <kanji>announce</kanji> something <kanji>beforehand</kanji> you will have <vocabulary>advance notice</vocabulary>. Advance notice is always nice to give.\n\nYou'll also see this used as an abbreviation of 予告編, meaning <vocabulary>trailer</vocabulary> or <vocabulary>preview</vocabulary>.",
+  "primaryReading": "よこく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Prior Notice",
+    "Trailer",
+    "Preview"
+  ],
+  "otherReadings": [],
+  "wkSlug": "予告",
+  "related": {
+    "radicals": [
+      141,
+      27,
+      5,
+      17,
+      16
+    ],
+    "kanjis": [
+      854,
+      1031
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よこく",
+      "url": "https://files.wanikani.com/i42ez631mwqcphtmmpbdm1bvv0hx"
+    }
+  ]
+}

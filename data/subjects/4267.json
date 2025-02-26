@@ -1,0 +1,33 @@
+{
+  "id": 4267,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "血圧"
+  },
+  "primaryMeaning": "Blood Pressure",
+  "meaningMnemonic": "Check the <kanji>pressure</kanji> of your <kanji>blood</kanji>. It's your <vocabulary>blood pressure</vocabulary>.",
+  "primaryReading": "けつあつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "血圧",
+  "related": {
+    "radicals": [
+      137,
+      116,
+      17
+    ],
+    "kanjis": [
+      619,
+      1106
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けつあつ",
+      "url": "https://files.wanikani.com/c1d1k3fbmewgnqakheqz5n4vfyri"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3696,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "約束"
+  },
+  "primaryMeaning": "Promise",
+  "meaningMnemonic": "A <kanji>promise</kanji> <kanji>bundle</kanji> is still a <vocabulary>promise</vocabulary> no matter how many you have wrapped up there. One promise is just another promise which is just another promise.",
+  "primaryReading": "やくそく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Appointment",
+    "Pact"
+  ],
+  "otherReadings": [],
+  "wkSlug": "約束",
+  "related": {
+    "radicals": [
+      86,
+      236,
+      219
+    ],
+    "kanjis": [
+      915,
+      910
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やくそく",
+      "url": "https://files.wanikani.com/60e1st0u0x2mhm22bpzlq28efp1m"
+    }
+  ]
+}

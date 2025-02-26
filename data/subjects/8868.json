@@ -1,0 +1,35 @@
+{
+  "id": 8868,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "捉える"
+  },
+  "primaryMeaning": "To Catch",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>catch</kanji> so the verb version is <vocabulary>to catch</vocabulary>.\n\nTry to remember the mnemonic from the kanji with this one, because this word isn't used for physically catching things, but for ideas or meanings that you are able <vocabulary>to grasp</vocabulary>, metaphorically speaking.",
+  "primaryReading": "とらえる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading with the kanji, so you should be able to read it already!",
+  "otherMeanings": [
+    "To Grasp",
+    "To Perceive",
+    "To Captivate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "捉える",
+  "related": {
+    "radicals": [
+      63,
+      95
+    ],
+    "kanjis": [
+      8860
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とらえる",
+      "url": "https://files.wanikani.com/v63kk3jj6j5i8gpow27j9gbfxy08"
+    }
+  ]
+}

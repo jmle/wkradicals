@@ -1,0 +1,32 @@
+{
+  "id": 7080,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "尺"
+  },
+  "primaryMeaning": "Shaku",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しゃく",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Japanese Foot"
+  ],
+  "otherReadings": [],
+  "wkSlug": "尺",
+  "related": {
+    "radicals": [
+      215
+    ],
+    "kanjis": [
+      1986
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃく",
+      "url": "https://files.wanikani.com/av80p4uhk4zctyc9lfjdt0dkvinq"
+    }
+  ]
+}

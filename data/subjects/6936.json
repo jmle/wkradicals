@@ -1,0 +1,36 @@
+{
+  "id": 6936,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "吹き出す"
+  },
+  "primaryMeaning": "To Begin To Blow",
+  "meaningMnemonic": "If 吹く is \"to blow\" and 出す is \"to remove,\" then you are removing your blowing. You need <vocabulary>to begin to blow</vocabulary> to do that!",
+  "primaryReading": "ふきだす",
+  "readingMnemonic": "The readings come from 吹く and 出す.",
+  "otherMeanings": [
+    "To Spout Out",
+    "To Burst Out Laughing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "吹き出す",
+  "related": {
+    "radicals": [
+      16,
+      142,
+      20
+    ],
+    "kanjis": [
+      1751,
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふきだす",
+      "url": "https://files.wanikani.com/ihybsud14faz0wxjjfdcukfrs3bt"
+    }
+  ]
+}

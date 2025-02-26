@@ -1,0 +1,37 @@
+{
+  "id": 4388,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "説得する"
+  },
+  "primaryMeaning": "To Persuade",
+  "meaningMnemonic": "You know that 説得 is <kanji>persuasion</kanji>, so what is the verb version of that? <vocabulary>To persuade</vocabulary>.",
+  "primaryReading": "せっとくする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will also immensely help to know the reading of the word 説得.",
+  "otherMeanings": [
+    "To Convince"
+  ],
+  "otherReadings": [],
+  "wkSlug": "説得する",
+  "related": {
+    "radicals": [
+      117,
+      422,
+      99,
+      22,
+      192
+    ],
+    "kanjis": [
+      1026,
+      1081
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せっとくする",
+      "url": "https://files.wanikani.com/56pt3ist81mu1au2p29j67qrjf24"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 8451,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "弦楽器"
+  },
+  "primaryMeaning": "Stringed Instrument",
+  "meaningMnemonic": "You already know that 楽器 means \"musical instrument\" so adding a couple of <kanji>bowstring</kanji>s to it will make it a <vocabulary>stringed instrument</vocabulary>.",
+  "primaryReading": "げんがっき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "弦楽器",
+  "related": {
+    "radicals": [
+      36,
+      403,
+      52,
+      123,
+      23,
+      18,
+      227
+    ],
+    "kanjis": [
+      2312,
+      704,
+      876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんがっき",
+      "url": "https://files.wanikani.com/qxkkvsl2tct8bjp6tj3kttlg8py5"
+    }
+  ]
+}

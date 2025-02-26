@@ -1,0 +1,37 @@
+{
+  "id": 5966,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "遺産"
+  },
+  "primaryMeaning": "Inheritance",
+  "meaningMnemonic": "If you <kanji>leave behind</kanji> <kanji>property</kanji> it's known as your <vocabulary>inheritance</vocabulary>.",
+  "primaryReading": "いさん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Heritage"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遺産",
+  "related": {
+    "radicals": [
+      114,
+      358,
+      55,
+      116,
+      210
+    ],
+    "kanjis": [
+      1616,
+      1109
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いさん",
+      "url": "https://files.wanikani.com/xe5wl4hxupkb761bptb7mjt2uxi8"
+    }
+  ]
+}

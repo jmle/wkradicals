@@ -1,0 +1,35 @@
+{
+  "id": 8647,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "海藻"
+  },
+  "primaryMeaning": "Seaweed",
+  "meaningMnemonic": "<kanji>Sea</kanji> <kanji>seaweed</kanji> is still <vocabulary>seaweed</vocabulary>! ",
+  "primaryReading": "かいそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "海藻",
+  "related": {
+    "radicals": [
+      103,
+      8762,
+      107,
+      90,
+      8830
+    ],
+    "kanjis": [
+      640,
+      2462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいそう",
+      "url": "https://files.wanikani.com/cs9632if97ggsbmktv28j4gkmkcs"
+    }
+  ]
+}

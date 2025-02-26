@@ -1,0 +1,32 @@
+{
+  "id": 5735,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "染まる"
+  },
+  "primaryMeaning": "To Be Dyed",
+  "meaningMnemonic": "If 染める is \"to dye,\" then this is <vocabulary>to be dyed</vocabulary>. You aren't doing the dying, because you know that if you did it you would have done things right, unlike the other person who dyed your hair. This person <reading>marr</reading>ed (まる) it up really bad.",
+  "primaryReading": "そまる",
+  "readingMnemonic": "The reading is the same as 染める.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "染まる",
+  "related": {
+    "radicals": [
+      103,
+      11,
+      23
+    ],
+    "kanjis": [
+      1512
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そまる",
+      "url": "https://files.wanikani.com/jdrlob5w1bhcsa81hsn9r17zp3p6"
+    }
+  ]
+}

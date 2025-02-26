@@ -1,0 +1,34 @@
+{
+  "id": 6474,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "躍り"
+  },
+  "primaryMeaning": "Jumping",
+  "meaningMnemonic": "If 躍る is \"to leap\" or \"to jump,\" then this noun version will be <vocabulary>jumping</vocabulary> or <vocabulary>leaping</vocabulary>.",
+  "primaryReading": "おどり",
+  "readingMnemonic": "The reading comes from 躍る.",
+  "otherMeanings": [
+    "Leaping"
+  ],
+  "otherReadings": [],
+  "wkSlug": "躍り",
+  "related": {
+    "radicals": [
+      95,
+      105,
+      240
+    ],
+    "kanjis": [
+      1738
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おどり",
+      "url": "https://files.wanikani.com/ankzks8shl9pmans6um2g1gmqr6h"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8925,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "喧しい"
+  },
+  "primaryMeaning": "Noisy",
+  "meaningMnemonic": "You can guess this is an adjective from the い at the end. The meaning for the kanji is <kanji>noisy</kanji> and <kanji>picky</kanji>, so the adjective version is also <vocabulary>noisy</vocabulary> and <vocabulary>picky</vocabulary>.\n\nThis type of noisy can be just about being noisy, like a group of turkeys. It can also be a \"\"picky\"\" sort of noisy, when someone is being particular in a vocal sort of way.",
+  "primaryReading": "やかましい",
+  "readingMnemonic": "My <vocabulary>noisy</vocabulary> mom has earned the nickname <reading>yak-a-Ma</reading> (やかま). \"Yakka yakka yakka,\" is what my mom says about my life choices.",
+  "otherMeanings": [
+    "Picky"
+  ],
+  "otherReadings": [],
+  "wkSlug": "喧しい",
+  "related": {
+    "radicals": [
+      16,
+      8906
+    ],
+    "kanjis": [
+      8922
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やかましい",
+      "url": "https://files.wanikani.com/lwy4txl53d41k8n9jmb071cr7uhm"
+    }
+  ]
+}

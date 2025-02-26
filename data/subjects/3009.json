@@ -1,0 +1,35 @@
+{
+  "id": 3009,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "対立"
+  },
+  "primaryMeaning": "Confrontation",
+  "meaningMnemonic": "When you <kanji>stand</kanji> up <kanji>versus</kanji> someone, you're looking to get into a <vocabulary>confrontation</vocabulary>. Just imagine yourself doing this to someone bigger than you. You stand up to versus them and then realize this confrontation is a bad idea.",
+  "primaryReading": "たいりつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Opposition"
+  ],
+  "otherReadings": [],
+  "wkSlug": "対立",
+  "related": {
+    "radicals": [
+      42,
+      74,
+      55
+    ],
+    "kanjis": [
+      683,
+      494
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいりつ",
+      "url": "https://files.wanikani.com/8rhfhiv28t1zqpb946y22zjjowpi"
+    }
+  ]
+}

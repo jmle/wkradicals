@@ -1,0 +1,34 @@
+{
+  "id": 4459,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "増加"
+  },
+  "primaryMeaning": "Increase",
+  "meaningMnemonic": "An <kanji>increase</kanji> will <kanji>add</kanji> to what you had before. This is an <vocabulary>increase</vocabulary>.\n\nThis word refers to an increase in number or quantity, often used in formal contexts, reports, or news articles.",
+  "primaryReading": "ぞうか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "増加",
+  "related": {
+    "radicals": [
+      17,
+      259,
+      13,
+      16
+    ],
+    "kanjis": [
+      1148,
+      1057
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぞうか",
+      "url": "https://files.wanikani.com/qbg0dt0lvig58kgarglos46b2vv8"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7231,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "返り咲き"
+  },
+  "primaryMeaning": "Comeback",
+  "meaningMnemonic": "The <kanji>return</kanji> <kanji>blossom</kanji> is when the blossoms return. A <vocabulary>second bloom</vocabulary>. This is another word for a <vocabulary>comeback</vocabulary>.",
+  "primaryReading": "かえりざき",
+  "readingMnemonic": "The readings are the readings from 返る and the kanji 咲. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Second Bloom"
+  ],
+  "otherReadings": [],
+  "wkSlug": "返り咲き",
+  "related": {
+    "radicals": [
+      114,
+      218,
+      16,
+      8767,
+      40
+    ],
+    "kanjis": [
+      858,
+      2038
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かえりざき",
+      "url": "https://files.wanikani.com/i6a372ld9nstwhugjn2x264hj259"
+    }
+  ]
+}

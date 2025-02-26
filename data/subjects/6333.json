@@ -1,0 +1,38 @@
+{
+  "id": 6333,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "事項"
+  },
+  "primaryMeaning": "Matter",
+  "meaningMnemonic": "You know 事 means \"occurrence,\" but it can also mean \"matter.\" So a <kanji>matter</kanji> <kanji>paragraph</kanji> shows the <vocabulary>matter</vocabulary>s, <vocabulary>item</vocabulary>s, or <vocabulary>subject</vocabulary>s that make up a larger issue or discussion at hand.\n\n事項 is a formal word usually seen at the end of another phrase that specifies what matters or items are being referred to, like 注意事項 (matters to be noted) or 協議事項 (items for discussion).",
+  "primaryReading": "じこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Item",
+    "Subject"
+  ],
+  "otherReadings": [],
+  "wkSlug": "事項",
+  "related": {
+    "radicals": [
+      15,
+      16,
+      105,
+      25,
+      184
+    ],
+    "kanjis": [
+      708,
+      1740
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じこう",
+      "url": "https://files.wanikani.com/jhhsws9un7wmyaf9qbxkmvxbd7nz"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 7913,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "秩序"
+  },
+  "primaryMeaning": "Order",
+  "meaningMnemonic": "The <kanji>preface</kanji> of <kanji>order</kanji> is still <vocabulary>order</vocabulary>. Because order is always prefaced by more order. Order keeps us all in check.",
+  "primaryReading": "ちつじょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Regularity",
+    "System",
+    "Method"
+  ],
+  "otherReadings": [],
+  "wkSlug": "秩序",
+  "related": {
+    "radicals": [
+      135,
+      275,
+      62,
+      339
+    ],
+    "kanjis": [
+      2167,
+      1480
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちつじょ",
+      "url": "https://files.wanikani.com/o3a9bkzuetwehvrsapao2xpnonuf"
+    }
+  ]
+}

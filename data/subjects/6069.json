@@ -1,0 +1,36 @@
+{
+  "id": 6069,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "執筆"
+  },
+  "primaryMeaning": "Writing",
+  "meaningMnemonic": "If you have a <kanji>tenacious</kanji> <kanji>writing brush</kanji>, you are doing a lot of <vocabulary>writing</vocabulary>. Also, if you <vocabulary>write for a magazine</vocabulary> you probably write a ton too, because they have to come out with new issues every week or month.",
+  "primaryReading": "しっぴつ",
+  "readingMnemonic": "The 執 is a little altered, where しつ is shortened to しっ. You've seen this kind of thing before, so just keep this shortening pattern in mind and you'll be a-okay!",
+  "otherMeanings": [
+    "Write For A Magazine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "執筆",
+  "related": {
+    "radicals": [
+      260,
+      223,
+      85,
+      220
+    ],
+    "kanjis": [
+      1649,
+      1288
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しっぴつ",
+      "url": "https://files.wanikani.com/d1drcjo3l78gmb2hjq00ay3s3wgg"
+    }
+  ]
+}

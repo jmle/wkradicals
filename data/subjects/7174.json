@@ -1,0 +1,36 @@
+{
+  "id": 7174,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "屈辱"
+  },
+  "primaryMeaning": "Disgrace",
+  "meaningMnemonic": "<kanji>Yield</kanji> a <kanji>humiliat</kanji>ion onto your life. What a <vocabulary>disgrace</vocabulary>. What a <vocabulary>humiliation</vocabulary>.",
+  "primaryReading": "くつじょく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Humiliation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "屈辱",
+  "related": {
+    "radicals": [
+      37,
+      332,
+      183,
+      74
+    ],
+    "kanjis": [
+      1320,
+      2016
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くつじょく",
+      "url": "https://files.wanikani.com/p3ow23xc6gu9psn4xc1k3k4stvlr"
+    }
+  ]
+}

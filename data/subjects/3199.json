@@ -1,0 +1,36 @@
+{
+  "id": 3199,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "農民"
+  },
+  "primaryMeaning": "Peasants",
+  "meaningMnemonic": "The <kanji>peoples</kanji> who work in the <kanji>farm</kanji> are the <vocabulary>farmers</vocabulary>... the <vocabulary>peasants</vocabulary>.",
+  "primaryReading": "のうみん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Farmers"
+  ],
+  "otherReadings": [],
+  "wkSlug": "農民",
+  "related": {
+    "radicals": [
+      185,
+      183,
+      16,
+      147
+    ],
+    "kanjis": [
+      759,
+      650
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のうみん",
+      "url": "https://files.wanikani.com/l13uupjiczwp9ri3z9k47f4g3gqp"
+    }
+  ]
+}

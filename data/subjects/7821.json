@@ -1,0 +1,36 @@
+{
+  "id": 7821,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "農耕"
+  },
+  "primaryMeaning": "Farming",
+  "meaningMnemonic": "<kanji>Farming</kanji> with a <kanji>plow</kanji> is still <vocabulary>farming</vocabulary>.",
+  "primaryReading": "のうこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Agriculture"
+  ],
+  "otherReadings": [],
+  "wkSlug": "農耕",
+  "related": {
+    "radicals": [
+      185,
+      183,
+      388,
+      246
+    ],
+    "kanjis": [
+      759,
+      2129
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のうこう",
+      "url": "https://files.wanikani.com/4rlo3fby1dtyfz97sa6p23q5ek36"
+    }
+  ]
+}

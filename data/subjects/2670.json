@@ -1,0 +1,33 @@
+{
+  "id": 2670,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "気"
+  },
+  "primaryMeaning": "Spirit",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "き",
+  "readingMnemonic": "The reading is the same as the kanji that makes up this word. Lucky you!",
+  "otherMeanings": [
+    "Energy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "気",
+  "related": {
+    "radicals": [
+      82,
+      31
+    ],
+    "kanjis": [
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "き",
+      "url": "https://files.wanikani.com/ajz6fvbcaryp53dg0xd71ltx60sb"
+    }
+  ]
+}

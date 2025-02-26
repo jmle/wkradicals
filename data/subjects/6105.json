@@ -1,0 +1,33 @@
+{
+  "id": 6105,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "奇跡"
+  },
+  "primaryMeaning": "Miracle",
+  "meaningMnemonic": "Some <kanji>odd</kanji> <kanji>traces</kanji> are left over here. We don't really understand what happened, because it was a <vocabulary>miracle</vocabulary>, but it certainly left some odd traces behind.",
+  "primaryReading": "きせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "奇跡",
+  "related": {
+    "radicals": [
+      326,
+      95,
+      9329
+    ],
+    "kanjis": [
+      1363,
+      1661
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きせき",
+      "url": "https://files.wanikani.com/usvo6jekb3jlwkm6o9tpcrud7qoa"
+    }
+  ]
+}

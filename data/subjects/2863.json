@@ -1,0 +1,34 @@
+{
+  "id": 2863,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "州"
+  },
+  "primaryMeaning": "State",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しゅう",
+  "readingMnemonic": "The reading is the on'yomi reading that you learned with the kanji, probably because it normally gets added on to other things, like the names of the state. Examples: カリフォルニア州, ニューヨーク州, etc.",
+  "otherMeanings": [
+    "Province",
+    "County"
+  ],
+  "otherReadings": [],
+  "wkSlug": "州",
+  "related": {
+    "radicals": [
+      3,
+      21
+    ],
+    "kanjis": [
+      613
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅう",
+      "url": "https://files.wanikani.com/i98lce2utxfayf6cbnevjntjd1vs"
+    }
+  ]
+}

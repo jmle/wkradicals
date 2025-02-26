@@ -1,0 +1,39 @@
+{
+  "id": 5874,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "講演"
+  },
+  "primaryMeaning": "Lecture",
+  "meaningMnemonic": "<kanji>Perform</kanji> your <kanji>lecture</kanji>. This is your <vocabulary>lecture</vocabulary>. This is your <vocabulary>address</vocabulary> to the people.",
+  "primaryReading": "こうえん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Address"
+  ],
+  "otherReadings": [],
+  "wkSlug": "講演",
+  "related": {
+    "radicals": [
+      117,
+      303,
+      103,
+      78,
+      27,
+      51,
+      2
+    ],
+    "kanjis": [
+      1584,
+      1196
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうえん",
+      "url": "https://files.wanikani.com/s32phmroulw0vjlvh9wxowayohn7"
+    }
+  ]
+}

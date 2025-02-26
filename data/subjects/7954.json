@@ -1,0 +1,31 @@
+{
+  "id": 7954,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "隼"
+  },
+  "primaryMeaning": "Falcon",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はやぶさ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "隼",
+  "related": {
+    "radicals": [
+      240,
+      15
+    ],
+    "kanjis": [
+      2188
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はやぶさ",
+      "url": "https://files.wanikani.com/ivat53nhyzslw78xghuqg0nbhl12"
+    }
+  ]
+}

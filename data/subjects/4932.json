@@ -1,0 +1,37 @@
+{
+  "id": 4932,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "面接"
+  },
+  "primaryMeaning": "Interview",
+  "meaningMnemonic": "Our <kanji>face</kanji>s have <kanji>adjoin</kanji>ed in this one room to talk. You did the telephone interview where you didn't show the face of your face. Now you're showing it, so we can begin the real <vocabulary>interview</vocabulary>.\n\n面接 generally refers to a <vocabulary>job interview</vocabulary> or an <vocabulary>oral examination</vocabulary>. For conversations between media professionals and people of public interest, インタビュー is used instead.",
+  "primaryReading": "めんせつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Job Interview",
+    "Oral Examination"
+  ],
+  "otherReadings": [],
+  "wkSlug": "面接",
+  "related": {
+    "radicals": [
+      250,
+      63,
+      55,
+      19
+    ],
+    "kanjis": [
+      974,
+      1311
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めんせつ",
+      "url": "https://files.wanikani.com/24kcsk83bdxgjqr7llsny6x05219"
+    }
+  ]
+}

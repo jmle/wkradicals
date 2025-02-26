@@ -1,0 +1,32 @@
+{
+  "id": 5115,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "傘"
+  },
+  "primaryMeaning": "Umbrella",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かさ",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "傘",
+  "related": {
+    "radicals": [
+      8764,
+      9,
+      15
+    ],
+    "kanjis": [
+      1375
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かさ",
+      "url": "https://files.wanikani.com/y8ibedjfm1wzxha76djxkz1ksysj"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3777,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "浅い"
+  },
+  "primaryMeaning": "Shallow",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>shallow</kanji>? It's <vocabulary>shallow</vocabulary>.",
+  "primaryReading": "あさい",
+  "readingMnemonic": "The reading is the one you learned with the kanji, making this <reading>あさ</reading>い.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "浅い",
+  "related": {
+    "radicals": [
+      103,
+      8782
+    ],
+    "kanjis": [
+      951
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あさい",
+      "url": "https://files.wanikani.com/2pjzpze70ogt6wyz9kg27xu543ph"
+    }
+  ]
+}

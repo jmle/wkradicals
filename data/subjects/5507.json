@@ -1,0 +1,35 @@
+{
+  "id": 5507,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "押入れ"
+  },
+  "primaryMeaning": "Closet",
+  "meaningMnemonic": "You <kanji>push</kanji> things to make them <kanji>enter</kanji> the <vocabulary>closet</vocabulary> or <vocabulary>cupboard</vocabulary>.",
+  "primaryReading": "おしいれ",
+  "readingMnemonic": "The reading is 押し (push the し inside the 押) plus 入れる's reading.",
+  "otherMeanings": [
+    "Cupboard"
+  ],
+  "otherReadings": [],
+  "wkSlug": "押入れ",
+  "related": {
+    "radicals": [
+      63,
+      330,
+      12
+    ],
+    "kanjis": [
+      1430,
+      445
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おしいれ",
+      "url": "https://files.wanikani.com/vv2jk9r7d3rrc9y65rp3i173rfhh"
+    }
+  ]
+}

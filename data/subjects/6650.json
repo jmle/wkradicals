@@ -1,0 +1,33 @@
+{
+  "id": 6650,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "包み"
+  },
+  "primaryMeaning": "Bundle",
+  "meaningMnemonic": "Something that you <kanji>wrap</kanji> is a <vocabulary>bundle</vocabulary> or <vocabulary>package</vocabulary>.",
+  "primaryReading": "つつみ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned it when you learned 包む, but here's a reminder of the mnemonic just in case:\n\nRemember how you wrap your <vocabulary>bundle</vocabulary>s? That's right, with the <reading>two two</reading> technique. Your <vocabulary>package</vocabulary>s are always double wrapped.",
+  "otherMeanings": [
+    "Package",
+    "Parcel"
+  ],
+  "otherReadings": [],
+  "wkSlug": "包み",
+  "related": {
+    "radicals": [
+      395
+    ],
+    "kanjis": [
+      1795
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つつみ",
+      "url": "https://files.wanikani.com/odc6iyibk8b1k2s1yrs0qfgc7jhl"
+    }
+  ]
+}

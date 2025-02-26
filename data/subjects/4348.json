@@ -1,0 +1,35 @@
+{
+  "id": 4348,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "細かい"
+  },
+  "primaryMeaning": "Detailed",
+  "meaningMnemonic": "This is an adjective utilizing the second meaning of 細, <kanji>detailed</kanji>. So, this just means <vocabulary>detailed</vocabulary> or <vocabulary>fine</vocabulary>!\n\nYou can remember that this one is \"detailed\" or \"fine\" because the かい makes you think of <reading>coy</reading>otes. Your hobby is making extremely detailed and fine model railroads out of nothing but raw meat. This, however, means that coyotes regularly come in and destroy all of your fine handiwork.",
+  "primaryReading": "こまかい",
+  "readingMnemonic": "This word has a different reading from the ones you've learned so far, so here's a mnemonic to help you:\n\nAfter the coyote wrecks your model railroad, he bites you on the head, sending you into an indefinite <reading>coma</reading> (こま). ",
+  "otherMeanings": [
+    "Fine",
+    "Small",
+    "Trivial"
+  ],
+  "otherReadings": [],
+  "wkSlug": "細かい",
+  "related": {
+    "radicals": [
+      86,
+      51
+    ],
+    "kanjis": [
+      996
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こまかい",
+      "url": "https://files.wanikani.com/cmgw4o6asncw5ow072yc1afb0erh"
+    }
+  ]
+}

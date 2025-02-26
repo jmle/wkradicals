@@ -1,0 +1,33 @@
+{
+  "id": 7470,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "黒板"
+  },
+  "primaryMeaning": "Blackboard",
+  "meaningMnemonic": "A <kanji>black</kanji> <kanji>board</kanji> is a <vocabulary>blackboard</vocabulary>.",
+  "primaryReading": "こくばん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "黒板",
+  "related": {
+    "radicals": [
+      153,
+      23,
+      218
+    ],
+    "kanjis": [
+      677,
+      1399
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こくばん",
+      "url": "https://files.wanikani.com/pm0ls7djq7nhqrg1a8ql14xcn39k"
+    }
+  ]
+}

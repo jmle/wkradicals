@@ -1,0 +1,33 @@
+{
+  "id": 6401,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "排水"
+  },
+  "primaryMeaning": "Drainage",
+  "meaningMnemonic": "<kanji>Emit</kanji>ted <kanji>water</kanji> is what we call <vocabulary>drainage</vocabulary>. ",
+  "primaryReading": "はいすい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "排水",
+  "related": {
+    "radicals": [
+      63,
+      209,
+      45
+    ],
+    "kanjis": [
+      1755,
+      479
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいすい",
+      "url": "https://files.wanikani.com/b68ojxmlj5t5tvs6rpsi449wk9qt"
+    }
+  ]
+}

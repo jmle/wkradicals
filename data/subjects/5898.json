@@ -1,0 +1,31 @@
+{
+  "id": 5898,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "彼ら"
+  },
+  "primaryMeaning": "They",
+  "meaningMnemonic": "This is <kanji>he</kanji> but plural. The \"ra\" makes it plural, making it \"<vocabulary>they</vocabulary>\" or \"<vocabulary>them</vocabulary>.\" While this gennnnnnerally refers to a group of males, it can include ladies too.",
+  "primaryReading": "かれら",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "彼ら",
+  "related": {
+    "radicals": [
+      99,
+      195
+    ],
+    "kanjis": [
+      1594
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かれら",
+      "url": "https://files.wanikani.com/6enycmxduk0cpgg7bkv7lbsh64qg"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7700,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "愛する"
+  },
+  "primaryMeaning": "To Love",
+  "meaningMnemonic": "You know that 愛 means <kanji>love</kanji>. So, when you add する to it you make it a verb. Now it means <vocabulary>to love</vocabulary>.",
+  "primaryReading": "あいする",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "愛する",
+  "related": {
+    "radicals": [
+      8772,
+      76,
+      65,
+      60
+    ],
+    "kanjis": [
+      1021
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あいする",
+      "url": "https://files.wanikani.com/61l32dex5nte9jsgylb86my9pwri"
+    }
+  ]
+}

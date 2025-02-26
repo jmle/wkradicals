@@ -1,0 +1,40 @@
+{
+  "id": 6530,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "更衣室"
+  },
+  "primaryMeaning": "Changing Room",
+  "meaningMnemonic": "A <kanji>renew</kanji> <kanji>clothes</kanji> <kanji>room</kanji> is a <vocabulary>changing room</vocabulary> or a <vocabulary>locker room</vocabulary>.\n\n更衣室 is a room where people change their clothes, commonly found in places like gyms, swimming pools, schools, or workplaces. ",
+  "primaryReading": "こういしつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Locker Room"
+  ],
+  "otherReadings": [],
+  "wkSlug": "更衣室",
+  "related": {
+    "radicals": [
+      1,
+      51,
+      31,
+      320,
+      78,
+      140,
+      17
+    ],
+    "kanjis": [
+      1431,
+      1796,
+      635
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こういしつ",
+      "url": "https://files.wanikani.com/9ssowm61b85v089058v6pclq2g2t"
+    }
+  ]
+}

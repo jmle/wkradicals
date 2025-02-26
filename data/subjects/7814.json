@@ -1,0 +1,40 @@
+{
+  "id": 7814,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "花瓶"
+  },
+  "primaryMeaning": "Vase",
+  "meaningMnemonic": "A <kanji>bottle</kanji> for <kanji>flowers</kanji> is a <vocabulary>vase</vocabulary>. You should get some flowers and put them in a vase for someone special right now.",
+  "primaryReading": "かびん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Flower Vase"
+  ],
+  "otherReadings": [],
+  "wkSlug": "花瓶",
+  "related": {
+    "radicals": [
+      90,
+      75,
+      57,
+      8767,
+      171,
+      307,
+      3,
+      1
+    ],
+    "kanjis": [
+      557,
+      2128
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かびん",
+      "url": "https://files.wanikani.com/gbjxditn68jgv642cz1xykm2pv1a"
+    }
+  ]
+}

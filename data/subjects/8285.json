@@ -1,0 +1,31 @@
+{
+  "id": 8285,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "〜拍"
+  },
+  "primaryMeaning": "Counter For Beats",
+  "meaningMnemonic": "The kanji refers to a <kanji>beat</kanji> and the 〜 lets you know this is a counter. So this is used as a <vocabulary>counter for beats</vocabulary> for when you're listening to or playing music.",
+  "primaryReading": "はく",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "〜拍",
+  "related": {
+    "radicals": [
+      63,
+      52
+    ],
+    "kanjis": [
+      2295
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はく",
+      "url": "https://files.wanikani.com/hgln5liogvhkqyfy410pso23yen5"
+    }
+  ]
+}

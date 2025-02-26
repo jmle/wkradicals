@@ -1,0 +1,36 @@
+{
+  "id": 4250,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "小さい順"
+  },
+  "primaryMeaning": "Increasing Order",
+  "meaningMnemonic": "When something goes from <kanji>small</kanji> and goes in <kanji>order</kanji> it's in <vocabulary>increasing order</vocabulary>, or <vocabulary>smallest first</vocabulary>.",
+  "primaryReading": "ちいさいじゅん",
+  "readingMnemonic": "The reading is the word 小さい plus the reading for 順.",
+  "otherMeanings": [
+    "Ascending Order",
+    "Smallest First"
+  ],
+  "otherReadings": [],
+  "wkSlug": "小さい順",
+  "related": {
+    "radicals": [
+      35,
+      21,
+      184
+    ],
+    "kanjis": [
+      463,
+      1060
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちいさいじゅん",
+      "url": "https://files.wanikani.com/7pc94rvya696hvcknu574mdcazpz"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 3152,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "体重"
+  },
+  "primaryMeaning": "Body Weight",
+  "meaningMnemonic": "How <kanji>heavy</kanji> is your <kanji>body</kanji>? Figure that out and you'll have your <vocabulary>body weight</vocabulary>.",
+  "primaryReading": "たいじゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "体重",
+  "related": {
+    "radicals": [
+      75,
+      50,
+      188
+    ],
+    "kanjis": [
+      583,
+      735
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいじゅう",
+      "url": "https://files.wanikani.com/ijygim7nj9eoy05ykp1njhd463tj"
+    }
+  ]
+}

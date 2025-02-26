@@ -1,0 +1,36 @@
+{
+  "id": 5089,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "迷子"
+  },
+  "primaryMeaning": "Lost Child",
+  "meaningMnemonic": "A <kanji>child</kanji> that's <kanji>astray</kanji> is a <vocabulary>lost child</vocabulary>. Help them home, don't invite them into your windowless van, please.",
+  "primaryReading": "まいご",
+  "readingMnemonic": "The reading for 迷 is an exceptional reading. The ご comes from こ. Think of the まい as the child asking: \"Where is <reading>my</reading> (まい) mommy???\"",
+  "otherMeanings": [
+    "Lost Person",
+    "Stray Animal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "迷子",
+  "related": {
+    "radicals": [
+      114,
+      98,
+      34
+    ],
+    "kanjis": [
+      1325,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まいご",
+      "url": "https://files.wanikani.com/55kgkol1z3r75k7jr9xasg2gnrqt"
+    }
+  ]
+}

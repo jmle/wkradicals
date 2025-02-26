@@ -1,0 +1,35 @@
+{
+  "id": 6823,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "涙"
+  },
+  "primaryMeaning": "Tears",
+  "meaningMnemonic": "Your <kanji>teardrop</kanji>s are also known as your <vocabulary>tears</vocabulary>.",
+  "primaryReading": "なみだ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You learned this reading with the kanji, but here's a mnemonic in case you need a refresher:\n\nYour <kanji>teardrop</kanji>s are like little waves. What are they? They're <reading>波だ</reading> (なみだ).",
+  "otherMeanings": [
+    "Tear",
+    "Teardrop"
+  ],
+  "otherReadings": [],
+  "wkSlug": "涙",
+  "related": {
+    "radicals": [
+      103,
+      73,
+      18
+    ],
+    "kanjis": [
+      1897
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なみだ",
+      "url": "https://files.wanikani.com/fh21904u29lwf6exde49314g8fc0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4594,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "皮革"
+  },
+  "primaryMeaning": "Leather",
+  "meaningMnemonic": "<kanji>Skin</kanji> <kanji>leather</kanji> is really just <vocabulary>leather</vocabulary> because leather is also skin. It's also <vocabulary>hides</vocabulary>.",
+  "primaryReading": "ひかく",
+  "readingMnemonic": "The reading is the on'yomi readings of the kanji. You should know them both already!",
+  "otherMeanings": [
+    "Hides",
+    "Pelts"
+  ],
+  "otherReadings": [],
+  "wkSlug": "皮革",
+  "related": {
+    "radicals": [
+      5,
+      81,
+      288
+    ],
+    "kanjis": [
+      539,
+      1188
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひかく",
+      "url": "https://files.wanikani.com/gn6y5abvntn3rcwgjwnw1ah36cfp"
+    }
+  ]
+}

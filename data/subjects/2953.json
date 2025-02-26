@@ -1,0 +1,38 @@
+{
+  "id": 2953,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "夏休み"
+  },
+  "primaryMeaning": "Summer Vacation",
+  "meaningMnemonic": "You know that 夏 means <kanji>summer</kanji> and 休 means <kanji>rest</kanji>. What is a \"summer rest\" though? It's a <vocabulary>summer break</vocabulary> or <vocabulary>summer vacation</vocabulary>.",
+  "primaryReading": "なつやすみ",
+  "readingMnemonic": "The readings are kun'yomi readings because this word is essentially two separate words put together into one word. You should know the reading for 夏 from the kanji and the reading for 休み from the vocab.",
+  "otherMeanings": [
+    "Summer Break",
+    "Summer Holiday"
+  ],
+  "otherReadings": [],
+  "wkSlug": "夏休み",
+  "related": {
+    "radicals": [
+      8763,
+      53,
+      60,
+      75,
+      23
+    ],
+    "kanjis": [
+      659,
+      542
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なつやすみ",
+      "url": "https://files.wanikani.com/0grlhzbg10iqi8cbkm44uednf04q"
+    }
+  ]
+}

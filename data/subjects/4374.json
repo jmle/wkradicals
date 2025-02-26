@@ -1,0 +1,36 @@
+{
+  "id": 4374,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "関心"
+  },
+  "primaryMeaning": "Concern",
+  "meaningMnemonic": "The things <kanji>related</kanji> to your <kanji>heart</kanji> are the things that <vocabulary>concern</vocabulary> and <vocabulary>interest</vocabulary> you the most.",
+  "primaryReading": "かんしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Interest"
+  ],
+  "otherReadings": [],
+  "wkSlug": "関心",
+  "related": {
+    "radicals": [
+      214,
+      8767,
+      40,
+      65
+    ],
+    "kanjis": [
+      982,
+      508
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんしん",
+      "url": "https://files.wanikani.com/lmb57vxl498q8qmyz38y2h4am6s9"
+    }
+  ]
+}

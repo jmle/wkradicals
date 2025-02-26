@@ -1,0 +1,37 @@
+{
+  "id": 4138,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "脳死"
+  },
+  "primaryMeaning": "Brain Death",
+  "meaningMnemonic": "If your <kanji>brain</kanji> is <kanji>dead</kanji> you have <vocabulary>brain death</vocabulary>.",
+  "primaryReading": "のうし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Brain Dead"
+  ],
+  "otherReadings": [],
+  "wkSlug": "脳死",
+  "related": {
+    "radicals": [
+      43,
+      8783,
+      262,
+      132,
+      57
+    ],
+    "kanjis": [
+      1045,
+      617
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のうし",
+      "url": "https://files.wanikani.com/v0rqcfcs6ltuso4fvnhlyf9s0gxd"
+    }
+  ]
+}

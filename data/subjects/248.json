@@ -1,0 +1,34 @@
+{
+  "id": 248,
+  "type": "radical",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "付"
+  },
+  "primaryMeaning": "Attach",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>attach</radical>.",
+  "wkSlug": "attach",
+  "related": {
+    "kanjis": [
+      977,
+      1435,
+      1578
+    ],
+    "vocabularies": [
+      3834,
+      4860,
+      7608,
+      5348,
+      5451,
+      5829,
+      5830,
+      5831,
+      5951,
+      6228,
+      6384,
+      7950
+    ]
+  }
+}

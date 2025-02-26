@@ -1,0 +1,44 @@
+{
+  "id": 8123,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "疾風"
+  },
+  "primaryMeaning": "Gale",
+  "meaningMnemonic": "A <kanji>rapid</kanji> <kanji>wind</kanji> is a <vocabulary>gale</vocabulary> or a <vocabulary>strong wind</vocabulary>.",
+  "primaryReading": "しっぷう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Strong Wind",
+    "Fresh Breeze"
+  ],
+  "otherReadings": [
+    "はやて"
+  ],
+  "wkSlug": "疾風",
+  "related": {
+    "radicals": [
+      187,
+      72,
+      177,
+      5,
+      89
+    ],
+    "kanjis": [
+      2244,
+      853
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しっぷう",
+      "url": "https://files.wanikani.com/y2i502dyvecjtq6c53p3cdahxf0r"
+    },
+    {
+      "reading": "はやて",
+      "url": "https://files.wanikani.com/vt1uh7n5mhiphla0gke286cae0g5"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5701,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "怖がる"
+  },
+  "primaryMeaning": "To Be Scared",
+  "meaningMnemonic": "怖い is \"scary.\" This is a verb version, making it <vocabulary>to be scared</vocabulary> or <vocabulary>to be afraid of</vocabulary>.",
+  "primaryReading": "こわがる",
+  "readingMnemonic": "The reading comes from 怖い.",
+  "otherMeanings": [
+    "To Be Afraid Of",
+    "To Fear"
+  ],
+  "otherReadings": [],
+  "wkSlug": "怖がる",
+  "related": {
+    "radicals": [
+      232,
+      26,
+      102
+    ],
+    "kanjis": [
+      1405
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こわがる",
+      "url": "https://files.wanikani.com/qslq8r0b7ct4uvk5g4fvqynzrtzw"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5933,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "醤油"
+  },
+  "primaryMeaning": "Shoyu",
+  "meaningMnemonic": "<kanji>Soy sauce</kanji> <kanji>oil</kanji> is <vocabulary>soy sauce</vocabulary>, or as it's called in Japanese, <vocabulary>shoyu</vocabulary>.",
+  "primaryReading": "しょうゆ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Soy Sauce",
+    "Shouyu"
+  ],
+  "otherReadings": [],
+  "wkSlug": "醤油",
+  "related": {
+    "radicals": [
+      8831,
+      182,
+      103,
+      268
+    ],
+    "kanjis": [
+      1610,
+      1609
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうゆ",
+      "url": "https://files.wanikani.com/ofei3j5k9p6ee0mp93les99qbr2h"
+    }
+  ]
+}

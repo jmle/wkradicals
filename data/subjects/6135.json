@@ -1,0 +1,37 @@
+{
+  "id": 6135,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "狙撃"
+  },
+  "primaryMeaning": "Shooting",
+  "meaningMnemonic": "If you have to <kanji>aim</kanji> with your <kanji>attack</kanji>, you're probably <vocabulary>shooting</vocabulary> or <vocabulary>sniping</vocabulary> something with a projectile (like a gun, or something).",
+  "primaryReading": "そげき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sniping"
+  ],
+  "otherReadings": [],
+  "wkSlug": "狙撃",
+  "related": {
+    "radicals": [
+      144,
+      419,
+      93,
+      160,
+      41
+    ],
+    "kanjis": [
+      1673,
+      1377
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そげき",
+      "url": "https://files.wanikani.com/rh8ysw2owguv0tzfae4rwope7au4"
+    }
+  ]
+}

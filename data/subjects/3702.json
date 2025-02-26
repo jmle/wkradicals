@@ -1,0 +1,38 @@
+{
+  "id": 3702,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "格好"
+  },
+  "primaryMeaning": "Shape",
+  "meaningMnemonic": "You <kanji>like</kanji> the <kanji>status</kanji> of what's in front of you. It has an excellent <vocabulary>shape</vocabulary> and <vocabulary>form</vocabulary> to it. Imagine something that would be pleasing to you in terms of its shape.",
+  "primaryReading": "かっこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just be sure to note the かく reading, which gets changed to かっ.",
+  "otherMeanings": [
+    "Form",
+    "Posture",
+    "Appearance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "格好",
+  "related": {
+    "radicals": [
+      23,
+      180,
+      19,
+      34
+    ],
+    "kanjis": [
+      920,
+      779
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かっこう",
+      "url": "https://files.wanikani.com/9slnatlg9qgvqe9qucqr60ayhepj"
+    }
+  ]
+}

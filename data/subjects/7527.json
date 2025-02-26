@@ -1,0 +1,33 @@
+{
+  "id": 7527,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "〜室"
+  },
+  "primaryMeaning": "Room",
+  "meaningMnemonic": "You'll see this attached to other words... like \"waiting\" or \"guest.\" When you see this, you'll know it is a ___ room, making this word mean <vocabulary>room</vocabulary> (same as the kanji).",
+  "primaryReading": "しつ",
+  "readingMnemonic": "The reading is the on'yomi reading. Don't type the 〜 out when writing the answer. It's just there to let you know that there's usually something attached to this word.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "〜室",
+  "related": {
+    "radicals": [
+      78,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      635
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しつ",
+      "url": "https://files.wanikani.com/2j6trpgl5a0tu3vqf0dnrq5bwd8s"
+    }
+  ]
+}

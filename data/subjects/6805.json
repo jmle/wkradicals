@@ -1,0 +1,34 @@
+{
+  "id": 6805,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "朱印"
+  },
+  "primaryMeaning": "Red Seal",
+  "meaningMnemonic": "A <kanji>vermilion</kanji> colored <kanji>seal</kanji> is a <vocabulary>red seal</vocabulary>. Just look up the (Japanese) word in Google Image search and you'll see what this is.",
+  "primaryReading": "しゅいん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "朱印",
+  "related": {
+    "radicals": [
+      5,
+      134,
+      8792,
+      145
+    ],
+    "kanjis": [
+      1887,
+      1283
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅいん",
+      "url": "https://files.wanikani.com/5wyrjjt30m3h9xbiqzf7sy7uk428"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8745,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "生物学"
+  },
+  "primaryMeaning": "Biology",
+  "meaningMnemonic": "Remember how 生物 means \"living things?\" Well when you <kanji>study</kanji> living things you're studying <vocabulary>biology</vocabulary>. ",
+  "primaryReading": "せいぶつがく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "生物学",
+  "related": {
+    "radicals": [
+      210,
+      126,
+      173,
+      8769,
+      34
+    ],
+    "kanjis": [
+      850,
+      718,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいぶつがく",
+      "url": "https://files.wanikani.com/rlrct0wibahlbzzy2d1r3zg304d7"
+    }
+  ]
+}

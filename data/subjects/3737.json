@@ -1,0 +1,37 @@
+{
+  "id": 3737,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "不信"
+  },
+  "primaryMeaning": "Distrust",
+  "meaningMnemonic": "When you can't (<kanji>not</kanji>) <kanji>believe</kanji> in someone, it's because you <vocabulary>distrust</vocabulary> them. Maybe someone <vocabulary>discredit</vocabulary>ed them and now you <vocabulary>mistrust</vocabulary> everything they say.",
+  "primaryReading": "ふしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Mistrust",
+    "Discredit",
+    "Unfaithfulness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不信",
+  "related": {
+    "radicals": [
+      96,
+      75,
+      117
+    ],
+    "kanjis": [
+      563,
+      940
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふしん",
+      "url": "https://files.wanikani.com/yy6r4n2njrd0213ulcx6sy3kz94d"
+    }
+  ]
+}

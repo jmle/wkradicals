@@ -1,0 +1,36 @@
+{
+  "id": 9142,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "元々"
+  },
+  "primaryMeaning": "Originally",
+  "meaningMnemonic": "It's the <kanji>origin</kanji> of all <kanji>origin</kanji>s, so it's the way it was <vocabulary>originally</vocabulary>, <vocabulary>from the beginning</vocabulary>, or <vocabulary>by nature</vocabulary>. You get the idea.\n\nNote that this is frequently written in just hiragana, but you'll encounter the kanji version too!",
+  "primaryReading": "もともと",
+  "readingMnemonic": "This is just the kun'yomi reading you learned with 元, but twice, so you should be good to go!",
+  "otherMeanings": [
+    "From The Beginning",
+    "By Nature"
+  ],
+  "otherReadings": [],
+  "wkSlug": "元々",
+  "related": {
+    "radicals": [
+      64,
+      14,
+      3
+    ],
+    "kanjis": [
+      498,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もともと",
+      "url": "https://files.wanikani.com/q19f0kvxkz1kfushj7e2zq38obcg"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8469,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "老朽"
+  },
+  "primaryMeaning": "Decrepit",
+  "meaningMnemonic": "<kanji>Elderly</kanji> people start to <kanji>decay</kanji> and they get all <vocabulary>decrepit</vocabulary> and gross. Like a corpse. Bleh. Good thing I'll never be <vocabulary>too old</vocabulary>. Ho ho ho!",
+  "primaryReading": "ろうきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Overage",
+    "Obsolete",
+    "Too Old"
+  ],
+  "otherReadings": [],
+  "wkSlug": "老朽",
+  "related": {
+    "radicals": [
+      104,
+      57,
+      23,
+      1,
+      14
+    ],
+    "kanjis": [
+      781,
+      2375
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろうきゅう",
+      "url": "https://files.wanikani.com/g6e8oxp0vo901v35tmn75uy3mcmh"
+    }
+  ]
+}

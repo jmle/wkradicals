@@ -1,0 +1,36 @@
+{
+  "id": 5116,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "傘立て"
+  },
+  "primaryMeaning": "Umbrella Stand",
+  "meaningMnemonic": "This is when you take your <kanji>umbrella</kanji> and you <kanji>stand</kanji> it up. Wait, how is an umbrella standing up? Good question, my dear Crabling, you are putting your umbrella in an <vocabulary>umbrella stand</vocabulary>.",
+  "primaryReading": "かさたて",
+  "readingMnemonic": "The reading is the readings for 傘 (learned with the kanji) and 立つ (to stand).",
+  "otherMeanings": [
+    "Umbrella Holder"
+  ],
+  "otherReadings": [],
+  "wkSlug": "傘立て",
+  "related": {
+    "radicals": [
+      8764,
+      9,
+      15,
+      55
+    ],
+    "kanjis": [
+      1375,
+      494
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かさたて",
+      "url": "https://files.wanikani.com/l1f7jdi1tlfis3u3ofeghzmndbvs"
+    }
+  ]
+}

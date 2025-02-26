@@ -1,0 +1,34 @@
+{
+  "id": 5020,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "悩み"
+  },
+  "primaryMeaning": "A Worry",
+  "meaningMnemonic": "This is the noun version of <kanji>worry</kanji>, making it <vocabulary>a worry</vocabulary>, or <vocabulary>a trouble</vocabulary>.",
+  "primaryReading": "なやみ",
+  "readingMnemonic": "The reading is the one you learned with the kanji. Nicely done, no need to have <vocabulary>a worry</vocabulary> about it.",
+  "otherMeanings": [
+    "A Trouble"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悩み",
+  "related": {
+    "radicals": [
+      232,
+      8783,
+      262
+    ],
+    "kanjis": [
+      1321
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なやみ",
+      "url": "https://files.wanikani.com/lpr6k5cja8o5sndumgbymn48z7wv"
+    }
+  ]
+}

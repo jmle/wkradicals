@@ -1,0 +1,36 @@
+{
+  "id": 5358,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "翌月"
+  },
+  "primaryMeaning": "The Next Month",
+  "meaningMnemonic": "<kanji>The next</kanji> <kanji>month</kanji> is <vocabulary>the next month</vocabulary>.",
+  "primaryReading": "よくげつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Next Month",
+    "The Following Month"
+  ],
+  "otherReadings": [],
+  "wkSlug": "翌月",
+  "related": {
+    "radicals": [
+      213,
+      55,
+      43
+    ],
+    "kanjis": [
+      1427,
+      477
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よくげつ",
+      "url": "https://files.wanikani.com/ztu2jylxip0wdl329fo3tnyzccu3"
+    }
+  ]
+}

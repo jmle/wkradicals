@@ -1,0 +1,34 @@
+{
+  "id": 4234,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "動詞"
+  },
+  "primaryMeaning": "Verb",
+  "meaningMnemonic": "A <kanji>part of speech</kanji> that represents <kanji>moving</kanji> is a part of speech that describes actions. That is a <vocabulary>verb</vocabulary>.",
+  "primaryReading": "どうし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "動詞",
+  "related": {
+    "radicals": [
+      188,
+      13,
+      117,
+      266
+    ],
+    "kanjis": [
+      827,
+      1066
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうし",
+      "url": "https://files.wanikani.com/okpxrig6eh0xexfuuz26bgybmqso"
+    }
+  ]
+}

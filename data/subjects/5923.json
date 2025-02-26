@@ -1,0 +1,38 @@
+{
+  "id": 5923,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "山中湖"
+  },
+  "primaryMeaning": "Lake Yamanaka",
+  "meaningMnemonic": "The <kanji>mountain</kanji> <kanji>middle</kanji> <kanji>lake</kanji> is <vocabulary>lake Yamanaka</vocabulary>, a famous and very nice lake in Japan. It's also a lake that will help you to learn the lake kanji reading better.",
+  "primaryReading": "やまなかこ",
+  "readingMnemonic": "The reading is the kun'yomi readings of 山 and 中, then the on'yomi reading of 湖.",
+  "otherMeanings": [
+    "Yamanaka Lake"
+  ],
+  "otherReadings": [],
+  "wkSlug": "山中湖",
+  "related": {
+    "radicals": [
+      20,
+      49,
+      103,
+      69,
+      43
+    ],
+    "kanjis": [
+      455,
+      469,
+      1606
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やまなかこ",
+      "url": "https://files.wanikani.com/4dwfpl5vv0ru2j8elymrwti4anq7"
+    }
+  ]
+}

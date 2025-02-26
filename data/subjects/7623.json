@@ -1,0 +1,41 @@
+{
+  "id": 7623,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "当たり前"
+  },
+  "primaryMeaning": "Natural",
+  "meaningMnemonic": "You've seen how 当たり means success. If you've experienced success <kanji>before</kanji>, everything after that seems to be pretty <vocabulary>obvious</vocabulary>.",
+  "primaryReading": "あたりまえ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Reasonable",
+    "Obvious",
+    "Usual",
+    "Common"
+  ],
+  "otherReadings": [],
+  "wkSlug": "当たり前",
+  "related": {
+    "radicals": [
+      8765,
+      105,
+      8767,
+      1,
+      43,
+      128
+    ],
+    "kanjis": [
+      571,
+      633
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あたりまえ",
+      "url": "https://files.wanikani.com/tlyki0vp9zyfes51nkdtyy9ek555"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 4964,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "管理人"
+  },
+  "primaryMeaning": "Superintendent",
+  "meaningMnemonic": "Remember how 管理 is \"management\"? Well, a management person is someone who manages a place, like the <vocabulary>superintendent</vocabulary> for a building or park, or the <vocabulary>administrator</vocabulary> of a website. \n\nIt can also refer to someone who is appointed to manage an estate, like a property <vocabulary>custodian</vocabulary>.",
+  "primaryReading": "かんりにん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Administrator",
+    "Custodian"
+  ],
+  "otherReadings": [],
+  "wkSlug": "管理人",
+  "related": {
+    "radicals": [
+      85,
+      78,
+      8777,
+      48,
+      125,
+      9
+    ],
+    "kanjis": [
+      1236,
+      669,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんりにん",
+      "url": "https://files.wanikani.com/ycte3zytncotbs94y5uga1h9uk4d"
+    }
+  ]
+}

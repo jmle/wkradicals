@@ -1,0 +1,37 @@
+{
+  "id": 7476,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "教科書"
+  },
+  "primaryMeaning": "Textbook",
+  "meaningMnemonic": "The thing you use to <kanji>teach</kanji> a <kanji>course</kanji> with <kanji>writing</kanji>s is a <vocabulary>textbook</vocabulary>. It's a book of writings you use to teach your course!",
+  "primaryReading": "きょうかしょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "教科書",
+  "related": {
+    "radicals": [
+      418,
+      60,
+      135,
+      129,
+      220,
+      22
+    ],
+    "kanjis": [
+      668,
+      642,
+      962
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうかしょ",
+      "url": "https://files.wanikani.com/ushayev2h9m3rzwiso93m1l1562a"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 7398,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "軌跡"
+  },
+  "primaryMeaning": "Track",
+  "meaningMnemonic": "<kanji>Rut</kanji> <kanji>traces</kanji> left in the road are <vocabulary>track</vocabulary>s that mark the <vocabulary>trajectory</vocabulary> of a vehicle’s wheels.\n\nThis can also be used figuratively to refer to leaving or following some sort of trace, or to describe someone’s or something’s trajectory, among other things.",
+  "primaryReading": "きせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Trajectory",
+    "Trace",
+    "Path One Has Taken"
+  ],
+  "otherReadings": [],
+  "wkSlug": "軌跡",
+  "related": {
+    "radicals": [
+      93,
+      11,
+      95,
+      9329
+    ],
+    "kanjis": [
+      2103,
+      1661
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きせき",
+      "url": "https://files.wanikani.com/b043ljr5grdmo1jl7txc7dd1jcmw"
+    }
+  ]
+}

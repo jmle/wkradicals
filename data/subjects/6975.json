@@ -1,0 +1,38 @@
+{
+  "id": 6975,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "悪魔"
+  },
+  "primaryMeaning": "Devil",
+  "meaningMnemonic": "A <kanji>bad</kanji> <kanji>devil</kanji> is a <vocabulary>devil</vocabulary> (because they're all bad), or a <vocabulary>demon</vocabulary> or <vocabulary>satan</vocabulary>.",
+  "primaryReading": "あくま",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Demon",
+    "Satan"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悪魔",
+  "related": {
+    "radicals": [
+      204,
+      65,
+      62,
+      23,
+      292
+    ],
+    "kanjis": [
+      829,
+      1945
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あくま",
+      "url": "https://files.wanikani.com/agblaqtohi6337pr1lc55e6z3jtl"
+    }
+  ]
+}

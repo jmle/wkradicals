@@ -1,0 +1,36 @@
+{
+  "id": 6786,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "刃物"
+  },
+  "primaryMeaning": "Edged Tool",
+  "meaningMnemonic": "A <kanji>blade</kanji> <kanji>thing</kanji> is an <vocabulary>edged tool</vocabulary> or <vocabulary>cutlery</vocabulary>.",
+  "primaryReading": "はもの",
+  "readingMnemonic": "The reading is the kun'yomi readings of the kanji. You learned 刃's reading with the kanji, and you probably remember 物 from so many other words.",
+  "otherMeanings": [
+    "Cutlery",
+    "Knife"
+  ],
+  "otherReadings": [],
+  "wkSlug": "刃物",
+  "related": {
+    "radicals": [
+      393,
+      126,
+      173
+    ],
+    "kanjis": [
+      1877,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はもの",
+      "url": "https://files.wanikani.com/hx14ctfudyxa3fk27258zz0d1kmr"
+    }
+  ]
+}

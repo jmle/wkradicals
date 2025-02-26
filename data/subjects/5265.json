@@ -1,0 +1,38 @@
+{
+  "id": 5265,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "睡眠薬"
+  },
+  "primaryMeaning": "Sleeping Pills",
+  "meaningMnemonic": "<kanji>Drowsy</kanji> <kanji>sleep</kanji> <kanji>medicine</kanji> is <vocabulary>sleeping pills</vocabulary>. Don't take too many or you might get addicted.",
+  "primaryReading": "すいみんやく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Sleeping Medication"
+  ],
+  "otherReadings": [],
+  "wkSlug": "睡眠薬",
+  "related": {
+    "radicals": [
+      53,
+      93,
+      312,
+      90,
+      251
+    ],
+    "kanjis": [
+      1333,
+      1332,
+      997
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいみんやく",
+      "url": "https://files.wanikani.com/hhd31y740euj3n490q8h4mqkxv97"
+    }
+  ]
+}

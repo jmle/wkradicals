@@ -1,0 +1,35 @@
+{
+  "id": 4470,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "国際"
+  },
+  "primaryMeaning": "International",
+  "meaningMnemonic": "You have an <kanji> occasion</kanji> to check out another <kanji>country</kanji>. Wow, so <vocabulary>international</vocabulary>!",
+  "primaryReading": "こくさい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "国際",
+  "related": {
+    "radicals": [
+      16,
+      48,
+      3,
+      176,
+      8825
+    ],
+    "kanjis": [
+      621,
+      1151
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こくさい",
+      "url": "https://files.wanikani.com/n1476pk0x92kuzh3bv6kxz53ms0i"
+    }
+  ]
+}

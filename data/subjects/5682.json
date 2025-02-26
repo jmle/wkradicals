@@ -1,0 +1,37 @@
+{
+  "id": 5682,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "蒸気"
+  },
+  "primaryMeaning": "Steam",
+  "meaningMnemonic": "<kanji>Steam</kanji> <kanji>energy</kanji> is <vocabulary>steam</vocabulary> or <vocabulary>vapor</vocabulary>.",
+  "primaryReading": "じょうき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Vapor"
+  ],
+  "otherReadings": [],
+  "wkSlug": "蒸気",
+  "related": {
+    "radicals": [
+      90,
+      8794,
+      131,
+      82,
+      31
+    ],
+    "kanjis": [
+      1539,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうき",
+      "url": "https://files.wanikani.com/con7bppudqxlncv2u6qrcthf2nob"
+    }
+  ]
+}

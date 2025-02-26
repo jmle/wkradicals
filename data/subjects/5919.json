@@ -1,0 +1,31 @@
+{
+  "id": 5919,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "酢"
+  },
+  "primaryMeaning": "Vinegar",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "す",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "酢",
+  "related": {
+    "radicals": [
+      182,
+      122
+    ],
+    "kanjis": [
+      1604
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "す",
+      "url": "https://files.wanikani.com/g17pxwqi1bqr5afi24ypzs9jek8a"
+    }
+  ]
+}

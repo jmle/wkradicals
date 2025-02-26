@@ -1,0 +1,39 @@
+{
+  "id": 8893,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "世界恐慌"
+  },
+  "primaryMeaning": "The Great Depression",
+  "meaningMnemonic": "世界 means \"world\" and 恐慌 means \"panic\" or \"scare,\" so when you put them together you get a scare that made the entire world panic. This is how we refer to <vocabulary>The Great Depression</vocabulary>. It was caused by and subsequently resulted in everybody in the whole world panicking together about money.",
+  "primaryReading": "せかいきょうこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned them already, so you should be able to read this on your own!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "世界恐慌",
+  "related": {
+    "radicals": [
+      83,
+      51,
+      166,
+      241,
+      65,
+      232,
+      8857
+    ],
+    "kanjis": [
+      527,
+      728,
+      1406,
+      8881
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せかいきょうこう",
+      "url": "https://files.wanikani.com/t13v5ka4l4ozhafr1ng39zd14d3x"
+    }
+  ]
+}

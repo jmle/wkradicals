@@ -1,0 +1,43 @@
+{
+  "id": 8080,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "阿呆"
+  },
+  "primaryMeaning": "Fool",
+  "meaningMnemonic": "<kanji>Shock</kanji> someone by <kanji>flatter</kanji>ing them and they'll end up looking like a <vocabulary>fool</vocabulary>. Taking compliments always turns people into silly <vocabulary>idiot</vocabulary>s. It's okay, they're just embarrassed.",
+  "primaryReading": "あほ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own, but keep in mind that the reading is often shortened to あほ these days.",
+  "otherMeanings": [
+    "Simpleton",
+    "Idiot"
+  ],
+  "otherReadings": [
+    "あほう"
+  ],
+  "wkSlug": "阿呆",
+  "related": {
+    "radicals": [
+      176,
+      113,
+      16,
+      23
+    ],
+    "kanjis": [
+      2255,
+      2251
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あほう",
+      "url": "https://files.wanikani.com/4o4upu9ej64u2y1lskoegvputrqi"
+    },
+    {
+      "reading": "あほ",
+      "url": "https://files.wanikani.com/vu3rbhi6ldcelqby3zsfin0t0y9e"
+    }
+  ]
+}

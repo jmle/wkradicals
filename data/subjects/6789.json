@@ -1,0 +1,35 @@
+{
+  "id": 6789,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "桃色"
+  },
+  "primaryMeaning": "Peach Color",
+  "meaningMnemonic": "A <kanji>peach</kanji> <kanji>color</kanji> is a <vocabulary>peach color</vocabulary>, or <vocabulary>pink</vocabulary>.",
+  "primaryReading": "ももいろ",
+  "readingMnemonic": "The readings come from the vocab readings (and kanji readings, actually) of the two kanji.",
+  "otherMeanings": [
+    "Pink"
+  ],
+  "otherReadings": [],
+  "wkSlug": "桃色",
+  "related": {
+    "radicals": [
+      23,
+      363,
+      110
+    ],
+    "kanjis": [
+      1879,
+      579
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ももいろ",
+      "url": "https://files.wanikani.com/ubv25dn5fy7tpz8kfwp3u84skv6f"
+    }
+  ]
+}

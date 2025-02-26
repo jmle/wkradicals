@@ -1,0 +1,36 @@
+{
+  "id": 5994,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "縄文"
+  },
+  "primaryMeaning": "Jomon",
+  "meaningMnemonic": "<kanji>Rope</kanji> <kanji>writing</kanji> was used during the <vocabulary>Jomon</vocabulary> period, a time in <vocabulary>ancient Japanese</vocabulary> history when people decorated pottery with rope.",
+  "primaryReading": "じょうもん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Jomon People",
+    "Ancient Japanese"
+  ],
+  "otherReadings": [],
+  "wkSlug": "縄文",
+  "related": {
+    "radicals": [
+      86,
+      353,
+      42
+    ],
+    "kanjis": [
+      1628,
+      475
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうもん",
+      "url": "https://files.wanikani.com/uev5hhn6xhr7z70pc902pg1c5yyv"
+    }
+  ]
+}

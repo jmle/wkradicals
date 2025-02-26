@@ -1,0 +1,34 @@
+{
+  "id": 3114,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "乗り物"
+  },
+  "primaryMeaning": "Vehicle",
+  "meaningMnemonic": "You know that 乗り has something to do with <kanji>riding</kanji> and that 物 is a <kanji>thing</kanji>. So what is a \"riding thing?\" Nowadays, at least, that would be a <vocabulary>vehicle</vocabulary>.",
+  "primaryReading": "のりもの",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji, but you know them both now, so you should be able to read this too!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "乗り物",
+  "related": {
+    "radicals": [
+      135,
+      16,
+      126,
+      173
+    ],
+    "kanjis": [
+      722,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のりもの",
+      "url": "https://files.wanikani.com/v24x8xrlqwoixi4kxjkugy00kl0e"
+    }
+  ]
+}

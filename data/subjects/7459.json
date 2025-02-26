@@ -1,0 +1,37 @@
+{
+  "id": 7459,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "地上"
+  },
+  "primaryMeaning": "Above Ground",
+  "meaningMnemonic": "Remember 地下, which is \"below ground.\" Well, this is <kanji>ground</kanji> and <kanji>above</kanji> combined together, so I bet you can guess that this means <vocabulary>above ground</vocabulary>. But usually things above ground don't float (unless you're in space), so it's really <vocabulary>on the ground</vocabulary>.",
+  "primaryReading": "ちじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "On The Ground",
+    "The Earth's Surface"
+  ],
+  "otherReadings": [],
+  "wkSlug": "地上",
+  "related": {
+    "radicals": [
+      17,
+      77,
+      10,
+      1
+    ],
+    "kanjis": [
+      608,
+      450
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちじょう",
+      "url": "https://files.wanikani.com/1qqbd7nzqr61ojt0f69wouppqy9w"
+    }
+  ]
+}

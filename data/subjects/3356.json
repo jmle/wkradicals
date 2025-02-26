@@ -1,0 +1,38 @@
+{
+  "id": 3356,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "商人"
+  },
+  "primaryMeaning": "Merchant",
+  "meaningMnemonic": "A <kanji>merchandise</kanji> <kanji>person</kanji> is a <vocabulary>merchant</vocabulary>. You want to buy something or you just looking?",
+  "primaryReading": "しょうにん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Trader",
+    "Shopkeeper",
+    "Tradesperson"
+  ],
+  "otherReadings": [],
+  "wkSlug": "商人",
+  "related": {
+    "radicals": [
+      55,
+      121,
+      28,
+      9
+    ],
+    "kanjis": [
+      828,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうにん",
+      "url": "https://files.wanikani.com/za2k5legdv5hn0amgxu17mgacgv3"
+    }
+  ]
+}

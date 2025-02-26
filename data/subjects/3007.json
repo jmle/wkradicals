@@ -1,0 +1,34 @@
+{
+  "id": 3007,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "対する"
+  },
+  "primaryMeaning": "To Face",
+  "meaningMnemonic": "When you do (する) <kanji>versus</kanji>, you choose <vocabulary>to face</vocabulary> an opponent. It’s where your attention and efforts are going to <vocabulary>be directed toward</vocabulary>. Alternatively, you can use this word <vocabulary>to contrast</vocabulary> one thing with another.\n\nThis word is used to help point out the relationship between two things in a sentence, where one thing is focusing on another thing. This is all a little vague and perhaps confusing, so check out the collocations and context sentences to get a better grasp of this word!",
+  "primaryReading": "たいする",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, so you should be able to read this word no problem.",
+  "otherMeanings": [
+    "To Be Directed Toward",
+    "To Contrast"
+  ],
+  "otherReadings": [],
+  "wkSlug": "対する",
+  "related": {
+    "radicals": [
+      42,
+      74
+    ],
+    "kanjis": [
+      683
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいする",
+      "url": "https://files.wanikani.com/kloqnpll5j7a7b1uvk07fddh4tde"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 5873,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "庁舎"
+  },
+  "primaryMeaning": "Government Office Building",
+  "meaningMnemonic": "A <kanji>government office</kanji> <kanji>cottage</kanji> is the place where the government office is stored. That's the <vocabulary>government office building</vocabulary>.",
+  "primaryReading": "ちょうしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "庁舎",
+  "related": {
+    "radicals": [
+      62,
+      27,
+      433
+    ],
+    "kanjis": [
+      1233,
+      1583
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょうしゃ",
+      "url": "https://files.wanikani.com/9pn8boxiqdo1m75m9kdpej8e9hpi"
+    }
+  ]
+}

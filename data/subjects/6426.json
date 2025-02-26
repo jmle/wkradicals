@@ -1,0 +1,37 @@
+{
+  "id": 6426,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "頻繁"
+  },
+  "primaryMeaning": "Frequent",
+  "meaningMnemonic": "Something that is <kanji>frequent</kanji>ly <kanji>overgrown</kanji> is something that is super <vocabulary>frequent</vocabulary>. It never stops attacking, never stops coming, and is honestly getting <vocabulary>incessant</vocabulary> in how often it overgrows. Those darn [put plant name here].",
+  "primaryReading": "ひんぱん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Incessant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "頻繁",
+  "related": {
+    "radicals": [
+      245,
+      184,
+      379,
+      60,
+      86
+    ],
+    "kanjis": [
+      1765,
+      1764
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひんぱん",
+      "url": "https://files.wanikani.com/kuv4kdq32lijnj4a1hh4umoj6oe1"
+    }
+  ]
+}

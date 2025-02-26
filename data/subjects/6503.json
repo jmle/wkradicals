@@ -1,0 +1,34 @@
+{
+  "id": 6503,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "蛍"
+  },
+  "primaryMeaning": "Firefly",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ほたる",
+  "readingMnemonic": "The reading is the one you learned with the kanji.",
+  "otherMeanings": [
+    "Lightning Bug",
+    "Glowworm"
+  ],
+  "otherReadings": [],
+  "wkSlug": "蛍",
+  "related": {
+    "radicals": [
+      8769,
+      89
+    ],
+    "kanjis": [
+      1785
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほたる",
+      "url": "https://files.wanikani.com/hjlxfgpud5euiig4kwsrx8hy619r"
+    }
+  ]
+}

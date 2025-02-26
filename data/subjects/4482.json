@@ -1,0 +1,34 @@
+{
+  "id": 4482,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "存在する"
+  },
+  "primaryMeaning": "To Exist",
+  "meaningMnemonic": "Know how 存在 is existence? Well, make it a verb and then you have <vocabulary>to exist</vocabulary>.",
+  "primaryReading": "そんざいする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "存在する",
+  "related": {
+    "radicals": [
+      26,
+      8761,
+      34,
+      17
+    ],
+    "kanjis": [
+      990,
+      1107
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そんざいする",
+      "url": "https://files.wanikani.com/95l7uh8zm33xv2v1pzbsvta7amoi"
+    }
+  ]
+}

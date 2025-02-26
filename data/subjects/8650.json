@@ -1,0 +1,35 @@
+{
+  "id": 8650,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "蛮行"
+  },
+  "primaryMeaning": "Barbarism",
+  "meaningMnemonic": "<kanji>Barbarian</kanji>s <kanji>go</kanji> around and commit acts of <vocabulary>barbarism</vocabulary>! What else would they do? They're barbarians!",
+  "primaryReading": "ばんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Brutality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "蛮行",
+  "related": {
+    "radicals": [
+      9329,
+      89,
+      111
+    ],
+    "kanjis": [
+      2464,
+      580
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばんこう",
+      "url": "https://files.wanikani.com/t8uka4kdi1wwphdlypxluac0lx0i"
+    }
+  ]
+}

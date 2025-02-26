@@ -1,0 +1,42 @@
+{
+  "id": 8002,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "清浄"
+  },
+  "primaryMeaning": "Pure",
+  "meaningMnemonic": "<kanji>Pure</kanji> <kanji>cleanse</kanji>d things are <vocabulary>pure</vocabulary> and <vocabulary>clean</vocabulary>.",
+  "primaryReading": "せいじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Clean",
+    "Purity"
+  ],
+  "otherReadings": [
+    "しょうじょう"
+  ],
+  "wkSlug": "清浄",
+  "related": {
+    "radicals": [
+      103,
+      120,
+      261
+    ],
+    "kanjis": [
+      1356,
+      2192
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうじょう",
+      "url": "https://files.wanikani.com/30g3al6v8c08yidbszgvmnrfqmeh"
+    },
+    {
+      "reading": "せいじょう",
+      "url": "https://files.wanikani.com/yhsefoaea09y3q5d2n1bou2wfepc"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7000,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "猿"
+  },
+  "primaryMeaning": "Monkey",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "さる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "猿",
+  "related": {
+    "radicals": [
+      144,
+      17,
+      16,
+      8770
+    ],
+    "kanjis": [
+      1955
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さる",
+      "url": "https://files.wanikani.com/adc5wg0beev8eudtjyqho7jx32fv"
+    }
+  ]
+}

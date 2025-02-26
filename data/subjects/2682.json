@@ -1,0 +1,33 @@
+{
+  "id": 2682,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "五百"
+  },
+  "primaryMeaning": "Five Hundred",
+  "meaningMnemonic": "When you have <kanji>five</kanji> <kanji>hundred</kanji>s you also have <vocabulary>five hundred</vocabulary>.",
+  "primaryReading": "ごひゃく",
+  "readingMnemonic": "This word uses the on'yomi readings for both kanji, so you should be able to read it already!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "五百",
+  "related": {
+    "radicals": [
+      39,
+      8763,
+      22
+    ],
+    "kanjis": [
+      470,
+      549
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ごひゃく",
+      "url": "https://files.wanikani.com/3nr3rg58h5slc3dsudwvy8bpbe81"
+    }
+  ]
+}

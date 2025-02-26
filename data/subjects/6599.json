@@ -1,0 +1,37 @@
+{
+  "id": 6599,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "動揺"
+  },
+  "primaryMeaning": "Emotional Turmoil",
+  "meaningMnemonic": "When your heart <kanji>move</kanji>s then <kanji>shake</kanji>s, you’re in a state of <vocabulary>emotional turmoil</vocabulary> or <vocabulary>unrest</vocabulary>.\n\n動揺 refers to <vocabulary>being emotionally shaken</vocabulary>, or feeling disturbed, agitated, or unsettled.",
+  "primaryReading": "どうよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Unrest",
+    "Being Emotionally Shaken"
+  ],
+  "otherReadings": [],
+  "wkSlug": "動揺",
+  "related": {
+    "radicals": [
+      188,
+      13,
+      63,
+      8798
+    ],
+    "kanjis": [
+      827,
+      1817
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうよう",
+      "url": "https://files.wanikani.com/052vv6jpdc7p0o33ftpo3f1er3w8"
+    }
+  ]
+}

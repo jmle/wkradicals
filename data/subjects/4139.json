@@ -1,0 +1,34 @@
+{
+  "id": 4139,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "脳みそ"
+  },
+  "primaryMeaning": "Brains",
+  "meaningMnemonic": "Do you know みそ Soup and how miso goes in it? This is that miso. It's soft and strange feeling. Now, your <kanji>brain</kanji> <kanji>miso</kanji>, that's your <vocabulary>brains</vocabulary> or your <vocabulary>gray matter</vocabulary>. Essentially, if someone cuts your head open with a katana, this is perhaps what would come out.",
+  "primaryReading": "のうみそ",
+  "readingMnemonic": "Reading is just what you learned with the kanji. Just use your 脳 a bit and it should be easy.",
+  "otherMeanings": [
+    "Gray Matter"
+  ],
+  "otherReadings": [],
+  "wkSlug": "脳みそ",
+  "related": {
+    "radicals": [
+      43,
+      8783,
+      262
+    ],
+    "kanjis": [
+      1045
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のうみそ",
+      "url": "https://files.wanikani.com/4rb38tehl3mgvasyhu9ayxp2vnaz"
+    }
+  ]
+}

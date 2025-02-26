@@ -1,0 +1,35 @@
+{
+  "id": 4153,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "達人"
+  },
+  "primaryMeaning": "Master",
+  "meaningMnemonic": "A <kanji>person</kanji> who has \"<kanji>attain</kanji>ed\" is someone who knows much. They are a <vocabulary>master</vocabulary> or <vocabulary>expert</vocabulary>, obviously.",
+  "primaryReading": "たつじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Expert"
+  ],
+  "otherReadings": [],
+  "wkSlug": "達人",
+  "related": {
+    "radicals": [
+      114,
+      260,
+      9
+    ],
+    "kanjis": [
+      1033,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たつじん",
+      "url": "https://files.wanikani.com/ma0oxyxp4ek5chqqa6xl571q955i"
+    }
+  ]
+}

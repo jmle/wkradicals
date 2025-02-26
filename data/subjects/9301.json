@@ -1,0 +1,35 @@
+{
+  "id": 9301,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "世話"
+  },
+  "primaryMeaning": "Care",
+  "meaningMnemonic": "Older <kanji>generation</kanji>s mostly <kanji>talk</kanji> about one thing: <vocabulary>care</vocabulary>. Everybody wants to receive care once they're older, don't they?",
+  "primaryReading": "せわ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just remember that 世 is せ here, and not せい!",
+  "otherMeanings": [
+    "Looking After"
+  ],
+  "otherReadings": [],
+  "wkSlug": "世話",
+  "related": {
+    "radicals": [
+      83,
+      117,
+      174
+    ],
+    "kanjis": [
+      527,
+      705
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せわ",
+      "url": "https://files.wanikani.com/glamx5htg8xvs4h6x4dl6gz7oneh"
+    }
+  ]
+}

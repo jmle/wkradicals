@@ -1,0 +1,31 @@
+{
+  "id": 8718,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "胃"
+  },
+  "primaryMeaning": "Stomach",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nJust keep in mind 胃 is specifically for the internal organ \"stomach,\" not for the general abdominal area \"stomach.\"",
+  "primaryReading": "い",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "胃",
+  "related": {
+    "radicals": [
+      51,
+      43
+    ],
+    "kanjis": [
+      1316
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "い",
+      "url": "https://files.wanikani.com/c4zi73t6cy6f5w0ywyk5msl1dlkr"
+    }
+  ]
+}

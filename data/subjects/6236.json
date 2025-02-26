@@ -1,0 +1,38 @@
+{
+  "id": 6236,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "縄張り"
+  },
+  "primaryMeaning": "Rope Off",
+  "meaningMnemonic": "Take your <kanji>rope</kanji> and <kanji>stretch</kanji> it out to show where the cutoff is. This is when you <vocabulary>rope off</vocabulary> something. It shows your <vocabulary>territory</vocabulary> and <vocabulary>turf</vocabulary>. Don't cross this rope I've stretched out, it's my <vocabulary>domain</vocabulary>.",
+  "primaryReading": "なわばり",
+  "readingMnemonic": "The reading is 縄 and 張る put together into one word.",
+  "otherMeanings": [
+    "Turf",
+    "Territory",
+    "Domain"
+  ],
+  "otherReadings": [],
+  "wkSlug": "縄張り",
+  "related": {
+    "radicals": [
+      86,
+      353,
+      36,
+      138
+    ],
+    "kanjis": [
+      1628,
+      1205
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なわばり",
+      "url": "https://files.wanikani.com/xhqy684pkchdty85hhd2re6ifgkc"
+    }
+  ]
+}

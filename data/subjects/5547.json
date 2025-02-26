@@ -1,0 +1,33 @@
+{
+  "id": 5547,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "自衛"
+  },
+  "primaryMeaning": "Self Defense",
+  "meaningMnemonic": "<kanji>Self</kanji> <kanji>defense</kanji> is when you protect yourself. It's <vocabulary>self defense</vocabulary>.",
+  "primaryReading": "じえい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "自衛",
+  "related": {
+    "radicals": [
+      109,
+      111,
+      294
+    ],
+    "kanjis": [
+      578,
+      1492
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じえい",
+      "url": "https://files.wanikani.com/5t4jinwpy9eetq9rgfd61q6qwf9z"
+    }
+  ]
+}

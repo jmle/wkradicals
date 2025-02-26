@@ -1,0 +1,35 @@
+{
+  "id": 8500,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "赦免"
+  },
+  "primaryMeaning": "Pardon",
+  "meaningMnemonic": "An <kanji>excuse</kanji> and a <kanji>pardon</kanji> is a <vocabulary>pardon</vocabulary> or <vocabulary>amnesty</vocabulary>.",
+  "primaryReading": "しゃめん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Amnesty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "赦免",
+  "related": {
+    "radicals": [
+      92,
+      60,
+      208
+    ],
+    "kanjis": [
+      2366,
+      1722
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃめん",
+      "url": "https://files.wanikani.com/jkwhime33iedbhccz0ukj44ixukn"
+    }
+  ]
+}

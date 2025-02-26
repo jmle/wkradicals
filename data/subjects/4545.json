@@ -1,0 +1,34 @@
+{
+  "id": 4545,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "副詞"
+  },
+  "primaryMeaning": "Adverb",
+  "meaningMnemonic": "This is like your <kanji>side</kanji> <kanji>part of speech</kanji>, as in, you add it to the side of a verb because it's an <vocabulary>adverb</vocabulary>.",
+  "primaryReading": "ふくし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "副詞",
+  "related": {
+    "radicals": [
+      8824,
+      128,
+      117,
+      266
+    ],
+    "kanjis": [
+      1174,
+      1066
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふくし",
+      "url": "https://files.wanikani.com/j0oonby1qxj7r4yc0asgqp39aprw"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7826,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "樹脂"
+  },
+  "primaryMeaning": "Resin",
+  "meaningMnemonic": "The <kanji>fat</kanji> that comes out of the <kanji>wood</kanji> from trees is used to make <vocabulary>resin</vocabulary>. Trees don't have fat, you say? Well you're wrong, look it up. Trees are super fat and we use the resin from them to do all sorts of stuff.",
+  "primaryReading": "じゅし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "樹脂",
+  "related": {
+    "radicals": [
+      23,
+      421,
+      74,
+      43,
+      57,
+      22
+    ],
+    "kanjis": [
+      1782,
+      2131
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅし",
+      "url": "https://files.wanikani.com/8kzzdm1a270k7yqvu7h5jnbq59sa"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6571,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "到着"
+  },
+  "primaryMeaning": "Arrival",
+  "meaningMnemonic": "At the <kanji>arrival</kanji> time you will <kanji>arrive</kanji>. This is your <vocabulary>arrival</vocabulary>.",
+  "primaryReading": "とうちゃく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "到着",
+  "related": {
+    "radicals": [
+      274,
+      128,
+      136,
+      53
+    ],
+    "kanjis": [
+      1805,
+      846
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうちゃく",
+      "url": "https://files.wanikani.com/kinnao92rypcfaijgnr1k58uffog"
+    }
+  ]
+}

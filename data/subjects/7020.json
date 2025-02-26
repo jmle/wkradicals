@@ -1,0 +1,39 @@
+{
+  "id": 7020,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "幽霊"
+  },
+  "primaryMeaning": "Ghost",
+  "meaningMnemonic": "A <kanji>secluded</kanji> <kanji>ghost</kanji> is someone who's secluded and a ghost, because everyone's forgotten about him (thus the \"ghostness\" of him). This thing is a <vocabulary>ghost</vocabulary> or <vocabulary>specter</vocabulary>.",
+  "primaryReading": "ゆうれい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Specter",
+    "Spectre",
+    "Phantom"
+  ],
+  "otherReadings": [],
+  "wkSlug": "幽霊",
+  "related": {
+    "radicals": [
+      87,
+      20,
+      119,
+      7,
+      8768
+    ],
+    "kanjis": [
+      1961,
+      1932
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうれい",
+      "url": "https://files.wanikani.com/clh4b6t349mgjri54jrz6iv8rp1n"
+    }
+  ]
+}

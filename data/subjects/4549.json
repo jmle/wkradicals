@@ -1,0 +1,36 @@
+{
+  "id": 4549,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "安値"
+  },
+  "primaryMeaning": "Low Price",
+  "meaningMnemonic": "A <kanji>cheap</kanji> <kanji>value</kanji>d item comes at a <vocabulary>low price</vocabulary>. What a good deal!",
+  "primaryReading": "やすね",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji, but you know them both now, so you should be able to read this too!",
+  "otherMeanings": [
+    "Cheap Price"
+  ],
+  "otherReadings": [],
+  "wkSlug": "安値",
+  "related": {
+    "radicals": [
+      78,
+      19,
+      75,
+      8821
+    ],
+    "kanjis": [
+      612,
+      1176
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やすね",
+      "url": "https://files.wanikani.com/6b9oh99b0wv079zr8zdc7hm3zvcd"
+    }
+  ]
+}

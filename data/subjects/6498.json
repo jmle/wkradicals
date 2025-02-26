@@ -1,0 +1,34 @@
+{
+  "id": 6498,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "植樹"
+  },
+  "primaryMeaning": "Tree Planting",
+  "meaningMnemonic": "If you <kanji>plant</kanji> <kanji>wood</kanji> you are doing <vocabulary>tree planting</vocabulary>, since only trees are made of wood.",
+  "primaryReading": "しょくじゅ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "植樹",
+  "related": {
+    "radicals": [
+      23,
+      8821,
+      421,
+      74
+    ],
+    "kanjis": [
+      840,
+      1782
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょくじゅ",
+      "url": "https://files.wanikani.com/av292h2z0721vjtkpitpln7j1okn"
+    }
+  ]
+}

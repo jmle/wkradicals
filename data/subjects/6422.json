@@ -1,0 +1,38 @@
+{
+  "id": 6422,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "捕獲"
+  },
+  "primaryMeaning": "Capture",
+  "meaningMnemonic": "To <kanji>catch</kanji> and <kanji>seize</kanji> is <vocabulary>capture</vocabulary> and <vocabulary>seizure</vocabulary>.",
+  "primaryReading": "ほかく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Seizure"
+  ],
+  "otherReadings": [],
+  "wkSlug": "捕獲",
+  "related": {
+    "radicals": [
+      63,
+      300,
+      144,
+      90,
+      240,
+      30
+    ],
+    "kanjis": [
+      1265,
+      1762
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほかく",
+      "url": "https://files.wanikani.com/0jo6hbq6jys2yow90h9he31bnbix"
+    }
+  ]
+}

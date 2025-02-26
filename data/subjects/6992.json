@@ -1,0 +1,37 @@
+{
+  "id": 6992,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "二十歳"
+  },
+  "primaryMeaning": "Twenty Years Old",
+  "meaningMnemonic": "<kanji>Two</kanji> time <kanji>ten</kanji> <kanji>years old</kanji> is <vocabulary>twenty years old</vocabulary>.",
+  "primaryReading": "はたち",
+  "readingMnemonic": "The reading for twenty years old, specifically, is a really weird reading. It's はたち. When you turn <vocabulary>twenty years old</vocabulary> you become a hater of cheese. A <reading>hater cheese</reading> (はたち) kinda person.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "二十歳",
+  "related": {
+    "radicals": [
+      7,
+      15,
+      44,
+      5,
+      194,
+      207
+    ],
+    "kanjis": [
+      441,
+      448,
+      1953
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はたち",
+      "url": "https://files.wanikani.com/4wipe6p3ccllfw3zgxtda1uj4sc5"
+    }
+  ]
+}

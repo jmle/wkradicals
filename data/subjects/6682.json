@@ -1,0 +1,36 @@
+{
+  "id": 6682,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "明朗"
+  },
+  "primaryMeaning": "Bright",
+  "meaningMnemonic": "A <kanji>bright</kanji> <kanji>bright</kanji> is something that's <vocabulary>bright</vocabulary>.",
+  "primaryReading": "めいろう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cheerful",
+    "Clear"
+  ],
+  "otherReadings": [],
+  "wkSlug": "明朗",
+  "related": {
+    "radicals": [
+      22,
+      43,
+      8822
+    ],
+    "kanjis": [
+      626,
+      1848
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めいろう",
+      "url": "https://files.wanikani.com/80ycqpgr0y4mfffdhsdj4pkddiob"
+    }
+  ]
+}

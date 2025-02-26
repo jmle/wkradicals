@@ -1,0 +1,31 @@
+{
+  "id": 5993,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "縄"
+  },
+  "primaryMeaning": "Rope",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "なわ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: Please hand me the rope, right <reading>now</reading> (なわ), otherwise I will fall to my death!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "縄",
+  "related": {
+    "radicals": [
+      86,
+      353
+    ],
+    "kanjis": [
+      1628
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なわ",
+      "url": "https://files.wanikani.com/zg97yr0xy52pms1y3w49x3vjrdxt"
+    }
+  ]
+}

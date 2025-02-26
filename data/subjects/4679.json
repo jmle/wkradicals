@@ -1,0 +1,36 @@
+{
+  "id": 4679,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "木製"
+  },
+  "primaryMeaning": "Wooden",
+  "meaningMnemonic": "<kanji>Tree</kanji> <kanji>manufacture</kanji>d items are <vocabulary>wooden</vocabulary> / <vocabulary>made from wood</vocabulary>.",
+  "primaryReading": "もくせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Made From Wood",
+    "Made Of Wood"
+  ],
+  "otherReadings": [],
+  "wkSlug": "木製",
+  "related": {
+    "radicals": [
+      23,
+      296,
+      320
+    ],
+    "kanjis": [
+      478,
+      1219
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もくせい",
+      "url": "https://files.wanikani.com/y26t6vsbmua6klt212e9r5g73ddj"
+    }
+  ]
+}

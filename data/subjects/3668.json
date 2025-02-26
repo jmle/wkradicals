@@ -1,0 +1,34 @@
+{
+  "id": 3668,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "固い"
+  },
+  "primaryMeaning": "Hard",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>hard</kanji>? It's <vocabulary>hard</vocabulary>, <vocabulary>firm</vocabulary>, or <vocabulary>tough</vocabulary>.",
+  "primaryReading": "かたい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:\n\nYou need something really <vocabulary>hard</vocabulary> to put in your <reading>cata</reading>pult(かた). Look around you for something hard and imagine putting it in your catapult!",
+  "otherMeanings": [
+    "Tough",
+    "Firm"
+  ],
+  "otherReadings": [],
+  "wkSlug": "固い",
+  "related": {
+    "radicals": [
+      16,
+      69
+    ],
+    "kanjis": [
+      902
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かたい",
+      "url": "https://files.wanikani.com/a131x7u84q83c4s25ekp430tbiyv"
+    }
+  ]
+}

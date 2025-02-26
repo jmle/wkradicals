@@ -1,0 +1,34 @@
+{
+  "id": 5516,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "購読する"
+  },
+  "primaryMeaning": "To Subscribe",
+  "meaningMnemonic": "If 購読 is a \"subscription\", then the verb vocab version would be <vocabulary>to subscribe</vocabulary>.\n\nReminder: this refers specifically to paying for a subscription to reading materials, like newspapers or magazines, so avoid using it for free subscriptions or music apps!",
+  "primaryReading": "こうどくする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "購読する",
+  "related": {
+    "radicals": [
+      94,
+      303,
+      117,
+      439
+    ],
+    "kanjis": [
+      1436,
+      765
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうどくする",
+      "url": "https://files.wanikani.com/qzhqpx2f7rrk8t3lmkxtvxk424kp"
+    }
+  ]
+}

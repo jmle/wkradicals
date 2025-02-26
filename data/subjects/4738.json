@@ -1,0 +1,37 @@
+{
+  "id": 4738,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "品質"
+  },
+  "primaryMeaning": "Material Quality",
+  "meaningMnemonic": "A <kanji>product</kanji>'s <kanji>quality</kanji> is in its <vocabulary>material quality</vocabulary>. If the materials aren't any good then the product isn't either.",
+  "primaryReading": "ひんしつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Item Quality",
+    "Product Quality",
+    "Quality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "品質",
+  "related": {
+    "radicals": [
+      227,
+      115,
+      94
+    ],
+    "kanjis": [
+      967,
+      1242
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひんしつ",
+      "url": "https://files.wanikani.com/5ov86rgrsojnxz3ylgi5h8n6ij14"
+    }
+  ]
+}

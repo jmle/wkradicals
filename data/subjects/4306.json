@@ -1,0 +1,37 @@
+{
+  "id": 4306,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "共犯者"
+  },
+  "primaryMeaning": "Accomplice",
+  "meaningMnemonic": "<kanji>Someone</kanji> who does <kanji>crime</kanji> <kanji>together</kanji> with you is your <vocabulary>accomplice</vocabulary> in crime. It's best to \"take care of\" these before the coppers get to them.",
+  "primaryReading": "きょうはんしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "共犯者",
+  "related": {
+    "radicals": [
+      8775,
+      2,
+      144,
+      158,
+      104,
+      22
+    ],
+    "kanjis": [
+      778,
+      1115,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうはんしゃ",
+      "url": "https://files.wanikani.com/1nxmiualp2vofi56f2mqmohtr4eg"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2486,
+  "type": "vocabulary",
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "三"
+  },
+  "primaryMeaning": "Three",
+  "meaningMnemonic": "When a vocab is a single kanji and alone like this, it usually steals its meaning from the parent kanji. That goes for this word too, making the meaning of this word <vocabulary>three</vocabulary>.",
+  "primaryReading": "さん",
+  "readingMnemonic": "When a vocab is alone like this with no okurigana (hiragana attached to the kanji) it usually uses its kun'yomi reading. Numbers are an exception, though, and use the on'yomi reading. You learned the on'yomi reading when you learned this kanji, so you already know that the reading for this vocab is <reading>さん</reading>.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "三",
+  "related": {
+    "radicals": [
+      1,
+      7
+    ],
+    "kanjis": [
+      449
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さん",
+      "url": "https://files.wanikani.com/n5gjkvr3gjn9v3d413r4i04qma92"
+    }
+  ]
+}

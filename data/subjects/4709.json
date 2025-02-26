@@ -1,0 +1,37 @@
+{
+  "id": 4709,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "官庁"
+  },
+  "primaryMeaning": "Government Office",
+  "meaningMnemonic": "A <kanji>government</kanji> <kanji>government office</kanji> is a <vocabulary>government office</vocabulary>. Did I mention government?",
+  "primaryReading": "かんちょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Government Authorities",
+    "Government Agency"
+  ],
+  "otherReadings": [],
+  "wkSlug": "官庁",
+  "related": {
+    "radicals": [
+      78,
+      8777,
+      62,
+      27
+    ],
+    "kanjis": [
+      1018,
+      1233
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんちょう",
+      "url": "https://files.wanikani.com/ktejudvhc1x3yiecmdusap4lae5l"
+    }
+  ]
+}

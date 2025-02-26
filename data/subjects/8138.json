@@ -1,0 +1,33 @@
+{
+  "id": 8138,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "茎"
+  },
+  "primaryMeaning": "Stem",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "くき",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Stalk"
+  ],
+  "otherReadings": [],
+  "wkSlug": "茎",
+  "related": {
+    "radicals": [
+      90,
+      179
+    ],
+    "kanjis": [
+      2254
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くき",
+      "url": "https://files.wanikani.com/f3ualnwgty50b2qsvwh4qw8o441d"
+    }
+  ]
+}

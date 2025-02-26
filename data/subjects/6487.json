@@ -1,0 +1,37 @@
+{
+  "id": 6487,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "措辞"
+  },
+  "primaryMeaning": "Wording",
+  "meaningMnemonic": "You <kanji>set aside</kanji> these <kanji>word</kanji>s specifically so you could get the <vocabulary>wording</vocabulary> right. Wording is important sometimes, like when you're trying to communicate something sensitive, or when you're writing a poem. Sometimes only certain words will do.\n\nNote that 措辞 usually refers to the <vocabulary>phrasing</vocabulary> or <vocabulary>diction</vocabulary> of writing, not speech.",
+  "primaryReading": "そじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Phrasing",
+    "Diction"
+  ],
+  "otherReadings": [],
+  "wkSlug": "措辞",
+  "related": {
+    "radicals": [
+      63,
+      256,
+      174,
+      178
+    ],
+    "kanjis": [
+      1779,
+      981
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そじ",
+      "url": "https://files.wanikani.com/5e1qthnjyveb15lwdfbj3qh5h3fg"
+    }
+  ]
+}

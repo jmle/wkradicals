@@ -1,0 +1,38 @@
+{
+  "id": 6289,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "免れる"
+  },
+  "primaryMeaning": "To Escape Something",
+  "meaningMnemonic": "You are going to <kanji>excuse</kanji> yourself from the situation, and in order to do that, you have <vocabulary>to escape from</vocabulary> the person / thing trying to hold you there in order <vocabulary>to avoid</vocabulary> them.",
+  "primaryReading": "まぬかれる",
+  "readingMnemonic": "In order to do that, you jump inside your <reading>man(u) car</reading> (まぬか) which is a car for a tough man(u) that needs to drive fast, just like you.",
+  "otherMeanings": [
+    "To Avoid Something"
+  ],
+  "otherReadings": [
+    "まぬがれる"
+  ],
+  "wkSlug": "免れる",
+  "related": {
+    "radicals": [
+      208
+    ],
+    "kanjis": [
+      1722
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まぬかれる",
+      "url": "https://files.wanikani.com/j9qunudclsda6o19lhn1van00f22"
+    },
+    {
+      "reading": "まぬがれる",
+      "url": "https://files.wanikani.com/xzr3cm3kd6vlohrk8kx3nmmxndss"
+    }
+  ]
+}

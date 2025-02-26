@@ -1,0 +1,34 @@
+{
+  "id": 9128,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "砂利"
+  },
+  "primaryMeaning": "Gravel",
+  "meaningMnemonic": "If <kanji>sand</kanji> makes a lot of <kanji>profit</kanji>, it swells up and becomes <vocabulary>gravel</vocabulary>. They're like the fat cats of the beach.",
+  "primaryReading": "じゃり",
+  "readingMnemonic": "You learned the reading for 利 with the kanji, but the reading for 砂 is irregular, so here's a mnemonic to help you:\n\nYou're walking through that big fat <vocabulary>gravel</vocabulary>, when a pile of it starts moving, and something suddenly leaps out at you. It's a... <reading>ja</reading>guar (じゃ)! Run!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "砂利",
+  "related": {
+    "radicals": [
+      54,
+      198,
+      135,
+      128
+    ],
+    "kanjis": [
+      1533,
+      786
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゃり",
+      "url": "https://files.wanikani.com/la93bd5j18y0zzlvlpchlvve0hv8"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5855,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "著作権"
+  },
+  "primaryMeaning": "Copyright",
+  "meaningMnemonic": "著作 is \"writing\" or \"authorship.\" The <kanji>rights</kanji> that writing has is what's known as <vocabulary>copyright</vocabulary>.\n\nNote that 著作権 refers to copyright for anything, not just writing.\n",
+  "primaryReading": "ちょさくけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will help to know 著作 first, too.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "著作権",
+  "related": {
+    "radicals": [
+      90,
+      203,
+      75,
+      122,
+      23,
+      72,
+      240
+    ],
+    "kanjis": [
+      1538,
+      584,
+      1134
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょさくけん",
+      "url": "https://files.wanikani.com/620e1fhnu5al920rpqhk49izcitn"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2844,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "近年"
+  },
+  "primaryMeaning": "Recent Years",
+  "meaningMnemonic": "The <kanji>close</kanji> <kanji>year</kanji>s are years that aren't too long ago. They are the <vocabulary>recent years</vocabulary>.\n\nThis is a formal word that is often used in writing or formal speech. ",
+  "primaryReading": "きんねん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "近年",
+  "related": {
+    "radicals": [
+      114,
+      115,
+      8762,
+      126
+    ],
+    "kanjis": [
+      596,
+      546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんねん",
+      "url": "https://files.wanikani.com/w3rznrrj4yiv1tunwrvmxc1q4jjh"
+    }
+  ]
+}

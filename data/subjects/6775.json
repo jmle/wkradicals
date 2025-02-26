@@ -1,0 +1,37 @@
+{
+  "id": 6775,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "縁起"
+  },
+  "primaryMeaning": "Omen",
+  "meaningMnemonic": "The <kanji>edge</kanji> of <kanji>wake up</kanji> is right before you wake up. And, by wake up I mean you're about to wake up to the truth. But, you're only at the edge, so for now what you see is an <vocabulary>omen</vocabulary>... an omen that will show the truth.",
+  "primaryReading": "えんぎ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just remember that 起 is rendaku'd and becomes ぎ here. ",
+  "otherMeanings": [
+    "Luck"
+  ],
+  "otherReadings": [],
+  "wkSlug": "縁起",
+  "related": {
+    "radicals": [
+      86,
+      105,
+      233,
+      124,
+      228
+    ],
+    "kanjis": [
+      1874,
+      740
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんぎ",
+      "url": "https://files.wanikani.com/sj7fq1onftum2eit9e1e2nho3iat"
+    }
+  ]
+}

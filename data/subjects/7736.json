@@ -1,0 +1,31 @@
+{
+  "id": 7736,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "辺"
+  },
+  "primaryMeaning": "Side",
+  "meaningMnemonic": "One of the kanji meanings is <kanji>side</kanji>, and as a standalone word this also means <vocabulary>side</vocabulary>, as in the sides of a shape.",
+  "primaryReading": "へん",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "辺",
+  "related": {
+    "radicals": [
+      114,
+      24
+    ],
+    "kanjis": [
+      651
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へん",
+      "url": "https://files.wanikani.com/qutx0z4cnk01zt42dtivxmgdp5c9"
+    }
+  ]
+}

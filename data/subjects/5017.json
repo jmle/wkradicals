@@ -1,0 +1,37 @@
+{
+  "id": 5017,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "頑張れ"
+  },
+  "primaryMeaning": "Do Your Best",
+  "meaningMnemonic": "Remember 頑張る means “to persevere” or “to do one’s best”? This time you're telling someone to 頑張る, so this word means something like <vocabulary>do your best</vocabulary>, <vocabulary>hang in there</vocabulary>, or <vocabulary>good luck</vocabulary>! Speaking of which, 頑張れ, you!",
+  "primaryReading": "がんばれ",
+  "readingMnemonic": "The reading comes from 頑張る.",
+  "otherMeanings": [
+    "Hang In There",
+    "Good Luck"
+  ],
+  "otherReadings": [],
+  "wkSlug": "頑張れ",
+  "related": {
+    "radicals": [
+      64,
+      184,
+      36,
+      138
+    ],
+    "kanjis": [
+      927,
+      1205
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がんばれ",
+      "url": "https://files.wanikani.com/raf3kx1m6gv2ftst7ii2tvnqrg4o"
+    }
+  ]
+}

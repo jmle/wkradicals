@@ -1,0 +1,36 @@
+{
+  "id": 4983,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "酒造"
+  },
+  "primaryMeaning": "Brewing",
+  "meaningMnemonic": "The act of <kanji>alcohol</kanji> <kanji>creat</kanji>ion is done via <vocabulary>brewing</vocabulary> and <vocabulary>distilling</vocabulary>.",
+  "primaryReading": "しゅぞう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Distilling"
+  ],
+  "otherReadings": [],
+  "wkSlug": "酒造",
+  "related": {
+    "radicals": [
+      103,
+      182,
+      114,
+      306
+    ],
+    "kanjis": [
+      743,
+      1281
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅぞう",
+      "url": "https://files.wanikani.com/2kw854jydg4mt9h0esntijurhef4"
+    }
+  ]
+}

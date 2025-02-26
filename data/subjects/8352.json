@@ -1,0 +1,33 @@
+{
+  "id": 8352,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "坪"
+  },
+  "primaryMeaning": "Tsubo",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "つぼ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Two Mat Area"
+  ],
+  "otherReadings": [],
+  "wkSlug": "坪",
+  "related": {
+    "radicals": [
+      17,
+      279
+    ],
+    "kanjis": [
+      2337
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つぼ",
+      "url": "https://files.wanikani.com/pr6wavxv4wg4kvqq3c9rt9v0qcll"
+    }
+  ]
+}

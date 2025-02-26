@@ -1,0 +1,33 @@
+{
+  "id": 3767,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "晴れる"
+  },
+  "primaryMeaning": "To Clear Up",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>clear up</kanji>, so the verb vocab version is <vocabulary>to clear up</vocabulary>. It also means <vocabulary>to become sunny</vocabulary> as well.",
+  "primaryReading": "はれる",
+  "readingMnemonic": "The reading you learned with the kanji is the one you use here. One of those words where the kun'yomi's going to be more useful.",
+  "otherMeanings": [
+    "To Become Sunny"
+  ],
+  "otherReadings": [],
+  "wkSlug": "晴れる",
+  "related": {
+    "radicals": [
+      22,
+      120
+    ],
+    "kanjis": [
+      933
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はれる",
+      "url": "https://files.wanikani.com/jk6ijk7so8md0y71wigf4nr0qbow"
+    }
+  ]
+}

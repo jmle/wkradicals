@@ -1,0 +1,37 @@
+{
+  "id": 5209,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "軍隊"
+  },
+  "primaryMeaning": "Army",
+  "meaningMnemonic": "The <kanji>army</kanji> <kanji>squad</kanji> is <vocabulary>an army</vocabulary>. It's also just the <vocabulary>army</vocabulary>. It refers more to \"an\" army rather than \"the\" army. Just a group of people who do army things.",
+  "primaryReading": "ぐんたい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "An Army"
+  ],
+  "otherReadings": [],
+  "wkSlug": "軍隊",
+  "related": {
+    "radicals": [
+      76,
+      93,
+      176,
+      8767,
+      233
+    ],
+    "kanjis": [
+      954,
+      1359
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぐんたい",
+      "url": "https://files.wanikani.com/pdq1vvqh05namz95xw00un928het"
+    }
+  ]
+}

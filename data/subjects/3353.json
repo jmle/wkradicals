@@ -1,0 +1,34 @@
+{
+  "id": 3353,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "動物"
+  },
+  "primaryMeaning": "Animal",
+  "meaningMnemonic": "A <kanji>moving</kanji> <kanji>thing</kanji>... think about the \"things\" that move. Technically it could be a lot of things (aka basically anything), but in this case we are talking about moving living things. We won't include humans, because humans are too good to be called things. This refers to <vocabulary>animals</vocabulary> instead.",
+  "primaryReading": "どうぶつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "動物",
+  "related": {
+    "radicals": [
+      188,
+      13,
+      126,
+      173
+    ],
+    "kanjis": [
+      827,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうぶつ",
+      "url": "https://files.wanikani.com/bd3rq8ojptiwi9z2f8bct9zwm2xw"
+    }
+  ]
+}

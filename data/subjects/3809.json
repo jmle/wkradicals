@@ -1,0 +1,36 @@
+{
+  "id": 3809,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "古典的"
+  },
+  "primaryMeaning": "Classical",
+  "meaningMnemonic": "When something is \"<kanji>old</kanji> <kanji>rule</kanji>s-<kanji>like</kanji>,\" it is not very modern. It is in the past. It is <vocabulary>classical</vocabulary>.",
+  "primaryReading": "こてんてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "古典的",
+  "related": {
+    "radicals": [
+      69,
+      185,
+      2,
+      52,
+      236
+    ],
+    "kanjis": [
+      519,
+      975,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こてんてき",
+      "url": "https://files.wanikani.com/rkvlkcjvj604ewfuv0musrcwck6k"
+    }
+  ]
+}

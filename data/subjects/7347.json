@@ -1,0 +1,36 @@
+{
+  "id": 7347,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "劣悪"
+  },
+  "primaryMeaning": "Inferiority",
+  "meaningMnemonic": "<kanji>Inferiority</kanji> is <kanji>bad</kanji>. It is <vocabulary>inferiority</vocabulary>, after all.",
+  "primaryReading": "れつあく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Coarseness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "劣悪",
+  "related": {
+    "radicals": [
+      198,
+      13,
+      204,
+      65
+    ],
+    "kanjis": [
+      2080,
+      829
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "れつあく",
+      "url": "https://files.wanikani.com/1uk4srbt6t55gdex68bcrcxwnr07"
+    }
+  ]
+}

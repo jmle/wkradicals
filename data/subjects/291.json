@@ -1,0 +1,22 @@
+{
+  "id": 291,
+  "type": "radical",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "道"
+  },
+  "primaryMeaning": "Road",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>road</radical>.",
+  "wkSlug": "road",
+  "related": {
+    "kanjis": [
+      1203
+    ],
+    "vocabularies": [
+      4627,
+      4628
+    ]
+  }
+}

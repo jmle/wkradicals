@@ -1,0 +1,37 @@
+{
+  "id": 7960,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "襟元"
+  },
+  "primaryMeaning": "Collar",
+  "meaningMnemonic": "The <kanji>origin</kanji> of your <kanji>collar</kanji> is your <vocabulary>collar</vocabulary>! And the <vocabulary>nape of the neck</vocabulary> because that's where collars go.",
+  "primaryReading": "えりもと",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Front Of The Neck",
+    "Nape Of The Neck"
+  ],
+  "otherReadings": [],
+  "wkSlug": "襟元",
+  "related": {
+    "radicals": [
+      80,
+      23,
+      207,
+      64
+    ],
+    "kanjis": [
+      2149,
+      498
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えりもと",
+      "url": "https://files.wanikani.com/4zcy6nnmmozkvk335480h3lf6ybk"
+    }
+  ]
+}

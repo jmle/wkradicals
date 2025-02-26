@@ -1,0 +1,32 @@
+{
+  "id": 2983,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "金魚"
+  },
+  "primaryMeaning": "Goldfish",
+  "meaningMnemonic": "A <kanji>gold</kanji> <kanji>fish</kanji> is really just gold in color, but it's still called a <vocabulary>goldfish</vocabulary>.",
+  "primaryReading": "きんぎょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "金魚",
+  "related": {
+    "radicals": [
+      118,
+      150
+    ],
+    "kanjis": [
+      602,
+      674
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんぎょ",
+      "url": "https://files.wanikani.com/u18twcv4jdy9woe2qxzovmezlln4"
+    }
+  ]
+}

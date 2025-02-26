@@ -1,0 +1,36 @@
+{
+  "id": 4427,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "公設"
+  },
+  "primaryMeaning": "Public",
+  "meaningMnemonic": "It's <kanji>public</kanji> <kanji>establish</kanji>ment. It is <vocabulary>public</vocabulary>.",
+  "primaryReading": "こうせつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Public Institution"
+  ],
+  "otherReadings": [],
+  "wkSlug": "公設",
+  "related": {
+    "radicals": [
+      2,
+      140,
+      117,
+      160
+    ],
+    "kanjis": [
+      499,
+      1132
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうせつ",
+      "url": "https://files.wanikani.com/37uk0vbr8vfkjg25d9p07e3q1v5d"
+    }
+  ]
+}

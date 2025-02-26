@@ -1,0 +1,38 @@
+{
+  "id": 4168,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "混乱"
+  },
+  "primaryMeaning": "Confusion",
+  "meaningMnemonic": "There's a <kanji>riot</kanji> and everything's getting all <kanji>mix</kanji>ed up! Within that, there is of course a ton of <vocabulary>confusion</vocabulary>.",
+  "primaryReading": "こんらん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Disorder",
+    "Chaos"
+  ],
+  "otherReadings": [],
+  "wkSlug": "混乱",
+  "related": {
+    "radicals": [
+      103,
+      22,
+      161,
+      174,
+      211
+    ],
+    "kanjis": [
+      1078,
+      1079
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こんらん",
+      "url": "https://files.wanikani.com/ecw7q71baf56gu7o31n2tpmoskm3"
+    }
+  ]
+}

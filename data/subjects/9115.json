@@ -1,0 +1,36 @@
+{
+  "id": 9115,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "酌量"
+  },
+  "primaryMeaning": "Making Allowances",
+  "meaningMnemonic": "If you <kanji>serve</kanji> someone a certain <kanji>quantity</kanji> of understanding, you're <vocabulary>making allowances</vocabulary>. You're <vocabulary>taking into consideration</vocabulary> all extenuating circumstances.\n",
+  "primaryReading": "しゃくりょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi for both kanji. You learned these readings with the kanji, so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Taking Into Consideration"
+  ],
+  "otherReadings": [],
+  "wkSlug": "酌量",
+  "related": {
+    "radicals": [
+      182,
+      236,
+      293,
+      125
+    ],
+    "kanjis": [
+      2391,
+      1238
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃくりょう",
+      "url": "https://files.wanikani.com/8cr4jwl2lbenki6g25euuk4rryoy"
+    }
+  ]
+}

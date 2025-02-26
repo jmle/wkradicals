@@ -1,0 +1,37 @@
+{
+  "id": 8754,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "割り算"
+  },
+  "primaryMeaning": "Division",
+  "meaningMnemonic": "<kanji>Divide</kanji> and <kanji>calculate</kanji>? Why, that's just <vocabulary>division</vocabulary>!",
+  "primaryReading": "わりざん",
+  "readingMnemonic": "This is the kun'yomi reading for 割 and the on'yomi for 算. And the さん reading is rendaku'd into ざん. This is the same for all the math-ish words (addition, subtraction, multiplication, and division), so try to remember that, because you'll see it again!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "割り算",
+  "related": {
+    "radicals": [
+      78,
+      210,
+      16,
+      128,
+      85,
+      53,
+      106
+    ],
+    "kanjis": [
+      1193,
+      762
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わりざん",
+      "url": "https://files.wanikani.com/x9lhetrq8l51neqtdtukww5ajahd"
+    }
+  ]
+}

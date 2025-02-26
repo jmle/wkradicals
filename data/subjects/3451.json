@@ -1,0 +1,37 @@
+{
+  "id": 3451,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "中学生"
+  },
+  "primaryMeaning": "Middle School Student",
+  "meaningMnemonic": "You've seen 学生 (means student). Now let's look at a student who's in the middle. Perhaps we can call this a <vocabulary>middle school student</vocabulary> or a <vocabulary>junior high school student</vocabulary>, depending on where you're from.",
+  "primaryReading": "ちゅうがくせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Junior High School Student"
+  ],
+  "otherReadings": [],
+  "wkSlug": "中学生",
+  "related": {
+    "radicals": [
+      49,
+      8769,
+      34,
+      210
+    ],
+    "kanjis": [
+      469,
+      599,
+      850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうがくせい",
+      "url": "https://files.wanikani.com/aemfjxdwyzqp18c59ge8hy3tc0u5"
+    }
+  ]
+}

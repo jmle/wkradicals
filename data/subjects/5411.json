@@ -1,0 +1,35 @@
+{
+  "id": 5411,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "離婚"
+  },
+  "primaryMeaning": "Divorce",
+  "meaningMnemonic": "<kanji>Detach</kanji> from your <kanji>marriage</kanji>. This is a <vocabulary>divorce</vocabulary>.",
+  "primaryReading": "りこん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "離婚",
+  "related": {
+    "radicals": [
+      337,
+      240,
+      19,
+      147,
+      22
+    ],
+    "kanjis": [
+      1443,
+      1416
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りこん",
+      "url": "https://files.wanikani.com/ppb5ullq8n7q6hqb4d5gnm8u57ei"
+    }
+  ]
+}

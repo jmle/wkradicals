@@ -1,0 +1,23 @@
+{
+  "id": 402,
+  "type": "radical",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "波"
+  },
+  "primaryMeaning": "Wave",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>wave</radical>.",
+  "wkSlug": "wave",
+  "related": {
+    "kanjis": [
+      1992
+    ],
+    "vocabularies": [
+      7095,
+      7096,
+      7261
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 6057,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "刑務所"
+  },
+  "primaryMeaning": "Jail",
+  "meaningMnemonic": "The <kanji>punish</kanji> <kanji>task</kanji> <kanji>facility</kanji> is the place you go to do your punishment tasks. It is a <vocabulary>jail</vocabulary> or <vocabulary>prison</vocabulary>.",
+  "primaryReading": "けいむしょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Prison"
+  ],
+  "otherReadings": [],
+  "wkSlug": "刑務所",
+  "related": {
+    "radicals": [
+      171,
+      128,
+      148,
+      60,
+      13,
+      73,
+      115
+    ],
+    "kanjis": [
+      1647,
+      1129,
+      707
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいむしょ",
+      "url": "https://files.wanikani.com/pcsmp7m12n4l8x47s4ovewk0wenx"
+    }
+  ]
+}

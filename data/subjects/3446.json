@@ -1,0 +1,34 @@
+{
+  "id": 3446,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "年下"
+  },
+  "primaryMeaning": "Younger",
+  "meaningMnemonic": "When you have someone who has <kanji>years</kanji> <kanji>below</kanji> your own, this person is <vocabulary>younger</vocabulary> than you.",
+  "primaryReading": "としした",
+  "readingMnemonic": "The reading for this one is kind of strange. It is the kun'yomi reading for both of the kanji. You know the kun'yomi readings from earlier, back when you learned the vocab 年 and 下.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "年下",
+  "related": {
+    "radicals": [
+      8762,
+      126,
+      1,
+      10
+    ],
+    "kanjis": [
+      546,
+      451
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "としした",
+      "url": "https://files.wanikani.com/9h9vh4rwrwna4t06nlh2xbjq8qwx"
+    }
+  ]
+}

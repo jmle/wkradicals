@@ -1,0 +1,35 @@
+{
+  "id": 5598,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "簡易"
+  },
+  "primaryMeaning": "Simple",
+  "meaningMnemonic": "It has <kanji>simplicity</kanji> and is <kanji>easy</kanji>. Whatever it is, it is <vocabulary>simple</vocabulary> and <vocabulary>easy</vocabulary>.",
+  "primaryReading": "かんい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Easy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "簡易",
+  "related": {
+    "radicals": [
+      85,
+      344,
+      172
+    ],
+    "kanjis": [
+      1513,
+      1063
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんい",
+      "url": "https://files.wanikani.com/ena8sf1qlyvcvuihit3xj3byo4tw"
+    }
+  ]
+}

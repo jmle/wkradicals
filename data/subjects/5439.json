@@ -1,0 +1,34 @@
+{
+  "id": 5439,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "幾つ"
+  },
+  "primaryMeaning": "How Many",
+  "meaningMnemonic": "This has the same meaning as the kanji, specifically the <vocabulary>how many</vocabulary> meaning. You know this because you ask \"how many\" and they answer \"つ.\" This can also be used to ask <vocabulary>how old</vocabulary> someone is, but generally only for children's ages.\n\nThis word is usually written in kana in modern writing.",
+  "primaryReading": "いくつ",
+  "readingMnemonic": "The reading comes from what you learned in the kanji, nice job.",
+  "otherMeanings": [
+    "How Old"
+  ],
+  "otherReadings": [],
+  "wkSlug": "幾つ",
+  "related": {
+    "radicals": [
+      87,
+      194,
+      9
+    ],
+    "kanjis": [
+      1453
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いくつ",
+      "url": "https://files.wanikani.com/2ygyk6j9sgqy3kxgmnvba5yxi45x"
+    }
+  ]
+}

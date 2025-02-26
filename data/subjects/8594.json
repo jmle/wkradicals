@@ -1,0 +1,37 @@
+{
+  "id": 8594,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "倹約"
+  },
+  "primaryMeaning": "Thrift",
+  "meaningMnemonic": "I <kanji>promise</kanji> this will be a really <kanji>thrifty</kanji> place because it's a <vocabulary>thrift</vocabulary> store! They wouldn't lie about that!",
+  "primaryReading": "けんやく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Economy",
+    "Frugality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "倹約",
+  "related": {
+    "radicals": [
+      75,
+      8785,
+      86,
+      236
+    ],
+    "kanjis": [
+      2465,
+      915
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんやく",
+      "url": "https://files.wanikani.com/l8fwtl5f04qnuc71060zk5akhe45"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5227,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "禅宗"
+  },
+  "primaryMeaning": "Zen Sect",
+  "meaningMnemonic": "The <kanji>zen</kanji> <kanji>religion</kanji> is a part of Buddhism. It is the <vocabulary>Zen sect</vocabulary> of Buddhism.",
+  "primaryReading": "ぜんしゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "禅宗",
+  "related": {
+    "radicals": [
+      80,
+      199,
+      78,
+      207
+    ],
+    "kanjis": [
+      1047,
+      1401
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんしゅう",
+      "url": "https://files.wanikani.com/827nxflob3odupredavflinjckyq"
+    }
+  ]
+}

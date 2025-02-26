@@ -1,0 +1,32 @@
+{
+  "id": 6257,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "足跡"
+  },
+  "primaryMeaning": "Footprint",
+  "meaningMnemonic": "<kanji>Foot</kanji> <kanji>traces</kanji> are <vocabulary>footprint</vocabulary>s.",
+  "primaryReading": "あしあと",
+  "readingMnemonic": "The reading is the kun'yomi vocab readings of the kanji, put together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "足跡",
+  "related": {
+    "radicals": [
+      95,
+      9329
+    ],
+    "kanjis": [
+      561,
+      1661
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あしあと",
+      "url": "https://files.wanikani.com/3knabt93nhsbx5pfwd1kwqdom7b1"
+    }
+  ]
+}

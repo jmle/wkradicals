@@ -1,0 +1,35 @@
+{
+  "id": 7536,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "立ち飲み"
+  },
+  "primaryMeaning": "Standing And Drinking",
+  "meaningMnemonic": "The meaning is the same as the kanji. When you <kanji>stand</kanji> and <kanji>drink</kanji>, you're <vocabulary>standing and drinking</vocabulary>. Or indeed, <vocabulary>drinking while standing</vocabulary>.",
+  "primaryReading": "たちのみ",
+  "readingMnemonic": "The readings are from the words 立つ and 飲む put together.",
+  "otherMeanings": [
+    "Drinking While Standing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "立ち飲み",
+  "related": {
+    "radicals": [
+      55,
+      139,
+      142
+    ],
+    "kanjis": [
+      494,
+      755
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たちのみ",
+      "url": "https://files.wanikani.com/maoyo9weu3intsssfxi51qsfwl3s"
+    }
+  ]
+}

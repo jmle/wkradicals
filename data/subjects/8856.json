@@ -1,0 +1,23 @@
+{
+  "id": 8856,
+  "type": "radical",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "妻"
+  },
+  "primaryMeaning": "Wife",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>wife</radical>.",
+  "wkSlug": "wife",
+  "related": {
+    "kanjis": [
+      8886
+    ],
+    "vocabularies": [
+      8902,
+      8903,
+      8904
+    ]
+  }
+}

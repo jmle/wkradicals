@@ -1,0 +1,32 @@
+{
+  "id": 7213,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "踊る"
+  },
+  "primaryMeaning": "To Dance",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dance</kanji> and the verb vocab version means <vocabulary>to dance</vocabulary>.",
+  "primaryReading": "おどる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "踊る",
+  "related": {
+    "radicals": [
+      95,
+      141,
+      71
+    ],
+    "kanjis": [
+      2032
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おどる",
+      "url": "https://files.wanikani.com/67jvbcdthx5qbzhleevqetulipig"
+    }
+  ]
+}

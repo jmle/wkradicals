@@ -1,0 +1,39 @@
+{
+  "id": 5041,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "南極"
+  },
+  "primaryMeaning": "Antarctica",
+  "meaningMnemonic": "The <kanji>extreme</kanji> <kanji>south</kanji> is the extreme of south. It's about as south as you can go. That place is known as <vocabulary>Antarctica</vocabulary>.",
+  "primaryReading": "なんきょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "南極",
+  "related": {
+    "radicals": [
+      15,
+      29,
+      8767,
+      61,
+      23,
+      1,
+      14,
+      16,
+      30
+    ],
+    "kanjis": [
+      634,
+      1340
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なんきょく",
+      "url": "https://files.wanikani.com/8pyuhhttny4ywzfswi3vrsuoq4kz"
+    }
+  ]
+}

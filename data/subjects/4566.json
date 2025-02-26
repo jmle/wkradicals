@@ -1,0 +1,38 @@
+{
+  "id": 4566,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "提出"
+  },
+  "primaryMeaning": "Submission",
+  "meaningMnemonic": "Go ahead and <kanji>present</kanji> then <kanji>exit</kanji>. This will be your <vocabulary>presentation</vocabulary> of the materials.\n\nPerhaps it's the <vocabulary>submission</vocabulary> of your resignation, or the <vocabulary>filing</vocabulary> of a complaint, which explains why you exit so quickly afterwards. You could also just be <vocabulary>handing in</vocabulary> your homework, though.",
+  "primaryReading": "ていしゅつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Filing",
+    "Handing In",
+    "Presentation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "提出",
+  "related": {
+    "radicals": [
+      63,
+      22,
+      229,
+      20
+    ],
+    "kanjis": [
+      1181,
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ていしゅつ",
+      "url": "https://files.wanikani.com/7egjjbmdd6iwlxxjz7furhjnb97r"
+    }
+  ]
+}

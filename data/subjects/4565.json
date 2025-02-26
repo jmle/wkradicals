@@ -1,0 +1,38 @@
+{
+  "id": 4565,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "提案"
+  },
+  "primaryMeaning": "Proposition",
+  "meaningMnemonic": "Please <kanji>present</kanji> your <kanji>plan</kanji> in the form of a <vocabulary>proposition</vocabulary>.",
+  "primaryReading": "ていあん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Proposal",
+    "Suggestion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "提案",
+  "related": {
+    "radicals": [
+      63,
+      22,
+      229,
+      283,
+      23
+    ],
+    "kanjis": [
+      1181,
+      1163
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ていあん",
+      "url": "https://files.wanikani.com/a46r1g5f0anfthotezzuiaxtb7au"
+    }
+  ]
+}

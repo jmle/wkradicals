@@ -1,0 +1,37 @@
+{
+  "id": 8918,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "鮭"
+  },
+  "primaryMeaning": "Salmon",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "さけ",
+  "readingMnemonic": "The reading for this vocabulary is the same as the reading you learned with the kanji. But! Some explanation about when to use さけ versus しゃけ.\n\nThey're both technically right. But, typically when you refer to the living animal, you use さけ, and when you refer to salmon as a food, it's more likely to be しゃけ (but it can go either way). There might be some generational and regional differences, though.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "しゃけ"
+  ],
+  "wkSlug": "鮭",
+  "related": {
+    "radicals": [
+      150,
+      17
+    ],
+    "kanjis": [
+      8911
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さけ",
+      "url": "https://files.wanikani.com/fbc8osu3vybcxeci0m90qaznah8w"
+    },
+    {
+      "reading": "しゃけ",
+      "url": "https://files.wanikani.com/2ofdr1ki36mnibzcbnots93lyw3h"
+    }
+  ]
+}

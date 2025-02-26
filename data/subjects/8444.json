@@ -1,0 +1,39 @@
+{
+  "id": 8444,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "奔放"
+  },
+  "primaryMeaning": "Wild",
+  "meaningMnemonic": "Some day you'll <kanji>run</kanji> around, <kanji>release</kanji>d from the world and its troubles and you'll end up running <vocabulary>wild</vocabulary>. All your actions will be completely <vocabulary>uninhibited</vocabulary> when you aren't tied to your school or your job. It will be great!",
+  "primaryReading": "ほんぽう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out because ほう becomes ぽう here.",
+  "otherMeanings": [
+    "Uninhibited",
+    "Extravagant",
+    "Rampant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "奔放",
+  "related": {
+    "radicals": [
+      18,
+      15,
+      106,
+      66,
+      60
+    ],
+    "kanjis": [
+      2373,
+      791
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほんぽう",
+      "url": "https://files.wanikani.com/qkyj5rkel1am7ltc5sh3vkz5870w"
+    }
+  ]
+}

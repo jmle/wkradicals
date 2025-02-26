@@ -1,0 +1,33 @@
+{
+  "id": 6989,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "椅子"
+  },
+  "primaryMeaning": "Chair",
+  "meaningMnemonic": "A <kanji>chair</kanji> <kanji>child</kanji> is for some reason just a <vocabulary>chair</vocabulary>. Not sure why it's a child, but it is.",
+  "primaryReading": "いす",
+  "readingMnemonic": "The reading for 子 is weird. It's す, so think about how you sat on this chair and it broke, so you <reading>sue</reading>d (す) the person who made the chair (who happened to be a child).",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "椅子",
+  "related": {
+    "radicals": [
+      23,
+      326,
+      34
+    ],
+    "kanjis": [
+      1952,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いす",
+      "url": "https://files.wanikani.com/xqd2av6x3z8fw46973sfyw60uixw"
+    }
+  ]
+}

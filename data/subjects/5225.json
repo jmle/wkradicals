@@ -1,0 +1,34 @@
+{
+  "id": 5225,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "宗教"
+  },
+  "primaryMeaning": "Religion",
+  "meaningMnemonic": "The <kanji>religion</kanji> <kanji>teach</kanji>ings are what makes up a <vocabulary>religion</vocabulary>. If you don't have the teachings of the religion, nobody will learn about it, and it will stop being a religion.",
+  "primaryReading": "しゅうきょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "宗教",
+  "related": {
+    "radicals": [
+      78,
+      207,
+      418,
+      60
+    ],
+    "kanjis": [
+      1401,
+      668
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅうきょう",
+      "url": "https://files.wanikani.com/01d53qqtf1u9eum0safgxhccrqbu"
+    }
+  ]
+}

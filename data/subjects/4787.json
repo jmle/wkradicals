@@ -1,0 +1,36 @@
+{
+  "id": 4787,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "前景"
+  },
+  "primaryMeaning": "Foreground",
+  "meaningMnemonic": "The <kanji>front</kanji> <kanji>scene</kanji> is the <vocabulary>foreground</vocabulary>.\n\nThis word primarily refers to the visual foreground in art, photography, or theater. Unlike \"foreground\" in English, it’s not commonly used in a figurative sense to describe the most prominent aspect of situations.",
+  "primaryReading": "ぜんけい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "前景",
+  "related": {
+    "radicals": [
+      8767,
+      1,
+      43,
+      128,
+      22,
+      299
+    ],
+    "kanjis": [
+      633,
+      1256
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんけい",
+      "url": "https://files.wanikani.com/ksjbp4hxvxqaxnwzunyqpb64vxkp"
+    }
+  ]
+}

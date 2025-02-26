@@ -1,0 +1,37 @@
+{
+  "id": 4832,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "後輩"
+  },
+  "primaryMeaning": "Junior",
+  "meaningMnemonic": "The <kanji>comrade</kanji> who's <kanji>behind</kanji> you is your <vocabulary>junior</vocabulary>.",
+  "primaryReading": "こうはい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The reading for 後 is the long こう reading, though. Just think of your junior being <reading>こう</reading>いち.",
+  "otherMeanings": [
+    "One's Junior"
+  ],
+  "otherReadings": [],
+  "wkSlug": "後輩",
+  "related": {
+    "radicals": [
+      99,
+      87,
+      60,
+      209,
+      93
+    ],
+    "kanjis": [
+      636,
+      1276
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうはい",
+      "url": "https://files.wanikani.com/xeu64n6xjzu56yshox4w18ga2rsk"
+    }
+  ]
+}

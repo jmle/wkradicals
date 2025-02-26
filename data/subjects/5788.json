@@ -1,0 +1,36 @@
+{
+  "id": 5788,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "黒幕"
+  },
+  "primaryMeaning": "Wirepuller",
+  "meaningMnemonic": "Just imagine a <kanji>black</kanji> <kanji>curtain</kanji> off in the background. You don't know what's behind it, but you know what's in front of it. Thing is, the thing in front of the curtain is controlled by whoever is behind the black curtain. This person is the <vocabulary>wirepuller</vocabulary> or <vocabulary>mastermind</vocabulary> of the situation. Like the Wizard of Oz, or something.",
+  "primaryReading": "くろまく",
+  "readingMnemonic": "The reading is the vocab readings for 黒 and 幕, though the vocab reading for 幕 is the same as the on'yomi reading, making things easy for you.",
+  "otherMeanings": [
+    "Mastermind",
+    "Black Curtain"
+  ],
+  "otherReadings": [],
+  "wkSlug": "黒幕",
+  "related": {
+    "radicals": [
+      153,
+      356,
+      102
+    ],
+    "kanjis": [
+      677,
+      1562
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くろまく",
+      "url": "https://files.wanikani.com/3pd3069loask8xzwcm6qbmt1cq1w"
+    }
+  ]
+}

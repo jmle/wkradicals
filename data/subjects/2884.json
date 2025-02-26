@@ -1,0 +1,37 @@
+{
+  "id": 2884,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "全国"
+  },
+  "primaryMeaning": "Nationwide",
+  "meaningMnemonic": "When something involves <kanji>all</kanji> the <kanji>country</kanji> you know it's <vocabulary>nationwide</vocabulary> or <vocabulary>national</vocabulary>.",
+  "primaryReading": "ぜんこく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "National",
+    "Countrywide"
+  ],
+  "otherReadings": [],
+  "wkSlug": "全国",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      16,
+      3
+    ],
+    "kanjis": [
+      610,
+      621
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんこく",
+      "url": "https://files.wanikani.com/s93t09x91q4rse8ul1n7fzu7cggy"
+    }
+  ]
+}

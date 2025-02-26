@@ -1,0 +1,36 @@
+{
+  "id": 4249,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "大きい順"
+  },
+  "primaryMeaning": "Decreasing Order",
+  "meaningMnemonic": "When the <kanji>order</kanji> is from <kanji>big</kanji> (to small), you are talking about <vocabulary>decreasing order</vocabulary>. That's <vocabulary>largest first</vocabulary>.",
+  "primaryReading": "おおきいじゅん",
+  "readingMnemonic": "The reading is the word 大きい plus 順's reading you learned with the kanji.",
+  "otherMeanings": [
+    "Descending Order",
+    "Largest First"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大きい順",
+  "related": {
+    "radicals": [
+      18,
+      21,
+      184
+    ],
+    "kanjis": [
+      453,
+      1060
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おおきいじゅん",
+      "url": "https://files.wanikani.com/kift0s20ozh3fta7cerrwu4clryt"
+    }
+  ]
+}

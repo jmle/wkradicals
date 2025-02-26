@@ -1,0 +1,37 @@
+{
+  "id": 7809,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "乾燥"
+  },
+  "primaryMeaning": "Dehydration",
+  "meaningMnemonic": "Even something <kanji>dry</kanji> will <kanji>dry up</kanji> more if it's got <vocabulary>dehydration</vocabulary>. There's a lot of <vocabulary>dryness</vocabulary> going on here.",
+  "primaryReading": "かんそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Dryness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "乾燥",
+  "related": {
+    "radicals": [
+      8793,
+      8762,
+      324,
+      46,
+      8830
+    ],
+    "kanjis": [
+      1381,
+      2127
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんそう",
+      "url": "https://files.wanikani.com/evqvj2mdbwvo8gvo9i9b18r4vgoe"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 7952,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "陳述"
+  },
+  "primaryMeaning": "Statement",
+  "meaningMnemonic": "<kanji>Exhibit</kanji> what you want to <kanji>mention</kanji> in a loud, clear <vocabulary>statement</vocabulary>. You have to say it if you want people to listen.",
+  "primaryReading": "ちんじゅつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Declaration",
+    "Allegation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "陳述",
+  "related": {
+    "radicals": [
+      176,
+      224,
+      114,
+      130,
+      3
+    ],
+    "kanjis": [
+      2173,
+      1243
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちんじゅつ",
+      "url": "https://files.wanikani.com/ess6cxnkxp9tc6uvv3ows83rm14u"
+    }
+  ]
+}

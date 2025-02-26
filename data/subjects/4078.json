@@ -1,0 +1,33 @@
+{
+  "id": 4078,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "許可"
+  },
+  "primaryMeaning": "Permission",
+  "meaningMnemonic": "I <kanji>permit</kanji> that it is <kanji>possible</kanji>. So, go ahead, do it. I give you <vocabulary>permission</vocabulary>.",
+  "primaryReading": "きょか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "許可",
+  "related": {
+    "radicals": [
+      117,
+      415,
+      113
+    ],
+    "kanjis": [
+      1050,
+      1049
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょか",
+      "url": "https://files.wanikani.com/a7k81sciudfwgrj6qytauh3zterg"
+    }
+  ]
+}

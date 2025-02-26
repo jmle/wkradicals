@@ -1,0 +1,37 @@
+{
+  "id": 7996,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "沸騰"
+  },
+  "primaryMeaning": "Boiling",
+  "meaningMnemonic": "The <kanji>inflation</kanji> of <kanji>boil</kanji>ing water means that bubbles are being inflated in there and bubbling to the top. This is called <vocabulary>boiling</vocabulary>, or if it's happening in a person it's called <vocabulary>seething</vocabulary>.",
+  "primaryReading": "ふっとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Seething"
+  ],
+  "otherReadings": [],
+  "wkSlug": "沸騰",
+  "related": {
+    "radicals": [
+      103,
+      284,
+      43,
+      8819,
+      165
+    ],
+    "kanjis": [
+      2125,
+      2198
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふっとう",
+      "url": "https://files.wanikani.com/5e1nap6aegktyoso516aut6nobmx"
+    }
+  ]
+}

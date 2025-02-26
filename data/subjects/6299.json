@@ -1,0 +1,37 @@
+{
+  "id": 6299,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "英語圏"
+  },
+  "primaryMeaning": "English Speaking World",
+  "meaningMnemonic": "The <kanji>English</kanji> <kanji>range</kanji> is the areas where people speak English, aka the <vocabulary>English Speaking World</vocabulary>.",
+  "primaryReading": "えいごけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "英語圏",
+  "related": {
+    "radicals": [
+      90,
+      231,
+      117,
+      39,
+      16,
+      414
+    ],
+    "kanjis": [
+      953,
+      764,
+      1724
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えいごけん",
+      "url": "https://files.wanikani.com/s8qzhn0ukgmnuxjh0i3ajva9rjm5"
+    }
+  ]
+}

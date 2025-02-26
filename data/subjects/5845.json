@@ -1,0 +1,33 @@
+{
+  "id": 5845,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "閉まる"
+  },
+  "primaryMeaning": "To Close",
+  "meaningMnemonic": "If 閉める is \"to close something\" or \"to shut something,\" then this is going to be the version where you don't do anything and something closes on its own. That's why this is <vocabulary>to close</vocabulary> or <vocabulary>to shut</vocabulary>. You remember this because the door keeps shutting on your hand, <reading>marr</reading>ing (まる) it over and over again. Ouch.",
+  "primaryReading": "しまる",
+  "readingMnemonic": "The reading is the same as 閉める.",
+  "otherMeanings": [
+    "To Shut"
+  ],
+  "otherReadings": [],
+  "wkSlug": "閉まる",
+  "related": {
+    "radicals": [
+      214,
+      264
+    ],
+    "kanjis": [
+      1514
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しまる",
+      "url": "https://files.wanikani.com/7qz592oq9janc6p0d1pfz6gw7had"
+    }
+  ]
+}

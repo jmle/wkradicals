@@ -1,0 +1,33 @@
+{
+  "id": 5053,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "〜症"
+  },
+  "primaryMeaning": "Syndrome",
+  "meaningMnemonic": "Multiple <kanji>symptom</kanji>s combine to make a <vocabulary>syndrome</vocabulary>. If you see this at the end of a word, you know it means \"______ syndrome,\" or else indicates some kind of health condition.  \n\n〜症 is used in medical terms for certain health conditions, symptoms, or syndromes, like 熱中症 (heatstroke) or 認知症 (dementia).",
+  "primaryReading": "しょう",
+  "readingMnemonic": "Since this is attached to things, it's treated like a jukugo word, so the on'yomi reading is used here.",
+  "otherMeanings": [
+    "Disease"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜症",
+  "related": {
+    "radicals": [
+      187,
+      229
+    ],
+    "kanjis": [
+      1334
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょう",
+      "url": "https://files.wanikani.com/qg977k8u6glq4stcbjjhpg506o51"
+    }
+  ]
+}

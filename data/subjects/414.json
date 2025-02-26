@@ -1,0 +1,23 @@
+{
+  "id": 414,
+  "type": "radical",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "巻"
+  },
+  "primaryMeaning": "Scroll",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>scroll</radical>.",
+  "wkSlug": "scroll",
+  "related": {
+    "kanjis": [
+      1724
+    ],
+    "vocabularies": [
+      6298,
+      6299,
+      6300
+    ]
+  }
+}

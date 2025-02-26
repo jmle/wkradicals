@@ -1,0 +1,36 @@
+{
+  "id": 4366,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "静々"
+  },
+  "primaryMeaning": "Quietly",
+  "meaningMnemonic": "<kanji>Quiet</kanji> <kanji>quiet</kanji>! Do it <vocabulary>quietly</vocabulary>, please.",
+  "primaryReading": "しずしず",
+  "readingMnemonic": "You know how 静か is しずか? Well, this is the same reading as that. Say it in a whisper with me: \"<reading>しずしず</reading>.\" Shhh!",
+  "otherMeanings": [
+    "Calmly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "静々",
+  "related": {
+    "radicals": [
+      120,
+      261,
+      14,
+      3
+    ],
+    "kanjis": [
+      1052,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しずしず",
+      "url": "https://files.wanikani.com/cs9js71m7doqd9fh6pvhf2dh4zjo"
+    }
+  ]
+}

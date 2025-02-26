@@ -1,0 +1,39 @@
+{
+  "id": 8486,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "絹糸"
+  },
+  "primaryMeaning": "Silk Thread",
+  "meaningMnemonic": "A <kanji>silk</kanji> <kanji>thread</kanji> is <vocabulary>silk thread</vocabulary>!",
+  "primaryReading": "けんし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned these readings for 絹 and 糸 yet, so here's a mnemonic to help you:\n\nWho only uses clothes made with <vocabulary>silk thread</vocabulary>? <reading>Ken</reading>'s <reading>shee</reading>p (し)! Ken's sheep is very particular, and only wears clothes made from silk thread while it's waiting for its wool to grow back.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "きぬいと"
+  ],
+  "wkSlug": "絹糸",
+  "related": {
+    "radicals": [
+      86,
+      16,
+      43
+    ],
+    "kanjis": [
+      2384,
+      551
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんし",
+      "url": "https://files.wanikani.com/481ar33g63ox8eewp32whjsqacfs"
+    },
+    {
+      "reading": "きぬいと",
+      "url": "https://files.wanikani.com/t4tvu1mv6v012mq8tdkyvaeq9aum"
+    }
+  ]
+}

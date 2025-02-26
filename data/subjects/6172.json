@@ -1,0 +1,33 @@
+{
+  "id": 6172,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "月刊"
+  },
+  "primaryMeaning": "Monthly Edition",
+  "meaningMnemonic": "The <kanji>moon</kanji> <kanji>edition</kanji> is the <vocabulary>monthly edition</vocabulary>, since 月 also means \"month.\"",
+  "primaryReading": "げっかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "月刊",
+  "related": {
+    "radicals": [
+      43,
+      61,
+      128
+    ],
+    "kanjis": [
+      477,
+      1683
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げっかん",
+      "url": "https://files.wanikani.com/6tazlrs7pv6h5c2atwog1s5mvc9p"
+    }
+  ]
+}

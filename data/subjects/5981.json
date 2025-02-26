@@ -1,0 +1,31 @@
+{
+  "id": 5981,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "廃れる"
+  },
+  "primaryMeaning": "To Become Obsolete",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>obsolete</kanji> and this word means <vocabulary>to become obsolete</vocabulary>.",
+  "primaryReading": "すたれる",
+  "readingMnemonic": "Everything has <vocabulary>to become obsolete</vocabulary>. Even the biggest most fiery things, like a <reading>sta</reading>r, for example, will go obsolete at some point.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "廃れる",
+  "related": {
+    "radicals": [
+      62,
+      359
+    ],
+    "kanjis": [
+      1622
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すたれる",
+      "url": "https://files.wanikani.com/sho8alqi8apyx1sb0k2zqezqwzuo"
+    }
+  ]
+}

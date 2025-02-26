@@ -1,0 +1,40 @@
+{
+  "id": 2153,
+  "type": "kanji",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "浦"
+  },
+  "primaryReading": "うら",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "うら",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ほ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Bay",
+  "otherMeanings": [],
+  "meaningMnemonic": "If you want to have a <radical>tsunami</radical> at your <radical>wedding</radical>, you need to make sure you have it at the <kanji>bay</kanji>. Anywhere more inland, and the tsunami won't reach it in time.",
+  "readingMnemonic": "How did you get a tsunami to show up in the <kanji>bay</kanji> in the first place? By throwing a bunch of <reading>ura</reading>nium (うら) in there, of course! Its highly unstable nature can make any body of water, especially a calm bay, turn violent.",
+  "wkSlug": "浦",
+  "related": {
+    "radicals": [
+      103,
+      300
+    ],
+    "vocabularies": [
+      7801
+    ]
+  },
+  "radicalNames": [
+    "Tsunami",
+    "Wedding"
+  ]
+}

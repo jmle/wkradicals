@@ -1,0 +1,35 @@
+{
+  "id": 6534,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "鉱山"
+  },
+  "primaryMeaning": "A Mine",
+  "meaningMnemonic": "A <kanji>mineral</kanji> <kanji>mountain</kanji> is one that you should build <vocabulary>a mine</vocabulary> in, to get all those minerals.",
+  "primaryReading": "こうざん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Mine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鉱山",
+  "related": {
+    "radicals": [
+      118,
+      382,
+      20
+    ],
+    "kanjis": [
+      1798,
+      455
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうざん",
+      "url": "https://files.wanikani.com/eerqjqfrlccev5a3qhyfc5tk73je"
+    }
+  ]
+}

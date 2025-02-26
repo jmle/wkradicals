@@ -1,0 +1,34 @@
+{
+  "id": 8366,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "敢えて"
+  },
+  "primaryMeaning": "Dare To",
+  "meaningMnemonic": "This is the adverb version of the kanji <kanji>daring</kanji>, so it means <vocabulary>dare to</vocabulary> or <vocabulary>daringly</vocabulary>.",
+  "primaryReading": "あえて",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You haven't learned this reading yet so here's a mnemonic to help you:\n\nYou're about to <vocabulary>daringly</vocabulary> jump off a cliff and you shout, \"<reading>AAAHHH</reading> (あ)!\" to get your courage up! You always have to yell AAHH before you dare to do daring things!",
+  "otherMeanings": [
+    "Presume To",
+    "Daringly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "敢えて",
+  "related": {
+    "radicals": [
+      8799,
+      60
+    ],
+    "kanjis": [
+      2350
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あえて",
+      "url": "https://files.wanikani.com/7pxypfpafkp1wjj41ea7ri9ck1kf"
+    }
+  ]
+}

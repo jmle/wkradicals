@@ -1,0 +1,38 @@
+{
+  "id": 4034,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "虚弱"
+  },
+  "primaryMeaning": "Weak",
+  "meaningMnemonic": "You have yourself a <kanji>void</kanji> of <kanji>weak</kanji>ness. This means you are <vocabulary>weak</vocabulary> and <vocabulary>feeble</vocabulary>.",
+  "primaryReading": "きょじゃく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Feeble",
+    "Weakness",
+    "Feebleness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "虚弱",
+  "related": {
+    "radicals": [
+      254,
+      8768,
+      36,
+      123
+    ],
+    "kanjis": [
+      1017,
+      661
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょじゃく",
+      "url": "https://files.wanikani.com/lpv64k8l1achs0kt3u8wu77l0umh"
+    }
+  ]
+}

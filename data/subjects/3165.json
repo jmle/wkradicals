@@ -1,0 +1,35 @@
+{
+  "id": 3165,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "病院"
+  },
+  "primaryMeaning": "Hospital",
+  "meaningMnemonic": "A <kanji>sick</kanji> <kanji>institution</kanji> is a place where sick people go. That is a <vocabulary>hospital</vocabulary>.",
+  "primaryReading": "びょういん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "病院",
+  "related": {
+    "radicals": [
+      187,
+      186,
+      176,
+      78,
+      64
+    ],
+    "kanjis": [
+      773,
+      744
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "びょういん",
+      "url": "https://files.wanikani.com/8rnoav743jxt2d7vtlxgpqok2spq"
+    }
+  ]
+}

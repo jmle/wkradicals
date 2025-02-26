@@ -1,0 +1,35 @@
+{
+  "id": 3700,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "合格する"
+  },
+  "primaryMeaning": "To Pass A Test",
+  "meaningMnemonic": "The <kanji>status</kanji> <kanji>joins</kanji> together. Think of this like a bunch of status messages on Facebook, all coming together at the same time. A big government test has just finished. Everyone's status' are joining on Facebook together to say they passed, showing <vocabulary>to pass a test</vocabulary>.",
+  "primaryReading": "ごうかくする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "To Pass An Exam"
+  ],
+  "otherReadings": [],
+  "wkSlug": "合格する",
+  "related": {
+    "radicals": [
+      216,
+      23,
+      180
+    ],
+    "kanjis": [
+      852,
+      920
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ごうかくする",
+      "url": "https://files.wanikani.com/gflzaru34laklq08cek5zrmrvd5e"
+    }
+  ]
+}

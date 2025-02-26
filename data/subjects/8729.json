@@ -1,0 +1,39 @@
+{
+  "id": 8729,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "奥底"
+  },
+  "primaryMeaning": "Depths",
+  "meaningMnemonic": "Something is in the <kanji>interior</kanji> AND the <kanji>bottom</kanji>? Why, it's in the very <vocabulary>depths</vocabulary>! And if it's in the interior and bottom of you, then it's at the <vocabulary>bottom</vocabulary> of your heart!",
+  "primaryReading": "おくそこ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the kanji, so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Bottom"
+  ],
+  "otherReadings": [],
+  "wkSlug": "奥底",
+  "related": {
+    "radicals": [
+      3,
+      29,
+      98,
+      18,
+      62,
+      147,
+      1
+    ],
+    "kanjis": [
+      1689,
+      1020
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おくそこ",
+      "url": "https://files.wanikani.com/6d06m9zwtsrlhbo4ce6up839d7k1"
+    }
+  ]
+}

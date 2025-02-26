@@ -1,0 +1,33 @@
+{
+  "id": 4805,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "効く"
+  },
+  "primaryMeaning": "To Be Effective",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>effective</kanji>. The verb vocab version is <vocabulary>to be effective</vocabulary> or <vocabulary>to work effectively</vocabulary> (since \"to effective\" doesn't make sense).\n\nThis word is used to describe something that works effectively and as intended, such as medicine that achieves the desired effect or brakes that effectively stop the car.\n\n",
+  "primaryReading": "きく",
+  "readingMnemonic": "What is particularly effective? It's your <reading>key</reading> (き). It's effective at opening your house door.",
+  "otherMeanings": [
+    "To Work Effectively"
+  ],
+  "otherReadings": [],
+  "wkSlug": "効く",
+  "related": {
+    "radicals": [
+      302,
+      13
+    ],
+    "kanjis": [
+      1267
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きく",
+      "url": "https://files.wanikani.com/11zh27xpvhlnz2rm3dbcdz8hubdx"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 5203,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "郵便局"
+  },
+  "primaryMeaning": "Post Office",
+  "meaningMnemonic": "With 郵便 being <kanji>mail</kanji> and 局 being bureau, we have the \"mail bureau.\" They're more often known as the <vocabulary>post office</vocabulary>.",
+  "primaryReading": "ゆうびんきょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know the word 郵便 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "郵便局",
+  "related": {
+    "radicals": [
+      93,
+      176,
+      75,
+      1,
+      51,
+      31,
+      37,
+      8780,
+      16
+    ],
+    "kanjis": [
+      1299,
+      808,
+      684
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうびんきょく",
+      "url": "https://files.wanikani.com/8dynl8o4zl7q82rdlyclitzgm6r1"
+    }
+  ]
+}

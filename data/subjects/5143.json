@@ -1,0 +1,36 @@
+{
+  "id": 5143,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "妙薬"
+  },
+  "primaryMeaning": "Wonder Drug",
+  "meaningMnemonic": "A <kanji>peculiar</kanji> <kanji>drug</kanji> that seems too good to be true? That's what we call a <vocabulary>wonder drug</vocabulary> or a <vocabulary>miracle cure</vocabulary>.",
+  "primaryReading": "みょうやく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Miracle Cure"
+  ],
+  "otherReadings": [],
+  "wkSlug": "妙薬",
+  "related": {
+    "radicals": [
+      19,
+      198,
+      90,
+      251
+    ],
+    "kanjis": [
+      1364,
+      997
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みょうやく",
+      "url": "https://files.wanikani.com/9tgujodettuf2ih6o3aylxhnr66u"
+    }
+  ]
+}

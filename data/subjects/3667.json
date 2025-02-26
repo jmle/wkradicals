@@ -1,0 +1,41 @@
+{
+  "id": 3667,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "雰囲気"
+  },
+  "primaryMeaning": "Atmosphere",
+  "meaningMnemonic": "The <kanji>surround</kanji>ing <kanji>energy</kanji> in the <kanji>atmosphere</kanji> is what makes up the <vocabulary>atmosphere</vocabulary>. I love it when it takes three kanji to represent what one of the three kanji already represents.",
+  "primaryReading": "ふんいき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Ambience",
+    "Ambiance",
+    "Mood"
+  ],
+  "otherReadings": [],
+  "wkSlug": "雰囲気",
+  "related": {
+    "radicals": [
+      119,
+      247,
+      16,
+      246,
+      82,
+      31
+    ],
+    "kanjis": [
+      926,
+      901,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふんいき",
+      "url": "https://files.wanikani.com/izgjz9z96tkrek5qsdjbvexjqlep"
+    }
+  ]
+}

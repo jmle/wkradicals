@@ -1,0 +1,36 @@
+{
+  "id": 8460,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "憤り"
+  },
+  "primaryMeaning": "Resentment",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>resent</kanji>, so it means <vocabulary>resentment</vocabulary>.",
+  "primaryReading": "いきどおり",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou feel some pretty strong <vocabulary>resentment</vocabulary> toward your roommate because you had to touch their <reading>icky doo</reading>r (いきどお) today and it was covered in what you hope was glue. Or frosting. UHG what an icky door. This is an <vocabulary>outrage</vocabulary>!!!",
+  "otherMeanings": [
+    "Outrage",
+    "Anger"
+  ],
+  "otherReadings": [],
+  "wkSlug": "憤り",
+  "related": {
+    "radicals": [
+      232,
+      15,
+      90,
+      94
+    ],
+    "kanjis": [
+      2390
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いきどおり",
+      "url": "https://files.wanikani.com/nlge25oiyqwsk9x46vmegfy4ntc3"
+    }
+  ]
+}

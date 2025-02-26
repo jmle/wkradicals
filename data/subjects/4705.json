@@ -1,0 +1,36 @@
+{
+  "id": 4705,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "原型"
+  },
+  "primaryMeaning": "Prototype",
+  "meaningMnemonic": "The <kanji>original</kanji> <kanji>model</kanji> of something isn't usually very good. It's rough. It's a <vocabulary>prototype</vocabulary>.",
+  "primaryReading": "げんけい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Model"
+  ],
+  "otherReadings": [],
+  "wkSlug": "原型",
+  "related": {
+    "radicals": [
+      230,
+      171,
+      128,
+      17
+    ],
+    "kanjis": [
+      995,
+      1232
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんけい",
+      "url": "https://files.wanikani.com/872of6qgwjjmcj9fc29swm809epb"
+    }
+  ]
+}

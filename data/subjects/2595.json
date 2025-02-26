@@ -1,0 +1,34 @@
+{
+  "id": 2595,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "今月"
+  },
+  "primaryMeaning": "This Month",
+  "meaningMnemonic": "The <kanji>now</kanji> <kanji>month</kanji> is actually <vocabulary>this month</vocabulary>.",
+  "primaryReading": "こんげつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nOnly <vocabulary>this month</vocabulary>, your pet <reading>con</reading>dor <reading>gets</reading> (こんげつ) to sleep in your bed. You usually keep it in a cage, but once a year, you make an exception. And that's this month. How cute!",
+  "otherMeanings": [
+    "Current Month"
+  ],
+  "otherReadings": [],
+  "wkSlug": "今月",
+  "related": {
+    "radicals": [
+      238,
+      43
+    ],
+    "kanjis": [
+      497,
+      477
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こんげつ",
+      "url": "https://files.wanikani.com/fqy9u2fav0k88xahtiok5aspf23r"
+    }
+  ]
+}

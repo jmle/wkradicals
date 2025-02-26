@@ -1,0 +1,33 @@
+{
+  "id": 6269,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "雇用"
+  },
+  "primaryMeaning": "Employment",
+  "meaningMnemonic": "The <kanji>employ</kanji> <kanji>task</kanji> is <vocabulary>employment</vocabulary>.",
+  "primaryReading": "こよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "雇用",
+  "related": {
+    "radicals": [
+      240,
+      73,
+      71
+    ],
+    "kanjis": [
+      1713,
+      525
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こよう",
+      "url": "https://files.wanikani.com/096l9348rgiavu2wmqpvtmu6sb8t"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5668,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "砂漠"
+  },
+  "primaryMeaning": "Desert",
+  "meaningMnemonic": "A <kanji>sand</kanji> <kanji>desert</kanji> is just a <vocabulary>desert</vocabulary>.",
+  "primaryReading": "さばく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "砂漠",
+  "related": {
+    "radicals": [
+      54,
+      198,
+      103,
+      356
+    ],
+    "kanjis": [
+      1533,
+      1534
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さばく",
+      "url": "https://files.wanikani.com/rx2dtbwfq511jtqf670sao94pbgw"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2557,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "出る"
+  },
+  "primaryMeaning": "To Exit",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means \"exit\" so what is the verb form of this? It is <vocabulary>to exit</vocabulary>.",
+  "primaryReading": "でる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou want to exit the room you're in. Why? Because it has a <reading>de</reading>ad (で) body in it. Seriously. You should exit now. It's a <reading>de</reading>ad (で) <reading>roo</reading>m (る)!",
+  "otherMeanings": [
+    "To Leave",
+    "To Attend",
+    "To Come Out",
+    "To Go Out"
+  ],
+  "otherReadings": [],
+  "wkSlug": "出る",
+  "related": {
+    "radicals": [
+      20
+    ],
+    "kanjis": [
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でる",
+      "url": "https://files.wanikani.com/9ldnyw9xvs8lp6rcpjtne1fgwns4"
+    }
+  ]
+}

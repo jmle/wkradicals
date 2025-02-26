@@ -1,0 +1,34 @@
+{
+  "id": 6395,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "戒める"
+  },
+  "primaryMeaning": "To Warn",
+  "meaningMnemonic": "I say my <kanji>commandment</kanji> in order <vocabulary>to warn</vocabulary> and <vocabulary>to caution</vocabulary> the people not to do bad things.",
+  "primaryReading": "いましめる",
+  "readingMnemonic": "The first commandment I say <vocabulary>to warn</vocabulary> them of not doing bad things is <reading>I mash</reading> (いまし) my own potatoes. Nobody else mashes my potatoes. Got it?",
+  "otherMeanings": [
+    "To Caution",
+    "To Admonish"
+  ],
+  "otherReadings": [],
+  "wkSlug": "戒める",
+  "related": {
+    "radicals": [
+      194,
+      106
+    ],
+    "kanjis": [
+      1754
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いましめる",
+      "url": "https://files.wanikani.com/1z0js6c0epf37cyqi0lsuqzy8k80"
+    }
+  ]
+}

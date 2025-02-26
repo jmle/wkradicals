@@ -1,0 +1,35 @@
+{
+  "id": 4615,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "一割"
+  },
+  "primaryMeaning": "Ten Percent",
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>division</kanji> is <vocabulary>ten percent</vocabulary>. You'll just have to imagine this in terms of tens going by. Must be some old Japanese percentage system that carried over or something. Just remember that one wari is ten percent, two waris are twenty percent, and so on.",
+  "primaryReading": "いちわり",
+  "readingMnemonic": "The readings are the same as what you learned with the kanji. You know much more than ten percent of this word's reading already.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "一割",
+  "related": {
+    "radicals": [
+      1,
+      78,
+      210,
+      16,
+      128
+    ],
+    "kanjis": [
+      440,
+      1193
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いちわり",
+      "url": "https://files.wanikani.com/9iar5bcvyc04nq8e1sdc80r851ay"
+    }
+  ]
+}

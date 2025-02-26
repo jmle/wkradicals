@@ -1,0 +1,37 @@
+{
+  "id": 5856,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "蒸し暑い"
+  },
+  "primaryMeaning": "Hot And Humid",
+  "meaningMnemonic": "If it’s a <kanji>steam</kanji>ing <kanji>hot</kanji> day, it means the weather is <vocabulary>hot and humid</vocabulary> (or you can just say <vocabulary>humid</vocabulary>, because that usually implies hotness too). This is a useful word for summers in Japan, since you'll complain about this all the time.",
+  "primaryReading": "むしあつい",
+  "readingMnemonic": "The reading comes from 蒸れる and 暑い. Know those and you know this too.",
+  "otherMeanings": [
+    "Humid"
+  ],
+  "otherReadings": [],
+  "wkSlug": "蒸し暑い",
+  "related": {
+    "radicals": [
+      90,
+      8794,
+      131,
+      22,
+      203
+    ],
+    "kanjis": [
+      1539,
+      838
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むしあつい",
+      "url": "https://files.wanikani.com/riiros7u2y98d58t2lfti06n1alh"
+    }
+  ]
+}

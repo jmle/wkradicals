@@ -1,0 +1,39 @@
+{
+  "id": 4851,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "経済学"
+  },
+  "primaryMeaning": "Economics",
+  "meaningMnemonic": "You know how 経済 is economics, right? Well, add <kanji>study</kanji> to that and you have the study of economics, aka <vocabulary>economics</vocabulary>.",
+  "primaryReading": "けいざいがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know 経済 as well.",
+  "otherMeanings": [
+    "Study Of Economics"
+  ],
+  "otherReadings": [],
+  "wkSlug": "経済学",
+  "related": {
+    "radicals": [
+      86,
+      179,
+      103,
+      277,
+      8769,
+      34
+    ],
+    "kanjis": [
+      1120,
+      1124,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいざいがく",
+      "url": "https://files.wanikani.com/tzm8loblinf7v6bqwj4h15zntdtw"
+    }
+  ]
+}

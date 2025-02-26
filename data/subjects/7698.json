@@ -1,0 +1,37 @@
+{
+  "id": 7698,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "幸運"
+  },
+  "primaryMeaning": "Good Luck",
+  "meaningMnemonic": "When you <kanji>carry</kanji> <kanji>happiness</kanji> with you, you look at the good side of everything and end up having really <vocabulary>good luck</vocabulary>. Someone who carries happiness will be really lucky in life.",
+  "primaryReading": "こううん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Fortune"
+  ],
+  "otherReadings": [],
+  "wkSlug": "幸運",
+  "related": {
+    "radicals": [
+      8,
+      178,
+      114,
+      76,
+      93
+    ],
+    "kanjis": [
+      969,
+      752
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こううん",
+      "url": "https://files.wanikani.com/115whbat2o2w7i5ojet1lu5ctorp"
+    }
+  ]
+}

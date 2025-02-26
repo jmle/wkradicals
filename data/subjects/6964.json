@@ -1,0 +1,33 @@
+{
+  "id": 6964,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "墨"
+  },
+  "primaryMeaning": "Ink",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "すみ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Black Ink"
+  ],
+  "otherReadings": [],
+  "wkSlug": "墨",
+  "related": {
+    "radicals": [
+      153,
+      17
+    ],
+    "kanjis": [
+      1941
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すみ",
+      "url": "https://files.wanikani.com/va4epzj3qso6ekmis6avleqoe92l"
+    }
+  ]
+}

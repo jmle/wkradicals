@@ -1,0 +1,32 @@
+{
+  "id": 7278,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "丈"
+  },
+  "primaryMeaning": "Height",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. This word is usually used for clothing <vocabulary>height</vocabulary> and <vocabulary>length</vocabulary>.",
+  "primaryReading": "たけ",
+  "readingMnemonic": "The reading is different from what you learned with the kanji. Remember the word 竹? It has the same reading as this. Just think of everyone measuring the heights of things with <reading>bamboo</reading> (たけ) poles with markers on them. Okay, this one is 5 bamboo poles high!",
+  "otherMeanings": [
+    "Length"
+  ],
+  "otherReadings": [],
+  "wkSlug": "丈",
+  "related": {
+    "radicals": [
+      408
+    ],
+    "kanjis": [
+      2083
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たけ",
+      "url": "https://files.wanikani.com/96iotrancmw6k2k4ikeolk8fg0ky"
+    }
+  ]
+}

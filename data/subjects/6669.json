@@ -1,0 +1,36 @@
+{
+  "id": 6669,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "距離"
+  },
+  "primaryMeaning": "Distance",
+  "meaningMnemonic": "The <kanji>distance</kanji> that is <kanji>detach</kanji>ed from the distance is the <vocabulary>distance</vocabulary> and <vocabulary>range</vocabulary>. Just think of one part of the distance, stretch it out, and then look at it. It shows the distance and range!",
+  "primaryReading": "きょり",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Range"
+  ],
+  "otherReadings": [],
+  "wkSlug": "距離",
+  "related": {
+    "radicals": [
+      95,
+      314,
+      337,
+      240
+    ],
+    "kanjis": [
+      1843,
+      1443
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょり",
+      "url": "https://files.wanikani.com/u4kxz58kxuj49mvieced502glj58"
+    }
+  ]
+}

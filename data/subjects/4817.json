@@ -1,0 +1,34 @@
+{
+  "id": 4817,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "満月"
+  },
+  "primaryMeaning": "Full Moon",
+  "meaningMnemonic": "The <kanji>full</kanji> <kanji>moon</kanji> is a <vocabulary>full moon</vocabulary>.",
+  "primaryReading": "まんげつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "満月",
+  "related": {
+    "radicals": [
+      103,
+      90,
+      304,
+      43
+    ],
+    "kanjis": [
+      1271,
+      477
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まんげつ",
+      "url": "https://files.wanikani.com/ww4wrugcgk6noufns25oyz4gwah9"
+    }
+  ]
+}

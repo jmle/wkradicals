@@ -1,0 +1,37 @@
+{
+  "id": 6059,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "刑事"
+  },
+  "primaryMeaning": "Police Detective",
+  "meaningMnemonic": "You know 事 means \"occurrence,\" but it can also mean \"matter.\" And someone who handles <kanji>punish</kanji>ment <kanji>matter</kanji>s is someone like a <vocabulary>police detective</vocabulary> (or <vocabulary>detective</vocabulary>) trying to find and punish the bad guys.\n\n刑事 isn't an official job title but a common way to refer to a police officer whose job is to investigate crimes and arrest criminals. Depending on the context, it can also refer to matters that fall under criminal law, like 刑事事件 (criminal case).",
+  "primaryReading": "けいじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Detective"
+  ],
+  "otherReadings": [],
+  "wkSlug": "刑事",
+  "related": {
+    "radicals": [
+      171,
+      128,
+      15,
+      16,
+      105
+    ],
+    "kanjis": [
+      1647,
+      708
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいじ",
+      "url": "https://files.wanikani.com/ra6gxlargl0v2ln2mwsu0wzdzoct"
+    }
+  ]
+}

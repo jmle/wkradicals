@@ -1,0 +1,35 @@
+{
+  "id": 9021,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "関わる"
+  },
+  "primaryMeaning": "To Be Involved",
+  "meaningMnemonic": "You know that the kanji means <kanji>related</kanji>. As a verb, this often means <vocabulary>to be involved</vocabulary>, <vocabulary>to be related</vocabulary>, and <vocabulary>to be connected</vocabulary>. Basically, things that have to do with being related to something else.",
+  "primaryReading": "かかわる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you:  \n\nEver heard of the \"<reading>Kaw Kaw</reading> (かか) Crow Gang\"? They are bad news, always eating from garbage and squawking \"kaw kaw\" ... You don't want <vocabulary>to be involved</vocabulary> with them.",
+  "otherMeanings": [
+    "To Be Related",
+    "To Be Connected"
+  ],
+  "otherReadings": [],
+  "wkSlug": "関わる",
+  "related": {
+    "radicals": [
+      214,
+      8767,
+      40
+    ],
+    "kanjis": [
+      982
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かかわる",
+      "url": "https://files.wanikani.com/q9v3o8ucnun2tbd32ql87z2mvysy"
+    }
+  ]
+}

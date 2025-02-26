@@ -1,0 +1,37 @@
+{
+  "id": 4528,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "公営"
+  },
+  "primaryMeaning": "Public",
+  "meaningMnemonic": "Something that is <kanji>public</kanji>ly <kanji>manage</kanji>d is something that is <vocabulary>public</vocabulary> aka <vocabulary>government run</vocabulary>. Compare this to 私営 which is private / privately run.",
+  "primaryReading": "こうえい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Government Run",
+    "Run By The Government"
+  ],
+  "otherReadings": [],
+  "wkSlug": "公営",
+  "related": {
+    "radicals": [
+      2,
+      140,
+      8769,
+      282
+    ],
+    "kanjis": [
+      499,
+      1168
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうえい",
+      "url": "https://files.wanikani.com/5gy219hifrcqoo82gb2biy79fpiq"
+    }
+  ]
+}

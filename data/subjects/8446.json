@@ -1,0 +1,37 @@
+{
+  "id": 8446,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "媒体"
+  },
+  "primaryMeaning": "Media",
+  "meaningMnemonic": "A <kanji>mediator</kanji> who works with someone who doesn't have a <kanji>body</kanji> has to use some kind of mortal <vocabulary>media</vocabulary> to record what they're saying. Print media? Sure. Electronic media? Alright? Ghost media? No! Humans can't read that stuff!",
+  "primaryReading": "ばいたい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Medium"
+  ],
+  "otherReadings": [],
+  "wkSlug": "媒体",
+  "related": {
+    "radicals": [
+      19,
+      360,
+      23,
+      75,
+      50
+    ],
+    "kanjis": [
+      2379,
+      583
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばいたい",
+      "url": "https://files.wanikani.com/bnn0mlz507593qeq1fuvgeqinzkv"
+    }
+  ]
+}

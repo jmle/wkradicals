@@ -1,0 +1,38 @@
+{
+  "id": 3304,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "上級"
+  },
+  "primaryMeaning": "Advanced Level",
+  "meaningMnemonic": "When you are at an <kanji>above</kanji> <kanji>level</kanji>, you are at an <vocabulary>advanced level</vocabulary>. This is referring to things like proficiency in Japanese, or things like that.",
+  "primaryReading": "じょうきゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "High Grade",
+    "Advanced Grade",
+    "High Level"
+  ],
+  "otherReadings": [],
+  "wkSlug": "上級",
+  "related": {
+    "radicals": [
+      10,
+      1,
+      86,
+      193
+    ],
+    "kanjis": [
+      450,
+      801
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうきゅう",
+      "url": "https://files.wanikani.com/2vuqvt50dnjqnlwqlhperpwnpm0c"
+    }
+  ]
+}

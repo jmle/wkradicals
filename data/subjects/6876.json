@@ -1,0 +1,34 @@
+{
+  "id": 6876,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "この頃"
+  },
+  "primaryMeaning": "Recently",
+  "meaningMnemonic": "<kanji>This</kanji> (この) <kanji>approximate</kanji> is this approximate time. It is <vocabulary>recently</vocabulary> or <vocabulary>nowadays</vocabulary> or <vocabulary>these days</vocabulary>.",
+  "primaryReading": "このごろ",
+  "readingMnemonic": "The reading is the 頃 reading from the kanji reading. Be careful, it's the rendaku'd form.",
+  "otherMeanings": [
+    "Nowadays",
+    "These Days"
+  ],
+  "otherReadings": [],
+  "wkSlug": "この頃",
+  "related": {
+    "radicals": [
+      57,
+      184
+    ],
+    "kanjis": [
+      1914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "このごろ",
+      "url": "https://files.wanikani.com/to0ugc2qsb49l7q2x97ls7zn6ndz"
+    }
+  ]
+}

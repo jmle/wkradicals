@@ -1,0 +1,32 @@
+{
+  "id": 8847,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "串"
+  },
+  "primaryMeaning": "Skewer",
+  "meaningMnemonic": "The kanji and the word are exactly the same.",
+  "primaryReading": "くし",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You learned this reading with the kanji, so you should be able to read it already!",
+  "otherMeanings": [
+    "Spit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "串",
+  "related": {
+    "radicals": [
+      365
+    ],
+    "kanjis": [
+      8837
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くし",
+      "url": "https://files.wanikani.com/7liyvmuy0slahe2ysaw01t1y65vx"
+    }
+  ]
+}

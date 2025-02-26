@@ -1,0 +1,38 @@
+{
+  "id": 4473,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "確認"
+  },
+  "primaryMeaning": "Confirmation",
+  "meaningMnemonic": "Just be sure to make <kanji>certain</kanji> that you <kanji>recognize</kanji> him. We need <vocabulary>confirmation</vocabulary> and <vocabulary>verification</vocabulary>, so make certain again, please.",
+  "primaryReading": "かくにん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Verification"
+  ],
+  "otherReadings": [],
+  "wkSlug": "確認",
+  "related": {
+    "radicals": [
+      54,
+      76,
+      240,
+      117,
+      393,
+      65
+    ],
+    "kanjis": [
+      1103,
+      1152
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かくにん",
+      "url": "https://files.wanikani.com/v6btqejxcuzcu9v1jhx4pst0k82u"
+    }
+  ]
+}

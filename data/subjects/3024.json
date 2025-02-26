@@ -1,0 +1,41 @@
+{
+  "id": 3024,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "研究室"
+  },
+  "primaryMeaning": "Laboratory",
+  "meaningMnemonic": "Remember how 研究 means “research?” Well the <kanji>room</kanji> where you do research is a <vocabulary>laboratory</vocabulary>!\n\n研究室 refers to a <vocabulary>lab room</vocabulary>, often within a larger institution like a university or college.",
+  "primaryReading": "けんきゅうしつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Lab Room"
+  ],
+  "otherReadings": [],
+  "wkSlug": "研究室",
+  "related": {
+    "radicals": [
+      54,
+      171,
+      170,
+      11,
+      78,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      691,
+      688,
+      635
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんきゅうしつ",
+      "url": "https://files.wanikani.com/l3mmtwvaqtsvdthphj6up4o0gaij"
+    }
+  ]
+}

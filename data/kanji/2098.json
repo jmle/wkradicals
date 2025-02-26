@@ -1,0 +1,37 @@
+{
+  "id": 2098,
+  "type": "kanji",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "銘"
+  },
+  "primaryReading": "めい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "めい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Inscription",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>gold</radical> <radical>name</radical> on this piece of wood is the <kanji>inscription</kanji> that shows the artist's signature.",
+  "readingMnemonic": "The inscription is a name written on something, right? Remember the kanji for \"name\"? It is 名, and it shares the reading with this kanji as well, making both names <reading>めい</reading>.",
+  "wkSlug": "銘",
+  "related": {
+    "radicals": [
+      118,
+      409
+    ],
+    "vocabularies": [
+      7386,
+      7387,
+      7388
+    ]
+  },
+  "radicalNames": [
+    "Gold",
+    "Name"
+  ]
+}

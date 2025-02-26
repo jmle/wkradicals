@@ -1,0 +1,35 @@
+{
+  "id": 5353,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "日系"
+  },
+  "primaryMeaning": "Japanese Descent",
+  "meaningMnemonic": "The 日 stands for 日本 here, making it mean \"Japanese.\" So what's a more common way of saying Japanese <kanji>lineage</kanji>? That would be <vocabulary>Japanese descent</vocabulary> or <vocabulary>Japanese origin</vocabulary>.\n\n日系 can be used for both people and entities, such as 日系アメリカ人 (Japanese-American) or 日系企業 (Japanese-operated company).",
+  "primaryReading": "にっけい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Japanese Origin",
+    "Japanese-Operated"
+  ],
+  "otherReadings": [],
+  "wkSlug": "日系",
+  "related": {
+    "radicals": [
+      22,
+      329
+    ],
+    "kanjis": [
+      476,
+      1415
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にっけい",
+      "url": "https://files.wanikani.com/tguw7k1ym3lc6q9wna3bpqbccav0"
+    }
+  ]
+}

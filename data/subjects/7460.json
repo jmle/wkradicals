@@ -1,0 +1,37 @@
+{
+  "id": 7460,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "全部"
+  },
+  "primaryMeaning": "All",
+  "meaningMnemonic": "If you take <kanji>all</kanji> <kanji>part</kanji>s and put them together, you have <vocabulary>all</vocabulary> things. The <vocabulary>entire</vocabulary> collection. It is <vocabulary>whole</vocabulary>.",
+  "primaryReading": "ぜんぶ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Entire",
+    "Whole"
+  ],
+  "otherReadings": [],
+  "wkSlug": "全部",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      175,
+      176
+    ],
+    "kanjis": [
+      610,
+      721
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんぶ",
+      "url": "https://files.wanikani.com/jk2o5h225lnt6xjxjeze5ghpfwrs"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6374,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "合唱団"
+  },
+  "primaryMeaning": "Chorus",
+  "meaningMnemonic": "People who <kanji>join</kanji> in a <kanji>chant</kanji> <kanji>group</kanji> are people who are in a <vocabulary>chorus</vocabulary> or <vocabulary>choir</vocabulary>.",
+  "primaryReading": "がっしょうだん",
+  "readingMnemonic": "The reading for 合 is pretty weird. It's a がっ instead of a ごう. Just imagine a bunch of people in a chorus singing \"ga ga ga ga gaaaa!\"",
+  "otherMeanings": [
+    "Choir"
+  ],
+  "otherReadings": [],
+  "wkSlug": "合唱団",
+  "related": {
+    "radicals": [
+      216,
+      16,
+      22,
+      74
+    ],
+    "kanjis": [
+      852,
+      1746,
+      1076
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がっしょうだん",
+      "url": "https://files.wanikani.com/hz5r9ypap5am7uw7535ordqklh0e"
+    }
+  ]
+}

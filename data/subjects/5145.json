@@ -1,0 +1,38 @@
+{
+  "id": 5145,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "夫婦"
+  },
+  "primaryMeaning": "Husband And Wife",
+  "meaningMnemonic": "A <kanji>husband</kanji> and <kanji>wife</kanji> combo are a <vocabulary>husband and wife</vocabulary>.",
+  "primaryReading": "ふうふ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Wife And Husband",
+    "Married Couple"
+  ],
+  "otherReadings": [],
+  "wkSlug": "夫婦",
+  "related": {
+    "radicals": [
+      146,
+      19,
+      105,
+      76,
+      102
+    ],
+    "kanjis": [
+      945,
+      1362
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふうふ",
+      "url": "https://files.wanikani.com/77p02hprbxq38dwatmjxth50p8xm"
+    }
+  ]
+}

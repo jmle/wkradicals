@@ -1,0 +1,38 @@
+{
+  "id": 8758,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "移動"
+  },
+  "primaryMeaning": "Movement",
+  "meaningMnemonic": "<kanji>Shift</kanji> and <kanji>move</kanji> to create <vocabulary>movement</vocabulary>. ",
+  "primaryReading": "いどう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Transfer",
+    "Removal",
+    "Migration"
+  ],
+  "otherReadings": [],
+  "wkSlug": "移動",
+  "related": {
+    "radicals": [
+      135,
+      33,
+      188,
+      13
+    ],
+    "kanjis": [
+      1368,
+      827
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いどう",
+      "url": "https://files.wanikani.com/9d95wngj7e7nzmh0p6708v0r0dk9"
+    }
+  ]
+}

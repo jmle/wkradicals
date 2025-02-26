@@ -1,0 +1,36 @@
+{
+  "id": 3824,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "公園"
+  },
+  "primaryMeaning": "Public Park",
+  "meaningMnemonic": "A <kanji>public</kanji> <kanji>park</kanji> is a park that is public. It's a <vocabulary>public park</vocabulary>.",
+  "primaryReading": "こうえん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Park"
+  ],
+  "otherReadings": [],
+  "wkSlug": "公園",
+  "related": {
+    "radicals": [
+      2,
+      140,
+      16,
+      8784
+    ],
+    "kanjis": [
+      499,
+      960
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうえん",
+      "url": "https://files.wanikani.com/vjpp2tivhwtct99et454urv1kbmr"
+    }
+  ]
+}

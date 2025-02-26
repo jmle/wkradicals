@@ -1,0 +1,39 @@
+{
+  "id": 4260,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "三個"
+  },
+  "primaryMeaning": "Three Small Things",
+  "meaningMnemonic": "<kanji>Three</kanji> <kanji>individual</kanji>s is <vocabulary>three small things</vocabulary>. The kanji 個 can be used to count small objects, just like this! Try other numbers as well.",
+  "primaryReading": "さんこ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Three Things",
+    "Three Objects",
+    "Three Small Objects"
+  ],
+  "otherReadings": [],
+  "wkSlug": "三個",
+  "related": {
+    "radicals": [
+      1,
+      7,
+      75,
+      16,
+      69
+    ],
+    "kanjis": [
+      449,
+      1105
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんこ",
+      "url": "https://files.wanikani.com/0e4e2k1allxgid8ee82bi8xp10rt"
+    }
+  ]
+}

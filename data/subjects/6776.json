@@ -1,0 +1,34 @@
+{
+  "id": 6776,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "無縁"
+  },
+  "primaryMeaning": "Unrelated",
+  "meaningMnemonic": "If something has a <kanji>nothing</kanji> <kanji>edge</kanji>, it's probably <vocabulary>unrelated</vocabulary> to what you're doing. There's no edge, your stuff always has edges.",
+  "primaryReading": "むえん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "無縁",
+  "related": {
+    "radicals": [
+      252,
+      86,
+      105,
+      233
+    ],
+    "kanjis": [
+      1008,
+      1874
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むえん",
+      "url": "https://files.wanikani.com/dqmzbm35fsjkzngxjbana6rc4bzr"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2628,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "二台"
+  },
+  "primaryMeaning": "Two Machines",
+  "meaningMnemonic": "When you combine these two kanji, you should be able to see how it forms the word <vocabulary>two machines</vocabulary>.",
+  "primaryReading": "にだい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "二台",
+  "related": {
+    "radicals": [
+      7,
+      140,
+      16
+    ],
+    "kanjis": [
+      441,
+      520
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にだい",
+      "url": "https://files.wanikani.com/6mtgzum431z40x641l7ofj1pv0ak"
+    }
+  ]
+}

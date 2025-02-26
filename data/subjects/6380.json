@@ -1,0 +1,32 @@
+{
+  "id": 6380,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "兼ねる"
+  },
+  "primaryMeaning": "To Combine",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>concurrently</kanji>, but since you can't \"to concurrently\", we're going to have to come up with another word to use: \"<vocabulary>to combine</vocabulary>\" or \"<vocabulary>to double as</vocabulary>.\" Since this kanji has to do with something having a dual purpose, we can say that something can combine as being another thing, or double as being another thing, which is where these words come from.",
+  "primaryReading": "かねる",
+  "readingMnemonic": "For example, a <reading>ca</reading>r (か) can double as a place to sleep at night when not enough people become members of WaniKani.",
+  "otherMeanings": [
+    "To Double As"
+  ],
+  "otherReadings": [],
+  "wkSlug": "兼ねる",
+  "related": {
+    "radicals": [
+      271
+    ],
+    "kanjis": [
+      1749
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かねる",
+      "url": "https://files.wanikani.com/ubdrrc3c3urn5v0o0036qmtgsize"
+    }
+  ]
+}

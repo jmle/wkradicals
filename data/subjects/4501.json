@@ -1,0 +1,36 @@
+{
+  "id": 4501,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "脱字"
+  },
+  "primaryMeaning": "Omitted Character",
+  "meaningMnemonic": "You've got an <kanji>escape</kanji>d <kanji>letter</kanji>, in other words, an <vocabulary>omitted character</vocabulary> or <vocabulary>omitted letter</vocabulary>.",
+  "primaryReading": "だつじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Omitted Letter"
+  ],
+  "otherReadings": [],
+  "wkSlug": "脱字",
+  "related": {
+    "radicals": [
+      43,
+      422,
+      78,
+      34
+    ],
+    "kanjis": [
+      1157,
+      545
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だつじ",
+      "url": "https://files.wanikani.com/9pbxkef1ooxglgh14dwvhb6gf3b5"
+    }
+  ]
+}

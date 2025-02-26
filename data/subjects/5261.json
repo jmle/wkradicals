@@ -1,0 +1,34 @@
+{
+  "id": 5261,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "痛み止め"
+  },
+  "primaryMeaning": "Painkiller",
+  "meaningMnemonic": "痛み is \"pain.\" 止める is \"to stop.\" What stops pain if you use it? How about a <vocabulary>painkiller</vocabulary>.",
+  "primaryReading": "いたみどめ",
+  "readingMnemonic": "The reading is 痛み and 止める put together into one word. Not too painful, right? Just remember the rendaku on the ど.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "痛み止め",
+  "related": {
+    "radicals": [
+      187,
+      141,
+      71,
+      44
+    ],
+    "kanjis": [
+      1318,
+      514
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いたみどめ",
+      "url": "https://files.wanikani.com/aofrad7pbn67ej3lcek5web9n07w"
+    }
+  ]
+}

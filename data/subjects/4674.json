@@ -1,0 +1,33 @@
+{
+  "id": 4674,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "月額"
+  },
+  "primaryMeaning": "Monthly Amount",
+  "meaningMnemonic": "A <kanji>month</kanji>'s <kanji>amount</kanji> is the <vocabulary>monthly amount</vocabulary>.",
+  "primaryReading": "げつがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "月額",
+  "related": {
+    "radicals": [
+      43,
+      295,
+      184
+    ],
+    "kanjis": [
+      477,
+      1218
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げつがく",
+      "url": "https://files.wanikani.com/bueo4xjc4riewxfh9a4grkyuxk6u"
+    }
+  ]
+}

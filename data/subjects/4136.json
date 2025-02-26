@@ -1,0 +1,34 @@
+{
+  "id": 4136,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "胸"
+  },
+  "primaryMeaning": "Chest",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "むね",
+  "readingMnemonic": "This vocab word uses the same reading as the one you learned with the kanji. At least I won't have to bring up the image of you <reading>moon</reading>ing (むね) people with your breasts or whatnot. Oh dang, I just went and did it.",
+  "otherMeanings": [
+    "Breasts"
+  ],
+  "otherReadings": [],
+  "wkSlug": "胸",
+  "related": {
+    "radicals": [
+      43,
+      14,
+      262
+    ],
+    "kanjis": [
+      1044
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むね",
+      "url": "https://files.wanikani.com/ltvc51zxntf1vrod2kkyrmriix31"
+    }
+  ]
+}

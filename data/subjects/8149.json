@@ -1,0 +1,34 @@
+{
+  "id": 8149,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "逸話"
+  },
+  "primaryMeaning": "Anecdote",
+  "meaningMnemonic": "How do you <kanji>deviate</kanji> from a normal <kanji>talk</kanji>? With lots of <vocabulary>anecdote</vocabulary>s. If you add enough of them into your conversations no one will ever be able to keep track of what you were talking about to begin with.",
+  "primaryReading": "いつわ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "逸話",
+  "related": {
+    "radicals": [
+      114,
+      208,
+      117,
+      174
+    ],
+    "kanjis": [
+      2235,
+      705
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いつわ",
+      "url": "https://files.wanikani.com/93o89fwlhas56jty5j1vo34u6rjm"
+    }
+  ]
+}

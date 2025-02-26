@@ -1,0 +1,34 @@
+{
+  "id": 8012,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "緯度"
+  },
+  "primaryMeaning": "Latitude",
+  "meaningMnemonic": "<kanji>Latitude</kanji> <kanji>degree</kanji>s are still known as <vocabulary>latitude</vocabulary>.",
+  "primaryReading": "いど",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "緯度",
+  "related": {
+    "radicals": [
+      86,
+      294,
+      8787,
+      30
+    ],
+    "kanjis": [
+      2199,
+      725
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いど",
+      "url": "https://files.wanikani.com/wo2kjbxhtvrs443l4ym34fcfafen"
+    }
+  ]
+}

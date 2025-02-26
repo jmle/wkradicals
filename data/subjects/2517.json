@@ -1,0 +1,34 @@
+{
+  "id": 2517,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "丸"
+  },
+  "primaryMeaning": "Circle",
+  "meaningMnemonic": "This vocab word and the kanji that makes it have the same meaning: <vocabulary>Circle</vocabulary>.",
+  "primaryReading": "まる",
+  "readingMnemonic": "The reading you learned for this kanji is the kun'yomi one. Since this vocab word is made up of a single kanji, it uses the kun'yomi reading. Guess what? That means you already know it!",
+  "otherMeanings": [
+    "Round",
+    "Circular"
+  ],
+  "otherReadings": [],
+  "wkSlug": "丸",
+  "related": {
+    "radicals": [
+      11,
+      3
+    ],
+    "kanjis": [
+      467
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まる",
+      "url": "https://files.wanikani.com/41hrnxynl1014lnx7of64ot0sqt4"
+    }
+  ]
+}

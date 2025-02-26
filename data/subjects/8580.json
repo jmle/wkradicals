@@ -1,0 +1,42 @@
+{
+  "id": 8580,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "不均衡"
+  },
+  "primaryMeaning": "Imbalance",
+  "meaningMnemonic": "Remember how 均衡 means \"balance?\" Well if you do <kanji>not</kanji> have any balance, you're going to have an <vocabulary>imbalance</vocabulary> instead.",
+  "primaryReading": "ふきんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Disparity",
+    "Inequality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不均衡",
+  "related": {
+    "radicals": [
+      96,
+      17,
+      236,
+      3,
+      111,
+      14,
+      51,
+      18
+    ],
+    "kanjis": [
+      563,
+      1473,
+      2346
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふきんこう",
+      "url": "https://files.wanikani.com/twt4vckjvtcbr9lc4u5cx814fula"
+    }
+  ]
+}

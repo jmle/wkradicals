@@ -1,0 +1,35 @@
+{
+  "id": 8219,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "栓"
+  },
+  "primaryMeaning": "Cork",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "せん",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Stopper",
+    "Plug"
+  ],
+  "otherReadings": [],
+  "wkSlug": "栓",
+  "related": {
+    "radicals": [
+      23,
+      8764,
+      48
+    ],
+    "kanjis": [
+      2289
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せん",
+      "url": "https://files.wanikani.com/pc75ggx45m0ip9dlbx9ldtkjgunz"
+    }
+  ]
+}

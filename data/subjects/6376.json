@@ -1,0 +1,34 @@
+{
+  "id": 6376,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "不孝"
+  },
+  "primaryMeaning": "Disobedience To Parents",
+  "meaningMnemonic": "<kanji>Not</kanji> <kanji>filial piety</kanji> is when you don't listen to your parents. This is <vocabulary>disobedience to parents</vocabulary>.",
+  "primaryReading": "ふこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Lack Of Filial Piety"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不孝",
+  "related": {
+    "radicals": [
+      96,
+      418
+    ],
+    "kanjis": [
+      563,
+      1747
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふこう",
+      "url": "https://files.wanikani.com/oewk2au32ajoiobhh8zvgr2vkyzw"
+    }
+  ]
+}

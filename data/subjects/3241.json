@@ -1,0 +1,37 @@
+{
+  "id": 3241,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "仲間"
+  },
+  "primaryMeaning": "Companion",
+  "meaningMnemonic": "Your <kanji>relationship</kanji> <kanji>intervals</kanji>... this doesn't make much sense at first, but if you think about it, at certain intervals from within your friends, you'll run into someone who's your <vocabulary>companion</vocabulary>... not just any old friend. Something better. Something part of your group.",
+  "primaryReading": "なかま",
+  "readingMnemonic": "The reading for 仲 is the one you learned. When you learned the kanji 間, we didn't give you a mnemonic for the (ま) reading, so here's one now:\n\nThink through all your companions in your life. Imagine one of them is your <reading>Ma</reading> (ま). She's on your pirate crew, and a pretty awesome pirate.",
+  "otherMeanings": [
+    "Comrade",
+    "Associate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "仲間",
+  "related": {
+    "radicals": [
+      75,
+      49,
+      214,
+      22
+    ],
+    "kanjis": [
+      776,
+      701
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なかま",
+      "url": "https://files.wanikani.com/ij1xue2v43yai2pi37sxzagfrkz4"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6749,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "炉心"
+  },
+  "primaryMeaning": "Nuclear Reactor Core",
+  "meaningMnemonic": "The <kanji>furnace</kanji> <kanji>heart</kanji> is the heart of the furnace. The heart of this particular furnace, the one we're talking about here, is the <vocabulary>nuclear reactor core</vocabulary>.",
+  "primaryReading": "ろしん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "炉心",
+  "related": {
+    "radicals": [
+      46,
+      73,
+      65
+    ],
+    "kanjis": [
+      1870,
+      508
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろしん",
+      "url": "https://files.wanikani.com/rggzn4dh4o8339kur4g1h1qiyd18"
+    }
+  ]
+}

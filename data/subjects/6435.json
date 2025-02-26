@@ -1,0 +1,38 @@
+{
+  "id": 6435,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "薄弱"
+  },
+  "primaryMeaning": "Weakness",
+  "meaningMnemonic": "Something is <kanji>dilute</kanji>d to the point of <kanji>weak</kanji>ness. It has much <vocabulary>weakness</vocabulary> and <vocabulary>feebleness</vocabulary>.",
+  "primaryReading": "はくじゃく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Feebleness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "薄弱",
+  "related": {
+    "radicals": [
+      90,
+      103,
+      3,
+      317,
+      36,
+      123
+    ],
+    "kanjis": [
+      1767,
+      661
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はくじゃく",
+      "url": "https://files.wanikani.com/teutwrlyit4ocg5ojbmqyxpwenq3"
+    }
+  ]
+}

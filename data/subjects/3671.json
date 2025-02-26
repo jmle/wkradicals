@@ -1,0 +1,36 @@
+{
+  "id": 3671,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "四季"
+  },
+  "primaryMeaning": "The Four Seasons",
+  "meaningMnemonic": "The <kanji>four</kanji> <kanji>season</kanji>s are <vocabulary>the four seasons</vocabulary>. For some reason many Japanese people think that Japan's the only place with four distinct seasons. Obviously they haven't been to half the places on their latitude around the world.",
+  "primaryReading": "しき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note that 四 is read using the on'yomi reading, which you've seen a few times over the course of WaniKani. Think of し meaning \"death\" (like 死), and how with the four seasons there comes death every Fall and Winter.",
+  "otherMeanings": [
+    "Four Seasons"
+  ],
+  "otherReadings": [],
+  "wkSlug": "四季",
+  "related": {
+    "radicals": [
+      16,
+      28,
+      135,
+      34
+    ],
+    "kanjis": [
+      485,
+      903
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しき",
+      "url": "https://files.wanikani.com/e35jkop3girtl69fu2u0fjd9w4c7"
+    }
+  ]
+}

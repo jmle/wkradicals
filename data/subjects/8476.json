@@ -1,0 +1,38 @@
+{
+  "id": 8476,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "汚濁"
+  },
+  "primaryMeaning": "Pollution",
+  "meaningMnemonic": "If the air is <kanji>muddy</kanji> and <kanji>dirty</kanji> it's because there is too much <vocabulary>pollution</vocabulary> in that area. You should wear a mask and be careful of <vocabulary>contamination</vocabulary>.",
+  "primaryReading": "おだく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Contamination",
+    "Corruption"
+  ],
+  "otherReadings": [],
+  "wkSlug": "汚濁",
+  "related": {
+    "radicals": [
+      103,
+      7,
+      14,
+      163,
+      89
+    ],
+    "kanjis": [
+      1506,
+      2372
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おだく",
+      "url": "https://files.wanikani.com/n9m86h2i1ebmm3pwo5skevmxyl17"
+    }
+  ]
+}

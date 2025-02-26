@@ -1,0 +1,39 @@
+{
+  "id": 7506,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "演技"
+  },
+  "primaryMeaning": "Acting",
+  "meaningMnemonic": "Your <kanji>performance</kanji> <kanji>skill</kanji> allows you to be great at <vocabulary>acting</vocabulary> and doing awesome <vocabulary>performance</vocabulary>s.",
+  "primaryReading": "えんぎ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Performance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "演技",
+  "related": {
+    "radicals": [
+      103,
+      78,
+      27,
+      51,
+      2,
+      63,
+      81
+    ],
+    "kanjis": [
+      1196,
+      919
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんぎ",
+      "url": "https://files.wanikani.com/h35t3llpxjddxuk2ua4tzspqllcd"
+    }
+  ]
+}

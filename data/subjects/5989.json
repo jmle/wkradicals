@@ -1,0 +1,34 @@
+{
+  "id": 5989,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "核"
+  },
+  "primaryMeaning": "Nucleus",
+  "meaningMnemonic": "The kanji and the word are the same. That means they share meanings as well. This word can also mean <vocabulary>core</vocabulary> because that's where the nucleus is in a cell, and <vocabulary>nuclear</vocabulary> because we like to blow ourselves up nowadays...",
+  "primaryReading": "かく",
+  "readingMnemonic": "The reading is the same as the kanji reading you learned.",
+  "otherMeanings": [
+    "Core",
+    "Nuclear"
+  ],
+  "otherReadings": [],
+  "wkSlug": "核",
+  "related": {
+    "radicals": [
+      23,
+      351
+    ],
+    "kanjis": [
+      1626
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かく",
+      "url": "https://files.wanikani.com/av7emw0dql2tht7716z0o8ccd21b"
+    }
+  ]
+}

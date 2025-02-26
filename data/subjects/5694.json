@@ -1,0 +1,35 @@
+{
+  "id": 5694,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "裏"
+  },
+  "primaryMeaning": "Backside",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "うら",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji as well.",
+  "otherMeanings": [
+    "Reverse",
+    "Other Side"
+  ],
+  "otherReadings": [],
+  "wkSlug": "裏",
+  "related": {
+    "radicals": [
+      8,
+      125,
+      8770
+    ],
+    "kanjis": [
+      1542
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うら",
+      "url": "https://files.wanikani.com/x61lu2vv05b7mu1fb48929nuzxu1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3093,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "平和"
+  },
+  "primaryMeaning": "Peace",
+  "meaningMnemonic": "The <kanji>flat</kanji> <kanji>peace</kanji>. This is a peace that will last, because there's no waves... no ripples... just flat. This is plain old <vocabulary>peace</vocabulary>.",
+  "primaryReading": "へいわ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Harmony"
+  ],
+  "otherReadings": [],
+  "wkSlug": "平和",
+  "related": {
+    "radicals": [
+      61,
+      8767,
+      135,
+      16
+    ],
+    "kanjis": [
+      535,
+      712
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へいわ",
+      "url": "https://files.wanikani.com/adagrfxemyvqcj6bdkxci4a0ffl7"
+    }
+  ]
+}

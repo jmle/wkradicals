@@ -1,0 +1,31 @@
+{
+  "id": 5979,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "幅"
+  },
+  "primaryMeaning": "Width",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はば",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "幅",
+  "related": {
+    "radicals": [
+      102,
+      8824
+    ],
+    "kanjis": [
+      1621
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はば",
+      "url": "https://files.wanikani.com/dza05sd99vv81ukuqt48vez813p2"
+    }
+  ]
+}

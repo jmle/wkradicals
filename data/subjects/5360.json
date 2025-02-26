@@ -1,0 +1,43 @@
+{
+  "id": 5360,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "翌年"
+  },
+  "primaryMeaning": "The Next Year",
+  "meaningMnemonic": "<kanji>The next</kanji> <kanji>year</kanji> is <vocabulary>the next year</vocabulary>.",
+  "primaryReading": "よくねん",
+  "readingMnemonic": "The reading can be the on'yomi for 年 or the kun'yomi. So, you can do either よくねん or よくとし, or preferably both.",
+  "otherMeanings": [
+    "Next Year",
+    "The Following Year"
+  ],
+  "otherReadings": [
+    "よくとし"
+  ],
+  "wkSlug": "翌年",
+  "related": {
+    "radicals": [
+      213,
+      55,
+      8762,
+      126
+    ],
+    "kanjis": [
+      1427,
+      546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よくとし",
+      "url": "https://files.wanikani.com/hpfv9vo56zssbqjxk19uoip1jccf"
+    },
+    {
+      "reading": "よくねん",
+      "url": "https://files.wanikani.com/05iy6brdtv4v5al8jqxvd0w6b733"
+    }
+  ]
+}

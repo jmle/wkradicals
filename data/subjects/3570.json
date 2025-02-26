@@ -1,0 +1,41 @@
+{
+  "id": 3570,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "神風"
+  },
+  "primaryMeaning": "Kamikaze",
+  "meaningMnemonic": "<kanji>Wind</kanji> of the <kanji>gods</kanji>. These are <vocabulary>divine winds</vocabulary>. More popularly, this is a word known as <vocabulary>kamikaze</vocabulary>, which became known because of the kamikaze pilots during WWII. This was used before WWII, though, when the entire Mongol fleet was destroyed by a storm, preventing an invasion of Japan. How lucky.",
+  "primaryReading": "かみかぜ",
+  "readingMnemonic": "The readings are kun'yomi readings for both, probably because this is two words put together into one. You know the reading of 風 from previous levels, hopefully. Now all you need to do is apply your knowledge of the word 神 to be able to read the rest.",
+  "otherMeanings": [
+    "Divine Winds"
+  ],
+  "otherReadings": [],
+  "wkSlug": "神風",
+  "related": {
+    "radicals": [
+      80,
+      190,
+      177,
+      5,
+      89
+    ],
+    "kanjis": [
+      799,
+      853
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんぷう",
+      "url": "https://files.wanikani.com/2174uchxvtv01mcjoeofrrih4jtm"
+    },
+    {
+      "reading": "かみかぜ",
+      "url": "https://files.wanikani.com/sluyxbm1d7p61pyzt7yuktp1fkuf"
+    }
+  ]
+}

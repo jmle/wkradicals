@@ -1,0 +1,37 @@
+{
+  "id": 6497,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "樹皮"
+  },
+  "primaryMeaning": "Tree Bark",
+  "meaningMnemonic": "A <kanji>wood</kanji> <kanji>skin</kanji> is <vocabulary>tree bark</vocabulary>. It's the wooden skin around trees.",
+  "primaryReading": "じゅひ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Bark"
+  ],
+  "otherReadings": [],
+  "wkSlug": "樹皮",
+  "related": {
+    "radicals": [
+      23,
+      421,
+      74,
+      5,
+      81
+    ],
+    "kanjis": [
+      1782,
+      539
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅひ",
+      "url": "https://files.wanikani.com/b2b1jfj60csrvgwurpd6q3z4rxr1"
+    }
+  ]
+}

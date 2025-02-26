@@ -1,0 +1,35 @@
+{
+  "id": 8755,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "輸送"
+  },
+  "primaryMeaning": "Transportation",
+  "meaningMnemonic": "You want to <kanji>transport</kanji> something by <kanji>send</kanji>ing it? Well, that's <vocabulary>transportation</vocabulary>.",
+  "primaryReading": "ゆそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "輸送",
+  "related": {
+    "radicals": [
+      93,
+      8790,
+      114,
+      8767,
+      40
+    ],
+    "kanjis": [
+      1221,
+      734
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆそう",
+      "url": "https://files.wanikani.com/illxg8nas2w0nvux236evzmay2bl"
+    }
+  ]
+}

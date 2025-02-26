@@ -1,0 +1,38 @@
+{
+  "id": 4212,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "乱暴"
+  },
+  "primaryMeaning": "Violent",
+  "meaningMnemonic": "<kanji>Riot</kanji> and <kanji>violence</kanji>. That sounds terrible! That sounds like a place full of violence, because rioting is <vocabulary>violent</vocabulary> and <vocabulary>violence</vocabulary> is violent too!",
+  "primaryReading": "らんぼう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Violence",
+    "Assault"
+  ],
+  "otherReadings": [],
+  "wkSlug": "乱暴",
+  "related": {
+    "radicals": [
+      174,
+      211,
+      22,
+      269,
+      45
+    ],
+    "kanjis": [
+      1079,
+      1077
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らんぼう",
+      "url": "https://files.wanikani.com/smj2jgiot9zj5slj240rnin8infa"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3062,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "間もなく"
+  },
+  "primaryMeaning": "Soon",
+  "meaningMnemonic": "The もなく part is like saying \"there isn't even.\" So, when \"there isn't even <kanji>an interval of time</kanji>,\" things will happen <vocabulary>soon</vocabulary> or <vocabulary>before long</vocabulary>.\n\nYou'll probably hear this the most in train announcements letting you know your train will <vocabulary>shortly</vocabulary> be arriving in Tokyo or wherever.",
+  "primaryReading": "まもなく",
+  "readingMnemonic": "The reading for this one is weird, though. It's a second kun'yomi reading (there is also あいだ), read as ま. So what is happening <vocabulary>soon</vocabulary>? Your <reading>Ma</reading> is going to be here <vocabulary>before long</vocabulary>. You better hurry and prepare, because your room looks terrible... \n\n\"間もなく, your mom is about to show up!\"",
+  "otherMeanings": [
+    "Before Long",
+    "Shortly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "間もなく",
+  "related": {
+    "radicals": [
+      214,
+      22
+    ],
+    "kanjis": [
+      701
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まもなく",
+      "url": "https://files.wanikani.com/6u596n6cgae7vfi27mlbbztnrcyk"
+    }
+  ]
+}

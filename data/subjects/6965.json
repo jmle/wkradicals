@@ -1,0 +1,34 @@
+{
+  "id": 6965,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "墨絵"
+  },
+  "primaryMeaning": "Ink Painting",
+  "meaningMnemonic": "An <kanji>ink</kanji> <kanji>painting</kanji> is an <vocabulary>ink painting</vocabulary>.\n\n墨絵 refers to artwork created in monochrome, using black sumi ink with a brush on handmade paper.",
+  "primaryReading": "すみえ",
+  "readingMnemonic": "The reading is the readings you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "墨絵",
+  "related": {
+    "radicals": [
+      153,
+      17,
+      86,
+      155
+    ],
+    "kanjis": [
+      1941,
+      698
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すみえ",
+      "url": "https://files.wanikani.com/i9vbuwh7dywqad0swjglf75idlmg"
+    }
+  ]
+}

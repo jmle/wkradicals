@@ -1,0 +1,33 @@
+{
+  "id": 2764,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "考え"
+  },
+  "primaryMeaning": "Thought",
+  "meaningMnemonic": "This is a noun version of <kanji>think</kanji>. What is \"a think\"? It's a <vocabulary>thought</vocabulary>.",
+  "primaryReading": "かんがえ",
+  "readingMnemonic": "You learned this reading with 考える, just cut off the る!",
+  "otherMeanings": [
+    "A Thought"
+  ],
+  "otherReadings": [],
+  "wkSlug": "考え",
+  "related": {
+    "radicals": [
+      104,
+      8766
+    ],
+    "kanjis": [
+      576
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんがえ",
+      "url": "https://files.wanikani.com/33x57f1ubpfsp5nm7olrsj3ncui9"
+    }
+  ]
+}

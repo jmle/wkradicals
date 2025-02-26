@@ -1,0 +1,31 @@
+{
+  "id": 4155,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "静か"
+  },
+  "primaryMeaning": "Quiet",
+  "meaningMnemonic": "This is the な adjective form of <kanji>quiet</kanji>, which is kind of just like the noun, anyways. What is the adjective version of quiet? It's also <vocabulary>quiet</vocabulary>.",
+  "primaryReading": "しずか",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You need to be <vocabulary>quiet</vocabulary>. <reading>She's</reading> (しず) being nice and quiet, unlike you!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "静か",
+  "related": {
+    "radicals": [
+      120,
+      261
+    ],
+    "kanjis": [
+      1052
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しずか",
+      "url": "https://files.wanikani.com/h8bfkm0pldsbr7y0pdqg3uin9j0z"
+    }
+  ]
+}

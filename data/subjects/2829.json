@@ -1,0 +1,36 @@
+{
+  "id": 2829,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "〜年来"
+  },
+  "primaryMeaning": "For Some Years",
+  "meaningMnemonic": "When you have <kanji>year</kanji>s <kanji>com</kanji>ing and going, you know it is <vocabulary>for some years</vocabulary>. Don't confuse this one with 来年 which means \"next year.\" The kanji 来 comes after the kanji for year, so instead of \"coming year\" it's \"years that come (and go).\" At least, you can think of it that way to differentiate. \n\nYou can also add numbers to this word. For example ５年来 means something to the tune of \"for five years.\" But this is a pretty formal word. Just keep that in mind.",
+  "primaryReading": "ねんらい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "For Years"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜年来",
+  "related": {
+    "radicals": [
+      8762,
+      126,
+      1,
+      98
+    ],
+    "kanjis": [
+      546,
+      590
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねんらい",
+      "url": "https://files.wanikani.com/scstmx2sn868vpxfwn2kq9ltfi84"
+    }
+  ]
+}

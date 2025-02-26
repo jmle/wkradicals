@@ -1,0 +1,34 @@
+{
+  "id": 9114,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "酌"
+  },
+  "primaryMeaning": "Pouring Alcohol",
+  "meaningMnemonic": "If you <kanji>serve</kanji> someone, you're <vocabulary>pouring alcohol</vocabulary> or <vocabulary>pouring sake</vocabulary> for them. You're <vocabulary>filling someone's glass</vocabulary>.",
+  "primaryReading": "しゃく",
+  "readingMnemonic": "You learned this reading with the kanji. Cheers!",
+  "otherMeanings": [
+    "Pouring Sake",
+    "Filling Someone's Glass"
+  ],
+  "otherReadings": [],
+  "wkSlug": "酌",
+  "related": {
+    "radicals": [
+      182,
+      236
+    ],
+    "kanjis": [
+      2391
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃく",
+      "url": "https://files.wanikani.com/7lhzj2lwaot0g8ukhdv3i28kcp5z"
+    }
+  ]
+}

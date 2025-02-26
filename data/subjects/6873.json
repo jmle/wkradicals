@@ -1,0 +1,36 @@
+{
+  "id": 6873,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "近頃"
+  },
+  "primaryMeaning": "Lately",
+  "meaningMnemonic": "The <kanji>near</kanji> <kanji>approximate</kanji> is the approximate time that was near to you. This period of time is the <vocabulary>lately</vocabulary> period of time. It's <vocabulary>recently</vocabulary>.",
+  "primaryReading": "ちかごろ",
+  "readingMnemonic": "The reading is 近い and 頃 put together.",
+  "otherMeanings": [
+    "Recently"
+  ],
+  "otherReadings": [],
+  "wkSlug": "近頃",
+  "related": {
+    "radicals": [
+      114,
+      115,
+      57,
+      184
+    ],
+    "kanjis": [
+      596,
+      1914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちかごろ",
+      "url": "https://files.wanikani.com/djoldbnbim154bieti699eue1yfy"
+    }
+  ]
+}

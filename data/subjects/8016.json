@@ -1,0 +1,36 @@
+{
+  "id": 8016,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "緯線"
+  },
+  "primaryMeaning": "Parallel",
+  "meaningMnemonic": "A <kanji>latitude</kanji> <kanji>line</kanji> can also be called a <vocabulary>parallel</vocabulary>.",
+  "primaryReading": "いせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Latitude Lines"
+  ],
+  "otherReadings": [],
+  "wkSlug": "緯線",
+  "related": {
+    "radicals": [
+      86,
+      294,
+      52,
+      45
+    ],
+    "kanjis": [
+      2199,
+      767
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いせん",
+      "url": "https://files.wanikani.com/ph8qur2li6n3z8u6axwr1cij1r48"
+    }
+  ]
+}

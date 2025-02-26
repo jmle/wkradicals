@@ -1,0 +1,37 @@
+{
+  "id": 5172,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "不潔"
+  },
+  "primaryMeaning": "Filthy",
+  "meaningMnemonic": "<kanji>Not</kanji> <kanji>clean</kanji> things are <vocabulary>filthy</vocabulary> and <vocabulary>dirty</vocabulary>. Ewughh.",
+  "primaryReading": "ふけつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Dirty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不潔",
+  "related": {
+    "radicals": [
+      96,
+      103,
+      210,
+      24,
+      86
+    ],
+    "kanjis": [
+      563,
+      1357
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふけつ",
+      "url": "https://files.wanikani.com/ovy43sz7l7ti7h4n0fqmch1vjjxh"
+    }
+  ]
+}

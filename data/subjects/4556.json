@@ -1,0 +1,37 @@
+{
+  "id": 4556,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "主観"
+  },
+  "primaryMeaning": "Subjective View",
+  "meaningMnemonic": "What is your <kanji>main</kanji> <kanji>view</kanji>? Your <vocabulary>subjective view</vocabulary>, of course! This can be your own <vocabulary>subjective opinion</vocabulary>, and also refers to the idea of the <vocabulary>subjective</vocabulary> in general (as opposed to the objective). It can be hard to step back and look at things without your own unique biases and perspectives.",
+  "primaryReading": "しゅかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Subjective Opinion",
+    "Subjective"
+  ],
+  "otherReadings": [],
+  "wkSlug": "主観",
+  "related": {
+    "radicals": [
+      154,
+      72,
+      240,
+      91
+    ],
+    "kanjis": [
+      528,
+      1175
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅかん",
+      "url": "https://files.wanikani.com/23ypnqcma4fthrv86xshdwcxh5mm"
+    }
+  ]
+}

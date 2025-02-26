@@ -1,0 +1,34 @@
+{
+  "id": 7534,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "千葉"
+  },
+  "primaryMeaning": "Chiba",
+  "meaningMnemonic": "There is only one place in Japan that has a <kanji>thousand</kanji> <kanji>leaves</kanji> and that's <vocabulary>Chiba</vocabulary>. Picture all of those leaves swirling around you on your vacation to Chiba. Beautiful.",
+  "primaryReading": "ちば",
+  "readingMnemonic": "This is a place name and it uses the kun'yomi. You haven't learned kun'yomi for 千 yet, so here's a mnemonic to help you remember it:\n\nWhile you're admiring all of the leaves in <vocabulary>Chiba</vocabulary>, you realize you're craving something. What goes well with watching leaves? Why, <reading>chee</reading>se (ち) of course. Delicious Chiba cheese.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "千葉",
+  "related": {
+    "radicals": [
+      32,
+      90,
+      83,
+      23
+    ],
+    "kanjis": [
+      460,
+      750
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちば",
+      "url": "https://files.wanikani.com/dbene31e9usk7ihm7vmkuu0v46dq"
+    }
+  ]
+}

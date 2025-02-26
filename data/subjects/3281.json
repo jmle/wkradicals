@@ -1,0 +1,37 @@
+{
+  "id": 3281,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "注ぐ"
+  },
+  "primaryMeaning": "To Pour",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>pour</kanji> so the verb vocab version is <vocabulary>to pour</vocabulary>.",
+  "primaryReading": "そそぐ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou are going <vocabulary>to pour</vocabulary> some <reading>sauce</reading> (そそ).",
+  "otherMeanings": [],
+  "otherReadings": [
+    "つぐ"
+  ],
+  "wkSlug": "注ぐ",
+  "related": {
+    "radicals": [
+      103,
+      154
+    ],
+    "kanjis": [
+      794
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そそぐ",
+      "url": "https://files.wanikani.com/harruaf69t07zamu46og689rwr5n"
+    },
+    {
+      "reading": "つぐ",
+      "url": "https://files.wanikani.com/w71fyx6qujhdioh92qma5mwlx22i"
+    }
+  ]
+}

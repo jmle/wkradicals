@@ -1,0 +1,36 @@
+{
+  "id": 9152,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "町外れ"
+  },
+  "primaryMeaning": "Outskirts Of Town",
+  "meaningMnemonic": "You already know that 町 means \"town\" and that 外れ means \"extremity\" or \"outskirts\", and this is just a combination of the two. So this means the <vocabulary>outskirts of town</vocabulary>.",
+  "primaryReading": "まちはずれ",
+  "readingMnemonic": "You've already learned both 町 and 外れ, so just combine the two and you get 町外れ not only in meaning, but also in reading!",
+  "otherMeanings": [
+    "Outskirts"
+  ],
+  "otherReadings": [],
+  "wkSlug": "町外れ",
+  "related": {
+    "radicals": [
+      51,
+      27,
+      33,
+      10
+    ],
+    "kanjis": [
+      556,
+      521
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まちはずれ",
+      "url": "https://files.wanikani.com/brqewfehu3nkzyx6bcdz6j3pu7fm"
+    }
+  ]
+}

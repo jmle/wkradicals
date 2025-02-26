@@ -1,0 +1,35 @@
+{
+  "id": 4022,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "無知"
+  },
+  "primaryMeaning": "Ignorance",
+  "meaningMnemonic": "When you <kanji>know</kanji> <kanji>nothing</kanji> (Jon Snow), you know nothing. This is <vocabulary>ignorance</vocabulary>, it's being <vocabulary>ignorant</vocabulary>.",
+  "primaryReading": "むち",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Ignorant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無知",
+  "related": {
+    "radicals": [
+      252,
+      72,
+      16
+    ],
+    "kanjis": [
+      1008,
+      631
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むち",
+      "url": "https://files.wanikani.com/j22t0v9oj119dnwkez5m1vssg3ux"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7199,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "色彩"
+  },
+  "primaryMeaning": "Color",
+  "meaningMnemonic": "The <kanji>color</kanji> <kanji>coloring</kanji> is the <vocabulary>color</vocabulary> of something.",
+  "primaryReading": "しきさい",
+  "readingMnemonic": "色 uses the しき reading (remember 景色?). Use that here with the 彩 kanji reading.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "色彩",
+  "related": {
+    "radicals": [
+      110,
+      8772,
+      23,
+      38
+    ],
+    "kanjis": [
+      579,
+      2028
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しきさい",
+      "url": "https://files.wanikani.com/2s1htkpi5b1r85oak3zabn0h8lx2"
+    }
+  ]
+}

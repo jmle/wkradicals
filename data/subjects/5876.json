@@ -1,0 +1,33 @@
+{
+  "id": 5876,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "講義"
+  },
+  "primaryMeaning": "Lecture",
+  "meaningMnemonic": "<kanji>Lecture</kanji> of <kanji>righteousness</kanji> is still a <vocabulary>lecture</vocabulary>.",
+  "primaryReading": "こうぎ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "講義",
+  "related": {
+    "radicals": [
+      117,
+      303,
+      383
+    ],
+    "kanjis": [
+      1584,
+      1154
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうぎ",
+      "url": "https://files.wanikani.com/3qrcflopgi2lw8r5nla4w5t5cos2"
+    }
+  ]
+}

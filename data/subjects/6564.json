@@ -1,0 +1,38 @@
+{
+  "id": 6564,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "親不孝"
+  },
+  "primaryMeaning": "Lack Of Filial Piety",
+  "meaningMnemonic": "You know that 不孝 means \"disobedience to parents. So, if you add <kanji>parent</kanji>s to it, it just means the same thing. Just a longer version of the word, basically. This means <vocabulary>lack of filial piety</vocabulary> or <vocabulary>disobedience to parents</vocabulary>.",
+  "primaryReading": "おやふこう",
+  "readingMnemonic": "The reading for 不孝 is the one you learned. Then, add 親's reading (vocab) to it.",
+  "otherMeanings": [
+    "Disobedience To Parents"
+  ],
+  "otherReadings": [],
+  "wkSlug": "親不孝",
+  "related": {
+    "radicals": [
+      55,
+      23,
+      91,
+      96,
+      418
+    ],
+    "kanjis": [
+      770,
+      563,
+      1747
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おやふこう",
+      "url": "https://files.wanikani.com/oj37pe3mdlmggicpf5590h5cw9iu"
+    }
+  ]
+}

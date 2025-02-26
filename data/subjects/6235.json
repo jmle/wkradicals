@@ -1,0 +1,33 @@
+{
+  "id": 6235,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "燃やす"
+  },
+  "primaryMeaning": "To Burn Something",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>burn</kanji> and the verb vocab version is <vocabulary>to burn something</vocabulary>, or <vocabulary>to set on fire</vocabulary>.",
+  "primaryReading": "もやす",
+  "readingMnemonic": "This is when you're burning something. To remember this meaning, you have to remember the も part. So, just think of your friend <reading>Mo</reading>e (も), and how you're going to burn him... uh... just a little bit.",
+  "otherMeanings": [
+    "To Set On Fire"
+  ],
+  "otherReadings": [],
+  "wkSlug": "燃やす",
+  "related": {
+    "radicals": [
+      46,
+      297
+    ],
+    "kanjis": [
+      1222
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もやす",
+      "url": "https://files.wanikani.com/iizume54jdt8969hz7pni8eo684w"
+    }
+  ]
+}

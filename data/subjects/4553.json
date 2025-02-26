@@ -1,0 +1,37 @@
+{
+  "id": 4553,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "観光"
+  },
+  "primaryMeaning": "Sightseeing",
+  "meaningMnemonic": "Let's go <kanji>view</kanji> some <kanji>sunlight</kanji>! Oh wait, we can't do that here. We will have to go <vocabulary>sightseeing</vocabulary> to go see this amazing sunlight thing.",
+  "primaryReading": "かんこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Tourism"
+  ],
+  "otherReadings": [],
+  "wkSlug": "観光",
+  "related": {
+    "radicals": [
+      72,
+      240,
+      91,
+      8765,
+      101
+    ],
+    "kanjis": [
+      1175,
+      567
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんこう",
+      "url": "https://files.wanikani.com/c1rseoomgipd2phhddu739uotusd"
+    }
+  ]
+}

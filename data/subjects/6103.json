@@ -1,0 +1,38 @@
+{
+  "id": 6103,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "盗聴"
+  },
+  "primaryMeaning": "Wiretapping",
+  "meaningMnemonic": "I <kanji>steal</kanji> by <kanji>listen</kanji>ing to what people say. I do this by <vocabulary>wiretapping</vocabulary> their phone and <vocabulary>bugging</vocabulary> their homes.",
+  "primaryReading": "とうちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Bugging"
+  ],
+  "otherReadings": [],
+  "wkSlug": "盗聴",
+  "related": {
+    "radicals": [
+      278,
+      84,
+      88,
+      15,
+      163,
+      65
+    ],
+    "kanjis": [
+      1442,
+      1660
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうちょう",
+      "url": "https://files.wanikani.com/23wyiixno9gn1inxi6e02je5n7an"
+    }
+  ]
+}

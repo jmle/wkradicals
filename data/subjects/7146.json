@@ -1,0 +1,33 @@
+{
+  "id": 7146,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "塊魂"
+  },
+  "primaryMeaning": "Katamari Damacy",
+  "meaningMnemonic": "A <kanji>lump</kanji> <kanji>spirit</kanji> is the lump of spirit that's used in the famous game <vocabulary>Katamari Damacy</vocabulary>.",
+  "primaryReading": "かたまりだましい",
+  "readingMnemonic": "The reading is 塊 and 魂 put together. Watch out for the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "塊魂",
+  "related": {
+    "radicals": [
+      17,
+      292,
+      159
+    ],
+    "kanjis": [
+      1912,
+      1915
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かたまりだましい",
+      "url": "https://files.wanikani.com/6bdj1251acvn7rohdfure6rvwofw"
+    }
+  ]
+}

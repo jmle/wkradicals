@@ -1,0 +1,31 @@
+{
+  "id": 6229,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "伸ばす"
+  },
+  "primaryMeaning": "To Stretch Something",
+  "meaningMnemonic": "If 伸びる is \"to be stretched\" then 伸ばす is <vocabulary>to stretch something</vocabulary>, where you're doing the stretching. You know this because you took a <reading>bus</reading> and you stretched it out to be an even longer bus.",
+  "primaryReading": "のばす",
+  "readingMnemonic": "The reading comes from 伸びる, so if you know that you should know this.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "伸ばす",
+  "related": {
+    "radicals": [
+      75,
+      190
+    ],
+    "kanjis": [
+      1617
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のばす",
+      "url": "https://files.wanikani.com/9fyhjmgltnrgveux5l4mlwbhr31n"
+    }
+  ]
+}

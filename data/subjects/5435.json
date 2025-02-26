@@ -1,0 +1,36 @@
+{
+  "id": 5435,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "除外"
+  },
+  "primaryMeaning": "Exception",
+  "meaningMnemonic": "<kanji>Exclude</kanji> this one and put it <kanji>outside</kanji> what we're considering. This is the <vocabulary>exception</vocabulary>.",
+  "primaryReading": "じょがい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Exclusion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "除外",
+  "related": {
+    "radicals": [
+      176,
+      313,
+      33,
+      10
+    ],
+    "kanjis": [
+      1451,
+      521
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょがい",
+      "url": "https://files.wanikani.com/ker08vedimd8d81v310i15eqhoya"
+    }
+  ]
+}

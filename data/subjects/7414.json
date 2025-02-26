@@ -1,0 +1,37 @@
+{
+  "id": 7414,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "古墳"
+  },
+  "primaryMeaning": "Ancient Tomb",
+  "meaningMnemonic": "An <kanji>old</kanji> <kanji>tomb</kanji> is an <vocabulary>ancient tomb</vocabulary>. They're mostly from the <vocabulary>Kofun</vocabulary> period, and indeed that's where the period gets its name.",
+  "primaryReading": "こふん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Kofun"
+  ],
+  "otherReadings": [],
+  "wkSlug": "古墳",
+  "related": {
+    "radicals": [
+      69,
+      17,
+      15,
+      90,
+      94
+    ],
+    "kanjis": [
+      519,
+      2111
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こふん",
+      "url": "https://files.wanikani.com/lkxw97wv6x2xcp5uydda195dcw8p"
+    }
+  ]
+}

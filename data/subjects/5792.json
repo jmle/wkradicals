@@ -1,0 +1,36 @@
+{
+  "id": 5792,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "推理"
+  },
+  "primaryMeaning": "Reasoning",
+  "meaningMnemonic": "To <kanji>infer</kanji> <kanji>reason</kanji> is to have <vocabulary>reasoning</vocabulary>.",
+  "primaryReading": "すいり",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Inference"
+  ],
+  "otherReadings": [],
+  "wkSlug": "推理",
+  "related": {
+    "radicals": [
+      63,
+      240,
+      48,
+      125
+    ],
+    "kanjis": [
+      1565,
+      669
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいり",
+      "url": "https://files.wanikani.com/i6ns5jhr1xa5y0dw3etfuemv6szm"
+    }
+  ]
+}

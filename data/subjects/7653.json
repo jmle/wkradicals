@@ -1,0 +1,34 @@
+{
+  "id": 7653,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "額"
+  },
+  "primaryMeaning": "Framed Picture",
+  "meaningMnemonic": "You previously learned this kanji with three different meanings. In vocabulary form, it just has one of these meanings, <vocabulary>framed picture</vocabulary>! Similarly, it can just mean <vocabulary>picture</vocabulary> or <vocabulary>frame</vocabulary> too.",
+  "primaryReading": "がく",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Picture",
+    "Frame"
+  ],
+  "otherReadings": [],
+  "wkSlug": "額",
+  "related": {
+    "radicals": [
+      295,
+      184
+    ],
+    "kanjis": [
+      1218
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がく",
+      "url": "https://files.wanikani.com/w50sc8hpk9kjroic9n60nmihckjx"
+    }
+  ]
+}

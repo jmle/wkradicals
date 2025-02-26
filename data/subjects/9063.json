@@ -1,0 +1,32 @@
+{
+  "id": 9063,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "雄"
+  },
+  "primaryMeaning": "Male",
+  "meaningMnemonic": "The kanji means <kanji>male</kanji> and this also means <vocabulary>male</vocabulary>. It's used for animals, plants, and the like.\n\nNote that this is often written in katakana, as in オス.",
+  "primaryReading": "おす",
+  "readingMnemonic": "<vocabulary>Male</vocabulary> animals can be kind of pushy, always trying <reading>to push</reading> (押す) other animals around, trying to be the alpha and all.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "雄",
+  "related": {
+    "radicals": [
+      26,
+      140,
+      240
+    ],
+    "kanjis": [
+      1387
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おす",
+      "url": "https://files.wanikani.com/7tzftgk22b3f6d6cvtrbk4eor76y"
+    }
+  ]
+}

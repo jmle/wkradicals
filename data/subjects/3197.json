@@ -1,0 +1,37 @@
+{
+  "id": 3197,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "路地"
+  },
+  "primaryMeaning": "Alley",
+  "meaningMnemonic": "If you think about it, an <kanji>earth</kanji> <kanji>road</kanji> isn't going to be the main road. It will be the road less traveled. You could call it a <vocabulary>path</vocabulary> (you know, like a dirt path!) or a <vocabulary>dirt road</vocabulary>. Alternatively, another less traveled street that would probably be made out of dirt back in the day (before everything was paved) would be an <vocabulary>alley</vocabulary>. Imagine yourself walking down a dirt alley at night with no shoes. Scary!",
+  "primaryReading": "ろじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You've learned these readings already, so you should be able to read this word too! And remember, that it's the じ reading that you learned with 生地 here. ",
+  "otherMeanings": [
+    "Path",
+    "Dirt Road"
+  ],
+  "otherReadings": [],
+  "wkSlug": "路地",
+  "related": {
+    "radicals": [
+      95,
+      180,
+      17,
+      77
+    ],
+    "kanjis": [
+      758,
+      608
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろじ",
+      "url": "https://files.wanikani.com/4ms153g0yafjlufx3sbfb6t1sllc"
+    }
+  ]
+}

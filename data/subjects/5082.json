@@ -1,0 +1,33 @@
+{
+  "id": 5082,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "貸す"
+  },
+  "primaryMeaning": "To Lend",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>lend</kanji> so the verb vocab version is <vocabulary>to lend</vocabulary>.",
+  "primaryReading": "かす",
+  "readingMnemonic": "Allow me <vocabulary>to lend</vocabulary> you some advice. The reading you learned from the kanji can be used here.",
+  "otherMeanings": [
+    "To Rent"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貸す",
+  "related": {
+    "radicals": [
+      310,
+      94
+    ],
+    "kanjis": [
+      1324
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かす",
+      "url": "https://files.wanikani.com/p8l4ei7fwuiycbcg59yn4g8zwsbx"
+    }
+  ]
+}

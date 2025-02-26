@@ -1,0 +1,36 @@
+{
+  "id": 6217,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "信託"
+  },
+  "primaryMeaning": "Trust",
+  "meaningMnemonic": "If you <kanji>believe</kanji> you can <kanji>consign</kanji> your trust to someone, then you can <vocabulary>trust</vocabulary> them, or you are being <vocabulary>entrusting</vocabulary>.",
+  "primaryReading": "しんたく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Entrusting"
+  ],
+  "otherReadings": [],
+  "wkSlug": "信託",
+  "related": {
+    "radicals": [
+      75,
+      117,
+      5,
+      4
+    ],
+    "kanjis": [
+      940,
+      1701
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんたく",
+      "url": "https://files.wanikani.com/x0111wvj2l6zuuv63vqr704n2jq7"
+    }
+  ]
+}

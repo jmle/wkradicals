@@ -1,0 +1,34 @@
+{
+  "id": 8457,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "忌まわしい"
+  },
+  "primaryMeaning": "Unpleasant",
+  "meaningMnemonic": "This is a single kanji with しい on the end, meaning it's an adjective. What's the adjective form of <kanji>mourning</kanji>? It's <vocabulary>unpleasant</vocabulary> or <vocabulary>disgusting</vocabulary>. Nobody said mourning was fun.",
+  "primaryReading": "いまわしい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYour mourning is especially <vocabulary>unpleasant</vocabulary> because it's your pet <reading>ea</reading>gle (い) you're mourning for. Your parents wouldn't let you bury him so you're just staring at his week old, dead eagle body. It's super <vocabulary>disgusting</vocabulary>, actually.",
+  "otherMeanings": [
+    "Disgusting",
+    "Inauspicious"
+  ],
+  "otherReadings": [],
+  "wkSlug": "忌まわしい",
+  "related": {
+    "radicals": [
+      228,
+      65
+    ],
+    "kanjis": [
+      2371
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いまわしい",
+      "url": "https://files.wanikani.com/8ea9e9r7963rxv8s83knxuln6o8i"
+    }
+  ]
+}

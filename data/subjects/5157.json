@@ -1,0 +1,42 @@
+{
+  "id": 5157,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "無我夢中"
+  },
+  "primaryMeaning": "Total Absorption",
+  "meaningMnemonic": "You already know that 無我 is \"selflessness\" and 夢中 is \"crazy about.\" So this means something like <vocabulary>total absorption</vocabulary>. You're so into something that you’ve started losing your sense of self. Just like 夢中, this can also describe doing something <vocabulary>frantic</vocabulary>ally, like running away from somebody or something.",
+  "primaryReading": "むがむちゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Losing Oneself In",
+    "Frantic"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無我夢中",
+  "related": {
+    "radicals": [
+      252,
+      272,
+      90,
+      163,
+      76,
+      33,
+      49
+    ],
+    "kanjis": [
+      1008,
+      1294,
+      1108,
+      469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むがむちゅう",
+      "url": "https://files.wanikani.com/fr8fdf7pzdne69l0udxy1dramf6t"
+    }
+  ]
+}

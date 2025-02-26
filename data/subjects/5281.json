@@ -1,0 +1,37 @@
+{
+  "id": 5281,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "診察"
+  },
+  "primaryMeaning": "Medical Exam",
+  "meaningMnemonic": "I'm going to <kanji>diagnose</kanji> you and then make a <kanji>guess</kanji> as to what's wrong with you during this <vocabulary>medical exam</vocabulary>.",
+  "primaryReading": "しんさつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Medical Examination"
+  ],
+  "otherReadings": [],
+  "wkSlug": "診察",
+  "related": {
+    "radicals": [
+      117,
+      8764,
+      38,
+      78,
+      8825
+    ],
+    "kanjis": [
+      1390,
+      1019
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんさつ",
+      "url": "https://files.wanikani.com/l4c3qewrfae0dr4qnmg0x9uqnwm4"
+    }
+  ]
+}

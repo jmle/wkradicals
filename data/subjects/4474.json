@@ -1,0 +1,34 @@
+{
+  "id": 4474,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "企てる"
+  },
+  "primaryMeaning": "To Plan",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>plan</kanji> so the verb vocab version is <vocabulary>to plan</vocabulary>.",
+  "primaryReading": "くわだてる",
+  "readingMnemonic": "You say you have something you need <vocabulary>to plan</vocabulary>? <reading>Coo</reading>l, <reading>whadda</reading>ya (くわだ) gonna do?",
+  "otherMeanings": [
+    "To Scheme",
+    "To Attempt"
+  ],
+  "otherReadings": [],
+  "wkSlug": "企てる",
+  "related": {
+    "radicals": [
+      8764,
+      44
+    ],
+    "kanjis": [
+      1153
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くわだてる",
+      "url": "https://files.wanikani.com/j3x8idpo0t6dehrx6i404eqjm7yo"
+    }
+  ]
+}

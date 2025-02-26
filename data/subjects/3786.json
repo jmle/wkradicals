@@ -1,0 +1,35 @@
+{
+  "id": 3786,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "英文"
+  },
+  "primaryMeaning": "English Writing",
+  "meaningMnemonic": "<kanji>England</kanji> <kanji>writing</kanji> is <vocabulary>English Writing</vocabulary> (or if you want to be fancy, <vocabulary>English Composition</vocabulary>).",
+  "primaryReading": "えいぶん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "English Composition"
+  ],
+  "otherReadings": [],
+  "wkSlug": "英文",
+  "related": {
+    "radicals": [
+      90,
+      231,
+      42
+    ],
+    "kanjis": [
+      953,
+      475
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えいぶん",
+      "url": "https://files.wanikani.com/w7ub7t1qywkpemmnhnee42g4afvp"
+    }
+  ]
+}

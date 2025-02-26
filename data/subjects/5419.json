@@ -1,0 +1,37 @@
+{
+  "id": 5419,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "普通"
+  },
+  "primaryMeaning": "Normal",
+  "meaningMnemonic": "You <kanji>pass through</kanji> like completely <kanji>normal</kanji>. You are <vocabulary>normal</vocabulary>. You do things <vocabulary>normally</vocabulary>, normally.",
+  "primaryReading": "ふつう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Normally"
+  ],
+  "otherReadings": [],
+  "wkSlug": "普通",
+  "related": {
+    "radicals": [
+      334,
+      22,
+      114,
+      141,
+      71
+    ],
+    "kanjis": [
+      1448,
+      665
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふつう",
+      "url": "https://files.wanikani.com/pofhuzq94tk6qdgvbuminduwjko7"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7661,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "飾り"
+  },
+  "primaryMeaning": "Decoration",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>decorate</kanji>, so it means <vocabulary>decoration</vocabulary>.",
+  "primaryReading": "かざり",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "otherMeanings": [
+    "Ornament"
+  ],
+  "otherReadings": [],
+  "wkSlug": "飾り",
+  "related": {
+    "radicals": [
+      139,
+      8762,
+      102
+    ],
+    "kanjis": [
+      1438
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かざり",
+      "url": "https://files.wanikani.com/b0kvcm8pw2x3lw1vmsd4g94i425g"
+    }
+  ]
+}

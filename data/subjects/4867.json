@@ -1,0 +1,37 @@
+{
+  "id": 4867,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "応援"
+  },
+  "primaryMeaning": "Support",
+  "meaningMnemonic": "You must <kanji>respond</kanji> with <kanji>aid</kanji> in order to show your <vocabulary>support</vocabulary> for someone who needs it. You can usually show your support if you <vocabulary>root for</vocabulary> them.",
+  "primaryReading": "おうえん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Root For",
+    "Aid"
+  ],
+  "otherReadings": [],
+  "wkSlug": "応援",
+  "related": {
+    "radicals": [
+      62,
+      65,
+      63,
+      286
+    ],
+    "kanjis": [
+      1180,
+      1182
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おうえん",
+      "url": "https://files.wanikani.com/7ustfuk5k7j58up1vaceoankm992"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5974,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "及ぶ"
+  },
+  "primaryMeaning": "To Reach",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>reach</kanji> and the verb version is <vocabulary>to reach</vocabulary> or <vocabulary>to amount to</vocabulary> . This is like \"x reached y\" or \"x amounted to y.\"",
+  "primaryReading": "およぶ",
+  "readingMnemonic": "<reading>Oh, yo</reading>, if you want to reach that number, you'll have to try harder.",
+  "otherMeanings": [
+    "To Amount To"
+  ],
+  "otherReadings": [],
+  "wkSlug": "及ぶ",
+  "related": {
+    "radicals": [
+      193
+    ],
+    "kanjis": [
+      1619
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "およぶ",
+      "url": "https://files.wanikani.com/adxg602gefjjhfitnm19mp6xhukf"
+    }
+  ]
+}

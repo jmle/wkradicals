@@ -1,0 +1,33 @@
+{
+  "id": 5537,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "血液"
+  },
+  "primaryMeaning": "Blood",
+  "meaningMnemonic": "Your <kanji>blood</kanji> <kanji>fluid</kanji> is your <vocabulary>blood</vocabulary>.",
+  "primaryReading": "けつえき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "血液",
+  "related": {
+    "radicals": [
+      137,
+      103,
+      342
+    ],
+    "kanjis": [
+      619,
+      1487
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けつえき",
+      "url": "https://files.wanikani.com/dlp96jyfukqnw07x45jo640i11es"
+    }
+  ]
+}

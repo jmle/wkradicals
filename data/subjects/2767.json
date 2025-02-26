@@ -1,0 +1,30 @@
+{
+  "id": 2767,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "肉"
+  },
+  "primaryMeaning": "Meat",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "にく",
+  "readingMnemonic": "Luckily for you, this word uses the on'yomi reading that you learned even though it's a single kanji all on its own. So, you should know it already!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "肉",
+  "related": {
+    "radicals": [
+      108
+    ],
+    "kanjis": [
+      577
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にく",
+      "url": "https://files.wanikani.com/n488mxe6c40ssh0qapfco29lqt93"
+    }
+  ]
+}

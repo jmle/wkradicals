@@ -1,0 +1,33 @@
+{
+  "id": 1053,
+  "type": "kanji",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "句"
+  },
+  "primaryReading": "く",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "く",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Paragraph",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>paragraph</radical> radical and the <kanji>paragraph</kanji> kanji are exactly the same!",
+  "readingMnemonic": "You have to write an entire <kanji>paragraph</kanji> about a topic, so you choose <reading>coo</reading>kies (く).",
+  "wkSlug": "句",
+  "related": {
+    "radicals": [
+      242
+    ],
+    "vocabularies": [
+      4075,
+      4076,
+      4224,
+      4651
+    ]
+  }
+}

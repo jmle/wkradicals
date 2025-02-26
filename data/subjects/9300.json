@@ -1,0 +1,42 @@
+{
+  "id": 9300,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "十分間"
+  },
+  "primaryMeaning": "Ten Minutes",
+  "meaningMnemonic": "You've got a <kanji>ten</kanji> <kanji>minute</kanji> <kanji>interval of time</kanji>. That simply makes this <vocabulary>ten minutes</vocabulary>.\n\nNote that, as we mentioned on the page for 〜間, you can omit 間 and this will still mean <vocabulary>ten minutes</vocabulary>! You'll especially see this in conversations and more casual contexts.",
+  "primaryReading": "じゅっぷんかん",
+  "readingMnemonic": "This is a jukugo word, which means on'yomi readings from the kanji. You do know all of those, but their behaviour is a little different here. 十 (じゅう) and 分 (～ふん) together actually turn into じゅっぷん here. This is sometimes the case when using ～分 to mean \"minute\" in combination with certain numbers, so try to pay attention to this!",
+  "otherMeanings": [],
+  "otherReadings": [
+    "じっぷんかん"
+  ],
+  "wkSlug": "十分間",
+  "related": {
+    "radicals": [
+      15,
+      2,
+      24,
+      214,
+      22
+    ],
+    "kanjis": [
+      448,
+      501,
+      701
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅっぷんかん",
+      "url": "https://files.wanikani.com/j7cgj1rso4zeiijge6xdna99hltg"
+    },
+    {
+      "reading": "じっぷんかん",
+      "url": "https://files.wanikani.com/5vsuq61swg6vhhl6kwfnubebb6vh"
+    }
+  ]
+}

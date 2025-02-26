@@ -1,0 +1,35 @@
+{
+  "id": 5514,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "照り焼き"
+  },
+  "primaryMeaning": "Teriyaki",
+  "meaningMnemonic": "You <kanji>illuminate</kanji> some food, then <kanji>bake</kanji> it. To illuminate it, you put on some shiny sauce. Sound familiar, in terms of a type of food? This is <vocabulary>teriyaki</vocabulary>, though I have to warn you it's quite different from the teriyaki you get in the west.",
+  "primaryReading": "てりやき",
+  "readingMnemonic": "The reading comes from 照る and 焼く. Put them together and you have something delicious.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "照り焼き",
+  "related": {
+    "radicals": [
+      22,
+      331,
+      131,
+      46,
+      257
+    ],
+    "kanjis": [
+      1419,
+      1040
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てりやき",
+      "url": "https://files.wanikani.com/15puqcj44ywiazc6v1lrhca9jq88"
+    }
+  ]
+}

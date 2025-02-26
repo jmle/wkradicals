@@ -1,0 +1,34 @@
+{
+  "id": 9248,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "肩こり"
+  },
+  "primaryMeaning": "Shoulder Stiffness",
+  "meaningMnemonic": "When your shoulders get a little こり, it means you've got <vocabulary>shoulder stiffness</vocabulary> or a <vocabulary>stiff neck</vocabulary>. \n\nThe こり here is a nominalized version of the verb こる, which means \"to become stiff,\" so maybe that'll help you remember this!",
+  "primaryReading": "かたこり",
+  "readingMnemonic": "You already know the reading of 肩, and this is just that with some hiragana added on!",
+  "otherMeanings": [
+    "Stiff Shoulders",
+    "Stiff Neck"
+  ],
+  "otherReadings": [],
+  "wkSlug": "肩こり",
+  "related": {
+    "radicals": [
+      73,
+      43
+    ],
+    "kanjis": [
+      1226
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かたこり",
+      "url": "https://files.wanikani.com/hhlajzc7xk1gi5bxg0tggp2owtcy"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 9110,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "蒼白"
+  },
+  "primaryMeaning": "Pallid",
+  "meaningMnemonic": "If you're <kanji>pale</kanji> <kanji>white</kanji>, you're <vocabulary>pale</vocabulary>, or <vocabulary>pallid</vocabulary>. This word is usually used to talk about the <vocabulary>pallor</vocabulary> of someone's face.",
+  "primaryReading": "そうはく",
+  "readingMnemonic": "This is a jukugo word and uses the on'yomi for both kanji. You learned those readings with the kanji, so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Pale",
+    "Pallor"
+  ],
+  "otherReadings": [],
+  "wkSlug": "蒼白",
+  "related": {
+    "radicals": [
+      90,
+      8827,
+      52
+    ],
+    "kanjis": [
+      2362,
+      491
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうはく",
+      "url": "https://files.wanikani.com/tlsuhf5tyjuitz6fd4u398ko2moi"
+    }
+  ]
+}

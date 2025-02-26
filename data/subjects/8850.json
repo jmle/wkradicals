@@ -1,0 +1,38 @@
+{
+  "id": 8850,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "喉飴"
+  },
+  "primaryMeaning": "Cough Drop",
+  "meaningMnemonic": "<kanji>Throat</kanji> <kanji>candy</kanji> is the kind of candy that should make your throat feel better. That's right, it's a <vocabulary>cough drop</vocabulary> or a <vocabulary>throat lozenge</vocabulary>. Don't just eat regular candy when your throat hurts! Use the right kind.",
+  "primaryReading": "のどあめ",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji. You've learned them both already, so you should be able to read this already!",
+  "otherMeanings": [
+    "Throat Lozenge"
+  ],
+  "otherReadings": [],
+  "wkSlug": "喉飴",
+  "related": {
+    "radicals": [
+      16,
+      75,
+      72,
+      157,
+      139,
+      417
+    ],
+    "kanjis": [
+      8838,
+      8840
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のどあめ",
+      "url": "https://files.wanikani.com/r8ca9uqbld8w2cr0rh14jplv13r6"
+    }
+  ]
+}

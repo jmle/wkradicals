@@ -1,0 +1,43 @@
+{
+  "id": 8296,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "柴犬"
+  },
+  "primaryMeaning": "Shiba Inu",
+  "meaningMnemonic": "The <kanji>brushwood</kanji> <kanji>dog</kanji> is the <vocabulary>Shiba Inu</vocabulary>. They're the same pretty orange color as brushwood trees, so that's how they got their name.",
+  "primaryReading": "しばいぬ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Shiba Dog",
+    "Shiba"
+  ],
+  "otherReadings": [
+    "しばけん"
+  ],
+  "wkSlug": "柴犬",
+  "related": {
+    "radicals": [
+      44,
+      57,
+      23,
+      47
+    ],
+    "kanjis": [
+      2329,
+      481
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しばけん",
+      "url": "https://files.wanikani.com/qabe8rs2b8h2fh57xfglpi3h36qr"
+    },
+    {
+      "reading": "しばいぬ",
+      "url": "https://files.wanikani.com/x27v2e3ju8yqbh6pv51mdswyzld6"
+    }
+  ]
+}

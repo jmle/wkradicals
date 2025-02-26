@@ -1,0 +1,38 @@
+{
+  "id": 8319,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "裁縫"
+  },
+  "primaryMeaning": "Sewing",
+  "meaningMnemonic": "<kanji>Sew</kanji> so well that people will <kanji>judge</kanji> you to be the best and you'll be a champion at <vocabulary>sewing</vocabulary>!",
+  "primaryReading": "さいほう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Needlework"
+  ],
+  "otherReadings": [],
+  "wkSlug": "裁縫",
+  "related": {
+    "radicals": [
+      15,
+      194,
+      320,
+      86,
+      114,
+      381
+    ],
+    "kanjis": [
+      1194,
+      2299
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいほう",
+      "url": "https://files.wanikani.com/ffwkgurvlbcc6od314dlq0m1s59z"
+    }
+  ]
+}

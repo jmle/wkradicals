@@ -1,0 +1,34 @@
+{
+  "id": 7267,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "挿入する"
+  },
+  "primaryMeaning": "To Insert",
+  "meaningMnemonic": "挿入 is \"insertion\" so the verb version is <vocabulary>to insert</vocabulary>.",
+  "primaryReading": "そうにゅうする",
+  "readingMnemonic": "The reading comes from 挿入, so if you know that you can insert this reading into your memory no problem.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "挿入する",
+  "related": {
+    "radicals": [
+      63,
+      32,
+      22,
+      12
+    ],
+    "kanjis": [
+      2001,
+      445
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうにゅうする",
+      "url": "https://files.wanikani.com/qwabtdmm0ygs0hc7fod1o7yt386t"
+    }
+  ]
+}

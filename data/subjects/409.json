@@ -1,0 +1,23 @@
+{
+  "id": 409,
+  "type": "radical",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "名"
+  },
+  "primaryMeaning": "Name",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>name</radical>.",
+  "wkSlug": "name",
+  "related": {
+    "kanjis": [
+      2098
+    ],
+    "vocabularies": [
+      7386,
+      7387,
+      7388
+    ]
+  }
+}

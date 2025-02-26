@@ -1,0 +1,36 @@
+{
+  "id": 7432,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "疫病"
+  },
+  "primaryMeaning": "Infectious Disease",
+  "meaningMnemonic": "An <kanji>epidemic</kanji> of <kanji>sick</kanji>ness is going to come from an <vocabulary>infectious disease</vocabulary>. Perhaps a <vocabulary>plague</vocabulary> or <vocabulary>epidemic</vocabulary> of some kind?",
+  "primaryReading": "えきびょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Plague",
+    "Epidemic"
+  ],
+  "otherReadings": [],
+  "wkSlug": "疫病",
+  "related": {
+    "radicals": [
+      187,
+      160,
+      186
+    ],
+    "kanjis": [
+      2118,
+      773
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えきびょう",
+      "url": "https://files.wanikani.com/maph6rxk9ndmutt2pf6qc2vedi02"
+    }
+  ]
+}

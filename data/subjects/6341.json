@@ -1,0 +1,34 @@
+{
+  "id": 6341,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "避難する"
+  },
+  "primaryMeaning": "To Evacuate",
+  "meaningMnemonic": "If you know that 避難 is \"evacuation\" then you know that this is the verb form of that: <vocabulary>to evacuate</vocabulary>.",
+  "primaryReading": "ひなんする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will also help to know the reading of the word 避難.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "避難する",
+  "related": {
+    "radicals": [
+      114,
+      367,
+      8774,
+      240
+    ],
+    "kanjis": [
+      1679,
+      1095
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひなんする",
+      "url": "https://files.wanikani.com/e3480kale1elc7dh0n4s3ph2vn5n"
+    }
+  ]
+}

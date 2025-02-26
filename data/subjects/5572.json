@@ -1,0 +1,30 @@
+{
+  "id": 5572,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "ゆで卵"
+  },
+  "primaryMeaning": "Boiled Egg",
+  "meaningMnemonic": "The ゆで comes from the verb ゆでる, which means \"to boil.\" So this word means <vocabulary>boiled egg</vocabulary>.",
+  "primaryReading": "ゆでたまご",
+  "readingMnemonic": "The reading comes from the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "ゆで卵",
+  "related": {
+    "radicals": [
+      236
+    ],
+    "kanjis": [
+      1501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆでたまご",
+      "url": "https://files.wanikani.com/x23o0fbipp651unh35x6a6i5zhri"
+    }
+  ]
+}

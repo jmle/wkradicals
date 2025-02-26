@@ -1,0 +1,42 @@
+{
+  "id": 3596,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "映画館"
+  },
+  "primaryMeaning": "Movie Theater",
+  "meaningMnemonic": "You've already learned 映画 means \"movie.\" A <kanji>public building</kanji> for movies is a <vocabulary>movie theater</vocabulary>.",
+  "primaryReading": "えいがかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Cinema",
+    "Movie Theatre"
+  ],
+  "otherReadings": [],
+  "wkSlug": "映画館",
+  "related": {
+    "radicals": [
+      22,
+      231,
+      27,
+      51,
+      127,
+      139,
+      78,
+      8777
+    ],
+    "kanjis": [
+      893,
+      629,
+      873
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えいがかん",
+      "url": "https://files.wanikani.com/nj37iyiqokl1s6lqqnc5io4gsfvt"
+    }
+  ]
+}

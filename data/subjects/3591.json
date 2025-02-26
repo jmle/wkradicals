@@ -1,0 +1,40 @@
+{
+  "id": 3591,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "整然"
+  },
+  "primaryMeaning": "Orderly",
+  "meaningMnemonic": "When you <kanji>arrange</kanji> things in the way that <kanji>nature</kanji> intended, you're doing things in a quite <vocabulary>orderly</vocabulary> fashion. This is the natural state of things, nice and arranged and natural. Orderly!\n\nNote that you need to add と to the end of this word to make it an adverb, and たる to make it an adjective!",
+  "primaryReading": "せいぜん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Systematic",
+    "Well Organized",
+    "Natural Order"
+  ],
+  "otherReadings": [],
+  "wkSlug": "整然",
+  "related": {
+    "radicals": [
+      219,
+      60,
+      229,
+      43,
+      47,
+      131
+    ],
+    "kanjis": [
+      863,
+      881
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいぜん",
+      "url": "https://files.wanikani.com/pwtyrnt3owsqtfm02vrsb73xc9xi"
+    }
+  ]
+}

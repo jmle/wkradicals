@@ -1,0 +1,35 @@
+{
+  "id": 7042,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "阻止"
+  },
+  "primaryMeaning": "Obstruction",
+  "meaningMnemonic": "If you <kanji>thwart</kanji> and <kanji>stop</kanji> something, you are an <vocabulary>obstruction</vocabulary> or <vocabulary>hindrance</vocabulary>.",
+  "primaryReading": "そし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Hindrance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "阻止",
+  "related": {
+    "radicals": [
+      176,
+      419,
+      44
+    ],
+    "kanjis": [
+      1972,
+      514
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そし",
+      "url": "https://files.wanikani.com/67x2dr85itsrggdo1i7c2sismr7k"
+    }
+  ]
+}

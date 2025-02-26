@@ -1,0 +1,34 @@
+{
+  "id": 4521,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "地価"
+  },
+  "primaryMeaning": "Land Value",
+  "meaningMnemonic": "The <kanji>ground</kanji>'s <kanji>value</kanji> is the <vocabulary>land value</vocabulary>.",
+  "primaryReading": "ちか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "地価",
+  "related": {
+    "radicals": [
+      17,
+      77,
+      75,
+      424
+    ],
+    "kanjis": [
+      608,
+      1166
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちか",
+      "url": "https://files.wanikani.com/j1858cqe44yidu7xl0dywf2gj4yf"
+    }
+  ]
+}

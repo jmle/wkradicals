@@ -1,0 +1,34 @@
+{
+  "id": 7417,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "壮年"
+  },
+  "primaryMeaning": "Prime Of Life",
+  "meaningMnemonic": "Your <kanji>robust</kanji> <kanji>year</kanji>s are the best years of your life! This is the <vocabulary>prime of life</vocabulary>.",
+  "primaryReading": "そうねん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "壮年",
+  "related": {
+    "radicals": [
+      8826,
+      97,
+      8762,
+      126
+    ],
+    "kanjis": [
+      2112,
+      546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうねん",
+      "url": "https://files.wanikani.com/ah5g7esl1eax14gzt39yhid3n7ll"
+    }
+  ]
+}

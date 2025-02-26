@@ -1,0 +1,38 @@
+{
+  "id": 3229,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "顔付き"
+  },
+  "primaryMeaning": "Expression",
+  "meaningMnemonic": "The thing that is <kanji>attach</kanji>ed to your <kanji>face</kanji> isn't a big booger or anything like that. It's something that's always there. It's your <vocabulary>expression</vocabulary>.",
+  "primaryReading": "かおつき",
+  "readingMnemonic": "The readings are both kun'yomi, but they're the readings you've already learned when you learned the kanji.",
+  "otherMeanings": [
+    "Facial Expression"
+  ],
+  "otherReadings": [],
+  "wkSlug": "顔付き",
+  "related": {
+    "radicals": [
+      55,
+      116,
+      38,
+      184,
+      75,
+      74
+    ],
+    "kanjis": [
+      772,
+      652
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かおつき",
+      "url": "https://files.wanikani.com/9i7i88ua7n8gkltifg7mnbyv61j8"
+    }
+  ]
+}

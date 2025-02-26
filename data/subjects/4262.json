@@ -1,0 +1,36 @@
+{
+  "id": 4262,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "面倒"
+  },
+  "primaryMeaning": "Trouble",
+  "meaningMnemonic": "When you're looking straight into the <kanji>face</kanji> of a <kanji>collapse</kanji> it means <vocabulary>trouble</vocabulary> and <vocabulary>difficulty</vocabulary> coming soon.",
+  "primaryReading": "めんどう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The とう goes to どう, though. Agh, what a <vocabulary>面倒</vocabulary>.",
+  "otherMeanings": [
+    "Difficulty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "面倒",
+  "related": {
+    "radicals": [
+      250,
+      75,
+      274,
+      128
+    ],
+    "kanjis": [
+      974,
+      1110
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めんどう",
+      "url": "https://files.wanikani.com/590wfz7om896szs3nmy256bdz8ym"
+    }
+  ]
+}

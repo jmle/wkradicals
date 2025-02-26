@@ -1,0 +1,36 @@
+{
+  "id": 2996,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "住民"
+  },
+  "primaryMeaning": "Residents",
+  "meaningMnemonic": "They <kanji>dwell</kanji> here, these <kanji>people</kanji>. So what are they? They’re <vocabulary>residents</vocabulary>.",
+  "primaryReading": "じゅうみん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Citizens"
+  ],
+  "otherReadings": [],
+  "wkSlug": "住民",
+  "related": {
+    "radicals": [
+      75,
+      154,
+      16,
+      147
+    ],
+    "kanjis": [
+      679,
+      650
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうみん",
+      "url": "https://files.wanikani.com/u2z1lvdkiii5ks6l29zdwhk5turw"
+    }
+  ]
+}

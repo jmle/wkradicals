@@ -1,0 +1,40 @@
+{
+  "id": 9108,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "浄瑠璃"
+  },
+  "primaryMeaning": "Joruri",
+  "meaningMnemonic": "If you <kanji>cleanse</kanji> a <kanji>lapis lazuli</kanji> rock until it goes <kanji>glassy</kanji>, you can use it in a <vocabulary>joruri</vocabulary> performance. In case you haven't heard of joruri, it's traditional Japanese chanted storytelling, sort of like a <vocabulary>ballad</vocabulary>, that's accompanied by shamisen music, and often puppets.",
+  "primaryReading": "じょうるり",
+  "readingMnemonic": "You learned all these readings with the kanji, so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Ballad"
+  ],
+  "otherReadings": [],
+  "wkSlug": "浄瑠璃",
+  "related": {
+    "radicals": [
+      103,
+      261,
+      48,
+      140,
+      24,
+      51,
+      337
+    ],
+    "kanjis": [
+      2192,
+      2363,
+      2399
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうるり",
+      "url": "https://files.wanikani.com/tydyh2g2omgdbz0s5jf3o3arxs8g"
+    }
+  ]
+}

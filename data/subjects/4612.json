@@ -1,0 +1,38 @@
+{
+  "id": 4612,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "不文律"
+  },
+  "primaryMeaning": "Unwritten Law",
+  "meaningMnemonic": "This <kanji>not</kanji> <kanji>writing</kanji> <kanji>law</kanji> is a law that hasn't been written down. It's an <vocabulary>unwritten law</vocabulary>, like taking your shoes off and showering every day.",
+  "primaryReading": "ふぶんりつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Unwritten Rule",
+    "Common Law"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不文律",
+  "related": {
+    "radicals": [
+      96,
+      42,
+      99,
+      220
+    ],
+    "kanjis": [
+      563,
+      475,
+      1197
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふぶんりつ",
+      "url": "https://files.wanikani.com/gpmc9p4l2jrzp71scpnfxce9jhar"
+    }
+  ]
+}

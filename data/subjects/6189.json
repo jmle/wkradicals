@@ -1,0 +1,36 @@
+{
+  "id": 6189,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "配慮"
+  },
+  "primaryMeaning": "Consideration",
+  "meaningMnemonic": "If you <kanji>distribute</kanji> your <kanji>consider</kanji>s, you will be giving <vocabulary>consideration</vocabulary> and <vocabulary>care</vocabulary> to whatever you're distributing these cares to.",
+  "primaryReading": "はいりょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Care"
+  ],
+  "otherReadings": [],
+  "wkSlug": "配慮",
+  "related": {
+    "radicals": [
+      182,
+      228,
+      254,
+      368
+    ],
+    "kanjis": [
+      742,
+      1690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいりょ",
+      "url": "https://files.wanikani.com/occ9bp0i8w89del7ewa6hlhl1wcs"
+    }
+  ]
+}

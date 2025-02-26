@@ -1,0 +1,34 @@
+{
+  "id": 5015,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "巻きずし"
+  },
+  "primaryMeaning": "Rolled Sushi",
+  "meaningMnemonic": "巻く is \"to roll.\" ずし is すし. This is <vocabulary>rolled sushi</vocabulary>.",
+  "primaryReading": "まきずし",
+  "readingMnemonic": "The reading comes from 巻く.",
+  "otherMeanings": [
+    "Sushi Roll",
+    "Makizushi"
+  ],
+  "otherReadings": [],
+  "wkSlug": "巻きずし",
+  "related": {
+    "radicals": [
+      8819,
+      228
+    ],
+    "kanjis": [
+      1273
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まきずし",
+      "url": "https://files.wanikani.com/5jyqd4z4nzbc90a57tmtnmakya7k"
+    }
+  ]
+}

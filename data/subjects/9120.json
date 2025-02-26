@@ -1,0 +1,35 @@
+{
+  "id": 9120,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "梓川"
+  },
+  "primaryMeaning": "Azusa River",
+  "meaningMnemonic": "<kanji>Japanese birch</kanji> <kanji>river</kanji> is <vocabulary>Azusa River</vocabulary> or simply <vocabulary>Azusagawa</vocabulary>. Azusagawa is both the Japanese name for the Azusa River, and a Japanese family name.",
+  "primaryReading": "あずさがわ",
+  "readingMnemonic": "You learned both of these readings with the kanji. You just need to remember that rendaku turns かわ into がわ.",
+  "otherMeanings": [
+    "Azusagawa"
+  ],
+  "otherReadings": [],
+  "wkSlug": "梓川",
+  "related": {
+    "radicals": [
+      23,
+      178,
+      21
+    ],
+    "kanjis": [
+      2433,
+      456
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あずさがわ",
+      "url": "https://files.wanikani.com/znlgzb38jts3ue6bm2wxmtnoal4t"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6694,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "即効"
+  },
+  "primaryMeaning": "Immediate Effect",
+  "meaningMnemonic": "It's <kanji>instant</kanji>ly <kanji>effect</kanji>ive! Sounds like something out of Pokemon. This word means <vocabulary>immediate effect</vocabulary> or <vocabulary>instant effect</vocabulary>.",
+  "primaryReading": "そっこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the shortening.",
+  "otherMeanings": [
+    "Instant Effect"
+  ],
+  "otherReadings": [],
+  "wkSlug": "即効",
+  "related": {
+    "radicals": [
+      196,
+      145,
+      302,
+      13
+    ],
+    "kanjis": [
+      1850,
+      1267
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そっこう",
+      "url": "https://files.wanikani.com/kaief5cslbkyebqhoa7pfh7qlv0a"
+    }
+  ]
+}

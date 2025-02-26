@@ -1,0 +1,41 @@
+{
+  "id": 4061,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "手荷物"
+  },
+  "primaryMeaning": "Hand Baggage",
+  "meaningMnemonic": "Remember 荷物 and how it means \"baggage\" or \"luggage.\" Add a <kanji>hand</kanji> to it and you have <vocabulary>hand baggage</vocabulary> or <vocabulary>hand luggage</vocabulary>.",
+  "primaryReading": "てにもつ",
+  "readingMnemonic": "If you know 荷物 and you know 手, then you should be able to Voltron the two together into one mega reading.",
+  "otherMeanings": [
+    "Hand Luggage",
+    "Cabin Baggage",
+    "Carry On"
+  ],
+  "otherReadings": [],
+  "wkSlug": "手荷物",
+  "related": {
+    "radicals": [
+      41,
+      90,
+      75,
+      113,
+      126,
+      173
+    ],
+    "kanjis": [
+      474,
+      973,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てにもつ",
+      "url": "https://files.wanikani.com/a56kbbuneu7th9na8y4lifkh3if1"
+    }
+  ]
+}

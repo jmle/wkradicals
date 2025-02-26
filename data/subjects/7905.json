@@ -1,0 +1,36 @@
+{
+  "id": 7905,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "犠牲"
+  },
+  "primaryMeaning": "Victim",
+  "meaningMnemonic": "Who do you <kanji>sacrifice</kanji> as an <kanji>offering</kanji> to the gods? A poor <vocabulary>victim</vocabulary> will be your <vocabulary>sacrifice</vocabulary>.",
+  "primaryReading": "ぎせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sacrifice",
+    "Scapegoat"
+  ],
+  "otherReadings": [],
+  "wkSlug": "犠牲",
+  "related": {
+    "radicals": [
+      126,
+      383,
+      210
+    ],
+    "kanjis": [
+      1761,
+      2166
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎせい",
+      "url": "https://files.wanikani.com/cjdwlwvhtyyx204vlsq9lltmr9cw"
+    }
+  ]
+}

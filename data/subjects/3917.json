@@ -1,0 +1,36 @@
+{
+  "id": 3917,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "折り紙"
+  },
+  "primaryMeaning": "Origami",
+  "meaningMnemonic": "You know that 折る is \"to fold,\" so what about \"to fold <kanji>paper</kanji>\"? Ever heard of something that involves lots of folding of paper that is Japanese? Most likely you have. This is <vocabulary>origami</vocabulary>, aka the <vocabulary>art of paper folding</vocabulary>.",
+  "primaryReading": "おりがみ",
+  "readingMnemonic": "The reading comes from 折る and the vocab word 紙. As long as you know those you should be able to read this. Also, you probably already know this reading because it's an English word, too.",
+  "otherMeanings": [
+    "Art Of Paper Folding"
+  ],
+  "otherReadings": [],
+  "wkSlug": "折り紙",
+  "related": {
+    "radicals": [
+      63,
+      115,
+      86,
+      147
+    ],
+    "kanjis": [
+      907,
+      663
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おりがみ",
+      "url": "https://files.wanikani.com/oe6gjknw0uf0sxeuoix7p9f6hc0r"
+    }
+  ]
+}

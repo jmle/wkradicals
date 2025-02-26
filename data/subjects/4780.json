@@ -1,0 +1,37 @@
+{
+  "id": 4780,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "影響"
+  },
+  "primaryMeaning": "Influence",
+  "meaningMnemonic": "In the <kanji>shadow</kanji>s you still <kanji>echo</kanji>. Your echo leaves the shadows and hits people, creating an <vocabulary>influence</vocabulary> on them. You're like the shadow person pulling the strings, making things do what you want... influencing them.",
+  "primaryReading": "えいきょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "影響",
+  "related": {
+    "radicals": [
+      22,
+      299,
+      38,
+      87,
+      196,
+      176,
+      197
+    ],
+    "kanjis": [
+      1251,
+      1254
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えいきょう",
+      "url": "https://files.wanikani.com/scr13hom9ojp934tnjujv6fktlj7"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6085,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "大抵"
+  },
+  "primaryMeaning": "Generally",
+  "meaningMnemonic": "A <kanji>big</kanji> <kanji>resist</kanji> is something he <vocabulary>generally</vocabulary> and <vocabulary>usually</vocabulary> does... at least <vocabulary>in most cases</vocabulary>. He's usually a big resistor, that one.",
+  "primaryReading": "たいてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Usually",
+    "In Most Cases"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大抵",
+  "related": {
+    "radicals": [
+      18,
+      63,
+      147,
+      1
+    ],
+    "kanjis": [
+      453,
+      1655
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいてい",
+      "url": "https://files.wanikani.com/yemcqqvk0omdlz6g6hnutf03kwej"
+    }
+  ]
+}

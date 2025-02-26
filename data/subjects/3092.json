@@ -1,0 +1,35 @@
+{
+  "id": 3092,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "和風"
+  },
+  "primaryMeaning": "Japanese Style",
+  "meaningMnemonic": "The <kanji>Japanese style</kanji> <kanji>style</kanji>. The Japanese often like to think they're very unique and have a very special kind of style (and often times they do). So, you'll hear this word used when someone wants to describe this unique sense of style. Wafuuuu! \n\nNote that this word uses alternative kanji meanings in both of the kanji. They're in the kanji explanation, but they're not the primaries, so it may take a little extra effort to learn this word depending on what you studied!",
+  "primaryReading": "わふう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "和風",
+  "related": {
+    "radicals": [
+      135,
+      16,
+      177,
+      5,
+      89
+    ],
+    "kanjis": [
+      712,
+      853
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わふう",
+      "url": "https://files.wanikani.com/0fxn8cuqa7y2v61d8s0234lhw3s8"
+    }
+  ]
+}

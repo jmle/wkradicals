@@ -1,0 +1,33 @@
+{
+  "id": 6006,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "舞う"
+  },
+  "primaryMeaning": "To Dance",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dance</kanji> and the verb vocab version means <vocabulary>to dance</vocabulary>, as well as <vocabulary>to flutter</vocabulary>.",
+  "primaryReading": "まう",
+  "readingMnemonic": "Who is the greatest dancer of them all? China's previous ruler, <reading>Mao</reading> (まう).",
+  "otherMeanings": [
+    "To Flutter"
+  ],
+  "otherReadings": [],
+  "wkSlug": "舞う",
+  "related": {
+    "radicals": [
+      252,
+      429
+    ],
+    "kanjis": [
+      1634
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まう",
+      "url": "https://files.wanikani.com/1hprumhqhfq6p7dycn08ob9nxirg"
+    }
+  ]
+}

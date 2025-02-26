@@ -1,0 +1,35 @@
+{
+  "id": 7249,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "斜面"
+  },
+  "primaryMeaning": "Slant",
+  "meaningMnemonic": "A <kanji>diagonal</kanji> <kanji>surface</kanji> is a <vocabulary>slant</vocabulary>. A <vocabulary>slope</vocabulary>.",
+  "primaryReading": "しゃめん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Slope"
+  ],
+  "otherReadings": [],
+  "wkSlug": "斜面",
+  "related": {
+    "radicals": [
+      313,
+      129,
+      250
+    ],
+    "kanjis": [
+      2045,
+      974
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃめん",
+      "url": "https://files.wanikani.com/ebr0k7b7bvuz729808j8m989ig5p"
+    }
+  ]
+}

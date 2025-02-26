@@ -1,0 +1,34 @@
+{
+  "id": 5070,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "締める"
+  },
+  "primaryMeaning": "To Tighten",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>tighten</kanji> so the verb vocab version means <vocabulary>to tighten</vocabulary>.",
+  "primaryReading": "しめる",
+  "readingMnemonic": "You go <vocabulary>to tighten</vocabulary> and <vocabulary>to tie</vocabulary> your captive up, and you realize you don't have anything to do it with. Then you see a sheep standing nearby. Okay. You take the <reading>shee</reading>p (し), pull its wool, and tie the sheep and your captive up together around a tree. Problem solved!",
+  "otherMeanings": [
+    "To Tie"
+  ],
+  "otherReadings": [],
+  "wkSlug": "締める",
+  "related": {
+    "radicals": [
+      86,
+      55,
+      102
+    ],
+    "kanjis": [
+      1335
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しめる",
+      "url": "https://files.wanikani.com/x15gayw7uailegkk9s18xs3vxtfc"
+    }
+  ]
+}

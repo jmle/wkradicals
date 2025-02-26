@@ -1,0 +1,31 @@
+{
+  "id": 6788,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "桃"
+  },
+  "primaryMeaning": "Peach",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "もも",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "桃",
+  "related": {
+    "radicals": [
+      23,
+      363
+    ],
+    "kanjis": [
+      1879
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もも",
+      "url": "https://files.wanikani.com/sazh8ra625xk3b77dtnwio2g6309"
+    }
+  ]
+}

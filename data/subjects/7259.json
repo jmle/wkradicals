@@ -1,0 +1,40 @@
+{
+  "id": 7259,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "浸透"
+  },
+  "primaryMeaning": "Permeation",
+  "meaningMnemonic": "<kanji>Immersed</kanji> to the point where it's <kanji>transparent</kanji>, because it's so soaked... that is total <vocabulary>permeation</vocabulary> and <vocabulary>soaking</vocabulary> and <vocabulary>osmosis</vocabulary>.",
+  "primaryReading": "しんとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Soaking",
+    "Osmosis"
+  ],
+  "otherReadings": [],
+  "wkSlug": "浸透",
+  "related": {
+    "radicals": [
+      103,
+      105,
+      76,
+      30,
+      114,
+      135,
+      200
+    ],
+    "kanjis": [
+      2065,
+      1771
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんとう",
+      "url": "https://files.wanikani.com/x5gydixz3iaafle8o91j6q8dcegn"
+    }
+  ]
+}

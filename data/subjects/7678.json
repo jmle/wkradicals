@@ -1,0 +1,43 @@
+{
+  "id": 7678,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "三角形"
+  },
+  "primaryMeaning": "Triangle",
+  "meaningMnemonic": "You already learned that 三角 means \"triangle.\" Well this means <vocabulary>triangle</vocabulary> too, but it's the mathematical term. You should use it in math class.",
+  "primaryReading": "さんかくけい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "さんかっけい"
+  ],
+  "wkSlug": "三角形",
+  "related": {
+    "radicals": [
+      1,
+      7,
+      14,
+      71,
+      171,
+      38
+    ],
+    "kanjis": [
+      449,
+      592,
+      589
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんかくけい",
+      "url": "https://files.wanikani.com/pnysxuqgl4cc0gm9r2frp4eyc5za"
+    },
+    {
+      "reading": "さんかっけい",
+      "url": "https://files.wanikani.com/6qdrhk1msd3z9h6hc1bexfiatfe7"
+    }
+  ]
+}

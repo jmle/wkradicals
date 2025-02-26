@@ -1,0 +1,36 @@
+{
+  "id": 8429,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "鼓舞"
+  },
+  "primaryMeaning": "Inspiration",
+  "meaningMnemonic": "The <kanji>beat</kanji> makes you want to <kanji>dance</kanji>. It's the <vocabulary>inspiration</vocabulary> you need to dance. The beat gives you <vocabulary>encouragement</vocabulary> to dance all night long. And without such a rockin' beat you would have lame dance moves.",
+  "primaryReading": "こぶ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Encouragement"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鼓舞",
+  "related": {
+    "radicals": [
+      421,
+      81,
+      252,
+      429
+    ],
+    "kanjis": [
+      2331,
+      1634
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こぶ",
+      "url": "https://files.wanikani.com/smyuoxzgfu3jkoiywrou1eviy5a6"
+    }
+  ]
+}

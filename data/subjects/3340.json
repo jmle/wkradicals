@@ -1,0 +1,40 @@
+{
+  "id": 3340,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "店員"
+  },
+  "primaryMeaning": "Shop Staff",
+  "meaningMnemonic": "The <kanji>shop</kanji> <kanji>member</kanji> is someone who is a \"member\" (aka employed by) the shop. This is the <vocabulary>shop staff</vocabulary>.",
+  "primaryReading": "てんいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Store Staff",
+    "Store Employee",
+    "Shop Employee",
+    "Clerk",
+    "Shop Assistant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "店員",
+  "related": {
+    "radicals": [
+      62,
+      143,
+      16,
+      94
+    ],
+    "kanjis": [
+      625,
+      821
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てんいん",
+      "url": "https://files.wanikani.com/b49groyhqtpjilg6chq70wgy0lf2"
+    }
+  ]
+}

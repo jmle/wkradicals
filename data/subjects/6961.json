@@ -1,0 +1,38 @@
+{
+  "id": 6961,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "叫び声"
+  },
+  "primaryMeaning": "Shout",
+  "meaningMnemonic": "A <kanji>shout</kanji> <kanji>voice</kanji> is a <vocabulary>shout</vocabulary> or a <vocabulary>yell</vocabulary>.",
+  "primaryReading": "さけびごえ",
+  "readingMnemonic": "The reading comes from 叫ぶ and 声, put together. Careful of the rendaku.",
+  "otherMeanings": [
+    "Yell",
+    "Scream"
+  ],
+  "otherReadings": [],
+  "wkSlug": "叫び声",
+  "related": {
+    "radicals": [
+      16,
+      289,
+      97,
+      37,
+      8761
+    ],
+    "kanjis": [
+      1892,
+      586
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さけびごえ",
+      "url": "https://files.wanikani.com/xbhh59pfxkgw5q6wfhrkdvqn8wm5"
+    }
+  ]
+}

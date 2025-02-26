@@ -1,0 +1,35 @@
+{
+  "id": 6088,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "中旬"
+  },
+  "primaryMeaning": "Middle Ten Days Of The Month",
+  "meaningMnemonic": "The <kanji>middle</kanji> <kanji>ten days</kanji> is the <vocabulary>middle ten days of the month</vocabulary>. You could also call this the <vocabulary>middle of the month</vocabulary>.",
+  "primaryReading": "ちゅうじゅん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Middle Of The Month"
+  ],
+  "otherReadings": [],
+  "wkSlug": "中旬",
+  "related": {
+    "radicals": [
+      49,
+      14,
+      22
+    ],
+    "kanjis": [
+      469,
+      1656
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうじゅん",
+      "url": "https://files.wanikani.com/t4zk0ejwdjgow6nuzxyantuiio2y"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 8347,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "年俸"
+  },
+  "primaryMeaning": "Annual Salary",
+  "meaningMnemonic": "The <kanji>salary</kanji> you get each <kanji>year</kanji> is an <vocabulary>annual salary</vocabulary>.",
+  "primaryReading": "ねんぽう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out because ほう becomes ぽう here.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "年俸",
+  "related": {
+    "radicals": [
+      8762,
+      126,
+      75,
+      8779,
+      61
+    ],
+    "kanjis": [
+      546,
+      2341
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねんぽう",
+      "url": "https://files.wanikani.com/a74s0lkes1xc8crqnoukwxk8yus5"
+    }
+  ]
+}

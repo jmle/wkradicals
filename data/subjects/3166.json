@@ -1,0 +1,37 @@
+{
+  "id": 3166,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "学院"
+  },
+  "primaryMeaning": "Academy",
+  "meaningMnemonic": "A <kanji>study</kanji> <kanji>institution</kanji> is an <vocabulary>academy</vocabulary>. That's where all the fancy people study, anyways.",
+  "primaryReading": "がくいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Institute"
+  ],
+  "otherReadings": [],
+  "wkSlug": "学院",
+  "related": {
+    "radicals": [
+      8769,
+      34,
+      176,
+      78,
+      64
+    ],
+    "kanjis": [
+      599,
+      744
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がくいん",
+      "url": "https://files.wanikani.com/oltp4mpsn0fdgw2qxo13klnxkci5"
+    }
+  ]
+}

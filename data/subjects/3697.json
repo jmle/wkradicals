@@ -1,0 +1,33 @@
+{
+  "id": 3697,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "松"
+  },
+  "primaryMeaning": "Pine",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "まつ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji, so no need to think too hard.",
+  "otherMeanings": [
+    "Pine Tree"
+  ],
+  "otherReadings": [],
+  "wkSlug": "松",
+  "related": {
+    "radicals": [
+      23,
+      237
+    ],
+    "kanjis": [
+      911
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まつ",
+      "url": "https://files.wanikani.com/vh0ie938g3jhpana4ymp0ias9dyv"
+    }
+  ]
+}

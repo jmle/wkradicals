@@ -1,0 +1,38 @@
+{
+  "id": 3726,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "芸術"
+  },
+  "primaryMeaning": "Art",
+  "meaningMnemonic": "You need <kanji>art</kanji> <kanji>technique</kanji>s to make <vocabulary>art</vocabulary>. Without art techniques, <vocabulary>the arts</vocabulary> and <vocabulary>fine art</vocabulary> simply wouldn’t exist.",
+  "primaryReading": "げいじゅつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "The Arts",
+    "Fine Art"
+  ],
+  "otherReadings": [],
+  "wkSlug": "芸術",
+  "related": {
+    "radicals": [
+      90,
+      159,
+      111,
+      130,
+      3
+    ],
+    "kanjis": [
+      916,
+      922
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げいじゅつ",
+      "url": "https://files.wanikani.com/4t1gfksj35jtbkfx9dprui7ajge7"
+    }
+  ]
+}

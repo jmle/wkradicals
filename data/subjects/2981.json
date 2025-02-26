@@ -1,0 +1,31 @@
+{
+  "id": 2981,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "雪"
+  },
+  "primaryMeaning": "Snow",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ゆき",
+  "readingMnemonic": "The reading you learned with the kanji is the same as the reading for this vocab word. Enjoy the snow!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "雪",
+  "related": {
+    "radicals": [
+      119,
+      105
+    ],
+    "kanjis": [
+      673
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆき",
+      "url": "https://files.wanikani.com/0i2sqc8ajo0fkst8g9v60i7x4ave"
+    }
+  ]
+}

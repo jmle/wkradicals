@@ -1,0 +1,36 @@
+{
+  "id": 7340,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "真珠"
+  },
+  "primaryMeaning": "Pearl",
+  "meaningMnemonic": "A <kanji>reality</kanji> <kanji>pearl</kanji> is a real pearl! That's just a <vocabulary>pearl</vocabulary>.",
+  "primaryReading": "しんじゅ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "真珠",
+  "related": {
+    "radicals": [
+      8773,
+      1,
+      2,
+      48,
+      5,
+      134
+    ],
+    "kanjis": [
+      971,
+      2077
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんじゅ",
+      "url": "https://files.wanikani.com/yi8ol58pg71fiujzt4mjuww67yfg"
+    }
+  ]
+}

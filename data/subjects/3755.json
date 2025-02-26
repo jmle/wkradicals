@@ -1,0 +1,36 @@
+{
+  "id": 3755,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "帰る"
+  },
+  "primaryMeaning": "To Return Home",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>return home</kanji> so the verb vocab version is <vocabulary>to return home</vocabulary>, <vocabulary>to return</vocabulary>, or <vocabulary>to go home</vocabulary>.",
+  "primaryReading": "かえる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. You can return home happily, knowing how to read this word! \n\nThis word has a pair verb though, so you'll want to remember the る ending. Just imagine how <reading>ru</reading>de (る) it is when someone goes home without saying goodbye. The nerve!",
+  "otherMeanings": [
+    "To Return",
+    "To Go Home"
+  ],
+  "otherReadings": [],
+  "wkSlug": "帰る",
+  "related": {
+    "radicals": [
+      128,
+      105,
+      76,
+      102
+    ],
+    "kanjis": [
+      930
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かえる",
+      "url": "https://files.wanikani.com/br1satkbg9oiuoe8k0otgmw2769q"
+    }
+  ]
+}

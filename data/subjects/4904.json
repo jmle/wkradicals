@@ -1,0 +1,35 @@
+{
+  "id": 4904,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "独占"
+  },
+  "primaryMeaning": "Monopoly",
+  "meaningMnemonic": "You are <kanji>alone</kanji> in what you <kanji>occupy</kanji>. Nobody but you occupies it. You have a <vocabulary>monopoly</vocabulary>. You <vocabulary>monopolize</vocabulary> it.",
+  "primaryReading": "どくせん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Monopolize"
+  ],
+  "otherReadings": [],
+  "wkSlug": "独占",
+  "related": {
+    "radicals": [
+      144,
+      89,
+      143
+    ],
+    "kanjis": [
+      1312,
+      1313
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どくせん",
+      "url": "https://files.wanikani.com/hg2d490e1mnw3srhmoag4se0vbbv"
+    }
+  ]
+}

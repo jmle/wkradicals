@@ -1,0 +1,38 @@
+{
+  "id": 8311,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "窮屈"
+  },
+  "primaryMeaning": "Tight",
+  "meaningMnemonic": "Don't <kanji>yield</kanji> to anything when you're <kanji>destitute</kanji> because it'll make things even more <vocabulary>tight</vocabulary>. Usually you have to be pretty <vocabulary>rigid</vocabulary> about what you can and cannot afford. ",
+  "primaryReading": "きゅうくつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cramped",
+    "Rigid"
+  ],
+  "otherReadings": [],
+  "wkSlug": "窮屈",
+  "related": {
+    "radicals": [
+      170,
+      234,
+      36,
+      37,
+      332
+    ],
+    "kanjis": [
+      2308,
+      1320
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうくつ",
+      "url": "https://files.wanikani.com/r6tn320g952i5poj0pjir3aerviv"
+    }
+  ]
+}

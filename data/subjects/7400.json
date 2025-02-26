@@ -1,0 +1,35 @@
+{
+  "id": 7400,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "皇后"
+  },
+  "primaryMeaning": "Japanese Empress",
+  "meaningMnemonic": "The <kanji>emperor</kanji> <kanji>empress</kanji> is the emperor's wife. That's the <vocabulary>Japanese Empress</vocabulary>, specifically, since 皇 usually refers to the Japanese emperor.",
+  "primaryReading": "こうごう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Be careful of the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "皇后",
+  "related": {
+    "radicals": [
+      52,
+      48,
+      116,
+      1,
+      16
+    ],
+    "kanjis": [
+      1531,
+      2104
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうごう",
+      "url": "https://files.wanikani.com/wv0fcb29bdwv7lkp61yuos62o257"
+    }
+  ]
+}

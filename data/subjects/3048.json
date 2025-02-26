@@ -1,0 +1,40 @@
+{
+  "id": 3048,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "一番"
+  },
+  "primaryMeaning": "Number One",
+  "meaningMnemonic": "When you're the number <kanji>one</kanji> in a <kanji>number in a series</kanji>, you're <vocabulary>number one</vocabulary> ba-bay!",
+  "primaryReading": "いちばん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "The First",
+    "First",
+    "The Best",
+    "Best",
+    "The Most",
+    "Most"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一番",
+  "related": {
+    "radicals": [
+      1,
+      164,
+      51
+    ],
+    "kanjis": [
+      440,
+      696
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いちばん",
+      "url": "https://files.wanikani.com/awec53pdsbrrakdwc4wjaiz4xa5g"
+    }
+  ]
+}

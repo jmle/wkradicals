@@ -1,0 +1,36 @@
+{
+  "id": 5339,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "照明"
+  },
+  "primaryMeaning": "Illumination",
+  "meaningMnemonic": "<kanji>Illuminate</kanji> and make things <kanji>bright</kanji>, my <vocabulary>illumination</vocabulary>!",
+  "primaryReading": "しょうめい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Lighting"
+  ],
+  "otherReadings": [],
+  "wkSlug": "照明",
+  "related": {
+    "radicals": [
+      22,
+      331,
+      131,
+      43
+    ],
+    "kanjis": [
+      1419,
+      626
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうめい",
+      "url": "https://files.wanikani.com/v1z2y3q9ptblz7z0rpk9d21csbzj"
+    }
+  ]
+}

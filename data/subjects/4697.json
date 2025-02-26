@@ -1,0 +1,40 @@
+{
+  "id": 4697,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "感触"
+  },
+  "primaryMeaning": "Touch",
+  "meaningMnemonic": "Your <kanji>feeling</kanji> of <kanji>touch</kanji> is your <vocabulary>touch sense</vocabulary> (or simply just <vocabulary>touch</vocabulary>).",
+  "primaryReading": "かんしょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Touch Sense",
+    "Feel",
+    "Feeling"
+  ],
+  "otherReadings": [],
+  "wkSlug": "感触",
+  "related": {
+    "radicals": [
+      5,
+      194,
+      8781,
+      65,
+      281,
+      89
+    ],
+    "kanjis": [
+      862,
+      1229
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんしょく",
+      "url": "https://files.wanikani.com/7h5difndbm14w5oyaxklky5hcokn"
+    }
+  ]
+}

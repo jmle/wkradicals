@@ -1,0 +1,32 @@
+{
+  "id": 3778,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "猫"
+  },
+  "primaryMeaning": "Cat",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Meow!",
+  "primaryReading": "ねこ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Neko neko neko! Kawaiiiii.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "猫",
+  "related": {
+    "radicals": [
+      144,
+      90,
+      51
+    ],
+    "kanjis": [
+      959
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねこ",
+      "url": "https://files.wanikani.com/63lydpo9dtg7r428znkozcxw0yh3"
+    }
+  ]
+}

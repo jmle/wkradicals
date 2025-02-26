@@ -1,0 +1,33 @@
+{
+  "id": 4987,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "大違い"
+  },
+  "primaryMeaning": "Big Difference",
+  "meaningMnemonic": "違い is <kanji>difference</kanji>, so a <kanji>big</kanji> one of those is a <vocabulary>big difference</vocabulary>.",
+  "primaryReading": "おおちがい",
+  "readingMnemonic": "The reading is 違い plus 大 of 大きい (おお) put together. You can remember this because when you see the difference (the BIG difference), you say \"oohhhhh\" (お), because you were surprised you didn't see it before.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "大違い",
+  "related": {
+    "radicals": [
+      18,
+      114,
+      294
+    ],
+    "kanjis": [
+      453,
+      1220
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おおちがい",
+      "url": "https://files.wanikani.com/1dwapq37qllosgvsb8cl2mtktfbx"
+    }
+  ]
+}

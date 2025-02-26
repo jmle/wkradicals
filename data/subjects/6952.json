@@ -1,0 +1,33 @@
+{
+  "id": 6952,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "包み紙"
+  },
+  "primaryMeaning": "Wrapping Paper",
+  "meaningMnemonic": "A 包み is a <kanji>bundle</kanji> or <kanji>package</kanji>, and 紙 is <kanji>paper</kanji>. What paper goes around bundles and packages? That would be <vocabulary>wrapping paper</vocabulary>.",
+  "primaryReading": "つつみがみ",
+  "readingMnemonic": "The reading is 包み and 紙 combined together. Be careful of rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "包み紙",
+  "related": {
+    "radicals": [
+      395,
+      86,
+      147
+    ],
+    "kanjis": [
+      1795,
+      663
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つつみがみ",
+      "url": "https://files.wanikani.com/mprp0kauy2df5438r81jbyjesypr"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5420,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "普段"
+  },
+  "primaryMeaning": "Usual",
+  "meaningMnemonic": "The <kanji>normal</kanji> <kanji>steps</kanji> are the ones that are totally <vocabulary>usual</vocabulary>. They're the ones you <vocabulary>usually</vocabulary> do, unlike those weird not usual steps.",
+  "primaryReading": "ふだん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Usually",
+    "Always"
+  ],
+  "otherReadings": [],
+  "wkSlug": "普段",
+  "related": {
+    "radicals": [
+      334,
+      22,
+      8792,
+      160
+    ],
+    "kanjis": [
+      1448,
+      1315
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふだん",
+      "url": "https://files.wanikani.com/jevyc2m2x824taqiyhhxbej2hapk"
+    }
+  ]
+}

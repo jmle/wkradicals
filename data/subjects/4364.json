@@ -1,0 +1,36 @@
+{
+  "id": 4364,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "音訓"
+  },
+  "primaryMeaning": "On'yomi And Kun'yomi",
+  "meaningMnemonic": "You've seen (hopefully) 音読み and 訓読み. This is a combination of the two. This is <vocabulary>on'yomi and kun'yomi</vocabulary>, aka the <vocabulary>Chinese and Japanese readings</vocabulary>.",
+  "primaryReading": "おんくん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Chinese And Japanese Readings"
+  ],
+  "otherReadings": [],
+  "wkSlug": "音訓",
+  "related": {
+    "radicals": [
+      55,
+      22,
+      117,
+      21
+    ],
+    "kanjis": [
+      606,
+      1028
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おんくん",
+      "url": "https://files.wanikani.com/bxid2ymt5mvn06t3tyhkz2mmwam0"
+    }
+  ]
+}

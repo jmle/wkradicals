@@ -1,0 +1,39 @@
+{
+  "id": 3261,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "最初"
+  },
+  "primaryMeaning": "The First",
+  "meaningMnemonic": "The <kanji>most</kanji> <kanji>first</kanji> thing is <vocabulary>the first</vocabulary> thing.",
+  "primaryReading": "さいしょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "First",
+    "Beginning",
+    "Outset"
+  ],
+  "otherReadings": [],
+  "wkSlug": "最初",
+  "related": {
+    "radicals": [
+      22,
+      88,
+      30,
+      80,
+      24
+    ],
+    "kanjis": [
+      774,
+      784
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいしょ",
+      "url": "https://files.wanikani.com/b7jrdbnzugob4vbkf435ywlyaeon"
+    }
+  ]
+}

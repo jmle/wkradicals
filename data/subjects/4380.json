@@ -1,0 +1,33 @@
+{
+  "id": 4380,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "出発"
+  },
+  "primaryMeaning": "Departure",
+  "meaningMnemonic": "You <kanji>exit</kanji> and then make a <kanji>departure</kanji>. This is just a <vocabulary>departure</vocabulary>.",
+  "primaryReading": "しゅっぱつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The しゅつ gets shortened and はつ changes to ぱつ. No wonder you want to make a departure, you want to get away from crazy readings like this.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "出発",
+  "related": {
+    "radicals": [
+      20,
+      168,
+      171
+    ],
+    "kanjis": [
+      483,
+      729
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅっぱつ",
+      "url": "https://files.wanikani.com/e7oyclfv5s9vqfer8qidkm88q510"
+    }
+  ]
+}

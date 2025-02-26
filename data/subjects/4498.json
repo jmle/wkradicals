@@ -1,0 +1,34 @@
+{
+  "id": 4498,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "誕生"
+  },
+  "primaryMeaning": "Birth",
+  "meaningMnemonic": "Give <kanji>birth</kanji> to <kanji>life</kanji>! That is a <vocabulary>birth</vocabulary>.",
+  "primaryReading": "たんじょう",
+  "readingMnemonic": "The 誕 reading is what you'd expect. But for 生, this uses the slightly less common secondary reading, so here’s a mnemonic to help you:\n\nJust imagine the <vocabulary>birth</vocabulary> of your friend <reading>Joe</reading> (じょう), the local farmhand. He’s such a massive guy, it must have been quite the ordeal...",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "誕生",
+  "related": {
+    "radicals": [
+      117,
+      206,
+      229,
+      210
+    ],
+    "kanjis": [
+      1156,
+      850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たんじょう",
+      "url": "https://files.wanikani.com/lemm07lfdhds139hzd2m0ammrvce"
+    }
+  ]
+}

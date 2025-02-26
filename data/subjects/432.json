@@ -1,0 +1,23 @@
+{
+  "id": 432,
+  "type": "radical",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "胃"
+  },
+  "primaryMeaning": "Stomach",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>stomach</radical>.",
+  "wkSlug": "stomach",
+  "related": {
+    "kanjis": [
+      2132
+    ],
+    "vocabularies": [
+      7827,
+      7958,
+      7959
+    ]
+  }
+}

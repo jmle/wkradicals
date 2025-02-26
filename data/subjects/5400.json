@@ -1,0 +1,39 @@
+{
+  "id": 5400,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "先程"
+  },
+  "primaryMeaning": "A Little While Ago",
+  "meaningMnemonic": "The <kanji>previous</kanji> <kanji>extent</kanji> of time was <vocabulary>a little while ago</vocabulary>. Just think to a previous extent of time that was indeed a little while ago. Now, associate!\n\n先程 is limited to a relatively brief time frame within the same day. So it can be used for something mentioned earlier in a speech or at an event from <vocabulary>earlier in the day</vocabulary>, but not for something from a few days ago. 先程 is also polite and formal, so it's generally used in professional or respectful settings.",
+  "primaryReading": "さきほど",
+  "readingMnemonic": "The reading is the words 先 and 程, put together.",
+  "otherMeanings": [
+    "Earlier In The Day",
+    "A Short Time Ago"
+  ],
+  "otherReadings": [],
+  "wkSlug": "先程",
+  "related": {
+    "radicals": [
+      5,
+      17,
+      28,
+      135,
+      16,
+      48
+    ],
+    "kanjis": [
+      543,
+      1369
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さきほど",
+      "url": "https://files.wanikani.com/od9qsy7ju4045odmti4ow3x1cizt"
+    }
+  ]
+}

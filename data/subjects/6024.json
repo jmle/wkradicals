@@ -1,0 +1,36 @@
+{
+  "id": 6024,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "許諾"
+  },
+  "primaryMeaning": "Permission",
+  "meaningMnemonic": "I will <kanji>permit</kanji> this, and you have my <kanji>agreement</kanji>. Both of these things combine to be my <vocabulary>permission</vocabulary> and my <vocabulary>consent</vocabulary>.",
+  "primaryReading": "きょだく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Consent"
+  ],
+  "otherReadings": [],
+  "wkSlug": "許諾",
+  "related": {
+    "radicals": [
+      117,
+      415,
+      90,
+      362
+    ],
+    "kanjis": [
+      1050,
+      1641
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょだく",
+      "url": "https://files.wanikani.com/41c7w2c0vqtmf8qov3lu91l1uxrt"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3552,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "母親"
+  },
+  "primaryMeaning": "Mother",
+  "meaningMnemonic": "The <kanji>mother</kanji> <kanji>parent</kanji> is the <vocabulary>mother</vocabulary>.",
+  "primaryReading": "ははおや",
+  "readingMnemonic": "The reading for this is strange. It's the kun'yomi vocab reading, probably because the literal translation is \"mother parent\" and therefore consists of a couple words combined together into one concept. So, make sure you know the separate word readings of 母 and 親. If you do, you should be able to read this too.",
+  "otherMeanings": [
+    "Mom"
+  ],
+  "otherReadings": [],
+  "wkSlug": "母親",
+  "related": {
+    "radicals": [
+      107,
+      55,
+      23,
+      91
+    ],
+    "kanjis": [
+      524,
+      770
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ははおや",
+      "url": "https://files.wanikani.com/06w0ie8zl0dmfu0c2y6t2wkcr91x"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8441,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "呆れ返る"
+  },
+  "primaryMeaning": "To Be Utterly Amazed",
+  "meaningMnemonic": "This is a combination of the word 呆れる meaning \"to be amazed\" and 返る meaning \"to be returned.\" You're so amazed at something that it keeps returning to your mind. It means <vocabulary>to be utterly amazed</vocabulary>!",
+  "primaryReading": "あきれかえる",
+  "readingMnemonic": "This is a combination of the words 呆れる and 返る. 呆れる becomes 呆れ and you just add 返る to it. So reading this should be pretty simple.",
+  "otherMeanings": [
+    "To Be Stunned",
+    "To Be Amazed"
+  ],
+  "otherReadings": [],
+  "wkSlug": "呆れ返る",
+  "related": {
+    "radicals": [
+      16,
+      23,
+      114,
+      218
+    ],
+    "kanjis": [
+      2251,
+      858
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あきれかえる",
+      "url": "https://files.wanikani.com/e0unma4y2oud3qai1yb4o10v491r"
+    }
+  ]
+}

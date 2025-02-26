@@ -1,0 +1,33 @@
+{
+  "id": 6222,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "賄う"
+  },
+  "primaryMeaning": "To Pay",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>bribe</kanji>, but when you pay a bribe, you are going <vocabulary>to pay</vocabulary> something or <vocabulary>to cover</vocabulary> something, like a meal, or something like that.",
+  "primaryReading": "まかなう",
+  "readingMnemonic": "You need to make a payment, <reading>make a</reading> payment <reading>now</reading> (まかなう) <vocabulary>to cover</vocabulary> the cost of this room.",
+  "otherMeanings": [
+    "To Cover"
+  ],
+  "otherReadings": [],
+  "wkSlug": "賄う",
+  "related": {
+    "radicals": [
+      94,
+      371
+    ],
+    "kanjis": [
+      1702
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まかなう",
+      "url": "https://files.wanikani.com/w4jilsuhza4tcbao5tryl73pkz7a"
+    }
+  ]
+}

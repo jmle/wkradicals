@@ -1,0 +1,34 @@
+{
+  "id": 8329,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "遥か"
+  },
+  "primaryMeaning": "Far Away",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はるか",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading! Just don't forget the か at the end.",
+  "otherMeanings": [
+    "Distant",
+    "Far Off"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遥か",
+  "related": {
+    "radicals": [
+      114,
+      8798
+    ],
+    "kanjis": [
+      2327
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はるか",
+      "url": "https://files.wanikani.com/w1kyu6bddc3rvnt57shujhv4jf9k"
+    }
+  ]
+}

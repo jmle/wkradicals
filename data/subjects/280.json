@@ -1,0 +1,31 @@
+{
+  "id": 280,
+  "type": "radical",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "番"
+  },
+  "primaryMeaning": "Number",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji, but \"number in a series\" is too long. Let's shorten it to <radical>number</radical>.",
+  "wkSlug": "number",
+  "related": {
+    "kanjis": [
+      1144,
+      2102,
+      2378
+    ],
+    "vocabularies": [
+      4421,
+      4452,
+      6072,
+      8508,
+      7395,
+      7396,
+      7397,
+      8491,
+      8492
+    ]
+  }
+}

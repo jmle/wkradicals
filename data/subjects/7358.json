@@ -1,0 +1,34 @@
+{
+  "id": 7358,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "溶ける"
+  },
+  "primaryMeaning": "To Melt",
+  "meaningMnemonic": "溶かす is \"to melt something\" and that makes 溶ける <vocabulary>to melt</vocabulary> (where something just melts, and you're not doing the melting).",
+  "primaryReading": "とける",
+  "readingMnemonic": "The reading comes from 溶かす.",
+  "otherMeanings": [
+    "To Dissolve",
+    "To Thaw"
+  ],
+  "otherReadings": [],
+  "wkSlug": "溶ける",
+  "related": {
+    "radicals": [
+      103,
+      404
+    ],
+    "kanjis": [
+      2030
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とける",
+      "url": "https://files.wanikani.com/gezwn1km7it2lyy2thom4y5o4gcj"
+    }
+  ]
+}

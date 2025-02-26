@@ -1,0 +1,34 @@
+{
+  "id": 2597,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "半分"
+  },
+  "primaryMeaning": "Half",
+  "meaningMnemonic": "You have <kanji>half</kanji> a <kanji>part</kanji>. Half a part is still <vocabulary>half</vocabulary>, right?",
+  "primaryReading": "はんぶん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "半分",
+  "related": {
+    "radicals": [
+      8765,
+      61,
+      2,
+      24
+    ],
+    "kanjis": [
+      518,
+      501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はんぶん",
+      "url": "https://files.wanikani.com/urf603cj8f3can1so0qu0s19s4ap"
+    }
+  ]
+}

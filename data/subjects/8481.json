@@ -1,0 +1,40 @@
+{
+  "id": 8481,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "瑞々しい"
+  },
+  "primaryMeaning": "Fresh",
+  "meaningMnemonic": "You give your <kanji>congratulations</kanji> to someone a few times because they seem so <vocabulary>fresh</vocabulary> and <vocabulary>vibrant</vocabulary>. You feel like you should because it must be nice to be like that still. Someday it will be gone, so make sure you say it a few times right away.",
+  "primaryReading": "みずみずしい",
+  "readingMnemonic": "The reading is just the kun'yomi reading (which you learned with the kanji) twice in a row.",
+  "otherMeanings": [
+    "Young",
+    "Juicy",
+    "Lively",
+    "Vibrant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "瑞々しい",
+  "related": {
+    "radicals": [
+      48,
+      20,
+      309,
+      14,
+      3
+    ],
+    "kanjis": [
+      2396,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みずみずしい",
+      "url": "https://files.wanikani.com/ttdjxob3np02t3yqvfrboojpclzi"
+    }
+  ]
+}

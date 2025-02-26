@@ -1,0 +1,32 @@
+{
+  "id": 5375,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "逆さま"
+  },
+  "primaryMeaning": "Upside Down",
+  "meaningMnemonic": "Something is <kanji>reverse</kanji>, that much you know. The さま comes from 様, which could mean <kanji>manner</kanji>. So, something that is in a \"reverse manner,\" is something that is <vocabulary>upside down</vocabulary>.",
+  "primaryReading": "さかさま",
+  "readingMnemonic": "The reading comes from 逆らう and 様, put together. A bit of an <vocabulary>upside down</vocabulary> reading if I do say so myself, but you do what you gotta do.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "逆さま",
+  "related": {
+    "radicals": [
+      114,
+      315,
+      3
+    ],
+    "kanjis": [
+      1346
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さかさま",
+      "url": "https://files.wanikani.com/h0anb7xmpuvt8arcaqffkismtc3a"
+    }
+  ]
+}

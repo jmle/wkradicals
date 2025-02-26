@@ -1,0 +1,27 @@
+{
+  "id": 366,
+  "type": "radical",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "暴"
+  },
+  "primaryMeaning": "Violence",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>violence</radical>.",
+  "wkSlug": "violence",
+  "related": {
+    "kanjis": [
+      1658
+    ],
+    "vocabularies": [
+      6092,
+      6093,
+      6094,
+      6095,
+      6096,
+      6256,
+      6467
+    ]
+  }
+}

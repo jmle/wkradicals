@@ -1,0 +1,33 @@
+{
+  "id": 7404,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "仰ぐ"
+  },
+  "primaryMeaning": "To Look Up At",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>look up to</kanji> and the verb vocab version is <vocabulary>to look up at</vocabulary> or <vocabulary>to look up to</vocabulary>.",
+  "primaryReading": "あおぐ",
+  "readingMnemonic": "Personally, I look up to the color <reading>青</reading> (あお). Literally and figuratively. I love the color blue, so I look up to it and respect it. Also, I look up at the sky and it's blue.",
+  "otherMeanings": [
+    "To Look Up To"
+  ],
+  "otherReadings": [],
+  "wkSlug": "仰ぐ",
+  "related": {
+    "radicals": [
+      75,
+      340
+    ],
+    "kanjis": [
+      2107
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あおぐ",
+      "url": "https://files.wanikani.com/mq1b6zzkovnj1va3fbr4wj4289ux"
+    }
+  ]
+}

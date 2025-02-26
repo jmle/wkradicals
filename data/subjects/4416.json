@@ -1,0 +1,36 @@
+{
+  "id": 4416,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "自制"
+  },
+  "primaryMeaning": "Self Control",
+  "meaningMnemonic": "<kanji>Self</kanji> <kanji>control</kanji> is <vocabulary>self control</vocabulary> and <vocabulary>self restraint</vocabulary>. Have some!",
+  "primaryReading": "じせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Self Restraint"
+  ],
+  "otherReadings": [],
+  "wkSlug": "自制",
+  "related": {
+    "radicals": [
+      109,
+      126,
+      102,
+      128
+    ],
+    "kanjis": [
+      578,
+      1128
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じせい",
+      "url": "https://files.wanikani.com/vo9pr7i45q7n501lnwxdhlql1ohv"
+    }
+  ]
+}

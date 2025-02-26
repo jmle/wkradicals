@@ -1,0 +1,27 @@
+{
+  "id": 358,
+  "type": "radical",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "貴"
+  },
+  "primaryMeaning": "Valuable",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>valuable</radical>.",
+  "wkSlug": "valuable",
+  "related": {
+    "kanjis": [
+      1616
+    ],
+    "vocabularies": [
+      5966,
+      5967,
+      5968,
+      5969,
+      6107,
+      6140,
+      8207
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4706,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "都庁"
+  },
+  "primaryMeaning": "Metropolitan Government Building",
+  "meaningMnemonic": "The <kanji>metropolis</kanji> <kanji>agency</kanji> is the government that controls the metropolitan area. Their office is in the <vocabulary>metropolitan government building</vocabulary>.",
+  "primaryReading": "とちょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Metropolitan Government Office"
+  ],
+  "otherReadings": [],
+  "wkSlug": "都庁",
+  "related": {
+    "radicals": [
+      203,
+      176,
+      62,
+      27
+    ],
+    "kanjis": [
+      826,
+      1233
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とちょう",
+      "url": "https://files.wanikani.com/pysnflc49ierfb5xdrk8t5yxvhhf"
+    }
+  ]
+}

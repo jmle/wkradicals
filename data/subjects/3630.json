@@ -1,0 +1,35 @@
+{
+  "id": 3630,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "水銀"
+  },
+  "primaryMeaning": "Mercury",
+  "meaningMnemonic": "This is a fun one. <kanji>Water</kanji> <kanji>silver</kanji> is <vocabulary>mercury</vocabulary>, which makes a lot of sense. Mercury is liquidy like water, but it is all silver like silver. So silver water isn't some new mineral water you can get for $4 at the store, it's <vocabulary>mercury</vocabulary>! Or <vocabulary>quicksilver</vocabulary>, if you prefer.",
+  "primaryReading": "すいぎん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Quicksilver"
+  ],
+  "otherReadings": [],
+  "wkSlug": "水銀",
+  "related": {
+    "radicals": [
+      45,
+      118,
+      196
+    ],
+    "kanjis": [
+      479,
+      871
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいぎん",
+      "url": "https://files.wanikani.com/pioc2hdd220c7olr92q2vbg6b8o8"
+    }
+  ]
+}

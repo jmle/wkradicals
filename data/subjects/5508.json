@@ -1,0 +1,33 @@
+{
+  "id": 5508,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "出版する"
+  },
+  "primaryMeaning": "To Publish",
+  "meaningMnemonic": "If 出版 is <kanji>publishing</kanji>, then the verb vocab version is <vocabulary>to publish</vocabulary>.",
+  "primaryReading": "しゅっぱんする",
+  "readingMnemonic": "The reading comes from 出版, so if you know that you know this. Also, it's just the kanji readings too, so no problemo for a person like you, I'm sure.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "出版する",
+  "related": {
+    "radicals": [
+      20,
+      162,
+      218
+    ],
+    "kanjis": [
+      483,
+      1421
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅっぱんする",
+      "url": "https://files.wanikani.com/ph2iemlp0yu24m93oyvt36m64tmh"
+    }
+  ]
+}

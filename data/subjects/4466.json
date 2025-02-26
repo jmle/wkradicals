@@ -1,0 +1,37 @@
+{
+  "id": 4466,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "理解"
+  },
+  "primaryMeaning": "Comprehension",
+  "meaningMnemonic": "I've <kanji>untie</kanji>d all the <kanji>reason</kanji> and made it even simpler, making it easier to understand. This increases my <vocabulary>comprehension</vocabulary> and <vocabulary>understanding</vocabulary> by quite a bit!",
+  "primaryReading": "りかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Understanding"
+  ],
+  "otherReadings": [],
+  "wkSlug": "理解",
+  "related": {
+    "radicals": [
+      48,
+      125,
+      281,
+      24,
+      126
+    ],
+    "kanjis": [
+      669,
+      1150
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りかい",
+      "url": "https://files.wanikani.com/gvmtqatn5rjd3hr5fjhdbef9573q"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6028,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "降参する"
+  },
+  "primaryMeaning": "To Surrender",
+  "meaningMnemonic": "降参 is \"surrender\" so the verb version would be <vocabulary>to surrender</vocabulary>.",
+  "primaryReading": "こうさんする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The reading is the same as 降参 as well, of course.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "降参する",
+  "related": {
+    "radicals": [
+      176,
+      60,
+      126,
+      140,
+      18,
+      38
+    ],
+    "kanjis": [
+      1548,
+      899
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうさんする",
+      "url": "https://files.wanikani.com/logvtgtmp8zo6miq58xy3trrlxu4"
+    }
+  ]
+}

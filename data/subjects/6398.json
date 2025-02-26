@@ -1,0 +1,37 @@
+{
+  "id": 6398,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "警戒"
+  },
+  "primaryMeaning": "Vigilance",
+  "meaningMnemonic": "My <kanji>warning</kanji> <kanji>commandment</kanji> is there to make sure you take <vocabulary>precaution</vocabulary> and show <vocabulary>vigilance</vocabulary> when it comes to that precaution. It's only a warning commandment, though, which is why it has to do with prevention and precaution.",
+  "primaryReading": "けいかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Precaution"
+  ],
+  "otherReadings": [],
+  "wkSlug": "警戒",
+  "related": {
+    "radicals": [
+      255,
+      60,
+      117,
+      194,
+      106
+    ],
+    "kanjis": [
+      1023,
+      1754
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいかい",
+      "url": "https://files.wanikani.com/57lif2p33mk462fqydieahl1upth"
+    }
+  ]
+}

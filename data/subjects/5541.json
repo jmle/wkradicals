@@ -1,0 +1,37 @@
+{
+  "id": 5541,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "先祖"
+  },
+  "primaryMeaning": "Ancestors",
+  "meaningMnemonic": "Your <kanji>previous</kanji> <kanji>ancestor</kanji>s are your <vocabulary>ancestors</vocabulary>. All ancestors are previous to you, after all, unless you want to talk time travel, then who knows.",
+  "primaryReading": "せんぞ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just remember there is a rendaku that changes そ to ぞ！",
+  "otherMeanings": [
+    "One's Ancestors"
+  ],
+  "otherReadings": [],
+  "wkSlug": "先祖",
+  "related": {
+    "radicals": [
+      5,
+      17,
+      28,
+      80,
+      419
+    ],
+    "kanjis": [
+      543,
+      1489
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんぞ",
+      "url": "https://files.wanikani.com/r6yphwfjwykn7i03b878yug54mus"
+    }
+  ]
+}

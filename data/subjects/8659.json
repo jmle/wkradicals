@@ -1,0 +1,35 @@
+{
+  "id": 8659,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "大人しい"
+  },
+  "primaryMeaning": "Obedient",
+  "meaningMnemonic": "Remember how you learned that 大人 means \"adult?\" Well this is the adjective version of that. The I-adjective (see how it ends in い?). What adjective do adults want to be able to use for their own kids? They want to say they are <vocabulary>obedient</vocabulary>, <vocabulary>quiet</vocabulary> kids!",
+  "primaryReading": "おとなしい",
+  "readingMnemonic": "You already learned this reading when you learned 大人! You should be able to read this too!",
+  "otherMeanings": [
+    "Quiet",
+    "Calm"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大人しい",
+  "related": {
+    "radicals": [
+      18,
+      9
+    ],
+    "kanjis": [
+      453,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おとなしい",
+      "url": "https://files.wanikani.com/79zn7am8lvnu80r1zy91rb8e02n6"
+    }
+  ]
+}

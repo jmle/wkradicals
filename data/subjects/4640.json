@@ -1,0 +1,38 @@
+{
+  "id": 4640,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "贅沢"
+  },
+  "primaryMeaning": "Luxury",
+  "meaningMnemonic": "You live in the most <kanji>extravagant</kanji> of <kanji>swamp</kanji>s, which means you’re completely surrounded by <vocabulary>luxury</vocabulary> and <vocabulary>extravagant</vocabulary> things.",
+  "primaryReading": "ぜいたく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Extravagant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "贅沢",
+  "related": {
+    "radicals": [
+      17,
+      66,
+      60,
+      94,
+      103,
+      215
+    ],
+    "kanjis": [
+      1209,
+      1208
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜいたく",
+      "url": "https://files.wanikani.com/412uo97t3owh1byqnd4l0h3h043b"
+    }
+  ]
+}

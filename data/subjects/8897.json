@@ -1,0 +1,34 @@
+{
+  "id": 8897,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "二斤"
+  },
+  "primaryMeaning": "Two Loaves of Bread",
+  "meaningMnemonic": "<kanji>Two</kanji> <kanji>bread loaf counter</kanji>s are counting <vocabulary>two loaves of bread</vocabulary>.",
+  "primaryReading": "にきん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Two Loaves"
+  ],
+  "otherReadings": [],
+  "wkSlug": "二斤",
+  "related": {
+    "radicals": [
+      7,
+      115
+    ],
+    "kanjis": [
+      441,
+      8884
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にきん",
+      "url": "https://files.wanikani.com/on4xx0xn70mimrqn8t7nnop4s3z3"
+    }
+  ]
+}

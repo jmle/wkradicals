@@ -1,0 +1,31 @@
+{
+  "id": 5595,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "机"
+  },
+  "primaryMeaning": "Desk",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "つくえ",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "机",
+  "related": {
+    "radicals": [
+      23,
+      177
+    ],
+    "kanjis": [
+      1509
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つくえ",
+      "url": "https://files.wanikani.com/uujh7sc2zc8vdkekskes0b3rbp7s"
+    }
+  ]
+}

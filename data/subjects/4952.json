@@ -1,0 +1,36 @@
+{
+  "id": 4952,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "独特"
+  },
+  "primaryMeaning": "Unique",
+  "meaningMnemonic": "It is <kanji>alone</kanji> and <kanji>special</kanji>. Nothing is like it. It is very <vocabulary>unique</vocabulary> and <vocabulary>peculiar</vocabulary>.",
+  "primaryReading": "どくとく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Peculiar"
+  ],
+  "otherReadings": [],
+  "wkSlug": "独特",
+  "related": {
+    "radicals": [
+      144,
+      89,
+      126,
+      192
+    ],
+    "kanjis": [
+      1312,
+      807
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どくとく",
+      "url": "https://files.wanikani.com/usnx8qjk3hxs5zcme0y11rj00qr3"
+    }
+  ]
+}

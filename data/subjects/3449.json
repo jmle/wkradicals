@@ -1,0 +1,37 @@
+{
+  "id": 3449,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "小学生"
+  },
+  "primaryMeaning": "Elementary School Student",
+  "meaningMnemonic": "You know 学生 is student, so what is a <kanji>small</kanji> student? Think young. That would be an <vocabulary>Elementary School Student</vocabulary>.",
+  "primaryReading": "しょうがくせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Primary School Student"
+  ],
+  "otherReadings": [],
+  "wkSlug": "小学生",
+  "related": {
+    "radicals": [
+      35,
+      8769,
+      34,
+      210
+    ],
+    "kanjis": [
+      463,
+      599,
+      850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうがくせい",
+      "url": "https://files.wanikani.com/v8vgbqakaqnmx2cla2lnlw1q6xke"
+    }
+  ]
+}

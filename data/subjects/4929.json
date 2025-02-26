@@ -1,0 +1,36 @@
+{
+  "id": 4929,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "教授"
+  },
+  "primaryMeaning": "Teaching",
+  "meaningMnemonic": "If you <kanji>teach</kanji> and <kanji>instruct</kanji> then you are doing <vocabulary>teaching</vocabulary>. Who does teaching? A <vocabulary>professor</vocabulary>.",
+  "primaryReading": "きょうじゅ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Professor"
+  ],
+  "otherReadings": [],
+  "wkSlug": "教授",
+  "related": {
+    "radicals": [
+      418,
+      60,
+      63,
+      298
+    ],
+    "kanjis": [
+      668,
+      1282
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうじゅ",
+      "url": "https://files.wanikani.com/bpdobyae86sf99u1yays1ta8ktep"
+    }
+  ]
+}

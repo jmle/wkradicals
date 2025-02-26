@@ -1,0 +1,35 @@
+{
+  "id": 7546,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "兵"
+  },
+  "primaryMeaning": "Soldier",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "へい",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Army",
+    "Troops"
+  ],
+  "otherReadings": [],
+  "wkSlug": "兵",
+  "related": {
+    "radicals": [
+      115,
+      1,
+      2
+    ],
+    "kanjis": [
+      1000
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へい",
+      "url": "https://files.wanikani.com/y393ea65s7lm5lqehz6yigedrwiw"
+    }
+  ]
+}

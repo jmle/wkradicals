@@ -1,0 +1,35 @@
+{
+  "id": 6265,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "隆盛"
+  },
+  "primaryMeaning": "Prosperity",
+  "meaningMnemonic": "<kanji>Prosperity</kanji> in <kanji>piles</kanji> is a lot of <vocabulary>prosperity</vocabulary>!",
+  "primaryReading": "りゅうせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "隆盛",
+  "related": {
+    "radicals": [
+      176,
+      60,
+      210,
+      263,
+      84
+    ],
+    "kanjis": [
+      1712,
+      1532
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りゅうせい",
+      "url": "https://files.wanikani.com/if3ja69r7tsgm7on6j2dphelcrj5"
+    }
+  ]
+}

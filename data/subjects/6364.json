@@ -1,0 +1,36 @@
+{
+  "id": 6364,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "駐車場"
+  },
+  "primaryMeaning": "Parking Lot",
+  "meaningMnemonic": "A <kanji>location</kanji> where <kanji>car</kanji>s can be a <kanji>resident</kanji> is a <vocabulary>parking lot</vocabulary>.",
+  "primaryReading": "ちゅうしゃじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You've learned these readings already, so you should be able to read this on your own!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "駐車場",
+  "related": {
+    "radicals": [
+      165,
+      154,
+      93,
+      17,
+      172
+    ],
+    "kanjis": [
+      1743,
+      562,
+      694
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうしゃじょう",
+      "url": "https://files.wanikani.com/dg3lekjttb7pedgxokphcs8a0jid"
+    }
+  ]
+}

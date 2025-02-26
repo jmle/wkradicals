@@ -1,0 +1,36 @@
+{
+  "id": 3944,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "期待する"
+  },
+  "primaryMeaning": "To Expect",
+  "meaningMnemonic": "Hopefully you know the word 期待 by now (expectation). This is the verb version, which makes it <vocabulary>to expect</vocabulary>.",
+  "primaryReading": "きたいする",
+  "readingMnemonic": "The reading comes from the word 期待, so make sure you know that to know this one as well.",
+  "otherMeanings": [
+    "To Anticipate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "期待する",
+  "related": {
+    "radicals": [
+      205,
+      43,
+      99,
+      192
+    ],
+    "kanjis": [
+      839,
+      726
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きたいする",
+      "url": "https://files.wanikani.com/nr8dhnxskcawthsx3cjum8xbrl6e"
+    }
+  ]
+}

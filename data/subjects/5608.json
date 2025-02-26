@@ -1,0 +1,34 @@
+{
+  "id": 5608,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "漏らす"
+  },
+  "primaryMeaning": "To Let Something Leak",
+  "meaningMnemonic": "You learned <ja>漏れる</ja> means \"to leak.\" 漏らす is the transitive version, which means it takes a direct object. So this means <vocabulary>to let something leak</vocabulary> or <vocabulary>to leak something</vocabulary>. The reason you let something leak is because you <reading>rush</reading>ed (<ja>らす</ja>) the job (because you did it yourself)!\n\nEven though it's transitive, 漏らす often implies an unintentional leak, as in おしっこを漏らす (wet one's pants) or 水を漏らすな (don't let water spill). It's also used figuratively, like 秘密を漏らす (leak a secret), 不満を漏らす (express dissatisfaction), or ためいきを漏らす (let out a sigh).",
+  "primaryReading": "もらす",
+  "readingMnemonic": "The reading comes from 漏れる, so if you know that, you know this! Don't let that memory leak from your head.",
+  "otherMeanings": [
+    "To Leak Something"
+  ],
+  "otherReadings": [],
+  "wkSlug": "漏らす",
+  "related": {
+    "radicals": [
+      103,
+      37,
+      119
+    ],
+    "kanjis": [
+      1434
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もらす",
+      "url": "https://files.wanikani.com/i1yf3oirsp36v9ilfptfmsyhfjhh"
+    }
+  ]
+}

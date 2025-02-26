@@ -1,0 +1,33 @@
+{
+  "id": 7773,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "押し"
+  },
+  "primaryMeaning": "Push",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "おし",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Pressure"
+  ],
+  "otherReadings": [],
+  "wkSlug": "押し",
+  "related": {
+    "radicals": [
+      63,
+      330
+    ],
+    "kanjis": [
+      1430
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おし",
+      "url": "https://files.wanikani.com/jjebf1xdw2phekyk0dh5fev4hgd7"
+    }
+  ]
+}

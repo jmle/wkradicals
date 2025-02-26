@@ -1,0 +1,33 @@
+{
+  "id": 6174,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "刊行する"
+  },
+  "primaryMeaning": "To Publish",
+  "meaningMnemonic": "The <kanji>edition</kanji> will <kanji>go</kanji> out to the public if we were <vocabulary>to publish</vocabulary> it.",
+  "primaryReading": "かんこうする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "刊行する",
+  "related": {
+    "radicals": [
+      61,
+      128,
+      111
+    ],
+    "kanjis": [
+      1683,
+      580
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんこうする",
+      "url": "https://files.wanikani.com/hhr5d1m2yx40udffjpvax0yes2sj"
+    }
+  ]
+}

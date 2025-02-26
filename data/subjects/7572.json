@@ -1,0 +1,36 @@
+{
+  "id": 7572,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "教え"
+  },
+  "primaryMeaning": "Teaching",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>teach</kanji>. So it means <vocabulary>teaching</vocabulary>.",
+  "primaryReading": "おしえ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You already learned this reading when you learned 教える, so you should be able to read this word as well.",
+  "otherMeanings": [
+    "Instruction",
+    "Teachings",
+    "Lesson",
+    "Doctrine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "教え",
+  "related": {
+    "radicals": [
+      418,
+      60
+    ],
+    "kanjis": [
+      668
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おしえ",
+      "url": "https://files.wanikani.com/yfpzw1drxmvmea8lt1zs2o9srm2j"
+    }
+  ]
+}

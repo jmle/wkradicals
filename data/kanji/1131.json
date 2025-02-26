@@ -1,0 +1,43 @@
+{
+  "id": 1131,
+  "type": "kanji",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "総"
+  },
+  "primaryReading": "そう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "そう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Whole",
+  "otherMeanings": [],
+  "meaningMnemonic": "Taking out your <radical>thread</radical>, you sew together the <radical>public</radical>'s <radical>heart</radical>s to make them <kanji>whole</kanji> again.",
+  "readingMnemonic": "Once their hearts are <kanji>whole</kanji>, the public's <reading>sou</reading>l (そう) becomes one!",
+  "wkSlug": "総",
+  "related": {
+    "radicals": [
+      86,
+      237,
+      65
+    ],
+    "vocabularies": [
+      4422,
+      4423,
+      4424,
+      4860,
+      5425,
+      6585,
+      7978
+    ]
+  },
+  "radicalNames": [
+    "Thread",
+    "Public",
+    "Heart"
+  ]
+}

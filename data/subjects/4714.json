@@ -1,0 +1,33 @@
+{
+  "id": 4714,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "差す"
+  },
+  "primaryMeaning": "To Shine At",
+  "meaningMnemonic": "The kanji is <kanji>distinction</kanji>. To distinct something would be nice, but this is used more like <vocabulary>to shine at</vocabulary> or <vocabulary>to shine on</vocabulary>, like when a light shines on someone on a stage, distinguishing them from everyone else.",
+  "primaryReading": "さす",
+  "readingMnemonic": "The reading of the kanji is actually the same as the reading for this word, making things easy (both on'yomi and kun'yomi are さ).",
+  "otherMeanings": [
+    "To Shine On"
+  ],
+  "otherReadings": [],
+  "wkSlug": "差す",
+  "related": {
+    "radicals": [
+      136,
+      25
+    ],
+    "kanjis": [
+      1235
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さす",
+      "url": "https://files.wanikani.com/r240mgpl0f5pk1aj95a2vso9oavy"
+    }
+  ]
+}

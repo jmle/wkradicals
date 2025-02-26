@@ -1,0 +1,37 @@
+{
+  "id": 2663,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "年内"
+  },
+  "primaryMeaning": "By The End Of The Year",
+  "meaningMnemonic": "<kanji>Inside</kanji> the <kanji>year</kanji> means <vocabulary>by the end of the year</vocabulary>. In other words, <vocabulary>before the end of this year</vocabulary>, or <vocabulary>within the year</vocabulary>.",
+  "primaryReading": "ねんない",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Before The End Of This Year",
+    "Within The Year"
+  ],
+  "otherReadings": [],
+  "wkSlug": "年内",
+  "related": {
+    "radicals": [
+      8762,
+      126,
+      29,
+      9
+    ],
+    "kanjis": [
+      546,
+      500
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねんない",
+      "url": "https://files.wanikani.com/bao6apmjg5bcj6wppz8po1jobl5x"
+    }
+  ]
+}

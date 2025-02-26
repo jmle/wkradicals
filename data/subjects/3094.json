@@ -1,0 +1,35 @@
+{
+  "id": 3094,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "和食"
+  },
+  "primaryMeaning": "Japanese Style Food",
+  "meaningMnemonic": "<kanji>Japanese style</kanji> <kanji>eat</kanji> ... well, let's change \"eat\" to \"food\" and you have <vocabulary>Japanese style food</vocabulary>. This is a good way to differentiate between an American style restaurant and a Japanese style restaurant. What kind of food you feeling like tonight? Oh, how about some 和食?",
+  "primaryReading": "わしょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Japanese Food"
+  ],
+  "otherReadings": [],
+  "wkSlug": "和食",
+  "related": {
+    "radicals": [
+      135,
+      16,
+      139
+    ],
+    "kanjis": [
+      712,
+      644
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わしょく",
+      "url": "https://files.wanikani.com/orfrvsnzno3lt0qo0g0avejcblz0"
+    }
+  ]
+}

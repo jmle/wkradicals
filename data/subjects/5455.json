@@ -1,0 +1,31 @@
+{
+  "id": 5455,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "孫"
+  },
+  "primaryMeaning": "Grandchild",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "まご",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you: \n\nYou are the <vocabulary>grandchild</vocabulary> of your grandfather. His favorite thing is to call you a <reading>maggo</reading>t (まご). Your grandfather was in the military and is very hard on you, maggot.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "孫",
+  "related": {
+    "radicals": [
+      34,
+      329
+    ],
+    "kanjis": [
+      1461
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まご",
+      "url": "https://files.wanikani.com/tchl3s2vvvymrz7nv6tdz39f7c8c"
+    }
+  ]
+}

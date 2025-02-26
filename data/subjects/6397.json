@@ -1,0 +1,36 @@
+{
+  "id": 6397,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "訓戒"
+  },
+  "primaryMeaning": "Warning",
+  "meaningMnemonic": "My <kanji>instruction</kanji> is my <kanji>commandment</kanji>. You must do what I say in my instructions/commandments. This is my <vocabulary>warning</vocabulary>. This is my <vocabulary>admonition</vocabulary>.",
+  "primaryReading": "くんかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Admonition"
+  ],
+  "otherReadings": [],
+  "wkSlug": "訓戒",
+  "related": {
+    "radicals": [
+      117,
+      21,
+      194,
+      106
+    ],
+    "kanjis": [
+      1028,
+      1754
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くんかい",
+      "url": "https://files.wanikani.com/ysxstssny18ix161zu3rh7z0gm86"
+    }
+  ]
+}

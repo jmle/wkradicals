@@ -1,0 +1,37 @@
+{
+  "id": 8263,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "呉服"
+  },
+  "primaryMeaning": "Draperies",
+  "meaningMnemonic": "If you want to <kanji>give</kanji> <kanji>clothes</kanji> to other people, you have to buy <vocabulary>draperies</vocabulary> first and then sew them together. That's a fancy word for <vocabulary>cloth</vocabulary>. ",
+  "primaryReading": "ごふく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Kimono Fabric",
+    "Cloth"
+  ],
+  "otherReadings": [],
+  "wkSlug": "呉服",
+  "related": {
+    "radicals": [
+      348,
+      43,
+      145,
+      30
+    ],
+    "kanjis": [
+      2300,
+      716
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ごふく",
+      "url": "https://files.wanikani.com/ez8m7w0rtazstz6rgdozwc4tn3bf"
+    }
+  ]
+}

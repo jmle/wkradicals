@@ -1,0 +1,34 @@
+{
+  "id": 5142,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "妙"
+  },
+  "primaryMeaning": "Peculiar",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nNote that 妙 is more often used in writing than conversation.",
+  "primaryReading": "みょう",
+  "readingMnemonic": "The reading is actually the same as the kanji you learned. On'yomi all the way, despite being all alone. How <vocabulary>peculiar</vocabulary>!",
+  "otherMeanings": [
+    "Unusual",
+    "Odd"
+  ],
+  "otherReadings": [],
+  "wkSlug": "妙",
+  "related": {
+    "radicals": [
+      19,
+      198
+    ],
+    "kanjis": [
+      1364
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みょう",
+      "url": "https://files.wanikani.com/0fcezakjz4t6c0ebq98tsmdex9yr"
+    }
+  ]
+}

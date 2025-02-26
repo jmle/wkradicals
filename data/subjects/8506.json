@@ -1,0 +1,36 @@
+{
+  "id": 8506,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "手錠"
+  },
+  "primaryMeaning": "Handcuffs",
+  "meaningMnemonic": "You want to <kanji>lock</kanji> this criminal's <kanji>hand</kanji>s up so he won't go punching anymore grandpas. You need some <vocabulary>handcuffs</vocabulary> to make sure he doesn't go around being a criminal anymore. Then you can lock him up good.",
+  "primaryReading": "てじょう",
+  "readingMnemonic": "This word uses the kun'yomi reading for one kanji and the on'yomi reading for the other. You know them both, so this shouldn't be too hard to remember!",
+  "otherMeanings": [
+    "Manacles"
+  ],
+  "otherReadings": [],
+  "wkSlug": "手錠",
+  "related": {
+    "radicals": [
+      41,
+      118,
+      78,
+      229
+    ],
+    "kanjis": [
+      474,
+      2394
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てじょう",
+      "url": "https://files.wanikani.com/2yb5urn5b1ttynkjv8v1lbgtexrk"
+    }
+  ]
+}

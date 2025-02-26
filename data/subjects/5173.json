@@ -1,0 +1,33 @@
+{
+  "id": 5173,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "独り言"
+  },
+  "primaryMeaning": "Talking To Yourself",
+  "meaningMnemonic": "独り is when you're <kanji>alone</kanji>. 言 is when you <kanji>say</kanji> something. So, when you say something and you're alone, you're just <vocabulary>talking to yourself</vocabulary>.",
+  "primaryReading": "ひとりごと",
+  "readingMnemonic": "The reading for 独り is just the reading for 独り. The reading for 言 is an exception, though. It's ごと, which comes from こと. Just think that as you're <vocabulary>talking to yourself</vocabulary> you're telling yourself over and over to <reading>go to</reading> hell. You're mean to yourself, and you're also insane, which is why you keep saying that out loud to nobody but you.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "独り言",
+  "related": {
+    "radicals": [
+      144,
+      89,
+      117
+    ],
+    "kanjis": [
+      1312,
+      593
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひとりごと",
+      "url": "https://files.wanikani.com/4bh4kgsb2exat5hi91eyt1s56lki"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4943,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "河童"
+  },
+  "primaryMeaning": "Kappa",
+  "meaningMnemonic": "A <kanji>river</kanji> <kanji>juvenile</kanji>... not what you think. It's a <vocabulary>kappa</vocabulary>, a mythological Japanese creature. That being said, it lives in / around rivers and is about the size of a juvenile, so maybe this makes sense.",
+  "primaryReading": "かっぱ",
+  "readingMnemonic": "The reading for 河 makes sense. The reading for 童 however is weird. Since the meaning is \"kappa\" though you can use that to remember the reading as well. If you don't know what a kappa is do some research on the internets and figure out about them. It's interesting, and it will help you to remember this word.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "河童",
+  "related": {
+    "radicals": [
+      103,
+      113,
+      55,
+      125
+    ],
+    "kanjis": [
+      1306,
+      833
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かっぱ",
+      "url": "https://files.wanikani.com/t7mruhvgq7d5eylx3t1fhas21t0r"
+    }
+  ]
+}

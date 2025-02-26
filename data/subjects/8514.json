@@ -1,0 +1,38 @@
+{
+  "id": 8514,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "養鶏"
+  },
+  "primaryMeaning": "Chicken Farming",
+  "meaningMnemonic": "<kanji>Foster</kanji> a bunch of <kanji>chicken</kanji>s and start <vocabulary>chicken farming</vocabulary>! They will be your best friends! Your only friends.",
+  "primaryReading": "ようけい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Poultry Farming"
+  ],
+  "otherReadings": [],
+  "wkSlug": "養鶏",
+  "related": {
+    "radicals": [
+      136,
+      8822,
+      2,
+      8772,
+      146,
+      151
+    ],
+    "kanjis": [
+      889,
+      2380
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようけい",
+      "url": "https://files.wanikani.com/xixms12uubgpa4cbedg121iev2wo"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5851,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "尊敬する"
+  },
+  "primaryMeaning": "To Respect",
+  "meaningMnemonic": "If 尊敬 is \"respect\" then the verb version would be <vocabulary>to respect</vocabulary>.",
+  "primaryReading": "そんけいする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "尊敬する",
+  "related": {
+    "radicals": [
+      8767,
+      182,
+      74,
+      255,
+      60
+    ],
+    "kanjis": [
+      1522,
+      1526
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そんけいする",
+      "url": "https://files.wanikani.com/dr494hzm14b2tn20zd257de728ix"
+    }
+  ]
+}

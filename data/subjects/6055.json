@@ -1,0 +1,34 @@
+{
+  "id": 6055,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "償う"
+  },
+  "primaryMeaning": "To Compensate For",
+  "meaningMnemonic": "To make <kanji>reparation</kanji>s is <vocabulary>to compensate for</vocabulary> or <vocabulary>to make up for</vocabulary> something. You're going <vocabulary>to atone for</vocabulary> your sins.\n\nThis word is mainly used when someone is taking responsibility for a mistake, a wrongdoing, or a loss by providing compensation or otherwise making things right.",
+  "primaryReading": "つぐなう",
+  "readingMnemonic": "When you try <vocabulary>to compensate for</vocabulary> everything you've ever done wrong, you become too good for your own britches. You are <reading>too good now</reading> (つぐなう).",
+  "otherMeanings": [
+    "To Make Up For",
+    "To Atone For"
+  ],
+  "otherReadings": [],
+  "wkSlug": "償う",
+  "related": {
+    "radicals": [
+      75,
+      364
+    ],
+    "kanjis": [
+      1646
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つぐなう",
+      "url": "https://files.wanikani.com/iai97zmzq2jdsw7km6sihtammdyr"
+    }
+  ]
+}

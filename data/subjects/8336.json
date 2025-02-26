@@ -1,0 +1,34 @@
+{
+  "id": 8336,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "丘陵"
+  },
+  "primaryMeaning": "Hill",
+  "meaningMnemonic": "Just because there's a <kanji>mausoleum</kanji> on this <kanji>hill</kanji> doesn't mean it isn't still a <vocabulary>hill</vocabulary>. (It is. It's still a hill.)",
+  "primaryReading": "きゅうりょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "丘陵",
+  "related": {
+    "radicals": [
+      115,
+      1,
+      176,
+      426
+    ],
+    "kanjis": [
+      1888,
+      2305
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうりょう",
+      "url": "https://files.wanikani.com/srxqrqdoe1ekkximlrgnc8tbapbz"
+    }
+  ]
+}

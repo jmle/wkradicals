@@ -1,0 +1,38 @@
+{
+  "id": 8545,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "取り敢えず"
+  },
+  "primaryMeaning": "For The Time Being",
+  "meaningMnemonic": "If you only <kanji>take</kanji> <kanji>daring</kanji> and you don't have any yourself, you only have it <vocabulary>for the time being</vocabulary>. It will go away if you can't make it yourself.",
+  "primaryReading": "とりあえず",
+  "readingMnemonic": "This word uses the kun'yomi readings for the kanji. You learned both of these already, so you should be able to read this with no problems!",
+  "otherMeanings": [
+    "First Of All",
+    "At Once",
+    "Immediately"
+  ],
+  "otherReadings": [],
+  "wkSlug": "取り敢えず",
+  "related": {
+    "radicals": [
+      88,
+      30,
+      8799,
+      60
+    ],
+    "kanjis": [
+      966,
+      2350
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とりあえず",
+      "url": "https://files.wanikani.com/bvgj29ya8w063y4rkx5agzd5t671"
+    }
+  ]
+}

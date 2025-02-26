@@ -1,0 +1,34 @@
+{
+  "id": 3834,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "政府"
+  },
+  "primaryMeaning": "Government",
+  "meaningMnemonic": "<kanji>Politics</kanji> and <kanji>government</kanji>. They are needed to keep the <vocabulary>government</vocabulary> rolling.",
+  "primaryReading": "せいふ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "政府",
+  "related": {
+    "radicals": [
+      229,
+      60,
+      62,
+      248
+    ],
+    "kanjis": [
+      985,
+      977
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいふ",
+      "url": "https://files.wanikani.com/rnainpbxmv5hcv4fqhxsmruxizg6"
+    }
+  ]
+}

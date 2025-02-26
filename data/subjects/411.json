@@ -1,0 +1,25 @@
+{
+  "id": 411,
+  "type": "radical",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "太"
+  },
+  "primaryMeaning": "Fat",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>fat</radical>.",
+  "wkSlug": "fat",
+  "related": {
+    "kanjis": [
+      2087,
+      2432
+    ],
+    "vocabularies": [
+      7371,
+      7372,
+      7373,
+      8547
+    ]
+  }
+}

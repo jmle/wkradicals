@@ -1,0 +1,39 @@
+{
+  "id": 7483,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "実感"
+  },
+  "primaryMeaning": "Realization",
+  "meaningMnemonic": "Your <kanji>truth</kanji> <kanji>feeling</kanji> is when you feel something is true. You have the <vocabulary>realization</vocabulary> this is a <vocabulary>real feeling</vocabulary>!",
+  "primaryReading": "じっかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The reading for 実 gets changed to じっ so be careful!",
+  "otherMeanings": [
+    "Real Feeling",
+    "Actual Feeling"
+  ],
+  "otherReadings": [],
+  "wkSlug": "実感",
+  "related": {
+    "radicals": [
+      78,
+      8779,
+      5,
+      194,
+      8781,
+      65
+    ],
+    "kanjis": [
+      715,
+      862
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じっかん",
+      "url": "https://files.wanikani.com/z5ndqi4opmimdg2u1haxm8njjroe"
+    }
+  ]
+}

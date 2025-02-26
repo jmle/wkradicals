@@ -1,0 +1,45 @@
+{
+  "id": 8993,
+  "type": "kanji",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "餅"
+  },
+  "primaryReading": "もち",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "もち",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "へい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Mochi",
+  "otherMeanings": [
+    "Sticky Rice Cake"
+  ],
+  "meaningMnemonic": "What do you <radical>eat</radical> if you’re wearing <radical>horns</radical> and surrounded by <radical>lantern</radical>s? <kanji>Mochi</kanji> (or <kanji>sticky rice cake</kanji>s) of course!",
+  "readingMnemonic": "The reading of <kanji>mochi</kanji> is <reading>mochi</reading> (もち). Yay!",
+  "wkSlug": "餅",
+  "related": {
+    "radicals": [
+      139,
+      8767,
+      171
+    ],
+    "vocabularies": [
+      8999,
+      9003
+    ]
+  },
+  "radicalNames": [
+    "Eat",
+    "Horns",
+    "Lantern"
+  ]
+}

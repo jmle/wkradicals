@@ -1,0 +1,33 @@
+{
+  "id": 2627,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "一台"
+  },
+  "primaryMeaning": "One Machine",
+  "meaningMnemonic": "As long as you know the two kanji that make up this word, you should be able to figure out the meaning of this word as well.",
+  "primaryReading": "いちだい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "一台",
+  "related": {
+    "radicals": [
+      1,
+      140,
+      16
+    ],
+    "kanjis": [
+      440,
+      520
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いちだい",
+      "url": "https://files.wanikani.com/knws3kdqom9xazluhu7mmikwcu5e"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6129,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "知恵"
+  },
+  "primaryMeaning": "Wisdom",
+  "meaningMnemonic": "You are <kanji>favor</kanji>ed with <kanji>know</kanji>ing things. You have <vocabulary>wisdom</vocabulary> and <vocabulary>intelligence</vocabulary>.",
+  "primaryReading": "ちえ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Intelligence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "知恵",
+  "related": {
+    "radicals": [
+      72,
+      16,
+      15,
+      51,
+      65
+    ],
+    "kanjis": [
+      631,
+      1670
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちえ",
+      "url": "https://files.wanikani.com/e1p15svzdn2j0smyrc4gnyiexngb"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6615,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "二泊"
+  },
+  "primaryMeaning": "Two Night's Stay",
+  "meaningMnemonic": "<kanji>Two</kanji> <kanji>overnight</kanji>s is a <vocabulary>two night's stay</vocabulary>.",
+  "primaryReading": "にはく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "二泊",
+  "related": {
+    "radicals": [
+      7,
+      103,
+      52
+    ],
+    "kanjis": [
+      441,
+      1824
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にはく",
+      "url": "https://files.wanikani.com/nfrdisc1xdcj5nxsxkxl7dkazmv2"
+    }
+  ]
+}

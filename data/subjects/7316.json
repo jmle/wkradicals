@@ -1,0 +1,37 @@
+{
+  "id": 7316,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "転覆"
+  },
+  "primaryMeaning": "Capsizing",
+  "meaningMnemonic": "It <kanji>revolve</kanji>s then <kanji>capsize</kanji>s. When a ship revolves onto its back and then capsizes, this causes <vocabulary>capsizing</vocabulary>.",
+  "primaryReading": "てんぷく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Overturn"
+  ],
+  "otherReadings": [],
+  "wkSlug": "転覆",
+  "related": {
+    "radicals": [
+      93,
+      159,
+      424,
+      99,
+      265
+    ],
+    "kanjis": [
+      747,
+      2068
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てんぷく",
+      "url": "https://files.wanikani.com/6hsfjxdk80xzt2awjz80edygtc45"
+    }
+  ]
+}

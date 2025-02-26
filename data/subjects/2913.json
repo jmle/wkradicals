@@ -1,0 +1,38 @@
+{
+  "id": 2913,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "午後"
+  },
+  "primaryMeaning": "PM",
+  "meaningMnemonic": "What is <kanji>noon</kanji> <kanji>after</kanji>? That is <vocabulary>PM</vocabulary> or the <vocabulary>afternoon</vocabulary>.",
+  "primaryReading": "ごご",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Afternoon",
+    "P.M."
+  ],
+  "otherReadings": [],
+  "wkSlug": "午後",
+  "related": {
+    "radicals": [
+      5,
+      61,
+      99,
+      87,
+      60
+    ],
+    "kanjis": [
+      503,
+      636
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ごご",
+      "url": "https://files.wanikani.com/3ib9jvx04vnkvxjqfaxpira5q3v0"
+    }
+  ]
+}

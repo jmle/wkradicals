@@ -1,0 +1,38 @@
+{
+  "id": 3385,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "温かい"
+  },
+  "primaryMeaning": "Warm",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>warm</kanji>? It's <vocabulary>warm</vocabulary>.",
+  "primaryReading": "あたたかい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nTouch something that's warm... too warm! You pull your hand back and go \"<reading>AH ta-ta!</reading> (あたた). People make this noise when they touch something that's hot, I hear. It's almost like saying \"hot hot hot\" while dropping the \"h\" sound.\n\nPeople often pronounce this as あったかい, especially in casual, spoken Japanese. The \"correct\" reading is still あたたかい though, so keep that in mind when you're trying to type the kanji or taking an important test!",
+  "otherMeanings": [],
+  "otherReadings": [
+    "あったかい"
+  ],
+  "wkSlug": "温かい",
+  "related": {
+    "radicals": [
+      103,
+      22,
+      84
+    ],
+    "kanjis": [
+      842
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あったかい",
+      "url": "https://files.wanikani.com/4v4jlcz462yxc8axvy9dc1qaasxf"
+    },
+    {
+      "reading": "あたたかい",
+      "url": "https://files.wanikani.com/zg9w0xveomko2gjetykunxqhnki9"
+    }
+  ]
+}

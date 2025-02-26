@@ -1,0 +1,37 @@
+{
+  "id": 8367,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "敢行"
+  },
+  "primaryMeaning": "Decisive Action",
+  "meaningMnemonic": "You use your <kanji>daring</kanji> and just <kanji>go</kanji>! You made a <vocabulary>decisive action</vocabulary> by just going like that! It was go or not go and you chose go!",
+  "primaryReading": "かんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Perform",
+    "Dare",
+    "Carry Out"
+  ],
+  "otherReadings": [],
+  "wkSlug": "敢行",
+  "related": {
+    "radicals": [
+      8799,
+      60,
+      111
+    ],
+    "kanjis": [
+      2350,
+      580
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんこう",
+      "url": "https://files.wanikani.com/4j2puptdoy51hvzrpy5nsc2rbi5s"
+    }
+  ]
+}

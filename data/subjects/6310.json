@@ -1,0 +1,34 @@
+{
+  "id": 6310,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "枠"
+  },
+  "primaryMeaning": "Frame",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "わく",
+  "readingMnemonic": "The reading is the one you learned with the kanji.",
+  "otherMeanings": [
+    "Limit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "枠",
+  "related": {
+    "radicals": [
+      23,
+      11,
+      15
+    ],
+    "kanjis": [
+      1731
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わく",
+      "url": "https://files.wanikani.com/tcn9fxq5gunxoefbun1f5q14e5u8"
+    }
+  ]
+}

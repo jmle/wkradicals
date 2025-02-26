@@ -1,0 +1,39 @@
+{
+  "id": 5284,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "誘惑する"
+  },
+  "primaryMeaning": "To Seduce",
+  "meaningMnemonic": "If 誘惑 is seduction or temptation, then the verb version would be <vocabulary>to seduce</vocabulary> or <vocabulary>to tempt</vocabulary>.",
+  "primaryReading": "ゆうわくする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help to know the word 誘惑 first, though.",
+  "otherMeanings": [
+    "To Tempt"
+  ],
+  "otherReadings": [],
+  "wkSlug": "誘惑する",
+  "related": {
+    "radicals": [
+      117,
+      135,
+      200,
+      194,
+      16,
+      1,
+      65
+    ],
+    "kanjis": [
+      1327,
+      1326
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうわくする",
+      "url": "https://files.wanikani.com/tkjoqai6rcmeckn3dp5wl49usbo8"
+    }
+  ]
+}

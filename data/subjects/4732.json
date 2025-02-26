@@ -1,0 +1,36 @@
+{
+  "id": 4732,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "環境"
+  },
+  "primaryMeaning": "Environment",
+  "meaningMnemonic": "The <kanji>loop</kanji> that makes up the <kanji>boundary</kanji> of this area holds in the <vocabulary>environment</vocabulary>, at least this particular one.",
+  "primaryReading": "かんきょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "環境",
+  "related": {
+    "radicals": [
+      48,
+      163,
+      8784,
+      17,
+      55,
+      91
+    ],
+    "kanjis": [
+      1240,
+      1239
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんきょう",
+      "url": "https://files.wanikani.com/6r0hy90u7j9fy3xz5hd1ett510cz"
+    }
+  ]
+}

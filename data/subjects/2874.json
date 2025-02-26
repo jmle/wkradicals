@@ -1,0 +1,31 @@
+{
+  "id": 2874,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "死ぬ"
+  },
+  "primaryMeaning": "To Die",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>death</kanji>, so the verb version is <vocabulary>to die</vocabulary>.",
+  "primaryReading": "しぬ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "死ぬ",
+  "related": {
+    "radicals": [
+      132,
+      57
+    ],
+    "kanjis": [
+      617
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しぬ",
+      "url": "https://files.wanikani.com/sngli69lo0mq71csuxdde2yxb4x3"
+    }
+  ]
+}

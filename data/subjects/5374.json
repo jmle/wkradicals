@@ -1,0 +1,38 @@
+{
+  "id": 5374,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "越権"
+  },
+  "primaryMeaning": "Overstepping Your Authority",
+  "meaningMnemonic": "If you <kanji>go beyond</kanji> your <kanji>rights</kanji>, you are going too far. You're doing what you're not supposed to do, and you're overstepping your authority.",
+  "primaryReading": "えっけん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Overstep One's Authority",
+    "Overstepping One's Authority"
+  ],
+  "otherReadings": [],
+  "wkSlug": "越権",
+  "related": {
+    "radicals": [
+      124,
+      263,
+      23,
+      72,
+      240
+    ],
+    "kanjis": [
+      1437,
+      1134
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えっけん",
+      "url": "https://files.wanikani.com/21ayy6ujqbfm8dzzj53imrgl4pem"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 4490,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "寝不足"
+  },
+  "primaryMeaning": "Lack Of Sleep",
+  "meaningMnemonic": "Remember how 不足 is a physical shortage? Well, now you have a physical shortage of <kanji>sleep</kanji>. That's a <vocabulary>lack of sleep</vocabulary>.",
+  "primaryReading": "ねぶそく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. However, the first kanji 寝 actually uses its kun'yomi ね. 不足 is on'yomi as you'd expect, but the ふ in 不 changes to ぶ, so hopefully you've been getting enough sleep.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "寝不足",
+  "related": {
+    "radicals": [
+      78,
+      8826,
+      105,
+      76,
+      30,
+      96,
+      95
+    ],
+    "kanjis": [
+      1160,
+      563,
+      561
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねぶそく",
+      "url": "https://files.wanikani.com/l1a13zstlx9xfrc9nvkvs5to90c5"
+    }
+  ]
+}

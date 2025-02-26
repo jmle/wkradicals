@@ -1,0 +1,36 @@
+{
+  "id": 3748,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "変人"
+  },
+  "primaryMeaning": "An Eccentric",
+  "meaningMnemonic": "A <kanji>strange</kanji> <kanji>person</kanji> is <vocabulary>an eccentric</vocabulary>. They are also an <vocabulary>oddball</vocabulary>.",
+  "primaryReading": "へんじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Eccentric",
+    "Oddball"
+  ],
+  "otherReadings": [],
+  "wkSlug": "変人",
+  "related": {
+    "radicals": [
+      9329,
+      60,
+      9
+    ],
+    "kanjis": [
+      944,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へんじん",
+      "url": "https://files.wanikani.com/nb7aqtk9qf7chmt5i7vyvaqgy3uz"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 4196,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "仏教徒"
+  },
+  "primaryMeaning": "Buddhist",
+  "meaningMnemonic": "You know 仏教 means “Buddhism” so a <kanji>follower</kanji> of Buddhism is a <vocabulary>Buddhist</vocabulary>.",
+  "primaryReading": "ぶっきょうと",
+  "readingMnemonic": "Add the on’yomi reading for 徒 to the word you already know. Done!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "仏教徒",
+  "related": {
+    "radicals": [
+      75,
+      140,
+      418,
+      60,
+      99,
+      124
+    ],
+    "kanjis": [
+      956,
+      668,
+      1080
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶっきょうと",
+      "url": "https://files.wanikani.com/6ac3m6t0k36sh89hqfspzbvdbaht"
+    }
+  ]
+}

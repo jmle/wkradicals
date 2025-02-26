@@ -1,0 +1,33 @@
+{
+  "id": 9150,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "内ポケット"
+  },
+  "primaryMeaning": "Inside Pocket",
+  "meaningMnemonic": "Your <kanji>inside</kanji> ポケット is your <vocabulary>inside pocket</vocabulary>.",
+  "primaryReading": "うちぽけっと",
+  "readingMnemonic": "This word uses the kun'yomi for the kanji. You learned that reading when you learned the word 内.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "うちポケット"
+  ],
+  "wkSlug": "内ポケット",
+  "related": {
+    "radicals": [
+      29,
+      9
+    ],
+    "kanjis": [
+      500
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うちぽけっと",
+      "url": "https://files.wanikani.com/ndgeahso4dt6ddu1arhjgwsgwwab"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7965,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "過剰"
+  },
+  "primaryMeaning": "Excess",
+  "meaningMnemonic": "If you <kanji>surpass</kanji> your <kanji>surplus</kanji> then you have lots of <vocabulary>excess</vocabulary> stuff.",
+  "primaryReading": "かじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Over"
+  ],
+  "otherReadings": [],
+  "wkSlug": "過剰",
+  "related": {
+    "radicals": [
+      114,
+      121,
+      135,
+      16,
+      128
+    ],
+    "kanjis": [
+      1158,
+      2204
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かじょう",
+      "url": "https://files.wanikani.com/7s1wb4xrfn6hg01qtings7s2o515"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8867,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "諦める"
+  },
+  "primaryMeaning": "To Give Up",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>give up</kanji> or <kanji>abandon</kanji> so the verb version is <vocabulary>to give up</vocabulary> or <vocabulary>to abandon</vocabulary>.",
+  "primaryReading": "あきらめる",
+  "readingMnemonic": "You hopefully learned this reading with the kanji, but here's a reminder just in case:\n\nJust before you're ready <vocabulary>to give up</vocabulary> on something, you yell, \"<reading>AKIRA</reading> (あきら)!\". You don't know anyone named Akira, you just saw it in a movie once and it made sense, you know? So now when you've tried really hard on something, but you have to abandon it anyway, you shout AKIRA into the sky. I just did it while trying to write this mnemonic!",
+  "otherMeanings": [
+    "To Abandon"
+  ],
+  "otherReadings": [],
+  "wkSlug": "諦める",
+  "related": {
+    "radicals": [
+      117,
+      55,
+      102
+    ],
+    "kanjis": [
+      8859
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あきらめる",
+      "url": "https://files.wanikani.com/r0us78wky3cxfqy7g6w3qldzyyto"
+    }
+  ]
+}

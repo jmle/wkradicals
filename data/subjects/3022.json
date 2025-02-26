@@ -1,0 +1,34 @@
+{
+  "id": 3022,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "究明"
+  },
+  "primaryMeaning": "Investigation",
+  "meaningMnemonic": "<kanji>Research</kanji> is the process of <kanji>brighten</kanji>ing a subject area, akin to conducting an <vocabulary>investigation</vocabulary> that illuminates the unknown.\n\nThis is a word often found in academic and scientific contexts, encompassing the act of conducting a thorough investigation or ascertaining facts.",
+  "primaryReading": "きゅうめい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "究明",
+  "related": {
+    "radicals": [
+      170,
+      11,
+      22,
+      43
+    ],
+    "kanjis": [
+      688,
+      626
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうめい",
+      "url": "https://files.wanikani.com/mcypo9hjnc5b65w4x95qkc7uuj3m"
+    }
+  ]
+}

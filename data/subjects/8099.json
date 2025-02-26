@@ -1,0 +1,37 @@
+{
+  "id": 8099,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "愚痴"
+  },
+  "primaryMeaning": "Idle Complaint",
+  "meaningMnemonic": "A <kanji>foolish</kanji> and <kanji>stupid</kanji> person will make lots of <vocabulary>idle complaint</vocabulary>s. You really don't like being around them because they <vocabulary>grumble</vocabulary> about how nothing is good enough all the time. But they really just don't get it.",
+  "primaryReading": "ぐち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Grumble"
+  ],
+  "otherReadings": [],
+  "wkSlug": "愚痴",
+  "related": {
+    "radicals": [
+      410,
+      65,
+      187,
+      72,
+      16
+    ],
+    "kanjis": [
+      2239,
+      2250
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぐち",
+      "url": "https://files.wanikani.com/573muw1jatz95f8e4x1s33ub1a81"
+    }
+  ]
+}

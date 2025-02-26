@@ -1,0 +1,36 @@
+{
+  "id": 3381,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "植物"
+  },
+  "primaryMeaning": "Plant",
+  "meaningMnemonic": "<kanji>Plant</kanji> <kanji>things</kanji> are <vocabulary>plants</vocabulary> or <vocabulary>vegetation</vocabulary>.",
+  "primaryReading": "しょくぶつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji.",
+  "otherMeanings": [
+    "Vegetation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "植物",
+  "related": {
+    "radicals": [
+      23,
+      8821,
+      126,
+      173
+    ],
+    "kanjis": [
+      840,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょくぶつ",
+      "url": "https://files.wanikani.com/rlv2s048fd56kiq8ottwojyuu86c"
+    }
+  ]
+}

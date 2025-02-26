@@ -1,0 +1,33 @@
+{
+  "id": 6267,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "雇う"
+  },
+  "primaryMeaning": "To Employ",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>employ</kanji> so the verb vocab version is <vocabulary>to employ</vocabulary>.",
+  "primaryReading": "やとう",
+  "readingMnemonic": "You are going <vocabulary>to employ</vocabulary> more people to your business so you can make more money and eventually buy a <reading>yacht</reading> (やと). That's the dream life, it is.",
+  "otherMeanings": [
+    "To Hire"
+  ],
+  "otherReadings": [],
+  "wkSlug": "雇う",
+  "related": {
+    "radicals": [
+      240,
+      73
+    ],
+    "kanjis": [
+      1713
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やとう",
+      "url": "https://files.wanikani.com/fm0ezankun1jnfiaevu5ofmyj6oi"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3810,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "仏典"
+  },
+  "primaryMeaning": "Buddhist Scriptures",
+  "meaningMnemonic": "<kanji>Buddha</kanji> transcribed all of the <kanji>rule</kanji>s of Buddhism in the <vocabulary>Buddhist Scriptures</vocabulary> and <vocabulary>Buddhist Writing</vocabulary>s.",
+  "primaryReading": "ぶってん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note that ぶつ gets shortened to ぶっ.",
+  "otherMeanings": [
+    "Buddhist Writing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "仏典",
+  "related": {
+    "radicals": [
+      75,
+      140,
+      185,
+      2
+    ],
+    "kanjis": [
+      956,
+      975
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶってん",
+      "url": "https://files.wanikani.com/bkn32zniq1jsy7pcfo2ib5diej5g"
+    }
+  ]
+}

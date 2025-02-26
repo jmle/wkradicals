@@ -1,0 +1,31 @@
+{
+  "id": 2956,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "弱い"
+  },
+  "primaryMeaning": "Weak",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>weak</kanji>? It's also <vocabulary>weak</vocabulary>.",
+  "primaryReading": "よわい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou just got beaten up because you're <vocabulary>weak</vocabulary>. Then the bully asks you: \"<reading>Yo! Why</reading> (よわ) you so weak?\"",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "弱い",
+  "related": {
+    "radicals": [
+      36,
+      123
+    ],
+    "kanjis": [
+      661
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よわい",
+      "url": "https://files.wanikani.com/4c4rk76axpf41a6lnsd85lqbeaav"
+    }
+  ]
+}

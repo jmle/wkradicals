@@ -1,0 +1,36 @@
+{
+  "id": 7077,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "大佐"
+  },
+  "primaryMeaning": "Colonel",
+  "meaningMnemonic": "A <kanji>big</kanji> <kanji>help</kanji> is a <vocabulary>colonel</vocabulary> or <vocabulary>navy captain</vocabulary>. They go around the seas, helping people in need by fighting the bad guys.",
+  "primaryReading": "たいさ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Navy Captain"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大佐",
+  "related": {
+    "radicals": [
+      18,
+      75,
+      26,
+      25
+    ],
+    "kanjis": [
+      453,
+      1985
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいさ",
+      "url": "https://files.wanikani.com/zdmewy3ndx5ogeyzxg78gsghldmb"
+    }
+  ]
+}

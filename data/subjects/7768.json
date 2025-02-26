@@ -1,0 +1,37 @@
+{
+  "id": 7768,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "万年筆"
+  },
+  "primaryMeaning": "Fountain Pen",
+  "meaningMnemonic": "The only kind of <kanji>writing brush</kanji> you can use for <kanji>ten thousand</kanji> <kanji>year</kanji>s is a <vocabulary>fountain pen</vocabulary>! All other pens run out of ink and then you're out of luck. But fountain pens can be refilled, making them work for pretty much exactly ten thousand years.  ",
+  "primaryReading": "まんねんひつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "万年筆",
+  "related": {
+    "radicals": [
+      8763,
+      24,
+      8762,
+      126,
+      85,
+      220
+    ],
+    "kanjis": [
+      495,
+      546,
+      1288
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まんねんひつ",
+      "url": "https://files.wanikani.com/kpi4t09drilppionogg0175sljpv"
+    }
+  ]
+}

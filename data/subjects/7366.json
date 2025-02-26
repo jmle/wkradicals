@@ -1,0 +1,35 @@
+{
+  "id": 7366,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "巧い"
+  },
+  "primaryMeaning": "Adept",
+  "meaningMnemonic": "You're so <kanji>adept</kanji>! That makes you <vocabulary>adept</vocabulary> at that thing. <vocabulary>Skillful</vocabulary> and <vocabulary>clever</vocabulary> are other ways to do it too.",
+  "primaryReading": "うまい",
+  "readingMnemonic": "Remember 旨い, which means \"delicious\"? Remember how it also means \"skillful\" and \"clever\"? It's the same with this word, and the reading is the same as well.",
+  "otherMeanings": [
+    "Skillful",
+    "Clever"
+  ],
+  "otherReadings": [],
+  "wkSlug": "巧い",
+  "related": {
+    "radicals": [
+      25,
+      1,
+      14
+    ],
+    "kanjis": [
+      2085
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うまい",
+      "url": "https://files.wanikani.com/zyv6tax5au7g95yuqbqocyq93yv8"
+    }
+  ]
+}

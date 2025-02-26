@@ -1,0 +1,38 @@
+{
+  "id": 6970,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "平穏"
+  },
+  "primaryMeaning": "Calm",
+  "meaningMnemonic": "A <kanji>flat</kanji> <kanji>calm</kanji> is a <vocabulary>calm</vocabulary> and <vocabulary>tranquil</vocabulary> place.",
+  "primaryReading": "へいおん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Tranquil"
+  ],
+  "otherReadings": [],
+  "wkSlug": "平穏",
+  "related": {
+    "radicals": [
+      61,
+      8767,
+      135,
+      8772,
+      105,
+      65
+    ],
+    "kanjis": [
+      535,
+      1943
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へいおん",
+      "url": "https://files.wanikani.com/nams9ujwahoa3c5bbf25fyhzzvz1"
+    }
+  ]
+}

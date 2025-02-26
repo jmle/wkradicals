@@ -1,0 +1,34 @@
+{
+  "id": 3922,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "妥協する"
+  },
+  "primaryMeaning": "To Compromise",
+  "meaningMnemonic": "You know that 妥協 means <kanji>compromise</kanji>. So, what happens when you make it a verb? It becomes <vocabulary>to compromise</vocabulary>.",
+  "primaryReading": "だきょうする",
+  "readingMnemonic": "The reading is the same as the vocab word 妥協, so if you know that you should be good (also, just the reading of the kanji works too).",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "妥協する",
+  "related": {
+    "radicals": [
+      8772,
+      19,
+      15,
+      13
+    ],
+    "kanjis": [
+      925,
+      898
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だきょうする",
+      "url": "https://files.wanikani.com/vnpxfqovdzv0rjvg5pys2sa5go4h"
+    }
+  ]
+}

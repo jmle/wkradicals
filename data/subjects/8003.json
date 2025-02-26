@@ -1,0 +1,36 @@
+{
+  "id": 8003,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "洗浄"
+  },
+  "primaryMeaning": "Washing",
+  "meaningMnemonic": "You <kanji>wash</kanji> something to <kanji>cleanse</kanji> it by doing the <vocabulary>washing</vocabulary> and <vocabulary>cleaning</vocabulary>. You have to do the washing if you really want to get all the dirt out and make your things clean.",
+  "primaryReading": "せんじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cleaning",
+    "Laundering"
+  ],
+  "otherReadings": [],
+  "wkSlug": "洗浄",
+  "related": {
+    "radicals": [
+      103,
+      258,
+      261
+    ],
+    "kanjis": [
+      1043,
+      2192
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんじょう",
+      "url": "https://files.wanikani.com/0jyx2cp0eb4e7mgfog3bcjq3nz7o"
+    }
+  ]
+}

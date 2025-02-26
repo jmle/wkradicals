@@ -1,0 +1,37 @@
+{
+  "id": 8468,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "不朽"
+  },
+  "primaryMeaning": "Immortal",
+  "meaningMnemonic": "If it does <kanji>not</kanji> <kanji>rot</kanji> then it's <vocabulary>immortal</vocabulary>. It will live forever!",
+  "primaryReading": "ふきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Everlasting",
+    "Eternal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不朽",
+  "related": {
+    "radicals": [
+      96,
+      23,
+      1,
+      14
+    ],
+    "kanjis": [
+      563,
+      2375
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふきゅう",
+      "url": "https://files.wanikani.com/u68n5bdykgxjjz6xv6f504y3jrxg"
+    }
+  ]
+}

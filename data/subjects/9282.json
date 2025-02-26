@@ -1,0 +1,36 @@
+{
+  "id": 9282,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "十分"
+  },
+  "primaryMeaning": "Enough",
+  "meaningMnemonic": "You have <kanji>ten</kanji> <kanji>part</kanji>s out of ten. Which means you have quite <vocabulary>enough</vocabulary>. The amount you have is <vocabulary>sufficient</vocabulary> and <vocabulary>plenty</vocabulary>.",
+  "primaryReading": "じゅうぶん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Sufficient",
+    "Plenty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "十分",
+  "related": {
+    "radicals": [
+      15,
+      2,
+      24
+    ],
+    "kanjis": [
+      448,
+      501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうぶん",
+      "url": "https://files.wanikani.com/5wv8svu5lgpdgx2oat21il63z6vy"
+    }
+  ]
+}

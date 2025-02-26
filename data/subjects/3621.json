@@ -1,0 +1,33 @@
+{
+  "id": 3621,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "詩人"
+  },
+  "primaryMeaning": "Poet",
+  "meaningMnemonic": "A <kanji>poem</kanji> <kanji>person</kanji> is a <vocabulary>poet</vocabulary>.",
+  "primaryReading": "しじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "詩人",
+  "related": {
+    "radicals": [
+      117,
+      192,
+      9
+    ],
+    "kanjis": [
+      870,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しじん",
+      "url": "https://files.wanikani.com/heel34t5bfjkzq6fug2thfe7w52b"
+    }
+  ]
+}

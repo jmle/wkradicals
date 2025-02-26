@@ -1,0 +1,38 @@
+{
+  "id": 7795,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "慈善"
+  },
+  "primaryMeaning": "Charity",
+  "meaningMnemonic": "A <kanji>morally good</kanji> person who has <kanji>mercy</kanji> upon people gives to <vocabulary>charity</vocabulary>. These people prove they're good by mercifully giving all their money away to the poor and needy.",
+  "primaryReading": "じぜん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Philanthropy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "慈善",
+  "related": {
+    "radicals": [
+      8767,
+      1,
+      87,
+      65,
+      136,
+      16
+    ],
+    "kanjis": [
+      2148,
+      1085
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じぜん",
+      "url": "https://files.wanikani.com/8na5lxp12jja99mwaxbm2z90knde"
+    }
+  ]
+}

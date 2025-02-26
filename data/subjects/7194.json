@@ -1,0 +1,35 @@
+{
+  "id": 7194,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "騎兵"
+  },
+  "primaryMeaning": "Cavalry",
+  "meaningMnemonic": "A <kanji>horse riding</kanji> <kanji>soldier</kanji> is a member of the <vocabulary>cavalry</vocabulary>.",
+  "primaryReading": "きへい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "騎兵",
+  "related": {
+    "radicals": [
+      165,
+      326,
+      115,
+      1,
+      2
+    ],
+    "kanjis": [
+      2025,
+      1000
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きへい",
+      "url": "https://files.wanikani.com/w0qn00uyvgbsz03as7ym95tk9mez"
+    }
+  ]
+}

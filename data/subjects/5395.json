@@ -1,0 +1,37 @@
+{
+  "id": 5395,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "招き猫"
+  },
+  "primaryMeaning": "Beckoning Cat",
+  "meaningMnemonic": "A <kanji>beckoning</kanji> <kanji>cat</kanji> is a <vocabulary>beckoning cat</vocabulary> or <vocabulary>maneki neko</vocabulary>. \n\n招き猫 are the cat statues believed to bring good luck and fortune to their owners. They're often placed in front of shops with one paw raised, as if beckoning and saying, \"Hey, come on in!\"",
+  "primaryReading": "まねきねこ",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji, which you know already!",
+  "otherMeanings": [
+    "Maneki Neko"
+  ],
+  "otherReadings": [],
+  "wkSlug": "招き猫",
+  "related": {
+    "radicals": [
+      63,
+      331,
+      144,
+      90,
+      51
+    ],
+    "kanjis": [
+      1314,
+      959
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まねきねこ",
+      "url": "https://files.wanikani.com/erzojgqwtaqv2so4cmj4l8jjr0mk"
+    }
+  ]
+}

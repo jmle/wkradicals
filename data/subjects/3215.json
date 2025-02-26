@@ -1,0 +1,31 @@
+{
+  "id": 3215,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "読む"
+  },
+  "primaryMeaning": "To Read",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>read</kanji> so the verb vocab version is <vocabulary>to read</vocabulary>.",
+  "primaryReading": "よむ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Go read something else, now.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "読む",
+  "related": {
+    "radicals": [
+      117,
+      439
+    ],
+    "kanjis": [
+      765
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よむ",
+      "url": "https://files.wanikani.com/3vh5r44dqqkb1iqv1bqrak1x3hki"
+    }
+  ]
+}

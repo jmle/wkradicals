@@ -1,0 +1,37 @@
+{
+  "id": 2853,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "両方"
+  },
+  "primaryMeaning": "Both",
+  "meaningMnemonic": "Here you have <kanji>both</kanji> <kanji>direction</kanji>s / <kanji>way</kanji>s. Every time you have to choose between something it's like having to choose between two ways. That's why this word is simply <vocabulary>both</vocabulary>. \n\nClose to the kanji is the meaning <vocabulary>both sides</vocabulary>, as well. Learn either for 両方, they're pretty similar.",
+  "primaryReading": "りょうほう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Both Sides",
+    "Both Ways"
+  ],
+  "otherReadings": [],
+  "wkSlug": "両方",
+  "related": {
+    "radicals": [
+      1,
+      29,
+      20,
+      66
+    ],
+    "kanjis": [
+      609,
+      510
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょうほう",
+      "url": "https://files.wanikani.com/1qy0qly764p2rqo78a17p5b1lcey"
+    }
+  ]
+}

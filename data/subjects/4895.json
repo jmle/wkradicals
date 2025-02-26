@@ -1,0 +1,35 @@
+{
+  "id": 4895,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "刺す"
+  },
+  "primaryMeaning": "To Stab",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. \n\nThe kanji itself means <kanji>stab</kanji> so the verb vocab version is <vocabulary>to stab</vocabulary>.\n\nThis is a transitive verb, meaning that you are the one doing the stabbing... should I be afraid of you? 😅",
+  "primaryReading": "さす",
+  "readingMnemonic": "The reading you learned for this kanji is the kun'yomi one. Since this vocab word is made up of a single kanji, it uses the kun'yomi reading. Guess what? That means you already know it!\n\nBut in case you've already forgot the reading, here's a mnemonic to refresh your memory:\n\nIf you're going <vocabulary>to stab</vocabulary> someone, use a <reading>saw</reading> (さ). It may seem more difficult to stab them with a saw at first, but when you see the damage, plus how hard it is to get back out, you'll realize saws are the ideal stabbing tool.",
+  "otherMeanings": [
+    "To Pierce",
+    "To Sting"
+  ],
+  "otherReadings": [],
+  "wkSlug": "刺す",
+  "related": {
+    "radicals": [
+      23,
+      29,
+      128
+    ],
+    "kanjis": [
+      1296
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さす",
+      "url": "https://files.wanikani.com/s83ld66kpeqn04cwsht29r92cpt8"
+    }
+  ]
+}

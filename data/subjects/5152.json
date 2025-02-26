@@ -1,0 +1,33 @@
+{
+  "id": 5152,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "回復する"
+  },
+  "primaryMeaning": "To Recover",
+  "meaningMnemonic": "回復 is <kanji>recovery</kanji>. Make it into a verb and you have <vocabulary>to recover</vocabulary>.",
+  "primaryReading": "かいふくする",
+  "readingMnemonic": "The reading comes from 回復, but you can also figure it out via the readings of the kanji as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "回復する",
+  "related": {
+    "radicals": [
+      16,
+      99,
+      265
+    ],
+    "kanjis": [
+      569,
+      1285
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいふくする",
+      "url": "https://files.wanikani.com/lqvym0pdjenyr84kifhggq4xlpmg"
+    }
+  ]
+}

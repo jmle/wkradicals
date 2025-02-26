@@ -1,0 +1,34 @@
+{
+  "id": 6336,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "鋼材"
+  },
+  "primaryMeaning": "Steel Material",
+  "meaningMnemonic": "<kanji>Steel</kanji> <kanji>material</kanji> is <vocabulary>steel material</vocabulary>. Boom!",
+  "primaryReading": "こうざい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鋼材",
+  "related": {
+    "radicals": [
+      118,
+      376,
+      23,
+      264
+    ],
+    "kanjis": [
+      1741,
+      909
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうざい",
+      "url": "https://files.wanikani.com/efde09k02s1qkaihwchdmqmaquil"
+    }
+  ]
+}

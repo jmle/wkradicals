@@ -1,0 +1,36 @@
+{
+  "id": 3303,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "中級"
+  },
+  "primaryMeaning": "Intermediate Level",
+  "meaningMnemonic": "Something at the <kanji>middle</kanji> <kanji>level</kanji> or <kanji>grade</kanji> is at an <vocabulary>intermediate level</vocabulary>.",
+  "primaryReading": "ちゅうきゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Intermediate Rank",
+    "Intermediate Grade"
+  ],
+  "otherReadings": [],
+  "wkSlug": "中級",
+  "related": {
+    "radicals": [
+      49,
+      86,
+      193
+    ],
+    "kanjis": [
+      469,
+      801
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうきゅう",
+      "url": "https://files.wanikani.com/qmkf5w6znu2hu6n5d9ib7fp5kykr"
+    }
+  ]
+}

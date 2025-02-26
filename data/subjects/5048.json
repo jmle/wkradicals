@@ -1,0 +1,36 @@
+{
+  "id": 5048,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "段々"
+  },
+  "primaryMeaning": "Gradually",
+  "meaningMnemonic": "<kanji>Step</kanji> by <kanji>step</kanji>. If you take things step by step, you're moving up <vocabulary>gradually</vocabulary>, taking <vocabulary>steps</vocabulary>.\n\n段々 is often used to describe gradual progress. But sometimes you'll see it used for terraced fields or buildings too, since they sorta resemble steps!",
+  "primaryReading": "だんだん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Steps"
+  ],
+  "otherReadings": [],
+  "wkSlug": "段々",
+  "related": {
+    "radicals": [
+      8792,
+      160,
+      14,
+      3
+    ],
+    "kanjis": [
+      1315,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だんだん",
+      "url": "https://files.wanikani.com/wlkaudxi33q7blb0vujihyrcanwo"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 4847,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "気温"
+  },
+  "primaryMeaning": "Temperature",
+  "meaningMnemonic": "The <kanji>energy</kanji> of the <kanji>warm</kanji>th will cause the <vocabulary>temperature</vocabulary> to go up and down. Energy goes up? Higher temperature because of more movement and activity. Energy goes down? Well, temperature gets colder and slower.",
+  "primaryReading": "きおん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Air Temperature"
+  ],
+  "otherReadings": [],
+  "wkSlug": "気温",
+  "related": {
+    "radicals": [
+      82,
+      31,
+      103,
+      22,
+      84
+    ],
+    "kanjis": [
+      548,
+      842
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きおん",
+      "url": "https://files.wanikani.com/za4setcr7erucmcnzpxnd44mvq9f"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3631,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "銀"
+  },
+  "primaryMeaning": "Silver",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ぎん",
+  "readingMnemonic": "The reading is the same as the kanji. ",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "銀",
+  "related": {
+    "radicals": [
+      118,
+      196
+    ],
+    "kanjis": [
+      871
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎん",
+      "url": "https://files.wanikani.com/nqf2hiumvivt5n76muhcdimsq9pg"
+    }
+  ]
+}

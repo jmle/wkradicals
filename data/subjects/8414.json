@@ -1,0 +1,35 @@
+{
+  "id": 8414,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "一遍"
+  },
+  "primaryMeaning": "Once",
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>universal</kanji> event can only happen <vocabulary>once</vocabulary>. It's too rare to happen more than that.",
+  "primaryReading": "いっぺん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just watch out because へん becomes ぺん here.",
+  "otherMeanings": [
+    "One Time"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一遍",
+  "related": {
+    "radicals": [
+      1,
+      114,
+      338
+    ],
+    "kanjis": [
+      440,
+      2345
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いっぺん",
+      "url": "https://files.wanikani.com/ejxbu9ladlcoxqmi1qwd0duv54zd"
+    }
+  ]
+}

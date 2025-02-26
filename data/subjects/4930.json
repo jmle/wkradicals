@@ -1,0 +1,36 @@
+{
+  "id": 4930,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "直接"
+  },
+  "primaryMeaning": "Direct",
+  "meaningMnemonic": "I'm going to <kanji>direct</kanji> and <kanji>adjoin</kanji> the routes together. No more multiple stops. This is <vocabulary>direct</vocabulary>.",
+  "primaryReading": "ちょくせつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "直接",
+  "related": {
+    "radicals": [
+      56,
+      15,
+      53,
+      63,
+      55,
+      19
+    ],
+    "kanjis": [
+      630,
+      1311
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょくせつ",
+      "url": "https://files.wanikani.com/4kjjgm29pn2u8i5u9fmtdyx0jm65"
+    }
+  ]
+}

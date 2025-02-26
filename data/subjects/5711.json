@@ -1,0 +1,34 @@
+{
+  "id": 5711,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "乾かす"
+  },
+  "primaryMeaning": "To Dry Something",
+  "meaningMnemonic": "乾く is \"to be dried.\" This is the version where you're doing the drying, making this <vocabulary>to dry something</vocabulary>.",
+  "primaryReading": "かわかす",
+  "readingMnemonic": "The reading comes from 乾く.",
+  "otherMeanings": [
+    "To Dry"
+  ],
+  "otherReadings": [],
+  "wkSlug": "乾かす",
+  "related": {
+    "radicals": [
+      8793,
+      8762,
+      324
+    ],
+    "kanjis": [
+      1381
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かわかす",
+      "url": "https://files.wanikani.com/n2nw7o2y8owpe25yhjinoi4v6bue"
+    }
+  ]
+}

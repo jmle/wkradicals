@@ -1,0 +1,33 @@
+{
+  "id": 7517,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "人々"
+  },
+  "primaryMeaning": "People",
+  "meaningMnemonic": "<kanji>Person</kanji> <kanji>person</kanji>, why, that's more than one person. It's <vocabulary>people</vocabulary>!",
+  "primaryReading": "ひとびと",
+  "readingMnemonic": "The reading is the vocab word 人 twice, with the second one getting rendaku'd, turning it into びと.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "人々",
+  "related": {
+    "radicals": [
+      9,
+      14,
+      3
+    ],
+    "kanjis": [
+      444,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひとびと",
+      "url": "https://files.wanikani.com/gk0o2fnaymrdbrf0tvh76npj3efj"
+    }
+  ]
+}

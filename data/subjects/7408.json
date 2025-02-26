@@ -1,0 +1,34 @@
+{
+  "id": 7408,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "伯"
+  },
+  "primaryMeaning": "Chief",
+  "meaningMnemonic": "The <kanji>chief</kanji> of this district is that guy, the <vocabulary>count</vocabulary>. He's also the <vocabulary>earl</vocabulary> of another district, and the <vocabulary>chief</vocabulary> of yet another.",
+  "primaryReading": "はく",
+  "readingMnemonic": "The reading is the はく reading you learned with the kanji.",
+  "otherMeanings": [
+    "Count",
+    "Earl"
+  ],
+  "otherReadings": [],
+  "wkSlug": "伯",
+  "related": {
+    "radicals": [
+      75,
+      52
+    ],
+    "kanjis": [
+      2108
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はく",
+      "url": "https://files.wanikani.com/32s0msjsons4rw7g1mpkth9kfbk4"
+    }
+  ]
+}

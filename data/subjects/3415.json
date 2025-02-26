@@ -1,0 +1,37 @@
+{
+  "id": 3415,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "冬休み"
+  },
+  "primaryMeaning": "Winter Holiday",
+  "meaningMnemonic": "The <kanji>winter</kanji> <kanji>rest</kanji>! Wait, nobody calls it that. This is a <vocabulary>winter holiday</vocabulary> or <vocabulary>winter break</vocabulary>.",
+  "primaryReading": "ふゆやすみ",
+  "readingMnemonic": "The readings for these are both the kun'yomi readings. Hopefully you learned them when you were doing vocab in the previous levels so that all you have to do now is combine the two separate words into one bigger word. Please don't take a winter break until you figure this word out.",
+  "otherMeanings": [
+    "Winter Break",
+    "Winter Vacation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "冬休み",
+  "related": {
+    "radicals": [
+      60,
+      123,
+      75,
+      23
+    ],
+    "kanjis": [
+      516,
+      542
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふゆやすみ",
+      "url": "https://files.wanikani.com/jjjeoiy6o2nayddrnhfpxcaddyre"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 4157,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "平静"
+  },
+  "primaryMeaning": "Calm",
+  "meaningMnemonic": "A place that is <kanji>peace</kanji> and <kanji>quiet</kanji> is a very <vocabulary>calm</vocabulary> and <vocabulary>serene</vocabulary> place. Ahh, so nice!",
+  "primaryReading": "へいせい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Serene",
+    "Tranquil"
+  ],
+  "otherReadings": [],
+  "wkSlug": "平静",
+  "related": {
+    "radicals": [
+      61,
+      8767,
+      120,
+      261
+    ],
+    "kanjis": [
+      535,
+      1052
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へいせい",
+      "url": "https://files.wanikani.com/4pf5jcwua20fh48lfub08r318wbr"
+    }
+  ]
+}

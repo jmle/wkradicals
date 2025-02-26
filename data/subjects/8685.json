@@ -1,0 +1,34 @@
+{
+  "id": 8685,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "程よく"
+  },
+  "primaryMeaning": "Properly",
+  "meaningMnemonic": "If the <kanji>extent</kanji> you go to do something is properly (よく) done, then you did it <vocabulary>properly</vocabulary> and <vocabulary>well</vocabulary>!",
+  "primaryReading": "ほどよく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You learned this reading already! Nice!",
+  "otherMeanings": [
+    "Well"
+  ],
+  "otherReadings": [],
+  "wkSlug": "程よく",
+  "related": {
+    "radicals": [
+      135,
+      16,
+      48
+    ],
+    "kanjis": [
+      1369
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほどよく",
+      "url": "https://files.wanikani.com/3mv08bk692actoy8sskreal9rniv"
+    }
+  ]
+}

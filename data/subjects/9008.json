@@ -1,0 +1,31 @@
+{
+  "id": 9008,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "苛む"
+  },
+  "primaryMeaning": "To Torment",
+  "meaningMnemonic": "As usual, you can guess this is a verb thanks to the う sound on the end. The kanji means <kanji>frustration</kanji>, and unfortunately frustration tends <vocabulary>to torment</vocabulary> people. This verb is pretty advanced, but still useful to know!",
+  "primaryReading": "さいなむ",
+  "readingMnemonic": "We all know it's not okay to <vocabulary>to torment</vocabulary> each other. So how about we all <reading>sign a</reading> (さいな) contract saying that we'll never torment anyone ever again?",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "苛む",
+  "related": {
+    "radicals": [
+      90,
+      113
+    ],
+    "kanjis": [
+      8990
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいなむ",
+      "url": "https://files.wanikani.com/51iy9448hbx2cddt5ile95y5ert6"
+    }
+  ]
+}

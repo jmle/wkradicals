@@ -1,0 +1,28 @@
+{
+  "id": 385,
+  "type": "radical",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "骨"
+  },
+  "primaryMeaning": "Bone",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>bone</radical>.",
+  "wkSlug": "bone",
+  "related": {
+    "kanjis": [
+      1825,
+      2271
+    ],
+    "vocabularies": [
+      6618,
+      6619,
+      6764,
+      8249,
+      8250,
+      8251,
+      8252
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2701,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "見方"
+  },
+  "primaryMeaning": "Way Of Seeing",
+  "meaningMnemonic": "The <kanji>way</kanji> you <kanji>see</kanji> is the <vocabulary>way of seeing</vocabulary> something. This is like when someone has a dumb opinion and you're like \"oh, okay, so that's one way of seeing it...\"",
+  "primaryReading": "みかた",
+  "readingMnemonic": "This uses the kun'yomi readings from the vocab words 見る and 方. So as long as you're okay with those, you can apply that knowledge over here.",
+  "otherMeanings": [
+    "Point Of View",
+    "Perspective",
+    "Viewpoint"
+  ],
+  "otherReadings": [],
+  "wkSlug": "見方",
+  "related": {
+    "radicals": [
+      91,
+      66
+    ],
+    "kanjis": [
+      558,
+      510
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みかた",
+      "url": "https://files.wanikani.com/3vuojpq4vgiex7h1nt0v1xga111d"
+    }
+  ]
+}

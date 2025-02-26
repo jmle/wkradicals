@@ -1,0 +1,46 @@
+{
+  "id": 7610,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "奥深い"
+  },
+  "primaryMeaning": "Profound",
+  "meaningMnemonic": "If your <kanji>interior</kanji> is <kanji>deep</kanji>, then you're a really <vocabulary>profound</vocabulary> person.",
+  "primaryReading": "おくぶかい",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned おく when you learned the kanji, and ふかい from 深い, so you should be able to read this on your own. Most of the time the ふ is rendaku'd into ぶ, but it can be read the other way too.",
+  "otherMeanings": [
+    "Deep"
+  ],
+  "otherReadings": [
+    "おくふかい"
+  ],
+  "wkSlug": "奥深い",
+  "related": {
+    "radicals": [
+      3,
+      29,
+      98,
+      18,
+      103,
+      76,
+      28,
+      23
+    ],
+    "kanjis": [
+      1689,
+      831
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おくぶかい",
+      "url": "https://files.wanikani.com/ai98lc0gpkefl3vhaoubbt9yww0t"
+    },
+    {
+      "reading": "おくふかい",
+      "url": "https://files.wanikani.com/mswtkcp4qi4yil1osn7qfwnm00ss"
+    }
+  ]
+}

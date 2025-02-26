@@ -1,0 +1,37 @@
+{
+  "id": 5663,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "皇族"
+  },
+  "primaryMeaning": "Imperial Family",
+  "meaningMnemonic": "The <kanji>emperor</kanji>'s <kanji>tribe</kanji> is his family. This family is known as the <vocabulary>imperial family</vocabulary>.",
+  "primaryReading": "こうぞく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Member Of The Imperial Family"
+  ],
+  "otherReadings": [],
+  "wkSlug": "皇族",
+  "related": {
+    "radicals": [
+      52,
+      48,
+      66,
+      8762,
+      72
+    ],
+    "kanjis": [
+      1531,
+      830
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうぞく",
+      "url": "https://files.wanikani.com/uuai7dlb7tat84661btcbmaa4jp5"
+    }
+  ]
+}

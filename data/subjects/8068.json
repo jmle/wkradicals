@@ -1,0 +1,37 @@
+{
+  "id": 8068,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "王冠"
+  },
+  "primaryMeaning": "Crown",
+  "meaningMnemonic": "A <kanji>king</kanji>'s <kanji>cap</kanji> is his <vocabulary>crown</vocabulary>. It's a hat only he can wear.",
+  "primaryReading": "おうかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Diadem",
+    "Bottle Cap"
+  ],
+  "otherReadings": [],
+  "wkSlug": "王冠",
+  "related": {
+    "radicals": [
+      48,
+      76,
+      64,
+      74
+    ],
+    "kanjis": [
+      482,
+      2229
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おうかん",
+      "url": "https://files.wanikani.com/5ofvur26r7nq0lx80dx0cwmrkh2q"
+    }
+  ]
+}

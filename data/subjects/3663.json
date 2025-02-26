@@ -1,0 +1,35 @@
+{
+  "id": 3663,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "一周"
+  },
+  "primaryMeaning": "One Time Around",
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>circumference</kanji> is <vocabulary>one time around</vocabulary>, or in racetrack sports, <vocabulary>one lap</vocabulary>. How many times will you go around the moon? Just 一周?",
+  "primaryReading": "いっしゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Note that the いち becomes いっ as it often does when being used in a counter (一階, 一回, etc.).",
+  "otherMeanings": [
+    "Once Around",
+    "One Lap"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一周",
+  "related": {
+    "radicals": [
+      1,
+      169
+    ],
+    "kanjis": [
+      440,
+      900
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いっしゅう",
+      "url": "https://files.wanikani.com/khfhlpqwcscie6g2o4ik30blnv5w"
+    }
+  ]
+}

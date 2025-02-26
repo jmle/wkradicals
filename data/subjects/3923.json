@@ -1,0 +1,36 @@
+{
+  "id": 3923,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "妥協"
+  },
+  "primaryMeaning": "Compromise",
+  "meaningMnemonic": "When you have <kanji>gentle</kanji> <kanji>cooperation</kanji> nobody has their way. You're very gently coming towards the middle, coming to a <vocabulary>compromise</vocabulary>. (Whether you like it or not.)",
+  "primaryReading": "だきょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Giving In"
+  ],
+  "otherReadings": [],
+  "wkSlug": "妥協",
+  "related": {
+    "radicals": [
+      8772,
+      19,
+      15,
+      13
+    ],
+    "kanjis": [
+      925,
+      898
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だきょう",
+      "url": "https://files.wanikani.com/5d5ejovth5d45tul89u97176ng2b"
+    }
+  ]
+}

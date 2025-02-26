@@ -1,0 +1,39 @@
+{
+  "id": 5614,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "華々しい"
+  },
+  "primaryMeaning": "Gorgeous",
+  "meaningMnemonic": "華やか is \"showy.\" Now we're doubling it, making it doubly showy. If you make something showy enough, it becomes <vocabulary>gorgeous</vocabulary>, but it also becomes pretty <vocabulary>flamboyant</vocabulary>. So, so, so flamboyant.",
+  "primaryReading": "はなばなしい",
+  "readingMnemonic": "The reading comes from 華やか. Note the second はな becomes ばな, to be <reading>はなばな</reading>しい.",
+  "otherMeanings": [
+    "Flamboyant",
+    "Brilliant",
+    "Remarkable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "華々しい",
+  "related": {
+    "radicals": [
+      90,
+      51,
+      15,
+      14,
+      3
+    ],
+    "kanjis": [
+      1446,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はなばなしい",
+      "url": "https://files.wanikani.com/i8w1rimn7g357oo867jitmnk99ar"
+    }
+  ]
+}

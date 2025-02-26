@@ -1,0 +1,38 @@
+{
+  "id": 7230,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "遅咲き"
+  },
+  "primaryMeaning": "Late Flower",
+  "meaningMnemonic": "A <kanji>slow</kanji> <kanji>bloom</kanji> is a bloom that happens late. It's a <vocabulary>late flower</vocabulary> or <vocabulary>late blooming</vocabulary>. Important to know if you're going to go do 花見.",
+  "primaryReading": "おそざき",
+  "readingMnemonic": "The reading is 遅い and 咲く put together (the same reading you learned from the 咲 kanji). Watch out for the rendaku.",
+  "otherMeanings": [
+    "Late Blooming"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遅咲き",
+  "related": {
+    "radicals": [
+      114,
+      37,
+      136,
+      16,
+      8767,
+      40
+    ],
+    "kanjis": [
+      1579,
+      2038
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おそざき",
+      "url": "https://files.wanikani.com/w0394okslwplqun9sj9g2kfdnneo"
+    }
+  ]
+}

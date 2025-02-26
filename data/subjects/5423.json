@@ -1,0 +1,40 @@
+{
+  "id": 5423,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "編者"
+  },
+  "primaryMeaning": "Editor",
+  "meaningMnemonic": "A <kanji>knit</kanji> <kanji>someone</kanji> is one who knits words together and makes them better. This someone is an <vocabulary>editor</vocabulary>.",
+  "primaryReading": "へんしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "へんじゃ"
+  ],
+  "wkSlug": "編者",
+  "related": {
+    "radicals": [
+      86,
+      338,
+      104,
+      22
+    ],
+    "kanjis": [
+      1445,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へんじゃ",
+      "url": "https://files.wanikani.com/ul4uqd07w5takiq9dkkaab3mvyyo"
+    },
+    {
+      "reading": "へんしゃ",
+      "url": "https://files.wanikani.com/flgn7gsinoys0lfhdss1ts3l5esv"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2560,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "右手"
+  },
+  "primaryMeaning": "Right Hand",
+  "meaningMnemonic": "Your <kanji>right</kanji> <kanji>hand</kanji> is your <vocabulary>right hand</vocabulary>! This word can also be used to mean <vocabulary>right arm</vocabulary>, and <vocabulary>right-hand side</vocabulary>.",
+  "primaryReading": "みぎて",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. This word, however, uses the kun'yomi readings. This is possibly because of 手, because body parts often use kun'yomi. You learned both readings with the individual words, so you should be able to read this.",
+  "otherMeanings": [
+    "Right Arm",
+    "Right-Hand Side"
+  ],
+  "otherReadings": [],
+  "wkSlug": "右手",
+  "related": {
+    "radicals": [
+      26,
+      16,
+      41
+    ],
+    "kanjis": [
+      484,
+      474
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みぎて",
+      "url": "https://files.wanikani.com/75r91fxltgpu7964seg3pphtawko"
+    }
+  ]
+}

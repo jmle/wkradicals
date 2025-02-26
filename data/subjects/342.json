@@ -1,0 +1,24 @@
+{
+  "id": 342,
+  "type": "radical",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "夜"
+  },
+  "primaryMeaning": "Night",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>night</radical>.",
+  "wkSlug": "night",
+  "related": {
+    "kanjis": [
+      1487
+    ],
+    "vocabularies": [
+      5536,
+      5537,
+      5740,
+      7424
+    ]
+  }
+}

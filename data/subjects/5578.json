@@ -1,0 +1,36 @@
+{
+  "id": 5578,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "密会"
+  },
+  "primaryMeaning": "Secret Meeting",
+  "meaningMnemonic": "A <kanji>secrecy</kanji> <kanji>meet</kanji> is a <vocabulary>secret meeting</vocabulary>. You know the password?",
+  "primaryReading": "みっかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Note that みつ changes to みっ.",
+  "otherMeanings": [
+    "Clandestine Meeting"
+  ],
+  "otherReadings": [],
+  "wkSlug": "密会",
+  "related": {
+    "radicals": [
+      78,
+      343,
+      20,
+      155
+    ],
+    "kanjis": [
+      1505,
+      566
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みっかい",
+      "url": "https://files.wanikani.com/fpc239t3nxogo7devcm87k3zb4fk"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6668,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "趣味"
+  },
+  "primaryMeaning": "Hobby",
+  "meaningMnemonic": "If something's got <kanji>charm</kanji> and is to your <kanji>taste</kanji>, then it's your <vocabulary>hobby</vocabulary>. Hobbies are activities that you find charming and develop a taste for.\n",
+  "primaryReading": "しゅみ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "趣味",
+  "related": {
+    "radicals": [
+      124,
+      88,
+      30,
+      16,
+      134
+    ],
+    "kanjis": [
+      1842,
+      812
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅみ",
+      "url": "https://files.wanikani.com/uqumdt5u98hthhz4qrqnmer8dgak"
+    }
+  ]
+}

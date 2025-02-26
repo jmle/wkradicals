@@ -1,0 +1,39 @@
+{
+  "id": 5985,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "変換"
+  },
+  "primaryMeaning": "Conversion",
+  "meaningMnemonic": "If you <kanji>change</kanji> something then <kanji>exchange</kanji> it, you are making a <vocabulary>conversion</vocabulary> or a <vocabulary>change</vocabulary>.\n\n変換 generally refers to converting something from one form to another, like data conversion, energy transformation, or even converting hiragana to kanji.",
+  "primaryReading": "へんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Change"
+  ],
+  "otherReadings": [],
+  "wkSlug": "変換",
+  "related": {
+    "radicals": [
+      9329,
+      60,
+      63,
+      14,
+      16,
+      28,
+      18
+    ],
+    "kanjis": [
+      944,
+      1624
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へんかん",
+      "url": "https://files.wanikani.com/v2ctqexju1xlizl4y7rsnrw52cb9"
+    }
+  ]
+}

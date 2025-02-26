@@ -1,0 +1,35 @@
+{
+  "id": 4901,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "励ます"
+  },
+  "primaryMeaning": "To Encourage Someone",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>encourage</kanji> and the verb vocab version is <vocabulary>to encourage someone</vocabulary> (or <vocabulary>to encourage</vocabulary>).",
+  "primaryReading": "はげます",
+  "readingMnemonic": "Think about encouraging a <reading>hag</reading> (はげ). She needs encouragement because she's a hag, and nobody likes her much because of that.",
+  "otherMeanings": [
+    "To Cheer Up Someone",
+    "To Encourage"
+  ],
+  "otherReadings": [],
+  "wkSlug": "励ます",
+  "related": {
+    "radicals": [
+      116,
+      307,
+      13
+    ],
+    "kanjis": [
+      1297
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はげます",
+      "url": "https://files.wanikani.com/mqcv5r7rdgbtjr8kavb7usai8awh"
+    }
+  ]
+}

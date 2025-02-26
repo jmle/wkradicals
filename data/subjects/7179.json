@@ -1,0 +1,36 @@
+{
+  "id": 7179,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "暗闇"
+  },
+  "primaryMeaning": "Darkness",
+  "meaningMnemonic": "A <kanji>dark</kanji> <kanji>darkness</kanji> is a <vocabulary>darkness</vocabulary>. It's <vocabulary>the dark</vocabulary>.",
+  "primaryReading": "くらやみ",
+  "readingMnemonic": "The reading is the kun'yomi reading of both kanji. The reading from 暗い and the reading of the kanji 闇.",
+  "otherMeanings": [
+    "The Dark"
+  ],
+  "otherReadings": [],
+  "wkSlug": "暗闇",
+  "related": {
+    "radicals": [
+      22,
+      55,
+      214,
+      197
+    ],
+    "kanjis": [
+      864,
+      2018
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くらやみ",
+      "url": "https://files.wanikani.com/qhvk6drnswehvxo9wmh31ds9kuig"
+    }
+  ]
+}

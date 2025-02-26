@@ -1,0 +1,34 @@
+{
+  "id": 5840,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "宣言する"
+  },
+  "primaryMeaning": "To Proclaim",
+  "meaningMnemonic": "If 宣言 is a \"proclamation,\" then the verb version will be <vocabulary>to proclaim</vocabulary>.",
+  "primaryReading": "せんげんする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "宣言する",
+  "related": {
+    "radicals": [
+      78,
+      1,
+      293,
+      117
+    ],
+    "kanjis": [
+      1521,
+      593
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんげんする",
+      "url": "https://files.wanikani.com/0nqot19ykaox608gey4alcipntla"
+    }
+  ]
+}

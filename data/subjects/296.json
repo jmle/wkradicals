@@ -1,0 +1,30 @@
+{
+  "id": 296,
+  "type": "radical",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "制"
+  },
+  "primaryMeaning": "Control",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>control</radical>.",
+  "wkSlug": "control",
+  "related": {
+    "kanjis": [
+      1219
+    ],
+    "vocabularies": [
+      4677,
+      4678,
+      4679,
+      4680,
+      4681,
+      4682,
+      4683,
+      4979,
+      6337,
+      8320
+    ]
+  }
+}

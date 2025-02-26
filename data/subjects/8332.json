@@ -1,0 +1,36 @@
+{
+  "id": 8332,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "錯覚"
+  },
+  "primaryMeaning": "Illusion",
+  "meaningMnemonic": "You thought you <kanji>memorize</kanji>d what this picture looked like, but suddenly everything looks <kanji>confused</kanji> and different. That's because it's an <vocabulary>illusion</vocabulary>.",
+  "primaryReading": "さっかく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Optical Illusion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "錯覚",
+  "related": {
+    "radicals": [
+      118,
+      256,
+      8769,
+      91
+    ],
+    "kanjis": [
+      2303,
+      1025
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さっかく",
+      "url": "https://files.wanikani.com/xwkdnnwtgvqky3kl2an0acesfrk0"
+    }
+  ]
+}

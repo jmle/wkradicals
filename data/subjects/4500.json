@@ -1,0 +1,37 @@
+{
+  "id": 4500,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "脱線"
+  },
+  "primaryMeaning": "Derailment",
+  "meaningMnemonic": "When something <kanji>escape</kanji>s from the <kanji>line</kanji> it should be on, that's a <vocabulary>derailment</vocabulary>.\n\n脱線 can refer to train derailments (no surprise there), but often gets used figuratively to mean a <vocabulary>digression</vocabulary>, like in speech or writing. Do you ever derail conversations with your digressions?",
+  "primaryReading": "だっせん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Digression"
+  ],
+  "otherReadings": [],
+  "wkSlug": "脱線",
+  "related": {
+    "radicals": [
+      43,
+      422,
+      86,
+      52,
+      45
+    ],
+    "kanjis": [
+      1157,
+      767
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だっせん",
+      "url": "https://files.wanikani.com/uq62nfwg5gw5jxgskmkug6j6akjw"
+    }
+  ]
+}

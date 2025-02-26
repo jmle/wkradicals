@@ -1,0 +1,35 @@
+{
+  "id": 4552,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "観る"
+  },
+  "primaryMeaning": "To View",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>view</kanji> so what is the verb vocab version? It's <vocabulary>to view</vocabulary> or <vocabulary>to watch</vocabulary>.",
+  "primaryReading": "みる",
+  "readingMnemonic": "The reading here is actually the same as 見る. This is easy to remember because the meanings are so similar too, not to mention it has a 見 right inside the kanji itself!",
+  "otherMeanings": [
+    "To Watch",
+    "To See"
+  ],
+  "otherReadings": [],
+  "wkSlug": "観る",
+  "related": {
+    "radicals": [
+      72,
+      240,
+      91
+    ],
+    "kanjis": [
+      1175
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みる",
+      "url": "https://files.wanikani.com/onwoypqb3zhel6l47p93czandu50"
+    }
+  ]
+}

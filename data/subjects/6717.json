@@ -1,0 +1,37 @@
+{
+  "id": 6717,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "懇談"
+  },
+  "primaryMeaning": "Informal Talk",
+  "meaningMnemonic": "A <kanji>courteous</kanji> <kanji>talk</kanji> is an <vocabulary>informal talk</vocabulary> where people gather and discuss something in a friendly way.\n\n懇談 is often used for parent-teacher meetings or community meetings. It's an informal but courteous talk, usually between acquaintances rather than close friends.",
+  "primaryReading": "こんだん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Friendly Talk"
+  ],
+  "otherReadings": [],
+  "wkSlug": "懇談",
+  "related": {
+    "radicals": [
+      412,
+      196,
+      65,
+      117,
+      46
+    ],
+    "kanjis": [
+      1857,
+      736
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こんだん",
+      "url": "https://files.wanikani.com/oc6qascekg0pjz5q4yapq2d8x1wr"
+    }
+  ]
+}

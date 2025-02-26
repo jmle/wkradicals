@@ -1,0 +1,37 @@
+{
+  "id": 7415,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "墳墓"
+  },
+  "primaryMeaning": "Grave",
+  "meaningMnemonic": "A <kanji>tomb</kanji> <kanji>grave</kanji> is a <vocabulary>grave</vocabulary>... or it could be a <vocabulary>tomb</vocabulary>. Or maybe both.",
+  "primaryReading": "ふんぼ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Tomb"
+  ],
+  "otherReadings": [],
+  "wkSlug": "墳墓",
+  "related": {
+    "radicals": [
+      17,
+      15,
+      90,
+      94,
+      356
+    ],
+    "kanjis": [
+      2111,
+      1474
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふんぼ",
+      "url": "https://files.wanikani.com/cwy91avmryg7f3epotv5o780si6z"
+    }
+  ]
+}

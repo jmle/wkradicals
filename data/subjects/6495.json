@@ -1,0 +1,34 @@
+{
+  "id": 6495,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "辞儀する"
+  },
+  "primaryMeaning": "To Bow",
+  "meaningMnemonic": "The <kanji>quit</kanji> <kanji>ceremony</kanji> is when you quit and are ready to go somewhere, so you bow and then get going. That's why this verb is <vocabulary>to bow</vocabulary>.",
+  "primaryReading": "じぎする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "辞儀する",
+  "related": {
+    "radicals": [
+      174,
+      178,
+      75,
+      383
+    ],
+    "kanjis": [
+      981,
+      1781
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じぎする",
+      "url": "https://files.wanikani.com/ep3pncihi6hn6j1d5cv7nn47qtr3"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7437,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "飢え"
+  },
+  "primaryMeaning": "Hunger",
+  "meaningMnemonic": "You've seen that 飢える is \"to starve.\" The noun version is <vocabulary>hunger</vocabulary> or <vocabulary>starvation</vocabulary>.",
+  "primaryReading": "うえ",
+  "readingMnemonic": "The reading comes from 飢える.",
+  "otherMeanings": [
+    "Starvation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "飢え",
+  "related": {
+    "radicals": [
+      139,
+      177
+    ],
+    "kanjis": [
+      2021
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うえ",
+      "url": "https://files.wanikani.com/wqt6vjsguu05uy99visvn0vckuph"
+    }
+  ]
+}

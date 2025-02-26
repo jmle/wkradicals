@@ -1,0 +1,36 @@
+{
+  "id": 9242,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "現役"
+  },
+  "primaryMeaning": "Actively Working",
+  "meaningMnemonic": "At the <kanji>present time</kanji> you're providing a <kanji>service</kanji>, so you're <vocabulary>actively working</vocabulary>. 現役 means you have a certain role (such as school teacher or a high school student, etc.) and you're still <vocabulary>active</vocabulary> in that role, as opposed to being retired or having graduated.\n\nThis word is also often used to describe students who are taking or have passed a university entrance exam while they were still high school students.",
+  "primaryReading": "げんえき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You learned the readings for both of these, but 役 uses a less common reading, so here's a mnemonic to help you remember this:\n\nYou're <vocabulary>actively working</vocabulary> at the <reading>駅</reading> (えき) and you plan to remain <vocabulary>active</vocabulary> there forever! You sure do love that 駅, it's like you're inseparable.",
+  "otherMeanings": [
+    "Active"
+  ],
+  "otherReadings": [],
+  "wkSlug": "現役",
+  "related": {
+    "radicals": [
+      48,
+      91,
+      99,
+      160
+    ],
+    "kanjis": [
+      1211,
+      685
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんえき",
+      "url": "https://files.wanikani.com/v0b7qpmljh2yf29o3u332lykoygk"
+    }
+  ]
+}

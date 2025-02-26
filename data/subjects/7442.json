@@ -1,0 +1,34 @@
+{
+  "id": 7442,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "殴り込み"
+  },
+  "primaryMeaning": "Raid",
+  "meaningMnemonic": "An <kanji>assault</kanji> <kanji>into</kanji> a place is a <vocabulary>raid</vocabulary>.\n\n殴り込み usually means a raid by gang members or delinquents, where they barge into someone's home or enemy territory to start a fight.",
+  "primaryReading": "なぐりこみ",
+  "readingMnemonic": "The reading comes from the word 殴る and the kanji 込.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "殴り込み",
+  "related": {
+    "radicals": [
+      322,
+      160,
+      114,
+      12
+    ],
+    "kanjis": [
+      2046,
+      1504
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なぐりこみ",
+      "url": "https://files.wanikani.com/ny1uthxhy4h3d31ui54buqr2t3jf"
+    }
+  ]
+}

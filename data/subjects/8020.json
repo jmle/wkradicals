@@ -1,0 +1,38 @@
+{
+  "id": 8020,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "繊細"
+  },
+  "primaryMeaning": "Delicate",
+  "meaningMnemonic": "<kanji>Slender</kanji> and <kanji>thin</kanji> things are very <vocabulary>delicate</vocabulary> and <vocabulary>dainty</vocabulary>. They're easily broken, so you have to be careful.",
+  "primaryReading": "せんさい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Dainty",
+    "Fine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "繊細",
+  "related": {
+    "radicals": [
+      86,
+      15,
+      8768,
+      194,
+      51
+    ],
+    "kanjis": [
+      2205,
+      996
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんさい",
+      "url": "https://files.wanikani.com/dqgeadnnpn12708h60ncitv972aa"
+    }
+  ]
+}

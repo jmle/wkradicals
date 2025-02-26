@@ -1,0 +1,39 @@
+{
+  "id": 3911,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "基本的"
+  },
+  "primaryMeaning": "Fundamental",
+  "meaningMnemonic": "The things that are <kanji>basics</kanji> (基本) <kanji>like</kanji> (的) are <vocabulary>basic</vocabulary> and <vocabulary>fundamental</vocabulary>. ",
+  "primaryReading": "きほんてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Knowing how to read the word 基本 will be helpful too.",
+  "otherMeanings": [
+    "Basic",
+    "Standard"
+  ],
+  "otherReadings": [],
+  "wkSlug": "基本的",
+  "related": {
+    "radicals": [
+      205,
+      17,
+      50,
+      52,
+      236
+    ],
+    "kanjis": [
+      917,
+      487,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きほんてき",
+      "url": "https://files.wanikani.com/11rzo4p4cftsyxsg96mbnyommb2o"
+    }
+  ]
+}

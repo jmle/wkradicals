@@ -1,0 +1,32 @@
+{
+  "id": 8036,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "葵"
+  },
+  "primaryMeaning": "Hollyhock",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あおい",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "葵",
+  "related": {
+    "radicals": [
+      90,
+      168,
+      40
+    ],
+    "kanjis": [
+      2221
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あおい",
+      "url": "https://files.wanikani.com/islzv06lfzdqwk0vckszb5xi17cd"
+    }
+  ]
+}

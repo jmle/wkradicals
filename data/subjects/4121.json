@@ -1,0 +1,38 @@
+{
+  "id": 4121,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "黒煙"
+  },
+  "primaryMeaning": "Black Smoke",
+  "meaningMnemonic": "<kanji>Black</kanji> <kanji>smoke</kanji> is <vocabulary>black smoke</vocabulary>. It's also something you should avoid if you can.",
+  "primaryReading": "こくえん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "黒煙",
+  "related": {
+    "radicals": [
+      153,
+      46,
+      424,
+      17
+    ],
+    "kanjis": [
+      677,
+      1056
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こくえん",
+      "url": "https://files.wanikani.com/3850o55h24su17x0gkyd2iyvb5i3"
+    },
+    {
+      "reading": "くろけむり",
+      "url": "https://files.wanikani.com/i6tmumkc3glcyb7mvu2zrh9ckbco"
+    }
+  ]
+}

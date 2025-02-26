@@ -1,0 +1,40 @@
+{
+  "id": 3520,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "心配事"
+  },
+  "primaryMeaning": "Cares",
+  "meaningMnemonic": "Remember how 心配 means \"a worry\" and 事 can mean \"thing\"? Well, if you have a worry over some specific thing, then you probably have some <vocabulary>cares</vocabulary> and <vocabulary>worries</vocabulary>. What are your 心配事 these days?",
+  "primaryReading": "しんぱいごと",
+  "readingMnemonic": "The reading is the reading of 心配 (which you've hopefully gotten down okay by now) and 事 using the (こと) reading. It is rendaku'd, as well, so beware of the ごと (just another 心配事, amiright?).",
+  "otherMeanings": [
+    "Worries",
+    "Troubles"
+  ],
+  "otherReadings": [],
+  "wkSlug": "心配事",
+  "related": {
+    "radicals": [
+      65,
+      182,
+      228,
+      15,
+      16,
+      105
+    ],
+    "kanjis": [
+      508,
+      742,
+      708
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんぱいごと",
+      "url": "https://files.wanikani.com/yhl8l81xtw533die5hedhkhcu9fq"
+    }
+  ]
+}

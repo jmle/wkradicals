@@ -1,0 +1,34 @@
+{
+  "id": 3153,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "二重"
+  },
+  "primaryMeaning": "Double",
+  "meaningMnemonic": "When you have <kanji>two</kanji> <kanji>heavy</kanji> things, you have <vocabulary>double</vocabulary> and <vocabulary>dual</vocabulary> the heavy (compared to one, at least). \n\nThis word is a prefix attached to other words to show that it is \"double.\" 二重 kanji time!",
+  "primaryReading": "にじゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Dual"
+  ],
+  "otherReadings": [],
+  "wkSlug": "二重",
+  "related": {
+    "radicals": [
+      7,
+      188
+    ],
+    "kanjis": [
+      441,
+      735
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にじゅう",
+      "url": "https://files.wanikani.com/gnyswi7mwk86i7fvnp3rzfgl9r4a"
+    }
+  ]
+}

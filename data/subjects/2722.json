@@ -1,0 +1,33 @@
+{
+  "id": 2722,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "代用"
+  },
+  "primaryMeaning": "Substitution",
+  "meaningMnemonic": "A <kanji>substitute</kanji> <kanji>task</kanji> is a <vocabulary>substitution</vocabulary>.\n\nNote that this word has a slightly formal feel to it.",
+  "primaryReading": "だいよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "代用",
+  "related": {
+    "radicals": [
+      75,
+      79,
+      71
+    ],
+    "kanjis": [
+      530,
+      525
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だいよう",
+      "url": "https://files.wanikani.com/2fi0hp89qfbqt4l8sukhamxpdk6i"
+    }
+  ]
+}

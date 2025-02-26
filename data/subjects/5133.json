@@ -1,0 +1,40 @@
+{
+  "id": 5133,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "回数券"
+  },
+  "primaryMeaning": "Book Of Tickets",
+  "meaningMnemonic": "Many <kanji>times</kanji> is how many times you can use this <kanji>number</kanji> of <kanji>ticket</kanji>s. That means there are many tickets, making this a <vocabulary>book of tickets</vocabulary>.",
+  "primaryReading": "かいすうけん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Train Tickets",
+    "Train Coupons"
+  ],
+  "otherReadings": [],
+  "wkSlug": "回数券",
+  "related": {
+    "radicals": [
+      16,
+      98,
+      19,
+      60,
+      8819,
+      24
+    ],
+    "kanjis": [
+      569,
+      703,
+      1361
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいすうけん",
+      "url": "https://files.wanikani.com/8e5n7p458ild22e9v9lxv1zhw711"
+    }
+  ]
+}

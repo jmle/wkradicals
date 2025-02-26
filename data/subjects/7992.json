@@ -1,0 +1,35 @@
+{
+  "id": 7992,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "曙"
+  },
+  "primaryMeaning": "Dawn",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あけぼの",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Daybreak",
+    "Beginning"
+  ],
+  "otherReadings": [],
+  "wkSlug": "曙",
+  "related": {
+    "radicals": [
+      22,
+      163,
+      203
+    ],
+    "kanjis": [
+      2216
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あけぼの",
+      "url": "https://files.wanikani.com/6asyj2e2s1uzwscm12rl9ml054l6"
+    }
+  ]
+}

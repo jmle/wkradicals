@@ -1,0 +1,35 @@
+{
+  "id": 3435,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "思い出す"
+  },
+  "primaryMeaning": "To Remember",
+  "meaningMnemonic": "You know that 思う means to think (so 思い is \"a thought\"). You also know that 出す means \"to remove.\" So, when you remove a thought, you are remembering something. This is a verb, so the verb form of remembering something is <vocabulary>to remember</vocabulary>.",
+  "primaryReading": "おもいだす",
+  "readingMnemonic": "The reading for this word is the kun'yomi readings. You should know the words 思う and 出す and their readings, so you should be able to read this word if you know those words.",
+  "otherMeanings": [
+    "To Recall"
+  ],
+  "otherReadings": [],
+  "wkSlug": "思い出す",
+  "related": {
+    "radicals": [
+      51,
+      65,
+      20
+    ],
+    "kanjis": [
+      637,
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おもいだす",
+      "url": "https://files.wanikani.com/h29u7fkr4yqkdq8oosz8i0y2scy5"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 8517,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "侮蔑"
+  },
+  "primaryMeaning": "Scorn",
+  "meaningMnemonic": "<kanji>Despise</kanji> someone and your <kanji>scorn</kanji> for them just becomes even stronger <vocabulary>scorn</vocabulary>.",
+  "primaryReading": "ぶべつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Disdain",
+    "Contempt",
+    "Slight"
+  ],
+  "otherReadings": [],
+  "wkSlug": "侮蔑",
+  "related": {
+    "radicals": [
+      75,
+      379,
+      90,
+      163,
+      194,
+      5,
+      3
+    ],
+    "kanjis": [
+      2422,
+      2424
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶべつ",
+      "url": "https://files.wanikani.com/i5pdxhjhheymnvvsy5xnfyc6q865"
+    }
+  ]
+}

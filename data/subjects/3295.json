@@ -1,0 +1,35 @@
+{
+  "id": 3295,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "洋食"
+  },
+  "primaryMeaning": "Western Food",
+  "meaningMnemonic": "The <kanji>Western</kanji> <kanji>eat</kanji>s are <vocabulary>Western food</vocabulary>. Mmmm, 'dem hamburgers.",
+  "primaryReading": "ようしょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Western Style Food"
+  ],
+  "otherReadings": [],
+  "wkSlug": "洋食",
+  "related": {
+    "radicals": [
+      103,
+      136,
+      139
+    ],
+    "kanjis": [
+      798,
+      644
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようしょく",
+      "url": "https://files.wanikani.com/phetnf8wbaejxqja4ho97dqxsufa"
+    }
+  ]
+}

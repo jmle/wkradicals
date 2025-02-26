@@ -1,0 +1,34 @@
+{
+  "id": 5862,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "彫刻"
+  },
+  "primaryMeaning": "Sculpture",
+  "meaningMnemonic": "You <kanji>carve</kanji> then you <kanji>carve</kanji> again. So much carving until, wait, wow, it looks like something! All that carving became a <vocabulary>sculpture</vocabulary>!",
+  "primaryReading": "ちょうこく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "彫刻",
+  "related": {
+    "radicals": [
+      169,
+      38,
+      351,
+      128
+    ],
+    "kanjis": [
+      1580,
+      1577
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょうこく",
+      "url": "https://files.wanikani.com/s5djx6ox7sqtjjs0aby55kd9zusf"
+    }
+  ]
+}

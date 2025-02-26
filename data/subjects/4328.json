@@ -1,0 +1,36 @@
+{
+  "id": 4328,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "理論"
+  },
+  "primaryMeaning": "Theory",
+  "meaningMnemonic": "You have <kanji>reason</kanji> behind your <kanji>theory</kanji>, making it a real <vocabulary>theory</vocabulary> (unlike those that don't have reason, I guess?).",
+  "primaryReading": "りろん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "理論",
+  "related": {
+    "radicals": [
+      48,
+      125,
+      117,
+      8764,
+      1,
+      226
+    ],
+    "kanjis": [
+      669,
+      1119
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りろん",
+      "url": "https://files.wanikani.com/vee4aqs4wqjfzrlu5th2innwobgw"
+    }
+  ]
+}

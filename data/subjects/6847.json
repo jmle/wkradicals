@@ -1,0 +1,37 @@
+{
+  "id": 6847,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "遠距離"
+  },
+  "primaryMeaning": "Long Distance",
+  "meaningMnemonic": "A <kanji>far</kanji> <kanji>distance</kanji> <kanji>detach</kanji>ment is a distance that is far. It is <vocabulary>long distance</vocabulary>. Also remember that 距離 is a \"distance\" so a far distance is a <vocabulary>long distance</vocabulary>.",
+  "primaryReading": "えんきょり",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "遠距離",
+  "related": {
+    "radicals": [
+      114,
+      8784,
+      95,
+      314,
+      337,
+      240
+    ],
+    "kanjis": [
+      963,
+      1843,
+      1443
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんきょり",
+      "url": "https://files.wanikani.com/4eiu9x124nkadc6yvrr0ogxr3ido"
+    }
+  ]
+}

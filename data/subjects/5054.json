@@ -1,0 +1,34 @@
+{
+  "id": 5054,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "症状"
+  },
+  "primaryMeaning": "Symptom",
+  "meaningMnemonic": "Your <kanji>symptom</kanji> <kanji>condition</kanji> is your <vocabulary>symptom</vocabulary>s that you have.",
+  "primaryReading": "しょうじょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "症状",
+  "related": {
+    "radicals": [
+      187,
+      229,
+      8826,
+      47
+    ],
+    "kanjis": [
+      1334,
+      1183
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうじょう",
+      "url": "https://files.wanikani.com/cly4ainvxr5ph0duman5619a33ga"
+    }
+  ]
+}

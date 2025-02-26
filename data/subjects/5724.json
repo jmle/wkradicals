@@ -1,0 +1,33 @@
+{
+  "id": 5724,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "飼い主"
+  },
+  "primaryMeaning": "Pet Owner",
+  "meaningMnemonic": "You know that to 飼う is \"to keep a pet.\" If you're the <kanji>master</kanji> that is <kanji>keeping a pet</kanji> (飼う), then you are the <vocabulary>pet owner</vocabulary>.",
+  "primaryReading": "かいぬし",
+  "readingMnemonic": "The reading is the kun'yomi readings for both. You'll need to remember the words 飼う and 主 to be able to remember the reading of this word.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "飼い主",
+  "related": {
+    "radicals": [
+      139,
+      266,
+      154
+    ],
+    "kanjis": [
+      1498,
+      528
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいぬし",
+      "url": "https://files.wanikani.com/01y6mqa5347wvk7i1xkz7nzi2f3r"
+    }
+  ]
+}

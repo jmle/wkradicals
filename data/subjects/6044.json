@@ -1,0 +1,36 @@
+{
+  "id": 6044,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "紹介状"
+  },
+  "primaryMeaning": "Letter Of Introduction",
+  "meaningMnemonic": "Remember how a 年賀状 is a new year's card? This is another kind of card/letter, but this time it's for an introduction (紹介), making it a <vocabulary>letter of introduction</vocabulary>.",
+  "primaryReading": "しょうかいじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will help to know 紹介 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "紹介状",
+  "related": {
+    "radicals": [
+      86,
+      331,
+      166,
+      8826,
+      47
+    ],
+    "kanjis": [
+      1586,
+      1587,
+      1183
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうかいじょう",
+      "url": "https://files.wanikani.com/peinlfglet1tedd69nfnvjpphyi7"
+    }
+  ]
+}

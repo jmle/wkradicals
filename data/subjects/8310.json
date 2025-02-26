@@ -1,0 +1,37 @@
+{
+  "id": 8310,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "窮地"
+  },
+  "primaryMeaning": "Dilemma",
+  "meaningMnemonic": "<kanji>Destitute</kanji> <kanji>land</kanji>s will be faced with a <vocabulary>dilemma</vocabulary>. Do they leave? Or do they try to make the best of it?",
+  "primaryReading": "きゅうち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Predicament"
+  ],
+  "otherReadings": [],
+  "wkSlug": "窮地",
+  "related": {
+    "radicals": [
+      170,
+      234,
+      36,
+      17,
+      77
+    ],
+    "kanjis": [
+      2308,
+      608
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうち",
+      "url": "https://files.wanikani.com/yiti2akb43q6lp9fzo9357ms39m3"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5524,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "恩人"
+  },
+  "primaryMeaning": "Benefactor",
+  "meaningMnemonic": "A <kanji>kindness</kanji> <kanji>person</kanji> is a very kind person. This person is a <vocabulary>benefactor</vocabulary>.",
+  "primaryReading": "おんじん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "恩人",
+  "related": {
+    "radicals": [
+      16,
+      18,
+      65,
+      9
+    ],
+    "kanjis": [
+      1483,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おんじん",
+      "url": "https://files.wanikani.com/j76bey863l5aw9tq8fu9mi70a1jk"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1786,
+  "type": "kanji",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "蜂"
+  },
+  "primaryReading": "はち",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "はち",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ほう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Bee",
+  "otherMeanings": [],
+  "meaningMnemonic": "On the <radical>insect</radical> <radical>signpost</radical> there is a single sign that says <kanji>bee</kanji>.",
+  "readingMnemonic": "Thanks to the insect signpost you find the <kanji>bee</kanji>. You make it just in time to see the bee <reading>hatch</reading> (はち) from its egg.",
+  "wkSlug": "蜂",
+  "related": {
+    "radicals": [
+      89,
+      381
+    ],
+    "vocabularies": [
+      6504,
+      6505
+    ]
+  },
+  "radicalNames": [
+    "Insect",
+    "Signpost"
+  ]
+}

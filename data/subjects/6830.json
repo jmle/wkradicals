@@ -1,0 +1,35 @@
+{
+  "id": 6830,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "姫様"
+  },
+  "primaryMeaning": "Princess",
+  "meaningMnemonic": "The <kanji>princess</kanji> (<kanji>formal name ender</kanji>) is the princess, and you're talking to her politely. She is the <vocabulary>princess</vocabulary>.",
+  "primaryReading": "ひめさま",
+  "readingMnemonic": "The reading is the reading of 姫 and 様 combined together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "姫様",
+  "related": {
+    "radicals": [
+      19,
+      323,
+      23,
+      136,
+      45
+    ],
+    "kanjis": [
+      1899,
+      865
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひめさま",
+      "url": "https://files.wanikani.com/twg0o24vt8ha3tboewmvp6t1pi6i"
+    }
+  ]
+}

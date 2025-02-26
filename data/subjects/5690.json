@@ -1,0 +1,36 @@
+{
+  "id": 5690,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "裏口"
+  },
+  "primaryMeaning": "Back Door",
+  "meaningMnemonic": "The <kanji>backside</kanji> <kanji>mouth</kanji> (think: entrance) is the <vocabulary>back door</vocabulary> or <vocabulary>rear entrance</vocabulary>.",
+  "primaryReading": "うらぐち",
+  "readingMnemonic": "The reading is 裏 and 口 put together into one word.",
+  "otherMeanings": [
+    "Rear Entrance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "裏口",
+  "related": {
+    "radicals": [
+      8,
+      125,
+      8770,
+      16
+    ],
+    "kanjis": [
+      1542,
+      452
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うらぐち",
+      "url": "https://files.wanikani.com/8ewefq89xmm55xg6ygfjntcr4umw"
+    }
+  ]
+}

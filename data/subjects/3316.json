@@ -1,0 +1,35 @@
+{
+  "id": 3316,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "働く"
+  },
+  "primaryMeaning": "To Work",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>work</kanji>, and the verb version means <vocabulary>to work</vocabulary>, <vocabulary>to labor</vocabulary>, and sometimes <vocabulary>to commit</vocabulary> (a crime).",
+  "primaryReading": "はたらく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: If you are as mad as a <reading>hatter</reading> you'll need <vocabulary>to work</vocabulary> very hard to regain your sanity. You know The Hatter from Alice in Wonderland? Imagine how hard he would have to work to be considered \"normal\".",
+  "otherMeanings": [
+    "To Labor",
+    "To Commit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "働く",
+  "related": {
+    "radicals": [
+      75,
+      188,
+      13
+    ],
+    "kanjis": [
+      809
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はたらく",
+      "url": "https://files.wanikani.com/juf2i0ul4evq9fazt6e16xe9c7md"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6695,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "垣"
+  },
+  "primaryMeaning": "Fence",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nNote that for the word fence in Japanese, フェンス is typically used. 垣 isn't very common but it's sometimes used in literature.",
+  "primaryReading": "かき",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Hedge",
+    "Wall"
+  ],
+  "otherReadings": [],
+  "wkSlug": "垣",
+  "related": {
+    "radicals": [
+      17,
+      1,
+      293
+    ],
+    "kanjis": [
+      1851
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かき",
+      "url": "https://files.wanikani.com/66scgonk3d6x6ljz2uygdin0a666"
+    }
+  ]
+}

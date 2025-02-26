@@ -1,0 +1,34 @@
+{
+  "id": 7350,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "勘"
+  },
+  "primaryMeaning": "Intuition",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Also could mean <vocabulary>perception</vocabulary> or <vocabulary>hunch</vocabulary>.",
+  "primaryReading": "かん",
+  "readingMnemonic": "The reading is the one you learned from the kanji.",
+  "otherMeanings": [
+    "Perception",
+    "Hunch"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勘",
+  "related": {
+    "radicals": [
+      407,
+      13
+    ],
+    "kanjis": [
+      2081
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かん",
+      "url": "https://files.wanikani.com/tapqkv7me965r4npecfn06snh7tc"
+    }
+  ]
+}

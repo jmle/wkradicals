@@ -1,0 +1,35 @@
+{
+  "id": 4699,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "記載"
+  },
+  "primaryMeaning": "Record",
+  "meaningMnemonic": "Please <kanji>write down</kanji> and <kanji>put on</kanji> paper the facts, so we have a <vocabulary>record</vocabulary> of them. \n\n記載 refers to information that is recorded in some manner, typically in written, printed, or digital form.",
+  "primaryReading": "きさい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "記載",
+  "related": {
+    "radicals": [
+      117,
+      228,
+      15,
+      194,
+      93
+    ],
+    "kanjis": [
+      664,
+      1230
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きさい",
+      "url": "https://files.wanikani.com/jryfp86akdx66c4cjbeiwdjp1yiu"
+    }
+  ]
+}

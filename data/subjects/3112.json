@@ -1,0 +1,34 @@
+{
+  "id": 3112,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "乗る"
+  },
+  "primaryMeaning": "To Ride",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>ride</kanji> so the verb vocab version means <vocabulary>to ride</vocabulary>.",
+  "primaryReading": "のる",
+  "readingMnemonic": "The reading is kun'yomi (see that hiragana?) but that's the reading you learned with the kanji. Enjoy the ride!",
+  "otherMeanings": [
+    "To Get On",
+    "To Board"
+  ],
+  "otherReadings": [],
+  "wkSlug": "乗る",
+  "related": {
+    "radicals": [
+      135,
+      16
+    ],
+    "kanjis": [
+      722
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のる",
+      "url": "https://files.wanikani.com/47l4egh70kochu1n1wtzq7zpdeno"
+    }
+  ]
+}

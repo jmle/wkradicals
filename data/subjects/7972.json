@@ -1,0 +1,32 @@
+{
+  "id": 7972,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "土壌"
+  },
+  "primaryMeaning": "Soil",
+  "meaningMnemonic": "<kanji>Soil</kanji> <kanji>soil</kanji> is still <kanji>soil</kanji>.",
+  "primaryReading": "どじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "土壌",
+  "related": {
+    "radicals": [
+      17,
+      430
+    ],
+    "kanjis": [
+      459,
+      2196
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どじょう",
+      "url": "https://files.wanikani.com/pp7miabgensy01fj8itvbzw24osk"
+    }
+  ]
+}

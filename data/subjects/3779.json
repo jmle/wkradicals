@@ -1,0 +1,36 @@
+{
+  "id": 3779,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "子猫"
+  },
+  "primaryMeaning": "Kitten",
+  "meaningMnemonic": "A <kanji>child</kanji> <kanji>cat</kanji> is an adorable <vocabulary>kitten</vocabulary>. D'awww!",
+  "primaryReading": "こねこ",
+  "readingMnemonic": "The reading is the vocab word 子 (こ) and the reading for cat (ねこ).",
+  "otherMeanings": [
+    "Kitty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "子猫",
+  "related": {
+    "radicals": [
+      34,
+      144,
+      90,
+      51
+    ],
+    "kanjis": [
+      462,
+      959
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こねこ",
+      "url": "https://files.wanikani.com/1ipvqh9l6y1xljras78k5v4aap30"
+    }
+  ]
+}

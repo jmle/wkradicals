@@ -1,0 +1,32 @@
+{
+  "id": 4046,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "鼻"
+  },
+  "primaryMeaning": "Nose",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はな",
+  "readingMnemonic": "The reading is the same as the kanji. Smells nice, right?",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鼻",
+  "related": {
+    "radicals": [
+      109,
+      51,
+      106
+    ],
+    "kanjis": [
+      998
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はな",
+      "url": "https://files.wanikani.com/avlc5v7crndnff9xt03c6wd0279u"
+    }
+  ]
+}

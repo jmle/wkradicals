@@ -1,0 +1,37 @@
+{
+  "id": 4658,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "伝統的"
+  },
+  "primaryMeaning": "Traditional",
+  "meaningMnemonic": "If 伝統 is \"tradition,\" then adding a 的 (<kanji>-al</kanji>) to it would make it <vocabulary>traditional</vocabulary>.\n",
+  "primaryReading": "でんとうてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "伝統的",
+  "related": {
+    "radicals": [
+      75,
+      159,
+      86,
+      285,
+      52,
+      236
+    ],
+    "kanjis": [
+      777,
+      1170,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんとうてき",
+      "url": "https://files.wanikani.com/sm6vzy5j1wcsby0awrflunz2rbje"
+    }
+  ]
+}

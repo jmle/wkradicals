@@ -1,0 +1,37 @@
+{
+  "id": 9022,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "高度"
+  },
+  "primaryMeaning": "Altitude",
+  "meaningMnemonic": "Something that is <kanji>tall</kanji> in <kanji>degree</kanji>s can either refer to its <vocabulary>altitude</vocabulary>, or to the fact that it's quite <vocabulary>high-level</vocabulary>. \n\nNote that this can refer to any altitude, even lower ones. But when used to refer to, for example, skills or a technique, it always talks about a high level or degree.",
+  "primaryReading": "こうど",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "High-level"
+  ],
+  "otherReadings": [],
+  "wkSlug": "高度",
+  "related": {
+    "radicals": [
+      8,
+      16,
+      121,
+      8787,
+      30
+    ],
+    "kanjis": [
+      666,
+      725
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうど",
+      "url": "https://files.wanikani.com/gyc1rtygk2z3so3jltspibr7e71j"
+    }
+  ]
+}

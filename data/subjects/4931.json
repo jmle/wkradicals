@@ -1,0 +1,35 @@
+{
+  "id": 4931,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "間接"
+  },
+  "primaryMeaning": "Indirect",
+  "meaningMnemonic": "After an <kanji>interval of time</kanji> it will <kanji>adjoin</kanji>, but not right away. That is because it was being <vocabulary>indirect</vocabulary>.",
+  "primaryReading": "かんせつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "間接",
+  "related": {
+    "radicals": [
+      214,
+      22,
+      63,
+      55,
+      19
+    ],
+    "kanjis": [
+      701,
+      1311
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんせつ",
+      "url": "https://files.wanikani.com/k67mw2e01kfmo6gkvdl1e1kl3kpu"
+    }
+  ]
+}

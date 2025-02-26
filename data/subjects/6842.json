@@ -1,0 +1,34 @@
+{
+  "id": 6842,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "バベルの塔"
+  },
+  "primaryMeaning": "Tower Of Babel",
+  "meaningMnemonic": "バベル's 塔 is Babel's tower. That's the <vocabulary>Tower of Babel</vocabulary>.",
+  "primaryReading": "ばべるのとう",
+  "readingMnemonic": "The reading comes from the reading of the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "バベルのとう"
+  ],
+  "wkSlug": "バベルの塔",
+  "related": {
+    "radicals": [
+      17,
+      90,
+      216
+    ],
+    "kanjis": [
+      1905
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばべるのとう",
+      "url": "https://files.wanikani.com/d16e9i58lj8al7rl3454ccmfox06"
+    }
+  ]
+}

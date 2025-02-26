@@ -1,0 +1,38 @@
+{
+  "id": 2821,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "兄弟"
+  },
+  "primaryMeaning": "Brothers",
+  "meaningMnemonic": "You have an <kanji>older brother</kanji> and a <kanji>younger brother</kanji>. Wow! Both are here. These are <vocabulary>brothers</vocabulary>!",
+  "primaryReading": "きょうだい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Siblings"
+  ],
+  "otherReadings": [],
+  "wkSlug": "兄弟",
+  "related": {
+    "radicals": [
+      16,
+      28,
+      8767,
+      36,
+      8761,
+      5
+    ],
+    "kanjis": [
+      515,
+      588
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうだい",
+      "url": "https://files.wanikani.com/hqtqya96nwwws2wansivcb4wobst"
+    }
+  ]
+}

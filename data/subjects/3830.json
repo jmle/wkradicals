@@ -1,0 +1,37 @@
+{
+  "id": 3830,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "真実"
+  },
+  "primaryMeaning": "Truth",
+  "meaningMnemonic": "The <kanji>reality</kanji> of the <kanji>truth</kanji> is nothing more than the <vocabulary>truth</vocabulary> and the <vocabulary>reality</vocabulary>. Doesn't get any more real than this.",
+  "primaryReading": "しんじつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Reality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "真実",
+  "related": {
+    "radicals": [
+      8773,
+      1,
+      2,
+      78,
+      8779
+    ],
+    "kanjis": [
+      971,
+      715
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんじつ",
+      "url": "https://files.wanikani.com/ceav64dvq1nlzl4zw1to8qoeudkv"
+    }
+  ]
+}

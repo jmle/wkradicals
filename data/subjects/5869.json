@@ -1,0 +1,35 @@
+{
+  "id": 5869,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "破船"
+  },
+  "primaryMeaning": "Shipwreck",
+  "meaningMnemonic": "A <kanji>tear</kanji> in your <kanji>ship</kanji> will cause it to wreck, making it a <vocabulary>shipwreck</vocabulary>.",
+  "primaryReading": "はせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "破船",
+  "related": {
+    "radicals": [
+      54,
+      195,
+      149,
+      2,
+      16
+    ],
+    "kanjis": [
+      1582,
+      671
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はせん",
+      "url": "https://files.wanikani.com/ozse3g5ojnw0u3jxl9hb0h0z0r7p"
+    }
+  ]
+}

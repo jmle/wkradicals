@@ -1,0 +1,31 @@
+{
+  "id": 2731,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "氷"
+  },
+  "primaryMeaning": "Ice",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "こおり",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading which is what you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "氷",
+  "related": {
+    "radicals": [
+      3,
+      45
+    ],
+    "kanjis": [
+      537
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こおり",
+      "url": "https://files.wanikani.com/l67cckmksn61cy4e3ev65srjd3tp"
+    }
+  ]
+}

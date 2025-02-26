@@ -1,0 +1,36 @@
+{
+  "id": 3178,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "進化"
+  },
+  "primaryMeaning": "Evolution",
+  "meaningMnemonic": "Think of things that <kanji>advance</kanji> and <kanji>change</kanji>. Does this sound familiar? Does this sound like <vocabulary>evolution</vocabulary>?",
+  "primaryReading": "しんか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Progress"
+  ],
+  "otherReadings": [],
+  "wkSlug": "進化",
+  "related": {
+    "radicals": [
+      114,
+      240,
+      75,
+      57
+    ],
+    "kanjis": [
+      748,
+      607
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんか",
+      "url": "https://files.wanikani.com/zsi0nbekf5qutaxapeaqfcx6dby7"
+    }
+  ]
+}

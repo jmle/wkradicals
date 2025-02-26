@@ -1,0 +1,33 @@
+{
+  "id": 5762,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "じゃが芋"
+  },
+  "primaryMeaning": "Potato",
+  "meaningMnemonic": "A じゃが <kanji>potato</kanji> is a <vocabulary>potato</vocabulary>. More specifically, a <vocabulary>white potato</vocabulary>. ",
+  "primaryReading": "じゃがいも",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "otherMeanings": [
+    "White Potato"
+  ],
+  "otherReadings": [],
+  "wkSlug": "じゃが芋",
+  "related": {
+    "radicals": [
+      90,
+      61
+    ],
+    "kanjis": [
+      1553
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゃがいも",
+      "url": "https://files.wanikani.com/kvgp7pgvj4371ija1po8wipowe9b"
+    }
+  ]
+}

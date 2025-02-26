@@ -1,0 +1,35 @@
+{
+  "id": 3430,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "南米"
+  },
+  "primaryMeaning": "South America",
+  "meaningMnemonic": "Remember how 米国 can also mean America? That goes for North and South America, actually, not just the United States. So, <kanji>south</kanji> <kanji>America</kanji> is <vocabulary>South America</vocabulary>.",
+  "primaryReading": "なんべい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "南米",
+  "related": {
+    "radicals": [
+      15,
+      29,
+      8767,
+      61,
+      98
+    ],
+    "kanjis": [
+      634,
+      574
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なんべい",
+      "url": "https://files.wanikani.com/mabog7e78fk8emrcpwce3vkc838v"
+    }
+  ]
+}

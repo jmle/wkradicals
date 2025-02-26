@@ -1,0 +1,35 @@
+{
+  "id": 8475,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "淑女"
+  },
+  "primaryMeaning": "Lady",
+  "meaningMnemonic": "A <kanji>graceful</kanji> <kanji>woman</kanji> is a proper, fancy <vocabulary>lady</vocabulary>.",
+  "primaryReading": "しゅくじょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "淑女",
+  "related": {
+    "radicals": [
+      103,
+      325,
+      35,
+      30,
+      19
+    ],
+    "kanjis": [
+      2388,
+      454
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅくじょ",
+      "url": "https://files.wanikani.com/jppwy702q4wlbskggi4hu8v8e82v"
+    }
+  ]
+}

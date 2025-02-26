@@ -1,0 +1,38 @@
+{
+  "id": 7593,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "連日"
+  },
+  "primaryMeaning": "Every Day",
+  "meaningMnemonic": "What happens when you <kanji>take along</kanji> a <kanji>day</kanji>? It becomes <vocabulary>every day</vocabulary>.",
+  "primaryReading": "れんじつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Day After Day",
+    "For Days On End",
+    "Daily",
+    "Prolonged"
+  ],
+  "otherReadings": [],
+  "wkSlug": "連日",
+  "related": {
+    "radicals": [
+      114,
+      93,
+      22
+    ],
+    "kanjis": [
+      1084,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "れんじつ",
+      "url": "https://files.wanikani.com/pu7v2qskm3cdrecdx18iyplz08zv"
+    }
+  ]
+}

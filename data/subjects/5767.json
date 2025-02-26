@@ -1,0 +1,33 @@
+{
+  "id": 5767,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "純毛"
+  },
+  "primaryMeaning": "All Wool",
+  "meaningMnemonic": "Something that is <kanji>pure</kanji> <kanji>fur</kanji> is pure fur... but what kind of fur? In this case it's wool, making this mean <vocabulary>all wool</vocabulary>.",
+  "primaryReading": "じゅんもう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "純毛",
+  "related": {
+    "radicals": [
+      86,
+      315,
+      67
+    ],
+    "kanjis": [
+      1555,
+      513
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅんもう",
+      "url": "https://files.wanikani.com/06vl1td9hfqv4glx7ifwnv1ttmnb"
+    }
+  ]
+}

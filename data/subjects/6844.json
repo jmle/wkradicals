@@ -1,0 +1,38 @@
+{
+  "id": 6844,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "引き裂く"
+  },
+  "primaryMeaning": "To Tear Up",
+  "meaningMnemonic": "You know that 裂く is \"to tear\" or \"to rip up.\" So, if you're trying to tear or rip up something, and you're <kanji>pull</kanji>ing it at the same time, you are going <vocabulary>to tear up</vocabulary> that thing, or more accurately perhaps <vocabulary>to tear off</vocabulary> something, since you're pulling.",
+  "primaryReading": "ひきさく",
+  "readingMnemonic": "The reading comes from 引く and 裂く.",
+  "otherMeanings": [
+    "To Tear Off",
+    "To Split"
+  ],
+  "otherReadings": [],
+  "wkSlug": "引き裂く",
+  "related": {
+    "radicals": [
+      36,
+      8761,
+      132,
+      128,
+      320
+    ],
+    "kanjis": [
+      507,
+      1839
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひきさく",
+      "url": "https://files.wanikani.com/2lb8g5g5oygeyj2nztgp8rkkfnh3"
+    }
+  ]
+}

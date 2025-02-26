@@ -1,0 +1,34 @@
+{
+  "id": 3865,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "辞書"
+  },
+  "primaryMeaning": "Dictionary",
+  "meaningMnemonic": "Take all the <kanji>word</kanji>s you use in <kanji>writing</kanji>, put them together and you have a <vocabulary>dictionary</vocabulary>!",
+  "primaryReading": "じしょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "辞書",
+  "related": {
+    "radicals": [
+      174,
+      178,
+      220,
+      22
+    ],
+    "kanjis": [
+      981,
+      962
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じしょ",
+      "url": "https://files.wanikani.com/q9ygcqillp2q8oen45w3ggb6ggg0"
+    }
+  ]
+}

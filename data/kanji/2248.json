@@ -1,0 +1,49 @@
+{
+  "id": 2248,
+  "type": "kanji",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "叙"
+  },
+  "primaryReading": "じょ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "じょ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "つい",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ついで",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Describe",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>surplus</radical> <radical>stool</radical>, please <kanji>describe</kanji> it.",
+  "readingMnemonic": "You <kanji>describe</kanji> the features of the stool to <reading>Jo</reading>-Anne (じょ). ",
+  "wkSlug": "叙",
+  "related": {
+    "radicals": [
+      313,
+      30
+    ],
+    "vocabularies": [
+      8070,
+      8076,
+      8077,
+      8078,
+      8079
+    ]
+  },
+  "radicalNames": [
+    "Surplus",
+    "Stool"
+  ]
+}

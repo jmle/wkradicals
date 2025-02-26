@@ -1,0 +1,34 @@
+{
+  "id": 7957,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "お風呂"
+  },
+  "primaryMeaning": "Bath",
+  "meaningMnemonic": "Let the <kanji>wind</kanji> in from the window above your <kanji>bath</kanji> so the water is cool enough for you to take a <vocabulary>bath</vocabulary>! If the water is too hot, you'll get all dizzy and that's dangerous!",
+  "primaryReading": "おふろ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. This isn't the same on'yomi reading you learned for 風, though. It's a little different: ふ. If you're taking a <kanji>bath</kanji> you'd be a <reading>foo</reading>l (ふ) to bring food in there. Drop the う or you'll end up as soup!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "お風呂",
+  "related": {
+    "radicals": [
+      177,
+      5,
+      89,
+      282
+    ],
+    "kanjis": [
+      853,
+      2158
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おふろ",
+      "url": "https://files.wanikani.com/xodt15zynrrflbif7pu08ksaaazz"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5312,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "快感"
+  },
+  "primaryMeaning": "Pleasure",
+  "meaningMnemonic": "When you have the <kanji>feeling</kanji> of <kanji>pleasant</kanji>ness, you are experiencing <vocabulary>pleasure</vocabulary>.\n\nWhile 快感 can describe the thrill of achieving something satisfying, it's often associated with <vocabulary>pleasurable feeling</vocabulary>s from taboo or unusual experiences. For example, it might refer to the pleasure of teasing someone, indulging in a bad habit like picking earwax, or feeling sensual delight.",
+  "primaryReading": "かいかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Pleasurable Feeling"
+  ],
+  "otherReadings": [],
+  "wkSlug": "快感",
+  "related": {
+    "radicals": [
+      232,
+      9,
+      157,
+      5,
+      194,
+      8781,
+      65
+    ],
+    "kanjis": [
+      1420,
+      862
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいかん",
+      "url": "https://files.wanikani.com/qgw5bz82rboe4ahzt4itv397tsg3"
+    }
+  ]
+}

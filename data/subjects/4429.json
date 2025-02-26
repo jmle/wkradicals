@@ -1,0 +1,33 @@
+{
+  "id": 4429,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "資本"
+  },
+  "primaryMeaning": "Capital",
+  "meaningMnemonic": "To start a business, your <kanji>main</kanji> <kanji>resource</kanji> is your <vocabulary>capital</vocabulary>, which can be money and various other types of assets, like real estate properties.",
+  "primaryReading": "しほん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "資本",
+  "related": {
+    "radicals": [
+      278,
+      94,
+      50
+    ],
+    "kanjis": [
+      1133,
+      487
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しほん",
+      "url": "https://files.wanikani.com/u73a1iqo26unegqv0nmxkjxukwsq"
+    }
+  ]
+}

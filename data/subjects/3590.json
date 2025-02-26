@@ -1,0 +1,39 @@
+{
+  "id": 3590,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "感謝"
+  },
+  "primaryMeaning": "Thanks",
+  "meaningMnemonic": "You have <kanji>feeling</kanji>s of <kanji>apologizing</kanji>. Strangely, this word means <vocabulary>thanks</vocabulary> and <vocabulary>gratitude</vocabulary>, though. Perhaps someone did something so nice for you that you want to apologize for how many nice things they're doing for you. You are this grateful to them!",
+  "primaryReading": "かんしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Gratitude"
+  ],
+  "otherReadings": [],
+  "wkSlug": "感謝",
+  "related": {
+    "radicals": [
+      5,
+      194,
+      8781,
+      65,
+      117,
+      234,
+      74
+    ],
+    "kanjis": [
+      862,
+      892
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんしゃ",
+      "url": "https://files.wanikani.com/wvygsgmaq5m7bk3gbr60158w55o9"
+    }
+  ]
+}

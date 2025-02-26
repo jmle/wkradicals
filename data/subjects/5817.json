@@ -1,0 +1,38 @@
+{
+  "id": 5817,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "承知"
+  },
+  "primaryMeaning": "Consent",
+  "meaningMnemonic": "You <kanji>consent</kanji> and <kanji>know</kanji> everything that's going on. You <vocabulary>consent</vocabulary> and <vocabulary>know</vocabulary> about all this. You're <vocabulary>aware</vocabulary> of it.",
+  "primaryReading": "しょうち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Know",
+    "Aware"
+  ],
+  "otherReadings": [],
+  "wkSlug": "承知",
+  "related": {
+    "radicals": [
+      34,
+      7,
+      45,
+      72,
+      16
+    ],
+    "kanjis": [
+      1572,
+      631
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうち",
+      "url": "https://files.wanikani.com/yxukeknzdtya2n5xty7vscn0ngve"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6037,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "甘酢"
+  },
+  "primaryMeaning": "Sweet Vinegar",
+  "meaningMnemonic": "<kanji>Sweet</kanji> <kanji>vinegar</kanji> is <vocabulary>sweet vinegar</vocabulary>. Them Japanese love their sweet things.",
+  "primaryReading": "あまず",
+  "readingMnemonic": "The reading is 甘い plus 酢, combined together. It's the kun'yomi readings, but that's probably because we're combing two words into one. It also changes the す to ず so, remember that.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "甘酢",
+  "related": {
+    "radicals": [
+      360,
+      182,
+      122
+    ],
+    "kanjis": [
+      1623,
+      1604
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あまず",
+      "url": "https://files.wanikani.com/llsovjrzdp4ssn5res2lrzsmgk3p"
+    }
+  ]
+}

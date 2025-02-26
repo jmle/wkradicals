@@ -1,0 +1,35 @@
+{
+  "id": 4722,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "対象"
+  },
+  "primaryMeaning": "Target",
+  "meaningMnemonic": "The <kanji>versus</kanji> <kanji>phenomenon</kanji> is what you're going up against. It's your <vocabulary>target</vocabulary> because you're heading towards this phenomenon you're versusing against.",
+  "primaryReading": "たいしょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Subject"
+  ],
+  "otherReadings": [],
+  "wkSlug": "対象",
+  "related": {
+    "radicals": [
+      42,
+      74,
+      8823
+    ],
+    "kanjis": [
+      683,
+      1237
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいしょう",
+      "url": "https://files.wanikani.com/5jmfqtde69g4dizhwxfpqryi2pam"
+    }
+  ]
+}

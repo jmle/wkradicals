@@ -1,0 +1,34 @@
+{
+  "id": 5539,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "眼球"
+  },
+  "primaryMeaning": "Eyeball",
+  "meaningMnemonic": "An <kanji>eyeball</kanji> <kanji>sphere</kanji> is an <vocabulary>eyeball</vocabulary>. Eww.",
+  "primaryReading": "がんきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "眼球",
+  "related": {
+    "radicals": [
+      53,
+      196,
+      48,
+      399
+    ],
+    "kanjis": [
+      1488,
+      832
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がんきゅう",
+      "url": "https://files.wanikani.com/r0dwfsa4kwmx8fcbexdxw5pyw3hh"
+    }
+  ]
+}

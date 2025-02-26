@@ -1,0 +1,40 @@
+{
+  "id": 5945,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "電磁場"
+  },
+  "primaryMeaning": "Electromagnetic Field",
+  "meaningMnemonic": "A 磁場 is a \"magnetic field.\" An <kanji>electricity</kanji> version of this is an <vocabulary>electromagnetic field</vocabulary>.",
+  "primaryReading": "でんじば",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings for the first two kanji and the kun'yomi reading of the third. You should be able to read this on your own. Will of course help to know 磁場 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "電磁場",
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      54,
+      8767,
+      1,
+      87,
+      17,
+      172
+    ],
+    "kanjis": [
+      706,
+      1559,
+      694
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんじば",
+      "url": "https://files.wanikani.com/euq831g0eiatmb4aoglw3ptmo48m"
+    }
+  ]
+}

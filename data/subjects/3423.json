@@ -1,0 +1,37 @@
+{
+  "id": 3423,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "東京"
+  },
+  "primaryMeaning": "Tokyo",
+  "meaningMnemonic": "The <kanji>East</kanji> <kanji>Capital</kanji> in Japan is <vocabulary>Tokyo</vocabulary>. If you look on a map and compare it to 京都 (Kyoto, the other capital in history), you'll see it's East of Kyoto, making it the East Capital, Tokyo.",
+  "primaryReading": "とうきょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Toukyou"
+  ],
+  "otherReadings": [],
+  "wkSlug": "東京",
+  "related": {
+    "radicals": [
+      23,
+      22,
+      8,
+      16,
+      35
+    ],
+    "kanjis": [
+      627,
+      620
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうきょう",
+      "url": "https://files.wanikani.com/5yw58rrmligc1p4aon37c7m6o2ij"
+    }
+  ]
+}

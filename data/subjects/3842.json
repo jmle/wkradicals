@@ -1,0 +1,36 @@
+{
+  "id": 3842,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "政治"
+  },
+  "primaryMeaning": "Politics",
+  "meaningMnemonic": "If you want to <kanji>cure</kanji> the <kanji>government</kanji>, you have to get into <vocabulary>politics</vocabulary>. Gotta join 'em to fix them... but can you survive that long without being corrupted yourself?",
+  "primaryReading": "せいじ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Government"
+  ],
+  "otherReadings": [],
+  "wkSlug": "政治",
+  "related": {
+    "radicals": [
+      229,
+      60,
+      103,
+      417
+    ],
+    "kanjis": [
+      985,
+      978
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいじ",
+      "url": "https://files.wanikani.com/5dt2kbp32r18wrzm2p3un81afws7"
+    }
+  ]
+}

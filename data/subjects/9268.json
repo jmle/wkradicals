@@ -1,0 +1,42 @@
+{
+  "id": 9268,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "一昨年"
+  },
+  "primaryMeaning": "Year Before Last",
+  "meaningMnemonic": "Remember how 一昨日 means \"day before last\"? Similarly, <kanji>one</kanji> year <kanji>previous</kanji> to that <kanji>year</kanji> is the <vocabulary>year before last</vocabulary>.",
+  "primaryReading": "おととし",
+  "readingMnemonic": "The last time you tossed something into a trash can was the <vocabulary>year before last</vocabulary>. Why? Because you got a trash can with an <reading>auto</reading>  <reading>tossi</reading>ng (おととし) feature. What amazing technology!",
+  "otherMeanings": [],
+  "otherReadings": [
+    "いっさくねん"
+  ],
+  "wkSlug": "一昨年",
+  "related": {
+    "radicals": [
+      1,
+      22,
+      122,
+      8762,
+      126
+    ],
+    "kanjis": [
+      440,
+      947,
+      546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おととし",
+      "url": "https://files.wanikani.com/d5p2zx899rfo76zlv3bp1avqgqbo"
+    },
+    {
+      "reading": "いっさくねん",
+      "url": "https://files.wanikani.com/83t8ttf2psqigducf8ndg8n8qntq"
+    }
+  ]
+}

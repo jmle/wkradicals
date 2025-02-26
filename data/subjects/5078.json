@@ -1,0 +1,36 @@
+{
+  "id": 5078,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "腹切り"
+  },
+  "primaryMeaning": "Harakiri",
+  "meaningMnemonic": "You <kanji>cut</kanji> your <kanji>abdomen</kanji>. This is what you do when you're doing <vocabulary>harakiri</vocabulary>, aka <vocabulary>ritual suicide</vocabulary>.",
+  "primaryReading": "はらきり",
+  "readingMnemonic": "The readings come from 腹 and 切る. If you're lucky, you already know the word harakiri as it's made its way into English as well.",
+  "otherMeanings": [
+    "Ritual Suicide"
+  ],
+  "otherReadings": [],
+  "wkSlug": "腹切り",
+  "related": {
+    "radicals": [
+      43,
+      265,
+      4,
+      24
+    ],
+    "kanjis": [
+      1317,
+      502
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はらきり",
+      "url": "https://files.wanikani.com/gyiyihhaynj7n97o44fxxe7swg8y"
+    }
+  ]
+}

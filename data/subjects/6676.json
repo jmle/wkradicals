@@ -1,0 +1,39 @@
+{
+  "id": 6676,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "牧師"
+  },
+  "primaryMeaning": "Pastor",
+  "meaningMnemonic": "A <kanji>pasture</kanji> <kanji>teacher</kanji> is one who leads his flock around through life. This is a <vocabulary>pastor</vocabulary>, <vocabulary>minister</vocabulary>, or <vocabulary>clergyman</vocabulary>.",
+  "primaryReading": "ぼくし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Minister",
+    "Clergyman"
+  ],
+  "otherReadings": [],
+  "wkSlug": "牧師",
+  "related": {
+    "radicals": [
+      126,
+      60,
+      3,
+      8777,
+      1,
+      102
+    ],
+    "kanjis": [
+      1846,
+      1198
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼくし",
+      "url": "https://files.wanikani.com/ic68q4ix82tfg8cd43nloerntvhd"
+    }
+  ]
+}

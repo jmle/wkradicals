@@ -1,0 +1,34 @@
+{
+  "id": 5944,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "勤め"
+  },
+  "primaryMeaning": "Work",
+  "meaningMnemonic": "If 勤める is \"to be employed at,\" then the noun version of this is <vocabulary>work</vocabulary>. I mean, I really hope you're doing work at the place that employed you... if not you'll probably be fired.",
+  "primaryReading": "つとめ",
+  "readingMnemonic": "The reading comes from 勤める.",
+  "otherMeanings": [
+    "Job",
+    "Duties"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勤め",
+  "related": {
+    "radicals": [
+      428,
+      13
+    ],
+    "kanjis": [
+      1570
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つとめ",
+      "url": "https://files.wanikani.com/xd000v87bn3j7r2rsl4ldjqbin8z"
+    }
+  ]
+}

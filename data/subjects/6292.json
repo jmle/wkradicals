@@ -1,0 +1,33 @@
+{
+  "id": 6292,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "免税"
+  },
+  "primaryMeaning": "Tax Exemption",
+  "meaningMnemonic": "An <kanji>excuse</kanji> from <kanji>tax</kanji>es? That's a <vocabulary>tax exemption</vocabulary>.",
+  "primaryReading": "めんぜい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "免税",
+  "related": {
+    "radicals": [
+      208,
+      135,
+      422
+    ],
+    "kanjis": [
+      1722,
+      1149
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めんぜい",
+      "url": "https://files.wanikani.com/hb2ykimy2atpylosdp35y661ucaf"
+    }
+  ]
+}

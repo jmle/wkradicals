@@ -1,0 +1,34 @@
+{
+  "id": 4840,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "可能"
+  },
+  "primaryMeaning": "Possible",
+  "meaningMnemonic": "The <kanji>ability</kanji> is there, so it is <kanji>possible</kanji>... wait, there's enough ability to make this <vocabulary>possible</vocabulary>? Let's do it!",
+  "primaryReading": "かのう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "可能",
+  "related": {
+    "radicals": [
+      113,
+      140,
+      43,
+      57
+    ],
+    "kanjis": [
+      1049,
+      921
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かのう",
+      "url": "https://files.wanikani.com/rb3s4o1kvbfne77zhboeslas5gbg"
+    }
+  ]
+}

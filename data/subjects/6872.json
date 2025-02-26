@@ -1,0 +1,37 @@
+{
+  "id": 6872,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "先頃"
+  },
+  "primaryMeaning": "Recently",
+  "meaningMnemonic": "The <kanji>previous</kanji> <kanji>approximate</kanji> was the previous approximate time, which is <vocabulary>recently</vocabulary> or <vocabulary>the other day</vocabulary>.",
+  "primaryReading": "さきごろ",
+  "readingMnemonic": "The reading is the kun'yomi vocab readings of the two kanji. That's 先 and 頃 (the reading you learned) put together. The 頃 is the rendaku'd version, ごろ so be careful.",
+  "otherMeanings": [
+    "The Other Day"
+  ],
+  "otherReadings": [],
+  "wkSlug": "先頃",
+  "related": {
+    "radicals": [
+      5,
+      17,
+      28,
+      57,
+      184
+    ],
+    "kanjis": [
+      543,
+      1914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さきごろ",
+      "url": "https://files.wanikani.com/ebetii0cum13bjqymi92kgas174w"
+    }
+  ]
+}

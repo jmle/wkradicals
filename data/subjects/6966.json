@@ -1,0 +1,33 @@
+{
+  "id": 6966,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "入れ墨"
+  },
+  "primaryMeaning": "Tattoo",
+  "meaningMnemonic": "If you <kanji>enter</kanji> <kanji>ink</kanji> into (your body), you are getting yourself a <vocabulary>tattoo</vocabulary>.",
+  "primaryReading": "いれずみ",
+  "readingMnemonic": "The reading comes from 入れる and 墨 combined together. Careful of the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "入れ墨",
+  "related": {
+    "radicals": [
+      12,
+      153,
+      17
+    ],
+    "kanjis": [
+      445,
+      1941
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いれずみ",
+      "url": "https://files.wanikani.com/shvakxk0hsspfofdrcf7b3w4uylp"
+    }
+  ]
+}

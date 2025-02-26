@@ -1,0 +1,33 @@
+{
+  "id": 5704,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "積む"
+  },
+  "primaryMeaning": "To Pile Things Up",
+  "meaningMnemonic": "積もる is \"to accumulate.\" Now you're doing the accumulating, and in order to do that you must go <vocabulary>to pile things up</vocabulary>. More and more and more. How do you know that this verb is when you're doing the accumulating? It's because you are piling up cows (む). Wow, a cow piler.",
+  "primaryReading": "つむ",
+  "readingMnemonic": "The reading comes from 積もる, so pile up your knowledge and remember it that way.",
+  "otherMeanings": [
+    "To Accumulate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "積む",
+  "related": {
+    "radicals": [
+      135,
+      321
+    ],
+    "kanjis": [
+      1393
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つむ",
+      "url": "https://files.wanikani.com/93c8n4fiwkxx084j68o32l008psx"
+    }
+  ]
+}

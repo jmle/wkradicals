@@ -1,0 +1,33 @@
+{
+  "id": 7156,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "紛れ"
+  },
+  "primaryMeaning": "Fluke",
+  "meaningMnemonic": "When you're <kanji>distract</kanji>ed, everything you do is a <vocabulary>fluke</vocabulary>. You're not focusing, so it all comes down to <vocabulary>chance</vocabulary>.\n\nNote that this word is mostly written in kana only!",
+  "primaryReading": "まぐれ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. This uses a different reading than the one you've already learned, so here's a mnemonic to help you:\n\nSomebody was trying to <reading>mug</reading> (まぐ) you, but you managed to escape by pure <vocabulary>chance</vocabulary>! Your escape might have just been a <vocabulary>fluke</vocabulary>, but at least you didn't get mugged!",
+  "otherMeanings": [
+    "Chance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "紛れ",
+  "related": {
+    "radicals": [
+      86,
+      247
+    ],
+    "kanjis": [
+      1829
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まぐれ",
+      "url": "https://files.wanikani.com/tbvuhx5mbw7ha1tsl0c0d939ei6c"
+    }
+  ]
+}

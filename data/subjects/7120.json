@@ -1,0 +1,31 @@
+{
+  "id": 7120,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "滴る"
+  },
+  "primaryMeaning": "To Drip",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>drip</kanji> and the verb vocab version is <vocabulary>to drip</vocabulary>.",
+  "primaryReading": "したたる",
+  "readingMnemonic": "<vocabulary>To drip</vocabulary> drip drip on your head... what's dripping on your head? You're standing below a toilet that's leaking. The dripping sounds like \"<reading>sh*t, ta-ta</reading> (したた), with each drip making a \"ta\" sound because it's kind of thick and poopy.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "滴る",
+  "related": {
+    "radicals": [
+      103,
+      276
+    ],
+    "kanjis": [
+      2003
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "したたる",
+      "url": "https://files.wanikani.com/ig6vvgcb46jrdts6mdzn3x7raovv"
+    }
+  ]
+}

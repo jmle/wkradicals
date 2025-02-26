@@ -1,0 +1,41 @@
+{
+  "id": 8412,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "迎賓館"
+  },
+  "primaryMeaning": "Reception Hall",
+  "meaningMnemonic": "A <kanji>public building</kanji> where you <kanji>welcome</kanji> <kanji>VIP</kanji> guests is a <vocabulary>reception hall</vocabulary>. Or a <vocabulary>guest house</vocabulary> if they're staying the night.",
+  "primaryReading": "げいひんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Guest House"
+  ],
+  "otherReadings": [],
+  "wkSlug": "迎賓館",
+  "related": {
+    "radicals": [
+      114,
+      340,
+      78,
+      1,
+      198,
+      94,
+      139,
+      8777
+    ],
+    "kanjis": [
+      1481,
+      2277,
+      873
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げいひんかん",
+      "url": "https://files.wanikani.com/2wacy16tf29q2zmprgdqeyw9uw76"
+    }
+  ]
+}

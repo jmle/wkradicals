@@ -1,0 +1,35 @@
+{
+  "id": 3940,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "昼ご飯"
+  },
+  "primaryMeaning": "Lunch",
+  "meaningMnemonic": "The <kanji>noon</kanji> <kanji>meal</kanji> is the meal you eat at noon. What meal is that? It's delicious, delicious <vocabulary>lunch</vocabulary>.",
+  "primaryReading": "ひるごはん",
+  "readingMnemonic": "The readings come from the words 昼 and ご飯. If you know how to read those words you can read this word as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "昼ご飯",
+  "related": {
+    "radicals": [
+      215,
+      22,
+      1,
+      139,
+      218
+    ],
+    "kanjis": [
+      932,
+      955
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひるごはん",
+      "url": "https://files.wanikani.com/u9hpnaod1hj9hg2h473c2be8cof2"
+    }
+  ]
+}

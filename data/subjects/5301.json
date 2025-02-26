@@ -1,0 +1,35 @@
+{
+  "id": 5301,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "結婚"
+  },
+  "primaryMeaning": "Marriage",
+  "meaningMnemonic": "Let's <kanji>bind</kanji> this <kanji>marriage</kanji> up with a <vocabulary>marriage</vocabulary>. No better way to make a marriage happen than a marriage, right?",
+  "primaryReading": "けっこん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "結婚",
+  "related": {
+    "radicals": [
+      86,
+      253,
+      19,
+      147,
+      22
+    ],
+    "kanjis": [
+      1009,
+      1416
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けっこん",
+      "url": "https://files.wanikani.com/w3y8qf43bj4zpclu2azgylpok0qg"
+    }
+  ]
+}

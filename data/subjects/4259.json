@@ -1,0 +1,39 @@
+{
+  "id": 4259,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "個室"
+  },
+  "primaryMeaning": "Private Room",
+  "meaningMnemonic": "An <kanji>individual</kanji> <kanji>room</kanji> just for you is your own <vocabulary>private room</vocabulary>. How nice!",
+  "primaryReading": "こしつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "One's Own Room"
+  ],
+  "otherReadings": [],
+  "wkSlug": "個室",
+  "related": {
+    "radicals": [
+      75,
+      16,
+      69,
+      78,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      1105,
+      635
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こしつ",
+      "url": "https://files.wanikani.com/f85u09cbmm6kyg6hpipulbo8hm2u"
+    }
+  ]
+}

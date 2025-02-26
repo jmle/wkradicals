@@ -1,0 +1,32 @@
+{
+  "id": 2415,
+  "type": "kanji",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "姻"
+  },
+  "primaryReading": "いん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "いん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Marry",
+  "otherMeanings": [],
+  "meaningMnemonic": "You meet a <radical>woman</radical> whose <radical>mouth</radical> is <radical>big</radical> and you instantly know this is the person you want to <kanji>marry</kanji>.",
+  "readingMnemonic": "You <kanji>marry</kanji> this woman right away and you both go straight to an <reading>inn</reading> (いん) together!",
+  "wkSlug": "姻",
+  "related": {
+    "radicals": [
+      19,
+      16,
+      18
+    ],
+    "vocabularies": [
+      8528
+    ]
+  }
+}

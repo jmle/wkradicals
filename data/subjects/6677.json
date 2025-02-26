@@ -1,0 +1,42 @@
+{
+  "id": 6677,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "牧野"
+  },
+  "primaryMeaning": "Pasture Land",
+  "meaningMnemonic": "A <kanji>pasture</kanji> <kanji>field</kanji> is <vocabulary>pasture land</vocabulary>. It's also a <vocabulary>ranch</vocabulary>.",
+  "primaryReading": "ぼくや",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.\n\nThe secondary reading is a bit different. That's a family name, and uses the kun'yomi readings of both kanji. We'll consider this secondary for now, but you may have to come back to this when you see this as a name and are all like \"what's going on here??\"",
+  "otherMeanings": [
+    "Ranch"
+  ],
+  "otherReadings": [
+    "まきの"
+  ],
+  "wkSlug": "牧野",
+  "related": {
+    "radicals": [
+      126,
+      60,
+      125,
+      339
+    ],
+    "kanjis": [
+      1846,
+      848
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まきの",
+      "url": "https://files.wanikani.com/l3o3aq3ohd797tz7h2xllakf51zy"
+    },
+    {
+      "reading": "ぼくや",
+      "url": "https://files.wanikani.com/a8sgemzqn0mj76vd47tn80t3a8oi"
+    }
+  ]
+}

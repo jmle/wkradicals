@@ -1,0 +1,31 @@
+{
+  "id": 6702,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "封"
+  },
+  "primaryMeaning": "Seal",
+  "meaningMnemonic": "The kanji is <kanji>seal in</kanji>, but the vocab noun version is <vocabulary>seal</vocabulary>. This is simply a seal (not the water kind, the kind you use to seal something with).",
+  "primaryReading": "ふう",
+  "readingMnemonic": "The reading is the same as one of the readings you learned: ふう. Don't be a <reading>foo</reading>l, make sure you seal your envelopes.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "封",
+  "related": {
+    "radicals": [
+      17,
+      74
+    ],
+    "kanjis": [
+      1853
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふう",
+      "url": "https://files.wanikani.com/8c2fqn7bmj39e6yroro5y6c7iwlc"
+    }
+  ]
+}

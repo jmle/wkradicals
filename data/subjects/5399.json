@@ -1,0 +1,35 @@
+{
+  "id": 5399,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "攻撃する"
+  },
+  "primaryMeaning": "To Attack",
+  "meaningMnemonic": "攻撃 is an <kanji>attack</kanji>. Make that into a verb and you have <vocabulary>to attack</vocabulary>.",
+  "primaryReading": "こうげきする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know 攻撃 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "攻撃する",
+  "related": {
+    "radicals": [
+      25,
+      60,
+      93,
+      160,
+      41
+    ],
+    "kanjis": [
+      1378,
+      1377
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうげきする",
+      "url": "https://files.wanikani.com/31ygos0md8b3he2c7fwd5jogw7pv"
+    }
+  ]
+}

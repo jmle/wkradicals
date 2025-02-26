@@ -1,0 +1,32 @@
+{
+  "id": 8734,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "戸"
+  },
+  "primaryMeaning": "Japanese Style Door",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "と",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Door"
+  ],
+  "otherReadings": [],
+  "wkSlug": "戸",
+  "related": {
+    "radicals": [
+      73
+    ],
+    "kanjis": [
+      509
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "と",
+      "url": "https://files.wanikani.com/5yx3s2h8j9ugazoye7b3q3lfkg24"
+    }
+  ]
+}

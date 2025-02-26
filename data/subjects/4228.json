@@ -1,0 +1,30 @@
+{
+  "id": 4228,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "舌"
+  },
+  "primaryMeaning": "Tongue",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "した",
+  "readingMnemonic": "Uses the same reading that you learned with the kanji. Go ahead and use your <vocabulary>tongue</vocabulary> and say the reading out loud... \"<reading>した</reading>.\"",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "舌",
+  "related": {
+    "radicals": [
+      174
+    ],
+    "kanjis": [
+      1070
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "した",
+      "url": "https://files.wanikani.com/gv4mh49y7lkondlp57mmdw34r16u"
+    }
+  ]
+}

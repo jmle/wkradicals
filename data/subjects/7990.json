@@ -1,0 +1,38 @@
+{
+  "id": 7990,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "搭載"
+  },
+  "primaryMeaning": "Built In",
+  "meaningMnemonic": "When something has already been <kanji>board</kanji>ed and <kanji>put on</kanji>to something, it comes <vocabulary>built in</vocabulary>.\n\n搭載 refers to something built into or onto another object, which generally is a vehicle or a machine.",
+  "primaryReading": "とうさい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Equipped With"
+  ],
+  "otherReadings": [],
+  "wkSlug": "搭載",
+  "related": {
+    "radicals": [
+      63,
+      90,
+      216,
+      15,
+      194,
+      93
+    ],
+    "kanjis": [
+      2211,
+      1230
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうさい",
+      "url": "https://files.wanikani.com/3r3s62cvc9vcb1rw31qbnpvlvz9z"
+    }
+  ]
+}

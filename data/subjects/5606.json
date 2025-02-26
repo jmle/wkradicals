@@ -1,0 +1,35 @@
+{
+  "id": 5606,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "延長する"
+  },
+  "primaryMeaning": "To Prolong",
+  "meaningMnemonic": "If 延長 is <kanji>prolonging</kanji>, then the verb version is <vocabulary>to prolong</vocabulary>.",
+  "primaryReading": "えんちょうする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "To Extend"
+  ],
+  "otherReadings": [],
+  "wkSlug": "延長する",
+  "related": {
+    "radicals": [
+      206,
+      229,
+      138
+    ],
+    "kanjis": [
+      1426,
+      632
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんちょうする",
+      "url": "https://files.wanikani.com/wx41v965vpzcr1kfucyewuep4zkd"
+    }
+  ]
+}

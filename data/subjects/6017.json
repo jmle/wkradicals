@@ -1,0 +1,36 @@
+{
+  "id": 6017,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "依頼"
+  },
+  "primaryMeaning": "Request",
+  "meaningMnemonic": "I am <kanji>reliant</kanji> on you and I <kanji>trust</kanji> you. Therefore, I have a <vocabulary>request</vocabulary> for you that I'd like to <vocabulary>entrust</vocabulary> you with.",
+  "primaryReading": "いらい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Entrust"
+  ],
+  "otherReadings": [],
+  "wkSlug": "依頼",
+  "related": {
+    "radicals": [
+      75,
+      320,
+      219,
+      184
+    ],
+    "kanjis": [
+      1639,
+      1638
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いらい",
+      "url": "https://files.wanikani.com/r7wp9fjjcir7jasfbh5ztyjynogp"
+    }
+  ]
+}

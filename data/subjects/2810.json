@@ -1,0 +1,36 @@
+{
+  "id": 2810,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "作用"
+  },
+  "primaryMeaning": "Effect",
+  "meaningMnemonic": "When you <kanji>make</kanji> a <kanji>task</kanji> you're looking for a certain <vocabulary>effect</vocabulary> or <vocabulary>action</vocabulary>. What task can you make right now to get the effect of learning more kanji?",
+  "primaryReading": "さよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 作 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nWhat's the <vocabulary>effect</vocabulary> of a <reading>saw</reading> on <reading>yo</reading>gurt (さよう)? What will the <vocabulary>action</vocabulary> of the saw on the yogurt do? Seems futile, but you're going to try anyway. For science.",
+  "otherMeanings": [
+    "Action",
+    "Operation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "作用",
+  "related": {
+    "radicals": [
+      75,
+      122,
+      71
+    ],
+    "kanjis": [
+      584,
+      525
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さよう",
+      "url": "https://files.wanikani.com/my8jlrf771rjnlx9ynmci18c5zk4"
+    }
+  ]
+}

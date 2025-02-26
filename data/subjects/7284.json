@@ -1,0 +1,36 @@
+{
+  "id": 7284,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "拘置"
+  },
+  "primaryMeaning": "Detention",
+  "meaningMnemonic": "<kanji>Arrest</kanji> and <kanji>put</kanji> the criminal in <vocabulary>detention</vocabulary> and <vocabulary>confinement</vocabulary>. Get in there, criminal!",
+  "primaryReading": "こうち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Confinement"
+  ],
+  "otherReadings": [],
+  "wkSlug": "拘置",
+  "related": {
+    "radicals": [
+      63,
+      242,
+      163,
+      8821
+    ],
+    "kanjis": [
+      2056,
+      1164
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうち",
+      "url": "https://files.wanikani.com/go0ea7ksvszkfrj8b43snide7bpb"
+    }
+  ]
+}

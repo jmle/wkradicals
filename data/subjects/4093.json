@@ -1,0 +1,33 @@
+{
+  "id": 4093,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "お守り"
+  },
+  "primaryMeaning": "Amulet",
+  "meaningMnemonic": "You know how 守る is \"to protect,\" right? This is like that, but it's the noun version. It's not really \"a protection,\" though it kind of is. What things can you wear to protect you from things like bad luck, demons, and ancient aliens? That would be an <vocabulary>amulet</vocabulary> or a <vocabulary>charm</vocabulary>. You'll see these kinds of things sold at temples and such.",
+  "primaryReading": "おまもり",
+  "readingMnemonic": "The reading is like that of 守る, so if you know the reading of that word you should be able to read this one as well.",
+  "otherMeanings": [
+    "Charm"
+  ],
+  "otherReadings": [],
+  "wkSlug": "お守り",
+  "related": {
+    "radicals": [
+      78,
+      74
+    ],
+    "kanjis": [
+      968
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おまもり",
+      "url": "https://files.wanikani.com/yfpzrmx8vbdei3j2spo9cbie6wv7"
+    }
+  ]
+}

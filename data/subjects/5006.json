@@ -1,0 +1,37 @@
+{
+  "id": 5006,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "健康"
+  },
+  "primaryMeaning": "Health",
+  "meaningMnemonic": "You're so <kanji>healthy</kanji> it puts you at <kanji>ease</kanji>. That's your <vocabulary>health</vocabulary>! So healthful, go you!",
+  "primaryReading": "けんこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Healthy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "健康",
+  "related": {
+    "radicals": [
+      75,
+      206,
+      220,
+      62,
+      45
+    ],
+    "kanjis": [
+      1342,
+      1343
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんこう",
+      "url": "https://files.wanikani.com/hk60zlzekzmy0fbmu9hvu3bmibru"
+    }
+  ]
+}

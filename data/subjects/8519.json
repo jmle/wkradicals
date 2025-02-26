@@ -1,0 +1,37 @@
+{
+  "id": 8519,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "侮辱"
+  },
+  "primaryMeaning": "Insult",
+  "meaningMnemonic": "You <kanji>despise</kanji> this one guy so much that you want to <kanji>humiliate</kanji> him so you <vocabulary>insult</vocabulary> him in public. That wasn't very nice, but it did seem to embarrass him. I guess you won.",
+  "primaryReading": "ぶじょく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Contempt",
+    "Slight"
+  ],
+  "otherReadings": [],
+  "wkSlug": "侮辱",
+  "related": {
+    "radicals": [
+      75,
+      379,
+      183,
+      74
+    ],
+    "kanjis": [
+      2422,
+      2016
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶじょく",
+      "url": "https://files.wanikani.com/b2ar7cn0f8e88int2muaxm0662u9"
+    }
+  ]
+}

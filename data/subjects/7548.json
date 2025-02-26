@@ -1,0 +1,41 @@
+{
+  "id": 7548,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "側"
+  },
+  "primaryMeaning": "Side",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "そば",
+  "readingMnemonic": "You've learned the <reading>がわ</reading> as the reading for this kanji, but when its used on its own as a vocabulary word, it is read as <reading>そば</reading>. Here's a mnemonic to help you remember:\n\nHaving a <reading>sober</reading>(そば) person by your <vocabulary>side</vocabulary> is important when you're drunk. \n\nThink of other vocabulary words that use <reading>がわ</reading>. In these words, <kanji>側</kanji> is a suffix, so it will have another kanji that comes before it. \n\n\n",
+  "otherMeanings": [
+    "Side Of Something",
+    "Part"
+  ],
+  "otherReadings": [
+    "がわ"
+  ],
+  "wkSlug": "側",
+  "related": {
+    "radicals": [
+      75,
+      94,
+      128
+    ],
+    "kanjis": [
+      999
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がわ",
+      "url": "https://files.wanikani.com/evpapmh1z8jpzcx1l4ikp5p4a7l4"
+    },
+    {
+      "reading": "そば",
+      "url": "https://files.wanikani.com/gjwwx0s0fag1jcubaoye5mibqoeg"
+    }
+  ]
+}

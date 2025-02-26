@@ -1,0 +1,37 @@
+{
+  "id": 4451,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "検問する"
+  },
+  "primaryMeaning": "To Inspect",
+  "meaningMnemonic": "You <kanji>examine</kanji> the <kanji>problem</kanji>. In order to do this, you need <vocabulary>to inspect</vocabulary> it or <vocabulary>to examine</vocabulary> it. And if you're inspecting people like this, you're probably the police.",
+  "primaryReading": "けんもんする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "To Examine",
+    "To Check"
+  ],
+  "otherReadings": [],
+  "wkSlug": "検問する",
+  "related": {
+    "radicals": [
+      23,
+      8785,
+      214,
+      16
+    ],
+    "kanjis": [
+      1143,
+      859
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんもんする",
+      "url": "https://files.wanikani.com/d1kxsvdm1kddmiq77j9ha2lulqe4"
+    }
+  ]
+}

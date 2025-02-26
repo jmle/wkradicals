@@ -1,0 +1,34 @@
+{
+  "id": 4915,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "復習"
+  },
+  "primaryMeaning": "Review",
+  "meaningMnemonic": "<kanji>Restore</kanji> what you <kanji>learn</kanji>ed with <vocabulary>review</vocabulary>s. That's what you do on WaniKani, right?",
+  "primaryReading": "ふくしゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "復習",
+  "related": {
+    "radicals": [
+      99,
+      265,
+      213,
+      52
+    ],
+    "kanjis": [
+      1285,
+      746
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふくしゅう",
+      "url": "https://files.wanikani.com/oe647zw134h9nrohs18k47ztf8qf"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 5821,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "損"
+  },
+  "primaryMeaning": "Disadvantage",
+  "meaningMnemonic": "A <kanji>loss</kanji> will give you a <vocabulary>disadvantage</vocabulary>. So, try not to get any losses... or you'll be at a disadvantage.",
+  "primaryReading": "そん",
+  "readingMnemonic": "The reading comes from the kanji, so you aren't at a <vocabulary>disadvantage</vocabulary>... this time.",
+  "otherMeanings": [
+    "Loss"
+  ],
+  "otherReadings": [],
+  "wkSlug": "損",
+  "related": {
+    "radicals": [
+      63,
+      349
+    ],
+    "kanjis": [
+      1573
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そん",
+      "url": "https://files.wanikani.com/3x10rr8mf64tb3sjozarnpftsjv9"
+    }
+  ]
+}

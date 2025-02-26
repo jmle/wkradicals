@@ -1,0 +1,34 @@
+{
+  "id": 3514,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "白黒"
+  },
+  "primaryMeaning": "Black And White",
+  "meaningMnemonic": "Something is both <kanji>white</kanji> and <kanji>black</kanji>. It is <vocabulary>black and white</vocabulary> (you can also say <vocabulary>white and black</vocabulary> if you prefer).",
+  "primaryReading": "しろくろ",
+  "readingMnemonic": "The readings are kun'yomi, but you should have seen both 白 and 黒い separately as vocabulary by now. It's the same readings here, so you can apply that knowledge and read this word!",
+  "otherMeanings": [
+    "White And Black"
+  ],
+  "otherReadings": [],
+  "wkSlug": "白黒",
+  "related": {
+    "radicals": [
+      52,
+      153
+    ],
+    "kanjis": [
+      491,
+      677
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しろくろ",
+      "url": "https://files.wanikani.com/rych3ez6xcy4k2d770jknds8b0ps"
+    }
+  ]
+}

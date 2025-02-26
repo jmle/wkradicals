@@ -1,0 +1,36 @@
+{
+  "id": 8809,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "優れる"
+  },
+  "primaryMeaning": "To Surpass",
+  "meaningMnemonic": "This is the verb version of the kanji <kanji>superior</kanji>, so it means <vocabulary>to surpass</vocabulary>. Someone who is superior is always going to surpass and <vocabulary>to excel</vocabulary> beyond others. That's what makes them so superior in the first place!\n\nThis is a formal word that is often used in writing or formal speech. ",
+  "primaryReading": "すぐれる",
+  "readingMnemonic": "Remember how 今すぐ means \"at once\"? Well that's the key <vocabulary>to surpass</vocabulary>ing others. You have to do everything 今<reading>すぐ</reading>!!!",
+  "otherMeanings": [
+    "To Excel"
+  ],
+  "otherReadings": [],
+  "wkSlug": "優れる",
+  "related": {
+    "radicals": [
+      75,
+      239,
+      76,
+      65,
+      60
+    ],
+    "kanjis": [
+      1206
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すぐれる",
+      "url": "https://files.wanikani.com/q2zqco8lmbug7w36tezxrmle7om0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2526,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "五"
+  },
+  "primaryMeaning": "Five",
+  "meaningMnemonic": "This vocab is made from a single kanji, which means it shares the same meaning as the parent kanji: <vocabulary>Five</vocabulary>.",
+  "primaryReading": "ご",
+  "readingMnemonic": "Since numbers are an exception, this word is read using the on'yomi reading even though it's made from a single kanji all alone. Luckily for you, you learned the reading for this word when you learned the parent kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "五",
+  "related": {
+    "radicals": [
+      39
+    ],
+    "kanjis": [
+      470
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ご",
+      "url": "https://files.wanikani.com/hkqp1zm41xp582yid4jlswbfhq7q"
+    }
+  ]
+}

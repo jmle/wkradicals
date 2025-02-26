@@ -1,0 +1,32 @@
+{
+  "id": 1837,
+  "type": "kanji",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "誰"
+  },
+  "primaryReading": "だれ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "だれ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Who",
+  "otherMeanings": [],
+  "meaningMnemonic": "Who will <radical>say</radical> <radical>turkey</radical>? Who? <kanji>WHO</kanji>???",
+  "readingMnemonic": "Then, someone says turkey. \"<kanji>Who</kanji> said turkey? You? How <reading>dare</reading> (だれ) you.\"",
+  "wkSlug": "誰",
+  "related": {
+    "radicals": [
+      117,
+      240
+    ],
+    "vocabularies": [
+      6653,
+      6654
+    ]
+  }
+}

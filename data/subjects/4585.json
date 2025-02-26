@@ -1,0 +1,35 @@
+{
+  "id": 4585,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "停止"
+  },
+  "primaryMeaning": "Stoppage",
+  "meaningMnemonic": "<kanji>Halt</kanji> and <kanji>stop</kanji>. When something does this, it's in a <vocabulary>stoppage</vocabulary>.",
+  "primaryReading": "ていし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Suspension"
+  ],
+  "otherReadings": [],
+  "wkSlug": "停止",
+  "related": {
+    "radicals": [
+      75,
+      290,
+      44
+    ],
+    "kanjis": [
+      1187,
+      514
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ていし",
+      "url": "https://files.wanikani.com/w398holzsxrpus9yjuf66ruim2vc"
+    }
+  ]
+}

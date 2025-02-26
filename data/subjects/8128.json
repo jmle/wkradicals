@@ -1,0 +1,39 @@
+{
+  "id": 8128,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "無秩序"
+  },
+  "primaryMeaning": "Disorder",
+  "meaningMnemonic": "Remember how you learned that 秩序 means \"order?\" Well if you have <kanji>nothing</kanji> like that then it falls into <vocabulary>disorder</vocabulary> and <vocabulary>chaos</vocabulary>!",
+  "primaryReading": "むちつじょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Chaos",
+    "Confusion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無秩序",
+  "related": {
+    "radicals": [
+      252,
+      135,
+      275,
+      62,
+      339
+    ],
+    "kanjis": [
+      1008,
+      2167,
+      1480
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むちつじょ",
+      "url": "https://files.wanikani.com/zxi8v1cpxeze91qm96vdoz0ezyl5"
+    }
+  ]
+}

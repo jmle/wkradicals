@@ -1,0 +1,34 @@
+{
+  "id": 8231,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "累積"
+  },
+  "primaryMeaning": "Accumulation",
+  "meaningMnemonic": "<kanji>Accumulate</kanji> and <kanji>accumulate</kanji> make <vocabulary>accumulation</vocabulary>!",
+  "primaryReading": "るいせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "累積",
+  "related": {
+    "radicals": [
+      51,
+      86,
+      135,
+      321
+    ],
+    "kanjis": [
+      2273,
+      1393
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "るいせき",
+      "url": "https://files.wanikani.com/22tjxl67hhyo9uii4sr40eqec13l"
+    }
+  ]
+}

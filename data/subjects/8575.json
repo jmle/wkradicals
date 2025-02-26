@@ -1,0 +1,39 @@
+{
+  "id": 8575,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "落胆"
+  },
+  "primaryMeaning": "Discouragement",
+  "meaningMnemonic": "Your <kanji>guts</kanji> feel like they're <kanji>fall</kanji>ing when you experience a lot of <vocabulary>discouragement</vocabulary>. You know that sinking feeling you get in the pit of your stomach? That's your guts falling!",
+  "primaryReading": "らくたん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Despondency",
+    "Dejection",
+    "Disappointment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "落胆",
+  "related": {
+    "radicals": [
+      90,
+      103,
+      180,
+      43,
+      293
+    ],
+    "kanjis": [
+      749,
+      2425
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らくたん",
+      "url": "https://files.wanikani.com/b68mjzhmyq76y0logvf4dqqt7918"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4502,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "脱走する"
+  },
+  "primaryMeaning": "To Escape",
+  "meaningMnemonic": "You <kanji>escape</kanji> and <kanji>run</kanji> the hell out of there. Basically, you're trying <vocabulary>to escape</vocabulary>, <vocabulary>to flee</vocabulary>, or <vocabulary>to break out</vocabulary>. Pretty simple.\n\n脱走する specifically refers to escaping from a controlled or confined environment, like escaping from prison, a military base, or a guarded facility.",
+  "primaryReading": "だっそうする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The だつ changes to だっ, though, so be careful of that.",
+  "otherMeanings": [
+    "To Flee",
+    "To Break Out"
+  ],
+  "otherReadings": [],
+  "wkSlug": "脱走する",
+  "related": {
+    "radicals": [
+      43,
+      422,
+      124
+    ],
+    "kanjis": [
+      1157,
+      595
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だっそうする",
+      "url": "https://files.wanikani.com/q91xl50qyn763gwas73tz5fgdwnn"
+    }
+  ]
+}

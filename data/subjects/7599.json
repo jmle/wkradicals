@@ -1,0 +1,40 @@
+{
+  "id": 7599,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "全額"
+  },
+  "primaryMeaning": "Total",
+  "meaningMnemonic": "<kanji>All</kanji> of the <kanji>amount</kanji> is your <vocabulary>total</vocabulary>.",
+  "primaryReading": "ぜんがく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Full Amount",
+    "Sum",
+    "Total Amount",
+    "Entirety",
+    "Grand Total"
+  ],
+  "otherReadings": [],
+  "wkSlug": "全額",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      295,
+      184
+    ],
+    "kanjis": [
+      610,
+      1218
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんがく",
+      "url": "https://files.wanikani.com/hwccklvy2qglj1lnv2cptpbvevca"
+    }
+  ]
+}

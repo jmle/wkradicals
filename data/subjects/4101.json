@@ -1,0 +1,36 @@
+{
+  "id": 4101,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "弓道"
+  },
+  "primaryMeaning": "Archery",
+  "meaningMnemonic": "The <kanji>path</kanji> of the <kanji>bow</kanji>. This is <vocabulary>archery</vocabulary>.",
+  "primaryReading": "きゅうどう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Kyudo",
+    "Kyuudou"
+  ],
+  "otherReadings": [],
+  "wkSlug": "弓道",
+  "related": {
+    "radicals": [
+      36,
+      114,
+      156
+    ],
+    "kanjis": [
+      1030,
+      700
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうどう",
+      "url": "https://files.wanikani.com/omf7lxpjhadep1q2jaenlxpdshla"
+    }
+  ]
+}

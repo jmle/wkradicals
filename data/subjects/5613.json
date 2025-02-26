@@ -1,0 +1,38 @@
+{
+  "id": 5613,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "散歩する"
+  },
+  "primaryMeaning": "To Go For A Walk",
+  "meaningMnemonic": "散歩 is \"a walk.\" Make that into a verb and you have <vocabulary>to go for a walk</vocabulary> or <vocabulary>to go for a stroll</vocabulary>.",
+  "primaryReading": "さんぽする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. It will help to know 散歩 as well.",
+  "otherMeanings": [
+    "To Go For A Stroll"
+  ],
+  "otherReadings": [],
+  "wkSlug": "散歩する",
+  "related": {
+    "radicals": [
+      8775,
+      43,
+      60,
+      44,
+      35,
+      5
+    ],
+    "kanjis": [
+      1466,
+      628
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんぽする",
+      "url": "https://files.wanikani.com/5kthvzwmfyjhyxmhajtaw7wa6jnh"
+    }
+  ]
+}

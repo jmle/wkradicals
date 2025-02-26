@@ -1,0 +1,40 @@
+{
+  "id": 3888,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "温める"
+  },
+  "primaryMeaning": "To Heat Something Up",
+  "meaningMnemonic": "You know that the kanji 温 means <kanji>warm</kanji>, and this verb is related. It means <vocabulary>to heat something up</vocabulary> or <vocabulary>to warm something up</vocabulary>. It's all about you doing something to another object to make it hot, like putting it in the microwave. ",
+  "primaryReading": "あたためる",
+  "readingMnemonic": "The kanji reading is the same as 温かい. As long as you know that reading, you should be able to associate it with this word.\n\nJust like you can say あったかい for 温かい, people often say あっためる in conversation. The \"official\" reading is still あたためる, so when typing out the kanji or taking a test, try to stick to あたためる.",
+  "otherMeanings": [
+    "To Warm Something Up"
+  ],
+  "otherReadings": [
+    "あっためる"
+  ],
+  "wkSlug": "温める",
+  "related": {
+    "radicals": [
+      103,
+      22,
+      84
+    ],
+    "kanjis": [
+      842
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あっためる",
+      "url": "https://files.wanikani.com/c0gsm6y19vyjnwpivgrj8llfht3h"
+    },
+    {
+      "reading": "あたためる",
+      "url": "https://files.wanikani.com/ozglwa6zcbigbttwvkd9tulec84a"
+    }
+  ]
+}

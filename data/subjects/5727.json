@@ -1,0 +1,35 @@
+{
+  "id": 5727,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "使い捨て"
+  },
+  "primaryMeaning": "Disposable",
+  "meaningMnemonic": "After you <kanji>use</kanji> it you <kanji>throw away</kanji> it, making whatever it is you used a <vocabulary>disposable</vocabulary> item.",
+  "primaryReading": "つかいすて",
+  "readingMnemonic": "The reading comes from 使う and 捨てる, combined into one.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "使い捨て",
+  "related": {
+    "radicals": [
+      75,
+      1,
+      167,
+      63,
+      433
+    ],
+    "kanjis": [
+      709,
+      1503
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つかいすて",
+      "url": "https://files.wanikani.com/h5rvq5ln0snbtfz6ujlxzsmznaar"
+    }
+  ]
+}

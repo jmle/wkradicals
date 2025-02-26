@@ -1,0 +1,35 @@
+{
+  "id": 5426,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "華やか"
+  },
+  "primaryMeaning": "Showy",
+  "meaningMnemonic": "Something that is <kanji>showy</kanji> is <vocabulary>showy</vocabulary>. ",
+  "primaryReading": "はなやか",
+  "readingMnemonic": "For the reading, think about something that's <vocabulary>showy</vocabulary>... in particular, <reading>花</reading>s (はな). Flowers are super showy, always showing off their colors and stuff.",
+  "otherMeanings": [
+    "Gorgeous",
+    "Glamorous"
+  ],
+  "otherReadings": [],
+  "wkSlug": "華やか",
+  "related": {
+    "radicals": [
+      90,
+      51,
+      15
+    ],
+    "kanjis": [
+      1446
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はなやか",
+      "url": "https://files.wanikani.com/00fm1lluzil218c1se13nuur8190"
+    }
+  ]
+}

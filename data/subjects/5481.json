@@ -1,0 +1,33 @@
+{
+  "id": 5481,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "大陸"
+  },
+  "primaryMeaning": "Continent",
+  "meaningMnemonic": "A <kanji>big</kanji> <kanji>land</kanji> is the biggest types of land on this earth that there are. That is a <vocabulary>continent</vocabulary>.",
+  "primaryReading": "たいりく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "大陸",
+  "related": {
+    "radicals": [
+      18,
+      176,
+      222
+    ],
+    "kanjis": [
+      453,
+      1471
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいりく",
+      "url": "https://files.wanikani.com/ybdkrlzyg62gaj9a3biehjxginim"
+    }
+  ]
+}

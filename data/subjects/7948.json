@@ -1,0 +1,39 @@
+{
+  "id": 7948,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "陥落"
+  },
+  "primaryMeaning": "Fall",
+  "meaningMnemonic": "If you <kanji>fall</kanji> during a <kanji>cave in</kanji> you'll <vocabulary>fall</vocabulary> along with everything around you. And that <vocabulary>sinking</vocabulary> feeling in your stomach is because... I mean, well you ARE sinking into the ground. ",
+  "primaryReading": "かんらく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sinking",
+    "Surrender"
+  ],
+  "otherReadings": [],
+  "wkSlug": "陥落",
+  "related": {
+    "radicals": [
+      176,
+      14,
+      374,
+      90,
+      103,
+      180
+    ],
+    "kanjis": [
+      2155,
+      749
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんらく",
+      "url": "https://files.wanikani.com/84b1csvc86v9okkjdoroolkrmaof"
+    }
+  ]
+}

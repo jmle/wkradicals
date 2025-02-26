@@ -1,0 +1,33 @@
+{
+  "id": 7018,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "癖"
+  },
+  "primaryMeaning": "Bad Habit",
+  "meaningMnemonic": "The kanji itself means <kanji>habit</kanji> but it usually refers to a <vocabulary>bad habit</vocabulary>, so try to remember that meaning if you could.",
+  "primaryReading": "くせ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Habit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "癖",
+  "related": {
+    "radicals": [
+      187,
+      367
+    ],
+    "kanjis": [
+      1963
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くせ",
+      "url": "https://files.wanikani.com/qf8v93ovc2duaabwt85xmwtbnxeb"
+    }
+  ]
+}

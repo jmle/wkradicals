@@ -1,0 +1,36 @@
+{
+  "id": 7953,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "陳情"
+  },
+  "primaryMeaning": "Petition",
+  "meaningMnemonic": "<kanji>Exhibit</kanji> your <kanji>feeling</kanji>s in a <vocabulary>petition</vocabulary>. If you feel something is unjust you have to say something. Form an <vocabulary>appeal</vocabulary> and fight back!",
+  "primaryReading": "ちんじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Appeal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "陳情",
+  "related": {
+    "radicals": [
+      176,
+      224,
+      232,
+      120
+    ],
+    "kanjis": [
+      2173,
+      891
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちんじょう",
+      "url": "https://files.wanikani.com/qd263vecef2e27f5qn06r3p30p4b"
+    }
+  ]
+}

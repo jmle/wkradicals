@@ -1,0 +1,34 @@
+{
+  "id": 5895,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "福寿"
+  },
+  "primaryMeaning": "Happiness And Longevity",
+  "meaningMnemonic": "<kanji>Luck</kanji> for your whole <kanji>lifespan</kanji>, that's a life of <vocabulary>happiness and longevity</vocabulary>.",
+  "primaryReading": "ふくじゅ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "福寿",
+  "related": {
+    "radicals": [
+      80,
+      8824,
+      8779,
+      74
+    ],
+    "kanjis": [
+      867,
+      1593
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふくじゅ",
+      "url": "https://files.wanikani.com/vq3bmc5ppos495de2v5hyv393rre"
+    }
+  ]
+}

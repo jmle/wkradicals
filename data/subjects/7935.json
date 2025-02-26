@@ -1,0 +1,36 @@
+{
+  "id": 7935,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "待遇"
+  },
+  "primaryMeaning": "Treatment",
+  "meaningMnemonic": "Just because you have to <kanji>wait</kanji> for special <kanji>treatment</kanji> doesn't mean it's not still good <vocabulary>treatment</vocabulary>. And just because everyone didn't cheer when you arrived, doesn't mean you're getting a cold <vocabulary>reception</vocabulary>, you know? Maybe they're planning a surprise party for you or something... yeah.",
+  "primaryReading": "たいぐう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Reception"
+  ],
+  "otherReadings": [],
+  "wkSlug": "待遇",
+  "related": {
+    "radicals": [
+      99,
+      192,
+      114,
+      410
+    ],
+    "kanjis": [
+      726,
+      2176
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいぐう",
+      "url": "https://files.wanikani.com/bpy8ptylp47i7ztjze5qj5mgwa3f"
+    }
+  ]
+}

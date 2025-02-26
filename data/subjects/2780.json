@@ -1,0 +1,36 @@
+{
+  "id": 2780,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "何千"
+  },
+  "primaryMeaning": "Thousands",
+  "meaningMnemonic": "<kanji>What</kanji> <kanji>thousand</kanji>? Could be five thousand, two thousand, or ten thousand, since you're asking. Let's generalize. How do you say all of those amounts at the same time? You say \"<vocabulary>thousands</vocabulary>.\"\n\nIf this is used in a question, it can also mean <vocabulary>how many thousands</vocabulary>?",
+  "primaryReading": "なんぜん",
+  "readingMnemonic": "The reading is the kun'yomi なん for 何 and the rendaku'd on'yomi reading for 千 (ぜん) combined together. It's one of those weird words that mixes the on'yomi and kun'yomi readings.",
+  "otherMeanings": [
+    "Several Thousands",
+    "How Many Thousands"
+  ],
+  "otherReadings": [],
+  "wkSlug": "何千",
+  "related": {
+    "radicals": [
+      75,
+      113,
+      32
+    ],
+    "kanjis": [
+      582,
+      460
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なんぜん",
+      "url": "https://files.wanikani.com/fiejza4ybgwta45plta449pigjim"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7846,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "近郊"
+  },
+  "primaryMeaning": "Suburbs",
+  "meaningMnemonic": "<kanji>Suburbs</kanji> <kanji>near</kanji> you are still <vocabulary>suburbs</vocabulary>. They're all pretty much the same.",
+  "primaryReading": "きんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Outskirts"
+  ],
+  "otherReadings": [],
+  "wkSlug": "近郊",
+  "related": {
+    "radicals": [
+      114,
+      115,
+      302,
+      176
+    ],
+    "kanjis": [
+      596,
+      2135
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんこう",
+      "url": "https://files.wanikani.com/e4tlujsab5a0uoz6znh63tm2t0eq"
+    }
+  ]
+}

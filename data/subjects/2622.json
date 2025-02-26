@@ -1,0 +1,31 @@
+{
+  "id": 2622,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "冬"
+  },
+  "primaryMeaning": "Winter",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ふゆ",
+  "readingMnemonic": "The reading for this word is the same as the kun'yomi reading you learned for the kanji, meaning you should know both!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "冬",
+  "related": {
+    "radicals": [
+      60,
+      123
+    ],
+    "kanjis": [
+      516
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふゆ",
+      "url": "https://files.wanikani.com/qaj62o1wdrnstun4h4r2cl0xbk08"
+    }
+  ]
+}

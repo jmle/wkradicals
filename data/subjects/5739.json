@@ -1,0 +1,37 @@
+{
+  "id": 5739,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "歓迎"
+  },
+  "primaryMeaning": "A Welcome",
+  "meaningMnemonic": "It is a <kanji>delight</kanji> that you come so I <kanji>welcome</kanji> you. This delight welcome is <vocabulary>a welcome</vocabulary>.",
+  "primaryReading": "かんげい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Welcome"
+  ],
+  "otherReadings": [],
+  "wkSlug": "歓迎",
+  "related": {
+    "radicals": [
+      72,
+      240,
+      142,
+      114,
+      340
+    ],
+    "kanjis": [
+      1571,
+      1481
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんげい",
+      "url": "https://files.wanikani.com/u9kljrm3puokp2th13bp18z6720x"
+    }
+  ]
+}

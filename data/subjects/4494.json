@@ -1,0 +1,34 @@
+{
+  "id": 4494,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "罰"
+  },
+  "primaryMeaning": "Penalty",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ばつ",
+  "readingMnemonic": "The reading is the same as the reading you learned with the kanji... and you thought I was about to punish you because it was a single kanji vocab word. Now get over here. Time for a dirty spanking for thinking such a thing.",
+  "otherMeanings": [
+    "Punishment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "罰",
+  "related": {
+    "radicals": [
+      163,
+      117,
+      128
+    ],
+    "kanjis": [
+      1155
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばつ",
+      "url": "https://files.wanikani.com/mx5kzw3z62fclxt89bfciq3drks6"
+    }
+  ]
+}

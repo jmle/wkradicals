@@ -1,0 +1,36 @@
+{
+  "id": 3610,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "自然"
+  },
+  "primaryMeaning": "Nature",
+  "meaningMnemonic": "<kanji>Self</kanji> <kanji>nature</kanji> is nature itself. That is <vocabulary>nature</vocabulary>, like all those green things and 青葉 outside. Many apologies if someone hundreds of years from now is reading this. It used to be pretty green outside before the robots.\n\nIf you call this \"natural\" then you are using the な adjective 自然な, but I thought it pertinent to add that in here too.",
+  "primaryReading": "しぜん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Wait! Except 自 is し and not じ! That is because when you add the little dakuten you are adding to the し. When it has no dakuten, it is in the form that <vocabulary>nature</vocabulary> intended.",
+  "otherMeanings": [
+    "Natural"
+  ],
+  "otherReadings": [],
+  "wkSlug": "自然",
+  "related": {
+    "radicals": [
+      109,
+      43,
+      47,
+      131
+    ],
+    "kanjis": [
+      578,
+      881
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しぜん",
+      "url": "https://files.wanikani.com/12ceq2vxp3uiub22fpzsmn3ybcyn"
+    }
+  ]
+}

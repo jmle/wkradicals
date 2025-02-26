@@ -1,0 +1,34 @@
+{
+  "id": 5558,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "銭"
+  },
+  "primaryMeaning": "Coin",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. It can also mean <vocabulary>money</vocabulary> more generally.",
+  "primaryReading": "ぜに",
+  "readingMnemonic": "The reading for the kanji is せん, the reading for this vocab word is <reading>ぜに</reading>. They're pretty similar, but only ぜに rhymes with \"penny.\"",
+  "otherMeanings": [
+    "Money",
+    "Bucks"
+  ],
+  "otherReadings": [],
+  "wkSlug": "銭",
+  "related": {
+    "radicals": [
+      118,
+      8782
+    ],
+    "kanjis": [
+      1497
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜに",
+      "url": "https://files.wanikani.com/ijq5q7cwoyipg934g97i5ki8e3ln"
+    }
+  ]
+}

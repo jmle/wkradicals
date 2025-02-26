@@ -1,0 +1,37 @@
+{
+  "id": 4816,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "満足"
+  },
+  "primaryMeaning": "Satisfied",
+  "meaningMnemonic": "I am <kanji>full</kanji> and <kanji>sufficient</kanji>. I am <vocabulary>satisfied</vocabulary>.",
+  "primaryReading": "まんぞく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just remember that the reading for 足 in this one is ぞく because of that pesky rendaku.",
+  "otherMeanings": [
+    "Totally Satisfied",
+    "Satisfaction"
+  ],
+  "otherReadings": [],
+  "wkSlug": "満足",
+  "related": {
+    "radicals": [
+      103,
+      90,
+      304,
+      95
+    ],
+    "kanjis": [
+      1271,
+      561
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まんぞく",
+      "url": "https://files.wanikani.com/j24pe68c5yld4dc2duqvefg9kymf"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6250,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "削除する"
+  },
+  "primaryMeaning": "To Delete",
+  "meaningMnemonic": "If 削除 is \"deletion,\" then the verb version would be <vocabulary>to delete</vocabulary>.",
+  "primaryReading": "さくじょする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "To Eliminate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "削除する",
+  "related": {
+    "radicals": [
+      8765,
+      43,
+      128,
+      176,
+      313
+    ],
+    "kanjis": [
+      1668,
+      1451
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さくじょする",
+      "url": "https://files.wanikani.com/b4jzo0vljtrhppwkec0ba8cwebry"
+    }
+  ]
+}

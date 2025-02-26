@@ -1,0 +1,36 @@
+{
+  "id": 3993,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "川底"
+  },
+  "primaryMeaning": "Riverbed",
+  "meaningMnemonic": "The <kanji>river</kanji> <kanji>bottom</kanji> is the <vocabulary>river bottom</vocabulary>, also known as the <vocabulary>riverbed</vocabulary>. ",
+  "primaryReading": "かわぞこ",
+  "readingMnemonic": "The readings are the readings you learned with the kanji. Just don't forget the rendaku for 底!",
+  "otherMeanings": [
+    "River Bottom"
+  ],
+  "otherReadings": [],
+  "wkSlug": "川底",
+  "related": {
+    "radicals": [
+      21,
+      62,
+      147,
+      1
+    ],
+    "kanjis": [
+      456,
+      1020
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かわぞこ",
+      "url": "https://files.wanikani.com/j4iba5c2i9ftnp2vczlylno6q60n"
+    }
+  ]
+}

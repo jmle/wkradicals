@@ -1,0 +1,36 @@
+{
+  "id": 5385,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "電飾"
+  },
+  "primaryMeaning": "Decorative Lighting",
+  "meaningMnemonic": "The 電 is what powers electric things. Many times, these electric things light up (especially back in the day, when electricity did this a lot more than other things). So, you have \"lighting.\" Then, you have <kanji>decorate</kanji>. So, if you decorate with lighting, you have <vocabulary>decorative lighting</vocabulary>.\n\nThis is quite a specific word that is generally used as a product category for decorative lighting. It’s a less common word than other expressions, such as デコレーションライト or イルミネーションライト.",
+  "primaryReading": "でんしょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "電飾",
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      139,
+      8762,
+      102
+    ],
+    "kanjis": [
+      706,
+      1438
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんしょく",
+      "url": "https://files.wanikani.com/5lw6b26zrtwfl54j0weq5xvbncva"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7309,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "淡い"
+  },
+  "primaryMeaning": "Faint",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>faint</kanji>? It's <vocabulary>faint</vocabulary>.",
+  "primaryReading": "あわい",
+  "readingMnemonic": "You look at the distance. You see something very <vocabulary>faint</vocabulary> and <vocabulary>pale</vocabulary> out there. It's... it's... <reading>awwwa</reading> (あわ) a puppy! Awwwww! Aawwww!",
+  "otherMeanings": [
+    "Pale"
+  ],
+  "otherReadings": [],
+  "wkSlug": "淡い",
+  "related": {
+    "radicals": [
+      103,
+      46
+    ],
+    "kanjis": [
+      2066
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あわい",
+      "url": "https://files.wanikani.com/ny373lk9ze9aahskbtxqbcb0i5ub"
+    }
+  ]
+}

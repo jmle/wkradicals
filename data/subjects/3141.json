@@ -1,0 +1,33 @@
+{
+  "id": 3141,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "美人"
+  },
+  "primaryMeaning": "Beautiful Woman",
+  "meaningMnemonic": "A <kanji>beautiful</kanji> <kanji>person</kanji> is a <vocabulary>beautiful woman</vocabulary>. Wait, why isn't this a beautiful person? In fact, this word used to have a broader meaning, but for some reason it's generally only used for women in modern Japanese.",
+  "primaryReading": "びじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nWhere you're from, every <vocabulary>beautiful woman</vocabulary> wears <reading>bee</reading> <reading>jean</reading>s (びじん). That's right, jeans made out of bees. Beauty knows no pain after all!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "美人",
+  "related": {
+    "radicals": [
+      136,
+      18,
+      9
+    ],
+    "kanjis": [
+      732,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "びじん",
+      "url": "https://files.wanikani.com/vyutu5hvve2uiwl5rnw2vqmyjfdq"
+    }
+  ]
+}

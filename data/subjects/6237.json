@@ -1,0 +1,36 @@
+{
+  "id": 6237,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "〜丁目"
+  },
+  "primaryMeaning": "District Of A Town",
+  "meaningMnemonic": "A <kanji>street</kanji> you can see with your <kanji>eye</kanji> isn't soooo big you can't see it (like a town would be), but it's still pretty big because it has a street. This section of the town is the <vocabulary>district of a town</vocabulary>, or a <vocabulary>city block</vocabulary> (though specifically one of an irregular size).",
+  "primaryReading": "ちょうめ",
+  "readingMnemonic": "The readings are the ones you learned with the kanji, so use those and you'll be A-Okay.",
+  "otherMeanings": [
+    "City Block",
+    "Town District",
+    "District"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜丁目",
+  "related": {
+    "radicals": [
+      27,
+      53
+    ],
+    "kanjis": [
+      464,
+      492
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょうめ",
+      "url": "https://files.wanikani.com/0ixtsazt3haxrtcj2te1i93m78l0"
+    }
+  ]
+}

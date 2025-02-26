@@ -1,0 +1,36 @@
+{
+  "id": 4419,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "義務"
+  },
+  "primaryMeaning": "Obligation",
+  "meaningMnemonic": "My <kanji>righteousness</kanji> <kanji>task</kanji> is my <vocabulary>obligation</vocabulary> to these people. I will go out and purge the world of evil, be righteous, and make things happen. It's my <vocabulary>duty</vocabulary>!",
+  "primaryReading": "ぎむ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Duty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "義務",
+  "related": {
+    "radicals": [
+      383,
+      148,
+      60,
+      13
+    ],
+    "kanjis": [
+      1154,
+      1129
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎむ",
+      "url": "https://files.wanikani.com/1y5ys8nf5mihomsvt1mjmlkusxhz"
+    }
+  ]
+}

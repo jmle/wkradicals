@@ -1,0 +1,36 @@
+{
+  "id": 7339,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "珠算"
+  },
+  "primaryMeaning": "Calculation With Abacus",
+  "meaningMnemonic": "A <kanji>pearl</kanji> <kanji>calculation</kanji> is calculations you do with pearls. If you think about using pearls to calculate something, it's going to look a lot like using an abacus. That's why this calculation is <vocabulary>calculation with abacus</vocabulary>.",
+  "primaryReading": "しゅざん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Watch out for the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "珠算",
+  "related": {
+    "radicals": [
+      48,
+      5,
+      134,
+      85,
+      53,
+      106
+    ],
+    "kanjis": [
+      2077,
+      762
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅざん",
+      "url": "https://files.wanikani.com/7ubgg9d7gsng18nbpov3t1r8kkx8"
+    }
+  ]
+}

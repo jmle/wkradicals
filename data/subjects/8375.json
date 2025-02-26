@@ -1,0 +1,42 @@
+{
+  "id": 8375,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "楓糖"
+  },
+  "primaryMeaning": "Maple Sugar",
+  "meaningMnemonic": "<kanji>Maple</kanji> <kanji>sugar</kanji> is <vocabulary>maple sugar</vocabulary>!",
+  "primaryReading": "ふうとう",
+  "readingMnemonic": "This word is more often read as <reading>ふうとう</reading>. You can figure out the reading by looking at the 風 portion of the kanji, remember its reading, and apply it here (ふう).",
+  "otherMeanings": [],
+  "otherReadings": [
+    "かえでとう"
+  ],
+  "wkSlug": "楓糖",
+  "related": {
+    "radicals": [
+      23,
+      416,
+      98,
+      62,
+      105,
+      16
+    ],
+    "kanjis": [
+      2360,
+      1535
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふうとう",
+      "url": "https://files.wanikani.com/vbqc080da58ew674kodbl1b3qlwd"
+    },
+    {
+      "reading": "かえでとう",
+      "url": "https://files.wanikani.com/4kyg6pv3hu60vdemqlpgjfwupn32"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5402,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "鼻詰まり"
+  },
+  "primaryMeaning": "Stuffy Nose",
+  "meaningMnemonic": "詰まる is \"to be stuffed.\" So, if your <kanji>nose</kanji> is <kanji>stuffed</kanji>, then you have a <vocabulary>stuffy nose</vocabulary>.",
+  "primaryReading": "はなづまり",
+  "readingMnemonic": "The reading is 鼻 and 詰まる put together. the 詰まり is rendaku'd, probably because you're trying to say this word with a stuffy nose.",
+  "otherMeanings": [
+    "Blocked Nose"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鼻詰まり",
+  "related": {
+    "radicals": [
+      109,
+      51,
+      106,
+      117,
+      253
+    ],
+    "kanjis": [
+      998,
+      1411
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はなづまり",
+      "url": "https://files.wanikani.com/33nods7stbakvamjbaa72oigloav"
+    }
+  ]
+}

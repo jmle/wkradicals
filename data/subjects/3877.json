@@ -1,0 +1,32 @@
+{
+  "id": 3877,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "面"
+  },
+  "primaryMeaning": "Surface",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "めん",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "otherMeanings": [
+    "Face"
+  ],
+  "otherReadings": [],
+  "wkSlug": "面-3877",
+  "related": {
+    "radicals": [
+      250
+    ],
+    "kanjis": [
+      974
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めん",
+      "url": "https://files.wanikani.com/krq8od955k9nm3sjjqn2qi1ijruf"
+    }
+  ]
+}

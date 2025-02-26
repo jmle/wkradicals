@@ -1,0 +1,33 @@
+{
+  "id": 6221,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "賄賂"
+  },
+  "primaryMeaning": "Bribe",
+  "meaningMnemonic": "A <kanji>bribe</kanji> <kanji>bribe</kanji> is a <vocabulary>bribe</vocabulary>.",
+  "primaryReading": "わいろ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "賄賂",
+  "related": {
+    "radicals": [
+      94,
+      371,
+      180
+    ],
+    "kanjis": [
+      1702,
+      1703
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わいろ",
+      "url": "https://files.wanikani.com/9ke84r4e80cxmam7n7z4iq5ynvrf"
+    }
+  ]
+}

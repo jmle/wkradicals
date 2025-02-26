@@ -1,0 +1,33 @@
+{
+  "id": 8688,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "白熊"
+  },
+  "primaryMeaning": "Polar Bear",
+  "meaningMnemonic": "A <kanji>white</kanji> <kanji>bear</kanji> is a <vocabulary>polar bear</vocabulary>! They're the only white bears in the whole world!",
+  "primaryReading": "しろくま",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them already, so you should be able to read this too!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "白熊",
+  "related": {
+    "radicals": [
+      52,
+      287,
+      131
+    ],
+    "kanjis": [
+      491,
+      1601
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しろくま",
+      "url": "https://files.wanikani.com/sv1g48ivcd4zgudjumt0sl1aj3wb"
+    }
+  ]
+}

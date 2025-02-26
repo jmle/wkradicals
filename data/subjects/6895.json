@@ -1,0 +1,36 @@
+{
+  "id": 6895,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "半裸"
+  },
+  "primaryMeaning": "Half Naked",
+  "meaningMnemonic": "If you're <kanji>half</kanji> <kanji>naked</kanji> you're <vocabulary>half nude</vocabulary> or <vocabulary>half naked</vocabulary>.",
+  "primaryReading": "はんら",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Half Nude"
+  ],
+  "otherReadings": [],
+  "wkSlug": "半裸",
+  "related": {
+    "radicals": [
+      8765,
+      61,
+      80,
+      235
+    ],
+    "kanjis": [
+      518,
+      1924
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はんら",
+      "url": "https://files.wanikani.com/aeob9v902rtvhtdpixmbrfuhqwbi"
+    }
+  ]
+}

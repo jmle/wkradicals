@@ -1,0 +1,33 @@
+{
+  "id": 6942,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "吹き飛ばす"
+  },
+  "primaryMeaning": "To Blow Away",
+  "meaningMnemonic": "You know that 吹く is \"to blow\" and that 飛ばす is \"To let fly.\" So, if you use your blowing to let something fly, you are going <vocabulary>to blow away</vocabulary> it.",
+  "primaryReading": "ふきとばす",
+  "readingMnemonic": "The reading comes from 吹く and 飛ばす, put together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "吹き飛ばす",
+  "related": {
+    "radicals": [
+      16,
+      142,
+      270
+    ],
+    "kanjis": [
+      1751,
+      1092
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふきとばす",
+      "url": "https://files.wanikani.com/7d4l43c97x6b3lm369ulynkzintu"
+    }
+  ]
+}

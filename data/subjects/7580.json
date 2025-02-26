@@ -1,0 +1,35 @@
+{
+  "id": 7580,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "会員"
+  },
+  "primaryMeaning": "Member",
+  "meaningMnemonic": "If you <kanji>meet</kanji> enough <kanji>member</kanji>s you will become a <vocabulary>member</vocabulary> yourself!",
+  "primaryReading": "かいいん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Membership"
+  ],
+  "otherReadings": [],
+  "wkSlug": "会員",
+  "related": {
+    "radicals": [
+      155,
+      16,
+      94
+    ],
+    "kanjis": [
+      566,
+      821
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいいん",
+      "url": "https://files.wanikani.com/fk8s1ctyj7z3yrb1gg7dn7gs98et"
+    }
+  ]
+}

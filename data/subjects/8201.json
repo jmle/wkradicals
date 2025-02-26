@@ -1,0 +1,36 @@
+{
+  "id": 8201,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "惜敗"
+  },
+  "primaryMeaning": "Loss Of A Close Game",
+  "meaningMnemonic": "Your team was about to win the game but you decided to be <kanji>frugal</kanji> with your shots near the end and it resulted in <kanji>defeat</kanji>, making it a <vocabulary>loss of a close game</vocabulary>. If you had just taken those shots your team probably would have won. What a <vocabulary>regrettable defeat</vocabulary>.",
+  "primaryReading": "せきはい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Regrettable Defeat"
+  ],
+  "otherReadings": [],
+  "wkSlug": "惜敗",
+  "related": {
+    "radicals": [
+      232,
+      256,
+      94,
+      60
+    ],
+    "kanjis": [
+      2266,
+      1004
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せきはい",
+      "url": "https://files.wanikani.com/plce5axb687r8jchrnt5hxac7lfo"
+    }
+  ]
+}

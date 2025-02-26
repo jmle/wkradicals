@@ -1,0 +1,37 @@
+{
+  "id": 4862,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "営業中"
+  },
+  "primaryMeaning": "Open For Business",
+  "meaningMnemonic": "Remember how 営業 means \"business\"? Well, if you're in the <kanji>middle</kanji> of running a business, it means you're <vocabulary>open for business</vocabulary>.",
+  "primaryReading": "えいぎょうちゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know 営業 first as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "営業中",
+  "related": {
+    "radicals": [
+      8769,
+      282,
+      8768,
+      136,
+      2,
+      49
+    ],
+    "kanjis": [
+      1168,
+      756,
+      469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えいぎょうちゅう",
+      "url": "https://files.wanikani.com/87o21oeoen97kzjppayw9b4sjmdx"
+    }
+  ]
+}

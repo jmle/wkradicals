@@ -1,0 +1,34 @@
+{
+  "id": 6851,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "一斉に"
+  },
+  "primaryMeaning": "Simultaneously",
+  "meaningMnemonic": "一斉 is <kanji>simultaneous</kanji> or <kanji>all at once</kanji>. Add the に in there and you're heading towards those things. For \"simultaneous\" that becomes <vocabulary>simultaneously</vocabulary>. For \"all at once\" it stays at <vocabulary>all at once</vocabulary>.",
+  "primaryReading": "いっせいに",
+  "readingMnemonic": "The reading comes from 一斉.",
+  "otherMeanings": [
+    "All At Once"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一斉に",
+  "related": {
+    "radicals": [
+      1,
+      277
+    ],
+    "kanjis": [
+      440,
+      1862
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いっせいに",
+      "url": "https://files.wanikani.com/pir8islui767awe4ki9iahpz4a85"
+    }
+  ]
+}

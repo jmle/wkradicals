@@ -1,0 +1,39 @@
+{
+  "id": 6305,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "御覧になる"
+  },
+  "primaryMeaning": "To Look",
+  "meaningMnemonic": "It <kanji>honorable</kanji>(y) becomes (なる) that you <kanji>look at</kanji> something. This is a respectful way to say <vocabulary>to look</vocabulary> or <vocabulary>to please look</vocabulary> at something. The reading を御覧になって下さい！",
+  "primaryReading": "ごらんになる",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "To Please Look"
+  ],
+  "otherReadings": [],
+  "wkSlug": "御覧になる",
+  "related": {
+    "radicals": [
+      99,
+      8762,
+      229,
+      145,
+      323,
+      1,
+      91
+    ],
+    "kanjis": [
+      1728,
+      1428
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ごらんになる",
+      "url": "https://files.wanikani.com/nyp6coqd53n3wlqchtmnjuudvnoy"
+    }
+  ]
+}

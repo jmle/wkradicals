@@ -1,0 +1,39 @@
+{
+  "id": 7922,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "制覇"
+  },
+  "primaryMeaning": "Conquest",
+  "meaningMnemonic": "Those with <kanji>leadership</kanji> who want <kanji>control</kanji> will set out on missions of <vocabulary>conquest</vocabulary> and strive for world <vocabulary>domination</vocabulary>!",
+  "primaryReading": "せいは",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Domination",
+    "Mastery"
+  ],
+  "otherReadings": [],
+  "wkSlug": "制覇",
+  "related": {
+    "radicals": [
+      126,
+      102,
+      128,
+      424,
+      288,
+      43
+    ],
+    "kanjis": [
+      1128,
+      2157
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいは",
+      "url": "https://files.wanikani.com/3gd1o30jtgzlgsfafjei29w61y70"
+    }
+  ]
+}

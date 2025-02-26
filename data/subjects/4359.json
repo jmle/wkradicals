@@ -1,0 +1,34 @@
+{
+  "id": 4359,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "汽笛"
+  },
+  "primaryMeaning": "Steam Whistle",
+  "meaningMnemonic": "A <kanji>steam</kanji> <kanji>flute</kanji> is a flute that goes off using steam. The only time I can think of this happening is via a <vocabulary>steam whistle</vocabulary>. Choo choooo!",
+  "primaryReading": "きてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "汽笛",
+  "related": {
+    "radicals": [
+      103,
+      82,
+      85,
+      268
+    ],
+    "kanjis": [
+      1038,
+      1121
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きてき",
+      "url": "https://files.wanikani.com/ufa7slf44hyatc02o7meshiwl41t"
+    }
+  ]
+}

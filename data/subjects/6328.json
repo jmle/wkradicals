@@ -1,0 +1,33 @@
+{
+  "id": 6328,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "銃"
+  },
+  "primaryMeaning": "Gun",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "じゅう",
+  "readingMnemonic": "The reading is the one you learned with the kanji.",
+  "otherMeanings": [
+    "Firearm"
+  ],
+  "otherReadings": [],
+  "wkSlug": "銃",
+  "related": {
+    "radicals": [
+      118,
+      285
+    ],
+    "kanjis": [
+      1739
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅう",
+      "url": "https://files.wanikani.com/qflb5gsltrvwz5jxgh7s0xuhpstt"
+    }
+  ]
+}

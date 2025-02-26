@@ -1,0 +1,37 @@
+{
+  "id": 3908,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "芸術家"
+  },
+  "primaryMeaning": "Artist",
+  "meaningMnemonic": "You know that 芸術 is <kanji>art</kanji> so you'd think that 芸術家 would be something like \"art house.\" Well, it's not. Think of it this way: Who is the person who works for \"House Art\"? It's the <vocabulary>artist</vocabulary>.",
+  "primaryReading": "げいじゅつか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "芸術家",
+  "related": {
+    "radicals": [
+      90,
+      159,
+      111,
+      130,
+      3,
+      398
+    ],
+    "kanjis": [
+      916,
+      922,
+      660
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げいじゅつか",
+      "url": "https://files.wanikani.com/zvfg85w40v1jpp391gl3qda7063t"
+    }
+  ]
+}

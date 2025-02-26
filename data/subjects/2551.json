@@ -1,0 +1,32 @@
+{
+  "id": 2551,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "子犬"
+  },
+  "primaryMeaning": "Puppy",
+  "meaningMnemonic": "A child dog is a <vocabulary>puppy</vocabulary>!",
+  "primaryReading": "こいぬ",
+  "readingMnemonic": "Even though this is a jukugo word, it doesn't use the on'yomi readings. Both the kanji 子 and 犬 often favor kun'yomi readings, and this word is no exception. The reading for 犬 is the one you already know, and the reading for 子 as こ is a really common one (perhaps you've already learned that reading?). If not, just think about punching a puppy in the face, and giving it a <reading>KO</reading> (That's a knock out).",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "子犬",
+  "related": {
+    "radicals": [
+      34,
+      47
+    ],
+    "kanjis": [
+      462,
+      481
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こいぬ",
+      "url": "https://files.wanikani.com/h00939mesymva7hwck1f33ev1whu"
+    }
+  ]
+}

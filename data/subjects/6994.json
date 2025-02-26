@@ -1,0 +1,39 @@
+{
+  "id": 6994,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "歳暮"
+  },
+  "primaryMeaning": "End Of The Year",
+  "meaningMnemonic": "<kanji>Years old</kanji> of <kanji>livelihood</kanji>. This is each year of livelihood that you have, and at the end of each year you've reached the <vocabulary>end of the year</vocabulary>. This may also refer to a <vocabulary>year end gift</vocabulary>.",
+  "primaryReading": "せいぼ",
+  "readingMnemonic": "You've learned this reading, but it might not be the one you were expecting. It's せい, like the <reading>sa</reading>ber you use to cut down the old year before starting the new one.",
+  "otherMeanings": [
+    "Year End Gift",
+    "End Of Year Gift"
+  ],
+  "otherReadings": [],
+  "wkSlug": "歳暮",
+  "related": {
+    "radicals": [
+      44,
+      5,
+      194,
+      207,
+      356,
+      22
+    ],
+    "kanjis": [
+      1953,
+      1527
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいぼ",
+      "url": "https://files.wanikani.com/t4iy83n01bdm75r5f1oyr25zth5b"
+    }
+  ]
+}

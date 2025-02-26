@@ -1,0 +1,35 @@
+{
+  "id": 6387,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "堀"
+  },
+  "primaryMeaning": "Ditch",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ほり",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Moat",
+    "Canal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "堀",
+  "related": {
+    "radicals": [
+      17,
+      37,
+      332
+    ],
+    "kanjis": [
+      1752
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほり",
+      "url": "https://files.wanikani.com/v0adky3r2dp6we3bw1cfkm9t3hrg"
+    }
+  ]
+}

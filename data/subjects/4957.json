@@ -1,0 +1,38 @@
+{
+  "id": 4957,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "獣医"
+  },
+  "primaryMeaning": "Veterinarian",
+  "meaningMnemonic": "One who does <kanji>beast</kanji> <kanji>medicine</kanji> is a <vocabulary>veterinarian</vocabulary>, taking care of all them animals.",
+  "primaryReading": "じゅうい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Vet"
+  ],
+  "otherReadings": [],
+  "wkSlug": "獣医",
+  "related": {
+    "radicals": [
+      8783,
+      51,
+      8781,
+      47,
+      217,
+      72
+    ],
+    "kanjis": [
+      1303,
+      681
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうい",
+      "url": "https://files.wanikani.com/q13fvhnhjsw37adgir23el6emncr"
+    }
+  ]
+}

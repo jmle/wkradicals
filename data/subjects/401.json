@@ -1,0 +1,17 @@
+{
+  "id": 401,
+  "type": "radical",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "務"
+  },
+  "primaryMeaning": "Task",
+  "otherMeanings": [],
+  "meaningMnemonic": "This is the same as the kanji <radical>Task</radical>.",
+  "wkSlug": "task-401",
+  "related": {
+    "kanjis": [],
+    "vocabularies": []
+  }
+}

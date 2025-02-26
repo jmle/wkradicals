@@ -1,0 +1,37 @@
+{
+  "id": 3137,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "相談"
+  },
+  "primaryMeaning": "Consultation",
+  "meaningMnemonic": "A <kanji>mutual</kanji> <kanji>talk</kanji>. Both sides are talking to each other and the feelings are mutual. Imagine you're discussing a problem. You want to get help with it, so you get some <vocabulary>consultation</vocabulary> from your friend. This <vocabulary>discussion</vocabulary> was very helpful.",
+  "primaryReading": "そうだん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Discussion",
+    "Advice"
+  ],
+  "otherReadings": [],
+  "wkSlug": "相談",
+  "related": {
+    "radicals": [
+      23,
+      53,
+      117,
+      46
+    ],
+    "kanjis": [
+      730,
+      736
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうだん",
+      "url": "https://files.wanikani.com/6qfu6q3gcqm1pijys6ex8qp2y1i2"
+    }
+  ]
+}

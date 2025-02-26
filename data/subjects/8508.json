@@ -1,0 +1,36 @@
+{
+  "id": 8508,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "陪審"
+  },
+  "primaryMeaning": "Jury",
+  "meaningMnemonic": "Who is going to <kanji>accompany</kanji> the <kanji>judge</kanji> in deciding the results of the trial? The <vocabulary>jury</vocabulary>! They're the only other people besides the judge who can decide someone's fate in court.",
+  "primaryReading": "ばいしん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Juror"
+  ],
+  "otherReadings": [],
+  "wkSlug": "陪審",
+  "related": {
+    "radicals": [
+      176,
+      175,
+      78,
+      280
+    ],
+    "kanjis": [
+      2385,
+      1144
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばいしん",
+      "url": "https://files.wanikani.com/d0nbohpv83fmuc3g86mje0orm9v2"
+    }
+  ]
+}

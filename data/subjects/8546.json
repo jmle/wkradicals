@@ -1,0 +1,37 @@
+{
+  "id": 8546,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "法曹"
+  },
+  "primaryMeaning": "Lawyer",
+  "meaningMnemonic": "The <kanji>official</kanji> <kanji>method</kanji> of doing anything requires hiring a <vocabulary>lawyer</vocabulary>. They have to be there when you sign forms or sue people, or it isn't official at all.",
+  "primaryReading": "ほうそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Legal Profession"
+  ],
+  "otherReadings": [],
+  "wkSlug": "法曹",
+  "related": {
+    "radicals": [
+      103,
+      244,
+      1,
+      185,
+      22
+    ],
+    "kanjis": [
+      949,
+      2419
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうそう",
+      "url": "https://files.wanikani.com/tzqrn00ghz7nrxp2uejkjqdlz84g"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5096,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "逮捕する"
+  },
+  "primaryMeaning": "To Arrest",
+  "meaningMnemonic": "Remember how 逮捕 is an \"arrest\" or \"capture\"? This is the verb version, and it is <vocabulary>to arrest</vocabulary> or <vocabulary>to capture</vocabulary>.",
+  "primaryReading": "たいほする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will also be helpful to know the word 逮捕 already as well.",
+  "otherMeanings": [
+    "To Capture",
+    "To Apprehend"
+  ],
+  "otherReadings": [],
+  "wkSlug": "逮捕する",
+  "related": {
+    "radicals": [
+      114,
+      220,
+      45,
+      63,
+      300
+    ],
+    "kanjis": [
+      1260,
+      1265
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいほする",
+      "url": "https://files.wanikani.com/vqy7foo8jtumivp2o8z81lpxkzo3"
+    }
+  ]
+}

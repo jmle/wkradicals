@@ -1,0 +1,35 @@
+{
+  "id": 7732,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "地中"
+  },
+  "primaryMeaning": "Underground",
+  "meaningMnemonic": "If you're in the <kanji>middle</kanji> of the <kanji>ground</kanji>, then you're most likely <vocabulary>underground</vocabulary>. Are you a moleperson? That's pretty cool.",
+  "primaryReading": "ちちゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Subterranean"
+  ],
+  "otherReadings": [],
+  "wkSlug": "地中",
+  "related": {
+    "radicals": [
+      17,
+      77,
+      49
+    ],
+    "kanjis": [
+      608,
+      469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちちゅう",
+      "url": "https://files.wanikani.com/rglhj43ygi3t2l3bu0cu07h4dbjq"
+    }
+  ]
+}

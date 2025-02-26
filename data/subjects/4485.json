@@ -1,0 +1,34 @@
+{
+  "id": 4485,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "防犯"
+  },
+  "primaryMeaning": "Crime Prevention",
+  "meaningMnemonic": "To <kanji>prevent</kanji> <kanji>crime</kanji> is a good thing. To do this you use <vocabulary>crime prevention</vocabulary> techniques.",
+  "primaryReading": "ぼうはん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "防犯",
+  "related": {
+    "radicals": [
+      176,
+      66,
+      144,
+      158
+    ],
+    "kanjis": [
+      1117,
+      1115
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうはん",
+      "url": "https://files.wanikani.com/ch0566p8zq15c9l1nlxsbl9t4uxp"
+    }
+  ]
+}

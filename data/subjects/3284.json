@@ -1,0 +1,35 @@
+{
+  "id": 3284,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "集中する"
+  },
+  "primaryMeaning": "To Concentrate",
+  "meaningMnemonic": "You <kanji>collect</kanji> and focus in on the <kanji>middle</kanji>. Really zoom in on it. When you do this, you're concentrating on this spot, thus making the meaning of this word <vocabulary>to concentrate</vocabulary> or <vocabulary>to focus</vocabulary>.",
+  "primaryReading": "しゅうちゅうする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "To Focus"
+  ],
+  "otherReadings": [],
+  "wkSlug": "集中する",
+  "related": {
+    "radicals": [
+      240,
+      23,
+      49
+    ],
+    "kanjis": [
+      754,
+      469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅうちゅうする",
+      "url": "https://files.wanikani.com/xafehg5bjceznlsfcgseb50j73vs"
+    }
+  ]
+}

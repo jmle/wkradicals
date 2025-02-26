@@ -1,0 +1,36 @@
+{
+  "id": 9244,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "疑う"
+  },
+  "primaryMeaning": "To Doubt",
+  "meaningMnemonic": "The kanji means <kanji>doubt</kanji>, so this is just that as a verb. So this means <vocabulary>to doubt</vocabulary>, <vocabulary>to suspect</vocabulary>, or <vocabulary>to be suspicious of</vocabulary>.",
+  "primaryReading": "うたがう",
+  "readingMnemonic": "There's reason <vocabulary>to doubt</vocabulary> that you can teach an <reading>u</reading>ni <reading>Taga</reading>log (うたが), but once you try, it's actually not that hard. They're very good listeners after all.",
+  "otherMeanings": [
+    "To Suspect",
+    "To Be Suspicious Of"
+  ],
+  "otherReadings": [],
+  "wkSlug": "疑う",
+  "related": {
+    "radicals": [
+      57,
+      141,
+      72,
+      420
+    ],
+    "kanjis": [
+      894
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うたがう",
+      "url": "https://files.wanikani.com/i58x9esvd3d43rqaixvr1ead5yr6"
+    }
+  ]
+}

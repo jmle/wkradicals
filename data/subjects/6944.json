@@ -1,0 +1,33 @@
+{
+  "id": 6944,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "群がる"
+  },
+  "primaryMeaning": "To Flock",
+  "meaningMnemonic": "Remember 群れる, which means \"to flock\" or \"to crowd.\"? This also means that!",
+  "primaryReading": "むらがる",
+  "readingMnemonic": "The reading is a little different from 群れる, though. There's an extra ら in there. That being said, it's pretty similar, so you should be able to use one to remember the other after a few reps. You can also think about it this way: Everyone is flocking together in one place. Strange thing is, it's to a small <reading>村</reading> (むら). There's a 村 reunion going on, that's why.",
+  "otherMeanings": [
+    "To Crowd"
+  ],
+  "otherReadings": [],
+  "wkSlug": "群がる",
+  "related": {
+    "radicals": [
+      373,
+      136
+    ],
+    "kanjis": [
+      1719
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むらがる",
+      "url": "https://files.wanikani.com/hqdv96xgud0h21wnrccjx5mywc7i"
+    }
+  ]
+}

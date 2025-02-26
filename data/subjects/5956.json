@@ -1,0 +1,30 @@
+{
+  "id": 5956,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "甘い"
+  },
+  "primaryMeaning": "Sweet",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>sweet</kanji>? It's <vocabulary>sweet</vocabulary>.",
+  "primaryReading": "あまい",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "甘い",
+  "related": {
+    "radicals": [
+      360
+    ],
+    "kanjis": [
+      1623
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あまい",
+      "url": "https://files.wanikani.com/grzv5f3m2xcms59q4f4lvsk83shq"
+    }
+  ]
+}

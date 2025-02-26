@@ -1,0 +1,34 @@
+{
+  "id": 9123,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "某所"
+  },
+  "primaryMeaning": "A Certain Place",
+  "meaningMnemonic": "No surprises here. A <kanji>certain</kanji> <kanji>place</kanji> is <vocabulary>a certain place</vocabulary>.",
+  "primaryReading": "ぼうしょ",
+  "readingMnemonic": "This word uses the on'yomi for both kanji, and you learned those readings with the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "某所",
+  "related": {
+    "radicals": [
+      360,
+      23,
+      73,
+      115
+    ],
+    "kanjis": [
+      2458,
+      707
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうしょ",
+      "url": "https://files.wanikani.com/wjxn9x7emz0o5hxev4ljvo1edmug"
+    }
+  ]
+}

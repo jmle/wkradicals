@@ -1,0 +1,36 @@
+{
+  "id": 7541,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "動き"
+  },
+  "primaryMeaning": "Movement",
+  "meaningMnemonic": "This is the noun version of the kanji <kanji>move</kanji>. So it means <vocabulary>movement</vocabulary>.",
+  "primaryReading": "うごき",
+  "readingMnemonic": "This is the same reading you learned from the word 動く. If you know that word, you know how to read this word!",
+  "otherMeanings": [
+    "Activity",
+    "Trend",
+    "Development",
+    "Change"
+  ],
+  "otherReadings": [],
+  "wkSlug": "動き",
+  "related": {
+    "radicals": [
+      188,
+      13
+    ],
+    "kanjis": [
+      827
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うごき",
+      "url": "https://files.wanikani.com/m76jtvy2wtwpnbj9ph01k6797pkx"
+    }
+  ]
+}

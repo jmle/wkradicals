@@ -1,0 +1,36 @@
+{
+  "id": 7266,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "団扇"
+  },
+  "primaryMeaning": "Fan",
+  "meaningMnemonic": "A <kanji>group</kanji> of <kanji>folding fan</kanji>s, no matter how big it gets, is still a <vocabulary>fan</vocabulary>.",
+  "primaryReading": "うちわ",
+  "readingMnemonic": "The reading for 団 is an exceptional reading. It's the same as 内's reading so you can think about how a group of folding fans to make a big fan is just a bunch of fans inside of fans.\n\nThe reading for 扇 is also an exceptional reading. Imagine a <reading>wa</reading>lrus (わ) using the 内 fan.",
+  "otherMeanings": [
+    "Uchiwa"
+  ],
+  "otherReadings": [],
+  "wkSlug": "団扇",
+  "related": {
+    "radicals": [
+      16,
+      74,
+      73,
+      213
+    ],
+    "kanjis": [
+      1076,
+      1999
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うちわ",
+      "url": "https://files.wanikani.com/5w929fyjy6ob9vxmemv838f45dti"
+    }
+  ]
+}

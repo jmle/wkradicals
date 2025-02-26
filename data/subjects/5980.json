@@ -1,0 +1,33 @@
+{
+  "id": 5980,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "廃止"
+  },
+  "primaryMeaning": "Abolition",
+  "meaningMnemonic": "It is <kanji>obsolete</kanji> so we must <kanji>stop</kanji> it. No more of it anymore. This is <vocabulary>abolition</vocabulary>.",
+  "primaryReading": "はいし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "廃止",
+  "related": {
+    "radicals": [
+      62,
+      359,
+      44
+    ],
+    "kanjis": [
+      1622,
+      514
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいし",
+      "url": "https://files.wanikani.com/zwvw5zpwb6313bpqt2vflyrom27x"
+    }
+  ]
+}

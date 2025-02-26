@@ -1,0 +1,36 @@
+{
+  "id": 6249,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "小遣い"
+  },
+  "primaryMeaning": "Allowance",
+  "meaningMnemonic": "If 遣う is something along the lines of \"to consider\" then a \"<kanji>small</kanji> consider\" is what I'll give you for your <vocabulary>spending money</vocabulary>. Can I have some money? $50? No, how about a smaller consideration on that, maybe something that's more along the lines of an <vocabulary>allowance</vocabulary>?",
+  "primaryReading": "こづかい",
+  "readingMnemonic": "The reading is the alternate reading of 小 and 遣う's reading. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Spending Money"
+  ],
+  "otherReadings": [],
+  "wkSlug": "小遣い",
+  "related": {
+    "radicals": [
+      35,
+      114,
+      89,
+      8777
+    ],
+    "kanjis": [
+      463,
+      1662
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こづかい",
+      "url": "https://files.wanikani.com/plizqg9boafmpluv4xx0sj6zn5u5"
+    }
+  ]
+}

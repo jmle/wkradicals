@@ -1,0 +1,36 @@
+{
+  "id": 8079,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "自叙伝"
+  },
+  "primaryMeaning": "Autobiography",
+  "meaningMnemonic": "<kanji>Tell</kanji> everyone how you <kanji>describe</kanji> your<kanji>self</kanji> in your <vocabulary>autobiography</vocabulary>. It's the only way they'll be able to understand the real you.",
+  "primaryReading": "じじょでん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "自叙伝",
+  "related": {
+    "radicals": [
+      109,
+      313,
+      30,
+      75,
+      159
+    ],
+    "kanjis": [
+      578,
+      2248,
+      777
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じじょでん",
+      "url": "https://files.wanikani.com/9dahg7j8lyhn7ehh1nf1mev240w9"
+    }
+  ]
+}

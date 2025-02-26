@@ -1,0 +1,34 @@
+{
+  "id": 5589,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "欲しい"
+  },
+  "primaryMeaning": "Wanted",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>want</kanji>? It's also <vocabulary>wanted</vocabulary>.",
+  "primaryReading": "ほしい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: What do you want? A <reading>hoe</reading> (ほ), like a garden hoe, you sicko.",
+  "otherMeanings": [
+    "Desired",
+    "Want"
+  ],
+  "otherReadings": [],
+  "wkSlug": "欲しい",
+  "related": {
+    "radicals": [
+      249,
+      142
+    ],
+    "kanjis": [
+      1507
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほしい",
+      "url": "https://files.wanikani.com/df59wmvjlc5wdudhz4d6tvy7720r"
+    }
+  ]
+}

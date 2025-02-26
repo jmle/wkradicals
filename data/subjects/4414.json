@@ -1,0 +1,35 @@
+{
+  "id": 4414,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "制度"
+  },
+  "primaryMeaning": "System",
+  "meaningMnemonic": "You <kanji>control</kanji> every <kanji>degree</kanji> of this <vocabulary>system</vocabulary>. Think about a system. It's designed to create more control for you, degree by degree by degree. That's why they call it \"The system,\" after all.",
+  "primaryReading": "せいど",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "制度",
+  "related": {
+    "radicals": [
+      126,
+      102,
+      128,
+      8787,
+      30
+    ],
+    "kanjis": [
+      1128,
+      725
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいど",
+      "url": "https://files.wanikani.com/cgkhae96j3ztjtlu4mlcy2ht0q96"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6446,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "隣"
+  },
+  "primaryMeaning": "Neighbor",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "となり",
+  "readingMnemonic": "Remember the movie \"<reading>Tonari</reading> (となり) no Totoro\"? That is the Tonari. ",
+  "otherMeanings": [
+    "Next To",
+    "Next Door Neighbor"
+  ],
+  "otherReadings": [],
+  "wkSlug": "隣",
+  "related": {
+    "radicals": [
+      176,
+      98,
+      429
+    ],
+    "kanjis": [
+      1772
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "となり",
+      "url": "https://files.wanikani.com/bohyti8ejqm5pvjkag40sizqx4hr"
+    }
+  ]
+}

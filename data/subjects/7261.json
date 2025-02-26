@@ -1,0 +1,35 @@
+{
+  "id": 7261,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "お婆ちゃん"
+  },
+  "primaryMeaning": "Granny",
+  "meaningMnemonic": "An <kanji>old woman</kanji> is who this is. Then, you add ちゃん for the name ender. You add お to be nicer. This person is a <vocabulary>granny</vocabulary> or <vocabulary>grandma</vocabulary> or <vocabulary>old lady</vocabulary> or <vocabulary>old woman</vocabulary>.",
+  "primaryReading": "おばあちゃん",
+  "readingMnemonic": "The reading isn't the ば you learned with the kanji. It's a slightly longer ばあ, because you gotta be nice, you know? Also, the person you thought was a <vocabulary>granny</vocabulary> is actually a sheep. <reading>Baaaa</reading>! (ばあ).",
+  "otherMeanings": [
+    "Grandma",
+    "Old Lady",
+    "Old Woman"
+  ],
+  "otherReadings": [],
+  "wkSlug": "お婆ちゃん",
+  "related": {
+    "radicals": [
+      402,
+      19
+    ],
+    "kanjis": [
+      1992
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おばあちゃん",
+      "url": "https://files.wanikani.com/ff8x4yo4kdomgw4z92q291rau2u8"
+    }
+  ]
+}

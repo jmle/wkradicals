@@ -1,0 +1,35 @@
+{
+  "id": 3283,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "注文"
+  },
+  "primaryMeaning": "Order",
+  "meaningMnemonic": "You <kanji>pour</kanji> <kanji>writing</kanji> onto a form. You're filling out this form to <vocabulary>order</vocabulary> something new for yourself. It's a formal <vocabulary>request</vocabulary> to get this new thing (imagine it being something you're excited about ordering right now, and imagine yourself ordering it by pouring writing onto an order form).",
+  "primaryReading": "ちゅうもん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Request"
+  ],
+  "otherReadings": [],
+  "wkSlug": "注文",
+  "related": {
+    "radicals": [
+      103,
+      154,
+      42
+    ],
+    "kanjis": [
+      794,
+      475
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうもん",
+      "url": "https://files.wanikani.com/ru6of6om1r53xue17k1h27prhd0q"
+    }
+  ]
+}

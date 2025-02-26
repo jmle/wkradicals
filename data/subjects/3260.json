@@ -1,0 +1,35 @@
+{
+  "id": 3260,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "初回"
+  },
+  "primaryMeaning": "The First Time",
+  "meaningMnemonic": "The <kanji>first</kanji> of something you'll do several or many <kanji>times</kanji> is <vocabulary>the first time</vocabulary>.",
+  "primaryReading": "しょかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "First Time"
+  ],
+  "otherReadings": [],
+  "wkSlug": "初回",
+  "related": {
+    "radicals": [
+      80,
+      24,
+      16
+    ],
+    "kanjis": [
+      784,
+      569
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょかい",
+      "url": "https://files.wanikani.com/4ofijpf4l174r9qogw9ky52r71k7"
+    }
+  ]
+}

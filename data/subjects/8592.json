@@ -1,0 +1,34 @@
+{
+  "id": 8592,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "雌"
+  },
+  "primaryMeaning": "Female",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.\n\nNote that this is often written in katakana, as in メス.",
+  "primaryReading": "めす",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Female Animal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "雌",
+  "related": {
+    "radicals": [
+      44,
+      57,
+      240
+    ],
+    "kanjis": [
+      2405
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めす",
+      "url": "https://files.wanikani.com/p0fjj9j8o8cof4815ihltkxro462"
+    }
+  ]
+}

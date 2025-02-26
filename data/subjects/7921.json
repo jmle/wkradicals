@@ -1,0 +1,38 @@
+{
+  "id": 7921,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "覇気"
+  },
+  "primaryMeaning": "Ambition",
+  "meaningMnemonic": "If you have the <kanji>leadership</kanji> <kanji>spirit</kanji> it means you have a lot of <vocabulary>ambition</vocabulary> to go after the things you want. And you'll be able to lead others because of it.",
+  "primaryReading": "はき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Aspiration",
+    "Spirit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "覇気",
+  "related": {
+    "radicals": [
+      424,
+      288,
+      43,
+      82,
+      31
+    ],
+    "kanjis": [
+      2157,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はき",
+      "url": "https://files.wanikani.com/dd7n5jb1ygk2shibk81ku8y3pu1i"
+    }
+  ]
+}

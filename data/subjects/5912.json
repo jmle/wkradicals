@@ -1,0 +1,35 @@
+{
+  "id": 5912,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "地獄"
+  },
+  "primaryMeaning": "Hell",
+  "meaningMnemonic": "The <kanji>earth</kanji> <kanji>prison</kanji> is a prison down inside the earth. What prison is under the earth? That would be <vocabulary>hell</vocabulary>.",
+  "primaryReading": "じごく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "地獄",
+  "related": {
+    "radicals": [
+      17,
+      77,
+      144,
+      117,
+      47
+    ],
+    "kanjis": [
+      608,
+      1602
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じごく",
+      "url": "https://files.wanikani.com/mww33xgl3i2y25dib49njpkseu7j"
+    }
+  ]
+}

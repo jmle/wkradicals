@@ -1,0 +1,36 @@
+{
+  "id": 5883,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "厄介"
+  },
+  "primaryMeaning": "Troublesome",
+  "meaningMnemonic": "The <kanji>misfortune</kanji> is just getting <kanji>jammed in</kanji> there. So much misfortune leads to very <vocabulary>troublesome</vocabulary> <vocabulary>trouble</vocabulary>.\n\n厄介 describes something or someone that is troublesome, or the trouble itself. It's very similar to 面倒, but 厄介 is often used for more challenging or complicated situations.",
+  "primaryReading": "やっかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The やく gets changed to やっ.",
+  "otherMeanings": [
+    "Hard To Deal With",
+    "Trouble"
+  ],
+  "otherReadings": [],
+  "wkSlug": "厄介",
+  "related": {
+    "radicals": [
+      116,
+      158,
+      166
+    ],
+    "kanjis": [
+      1589,
+      1587
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やっかい",
+      "url": "https://files.wanikani.com/bm5ge7cfwrjjsojyo3q0lzqo8640"
+    }
+  ]
+}

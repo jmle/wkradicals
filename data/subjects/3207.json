@@ -1,0 +1,35 @@
+{
+  "id": 3207,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "算定する"
+  },
+  "primaryMeaning": "To Calculate",
+  "meaningMnemonic": "When you <kanji>calculate</kanji> and <kanji>determine</kanji> (the calculation), you are determining the calculation. That's why this word is <vocabulary>to calculate</vocabulary>.\n\nUnlike 計算する, which means “to calculate” in general, 算定する is a formal word that focuses more on the final value of a calculation, instead of the process of calculating itself.",
+  "primaryReading": "さんていする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "算定する",
+  "related": {
+    "radicals": [
+      85,
+      53,
+      106,
+      78,
+      229
+    ],
+    "kanjis": [
+      762,
+      714
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんていする",
+      "url": "https://files.wanikani.com/g6gln7mh7zq21z5xt2cng7m1eio9"
+    }
+  ]
+}

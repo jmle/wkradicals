@@ -1,0 +1,39 @@
+{
+  "id": 8452,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "管弦楽"
+  },
+  "primaryMeaning": "Orchestral Music",
+  "meaningMnemonic": "You already know that 弦楽 means \"string music,\" so add some <kanji>pipe</kanji>s to that, like trumpets and saxophones, and you'll have <vocabulary>orchestral music</vocabulary>. You can't have a whole orchestra with just the string section!",
+  "primaryReading": "かんげんがく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "管弦楽",
+  "related": {
+    "radicals": [
+      85,
+      78,
+      8777,
+      36,
+      403,
+      52,
+      123,
+      23
+    ],
+    "kanjis": [
+      1236,
+      2312,
+      704
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんげんがく",
+      "url": "https://files.wanikani.com/fo8oy2omfoh3pyho4jmm8bulpunl"
+    }
+  ]
+}

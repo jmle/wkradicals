@@ -1,0 +1,40 @@
+{
+  "id": 8023,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "細胞"
+  },
+  "primaryMeaning": "Cell",
+  "meaningMnemonic": "<kanji>Thin</kanji> <kanji>cell</kanji>s are what make up our bodies. They're still <vocabulary>cells</vocabulary> but they can also be called <vocabulary>biological cells</vocabulary>.",
+  "primaryReading": "さいぼう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Biological Cell"
+  ],
+  "otherReadings": [],
+  "wkSlug": "細胞",
+  "related": {
+    "radicals": [
+      86,
+      51,
+      43,
+      395
+    ],
+    "kanjis": [
+      996,
+      2191
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいぼう",
+      "url": "https://files.wanikani.com/2jvvlou6g9iibgc0d84ebkaemyj0"
+    },
+    {
+      "reading": "さいほう",
+      "url": "https://files.wanikani.com/il7cv7r2kxx0c7vd3fqraecg2sk3"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8359,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "弔う"
+  },
+  "primaryMeaning": "To Mourn For",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>condolence</kanji>, so the verb version is <vocabulary>to mourn for</vocabulary> or <vocabulary>to condole</vocabulary>.",
+  "primaryReading": "とむらう",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading.  You haven't learned this reading yet, so here's a mnemonic to help you:\n\nYou seem <vocabulary>to mourn for</vocabulary> things you really care about. Well then you would mourn for your <reading>toe mura</reading>l (とむら). You had a mural made for your favorite toe so if anything were to happen to it, you would want to mourn for it.",
+  "otherMeanings": [
+    "To Hold A Memorial Service For",
+    "To Condole"
+  ],
+  "otherReadings": [],
+  "wkSlug": "弔う",
+  "related": {
+    "radicals": [
+      36,
+      8761
+    ],
+    "kanjis": [
+      2343
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とむらう",
+      "url": "https://files.wanikani.com/2mexbae7mj8g9b4u7su1tkwez9o4"
+    }
+  ]
+}

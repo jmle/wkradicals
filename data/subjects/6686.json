@@ -1,0 +1,39 @@
+{
+  "id": 6686,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "風潮"
+  },
+  "primaryMeaning": "Tide",
+  "meaningMnemonic": "The <kanji>wind</kanji> <kanji>tide</kanji> is the direction in which the tide is blowing. Is it blowing in? Is it blowing out? It is the <vocabulary>tide</vocabulary> and <vocabulary>current</vocabulary>. These days, we usually use this word for the current <vocabulary>trend</vocabulary>s that come in like the tide.",
+  "primaryReading": "ふうちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Current",
+    "Trend"
+  ],
+  "otherReadings": [],
+  "wkSlug": "風潮",
+  "related": {
+    "radicals": [
+      177,
+      5,
+      89,
+      103,
+      8793,
+      43
+    ],
+    "kanjis": [
+      853,
+      1849
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふうちょう",
+      "url": "https://files.wanikani.com/n989o97i28q2vdx3a7u5nv1zd1ph"
+    }
+  ]
+}

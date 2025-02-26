@@ -1,0 +1,38 @@
+{
+  "id": 5750,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "貴族"
+  },
+  "primaryMeaning": "The Nobility",
+  "meaningMnemonic": "People of a <kanji>valuable</kanji> <kanji>tribe</kanji> are part of <vocabulary>the nobility</vocabulary>. Unlike our tribes, they are valuable.",
+  "primaryReading": "きぞく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "A Noble"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貴族",
+  "related": {
+    "radicals": [
+      49,
+      1,
+      94,
+      66,
+      8762,
+      72
+    ],
+    "kanjis": [
+      1547,
+      830
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きぞく",
+      "url": "https://files.wanikani.com/9tk6wh8a5wkwefll2g3ynazg13pj"
+    }
+  ]
+}

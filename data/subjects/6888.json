@@ -1,0 +1,37 @@
+{
+  "id": 6888,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "旧暦"
+  },
+  "primaryMeaning": "Lunisolar Calendar",
+  "meaningMnemonic": "The <kanji>former</kanji> <kanji>calendar</kanji> is the calendar from before. It's the <vocabulary>lunisolar calendar</vocabulary> and the <vocabulary>traditional Japanese calendar</vocabulary>. Certainly not the current calendar, anyways.",
+  "primaryReading": "きゅうれき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Traditional Japanese Calendar",
+    "Japanese Calendar"
+  ],
+  "otherReadings": [],
+  "wkSlug": "旧暦",
+  "related": {
+    "radicals": [
+      8761,
+      22,
+      116,
+      23
+    ],
+    "kanjis": [
+      1611,
+      1921
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうれき",
+      "url": "https://files.wanikani.com/70l2l55r5cibyk074qk288rti3nw"
+    }
+  ]
+}

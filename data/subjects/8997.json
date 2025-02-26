@@ -1,0 +1,35 @@
+{
+  "id": 8997,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "苛める"
+  },
+  "primaryMeaning": "To Bully",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>frustration</kanji>. What do frustrated people do? They tend <vocabulary>to bully</vocabulary>, <vocabulary>to pick on</vocabulary>, <vocabulary>to tease</vocabulary>, and <vocabulary>to torment</vocabulary> other people. ",
+  "primaryReading": "いじめる",
+  "readingMnemonic": "This word uses the same reading as the one you learned with the kanji.",
+  "otherMeanings": [
+    "To Pick On",
+    "To Tease",
+    "To Torment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "苛める",
+  "related": {
+    "radicals": [
+      90,
+      113
+    ],
+    "kanjis": [
+      8990
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いじめる",
+      "url": "https://files.wanikani.com/e72jnpfh8p4o43emos643wnfauc9"
+    }
+  ]
+}

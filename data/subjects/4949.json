@@ -1,0 +1,36 @@
+{
+  "id": 4949,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "燃え付く"
+  },
+  "primaryMeaning": "To Catch Fire",
+  "meaningMnemonic": "When something <kanji>attach</kanji>es a <kanji>burn</kanji> to something that something is about <vocabulary>to catch fire</vocabulary>.",
+  "primaryReading": "もえつく",
+  "readingMnemonic": "This is the readings of 燃える and 付く put together.",
+  "otherMeanings": [
+    "To Catch On Fire"
+  ],
+  "otherReadings": [],
+  "wkSlug": "燃え付く",
+  "related": {
+    "radicals": [
+      46,
+      297,
+      75,
+      74
+    ],
+    "kanjis": [
+      1222,
+      652
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もえつく",
+      "url": "https://files.wanikani.com/80wp0qkjpn7hue8xcl6qh0nwjc32"
+    }
+  ]
+}

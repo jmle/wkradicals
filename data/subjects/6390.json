@@ -1,0 +1,34 @@
+{
+  "id": 6390,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "堀川"
+  },
+  "primaryMeaning": "Canal",
+  "meaningMnemonic": "A <kanji>ditch</kanji> <kanji>river</kanji> is a <vocabulary>canal</vocabulary>.",
+  "primaryReading": "ほりかわ",
+  "readingMnemonic": "The readings are the ones from the kanji 堀 and the vocab 川.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "堀川-6390",
+  "related": {
+    "radicals": [
+      17,
+      37,
+      332,
+      21
+    ],
+    "kanjis": [
+      1752,
+      456
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほりかわ",
+      "url": "https://files.wanikani.com/ek20qztwc8og0tfokow9fqe0s188"
+    }
+  ]
+}

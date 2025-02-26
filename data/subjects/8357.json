@@ -1,0 +1,37 @@
+{
+  "id": 8357,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "弔意"
+  },
+  "primaryMeaning": "Condolence",
+  "meaningMnemonic": "Express your unique <kanji>idea</kanji> of <kanji>condolence</kanji> by offering your <vocabulary>condolence</vocabulary>s and <vocabulary>sympathy</vocabulary> to people who are going through hard times.",
+  "primaryReading": "ちょうい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sympathy",
+    "Mourning"
+  ],
+  "otherReadings": [],
+  "wkSlug": "弔意",
+  "related": {
+    "radicals": [
+      36,
+      8761,
+      197,
+      65
+    ],
+    "kanjis": [
+      2343,
+      811
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょうい",
+      "url": "https://files.wanikani.com/9gyxox2igvhn0mbdmmgknsa07f02"
+    }
+  ]
+}

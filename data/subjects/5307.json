@@ -1,0 +1,36 @@
+{
+  "id": 5307,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "奇妙"
+  },
+  "primaryMeaning": "Strange",
+  "meaningMnemonic": "Something that's both <kanji>odd</kanji> and <kanji>peculiar</kanji>? Might as well just call it <vocabulary>strange</vocabulary>.",
+  "primaryReading": "きみょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Curious",
+    "Odd"
+  ],
+  "otherReadings": [],
+  "wkSlug": "奇妙",
+  "related": {
+    "radicals": [
+      326,
+      19,
+      198
+    ],
+    "kanjis": [
+      1363,
+      1364
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きみょう",
+      "url": "https://files.wanikani.com/sa7bn5is9l8219rax91ictqk1rcw"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 3041,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "他所"
+  },
+  "primaryMeaning": "Another Place",
+  "meaningMnemonic": "When you're talking about some <kanji>other</kanji> <kanji>place</kanji> you're talking about <vocabulary>another place</vocabulary>.",
+  "primaryReading": "よそ",
+  "readingMnemonic": "This is a jukugo word, which you would normally expect to use the on'yomi readings from the kanji. With this word, however, the on'yomi readings are rarely used now, so they sound rather out of date. Here's a mnemonic to help you remember the more common reading in contemporary Japanese:\n\nAnother place <reading>you saw</reading> (よそ) always seems better. In other words, the grass is greener somewhere else you saw!",
+  "otherMeanings": [
+    "Somewhere Else",
+    "Other Place",
+    "Elsewhere"
+  ],
+  "otherReadings": [],
+  "wkSlug": "他所",
+  "related": {
+    "radicals": [
+      75,
+      77,
+      73,
+      115
+    ],
+    "kanjis": [
+      529,
+      707
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よそ",
+      "url": "https://files.wanikani.com/gayl7gxthm1juqq6juq1ole862hn"
+    }
+  ]
+}

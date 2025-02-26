@@ -1,0 +1,34 @@
+{
+  "id": 7195,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "尽きる"
+  },
+  "primaryMeaning": "To Be Used Up",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>use up</kanji> or <kanji>exhaust</kanji>, and this verb is <vocabulary>to be used up</vocabulary>, <vocabulary>to be exhausted</vocabulary>, or <vocabulary>to run out</vocabulary>.",
+  "primaryReading": "つきる",
+  "readingMnemonic": "If something is exhausted it's because you used up <reading>too</reading> (つ) much of it, and now it's all gone.",
+  "otherMeanings": [
+    "To Be Exhausted",
+    "To Run Out"
+  ],
+  "otherReadings": [],
+  "wkSlug": "尽きる",
+  "related": {
+    "radicals": [
+      215,
+      123
+    ],
+    "kanjis": [
+      2027
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つきる",
+      "url": "https://files.wanikani.com/7qxthxzbmo3rnk3vaxiplzk600jl"
+    }
+  ]
+}

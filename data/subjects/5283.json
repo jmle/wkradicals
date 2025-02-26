@@ -1,0 +1,34 @@
+{
+  "id": 5283,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "詰まる"
+  },
+  "primaryMeaning": "To Be Stuffed",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>stuffed</kanji>. The vocab word is <vocabulary>to be stuffed</vocabulary>, as in something is stuffed and you're not doing the stuffing. You know this because when it comes to まる the cat, he stuffs himself into boxes on his own, so you don't have to stuff him into boxes for him. It just happens, and you can watch and be entertained (obviously you need to go watch some Maru videos if you haven't on YouTube, just saying).",
+  "primaryReading": "つまる",
+  "readingMnemonic": "This word uses the reading you learned with the kanji!",
+  "otherMeanings": [
+    "To Be Crammed Full",
+    "To Be Stuck"
+  ],
+  "otherReadings": [],
+  "wkSlug": "詰まる",
+  "related": {
+    "radicals": [
+      117,
+      253
+    ],
+    "kanjis": [
+      1411
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つまる",
+      "url": "https://files.wanikani.com/mqsz8m13bdvk38hqbrvwcmikh8tf"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4323,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "臭い"
+  },
+  "primaryMeaning": "Stinky",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>stinking</kanji>? It's also <vocabulary>stinking</vocabulary> (or <vocabulary>stinky</vocabulary>).",
+  "primaryReading": "くさい",
+  "readingMnemonic": "The reading you learned with the kanji can be used here, too.",
+  "otherMeanings": [
+    "Stinking",
+    "Smelly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "臭い",
+  "related": {
+    "radicals": [
+      109,
+      18
+    ],
+    "kanjis": [
+      1111
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くさい",
+      "url": "https://files.wanikani.com/wrs4uq7txtvbaulruvj1heq2u0gt"
+    }
+  ]
+}

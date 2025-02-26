@@ -1,0 +1,36 @@
+{
+  "id": 3766,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "毎晩"
+  },
+  "primaryMeaning": "Every Night",
+  "meaningMnemonic": "<kanji>Every</kanji> <kanji>night</kanji> is simply <vocabulary>every night</vocabulary>. What do you do every night?",
+  "primaryReading": "まいばん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Nightly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "毎晩",
+  "related": {
+    "radicals": [
+      8762,
+      107,
+      22,
+      208
+    ],
+    "kanjis": [
+      572,
+      958
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まいばん",
+      "url": "https://files.wanikani.com/36hplw1sfiyvli9qte74vh7j3m0v"
+    }
+  ]
+}

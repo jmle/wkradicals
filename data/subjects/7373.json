@@ -1,0 +1,36 @@
+{
+  "id": 7373,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "無駄"
+  },
+  "primaryMeaning": "Futility",
+  "meaningMnemonic": "<kanji>Nothing</kanji> but <kanji>burdensome</kanji>. That's all you get out of doing this task. The <vocabulary>futility</vocabulary> of it is ridiculous. The <vocabulary>uselessness</vocabulary> is huge.",
+  "primaryReading": "むだ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Uselessness",
+    "Pointlessness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無駄",
+  "related": {
+    "radicals": [
+      252,
+      165,
+      411
+    ],
+    "kanjis": [
+      1008,
+      2087
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むだ",
+      "url": "https://files.wanikani.com/enxiwi5nm9rfwwy9pqnpe8qbpmyy"
+    }
+  ]
+}

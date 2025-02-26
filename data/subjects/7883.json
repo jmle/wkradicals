@@ -1,0 +1,38 @@
+{
+  "id": 7883,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "惰性"
+  },
+  "primaryMeaning": "Inertia",
+  "meaningMnemonic": "If you have the <kanji>nature</kanji> of being <kanji>lazy</kanji> it will become a <vocabulary>habit</vocabulary>. The <vocabulary>momentum</vocabulary> created by your natural laziness will make it so you can't break out of your lazy cycle.",
+  "primaryReading": "だせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Habit",
+    "Momentum"
+  ],
+  "otherReadings": [],
+  "wkSlug": "惰性",
+  "related": {
+    "radicals": [
+      232,
+      26,
+      25,
+      43,
+      210
+    ],
+    "kanjis": [
+      2183,
+      918
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だせい",
+      "url": "https://files.wanikani.com/jjlacf86wo8sfrc5tbgymn72u4xd"
+    }
+  ]
+}

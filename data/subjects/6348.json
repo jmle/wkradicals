@@ -1,0 +1,36 @@
+{
+  "id": 6348,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "取り扱う"
+  },
+  "primaryMeaning": "To Manage",
+  "meaningMnemonic": "To <kanji>take</kanji> and then <kanji>handle</kanji> means you're taking it and handling it, causing you <vocabulary>to manage</vocabulary> or <vocabulary>to handle</vocabulary> something. You got it because you took it.",
+  "primaryReading": "とりあつかう",
+  "readingMnemonic": "The readings come from 取る and 扱う.",
+  "otherMeanings": [
+    "To Handle"
+  ],
+  "otherReadings": [],
+  "wkSlug": "取り扱う",
+  "related": {
+    "radicals": [
+      88,
+      30,
+      63,
+      193
+    ],
+    "kanjis": [
+      966,
+      1693
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とりあつかう",
+      "url": "https://files.wanikani.com/pumkxnqfrv35nxequ335rykipxd9"
+    }
+  ]
+}

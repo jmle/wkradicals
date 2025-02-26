@@ -1,0 +1,33 @@
+{
+  "id": 5511,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "冷える"
+  },
+  "primaryMeaning": "To Be Chilled",
+  "meaningMnemonic": "If 冷やす is \"to chill something,\" then this would be the version where something is just chilled. You're not doing the action of chilling anything, it's just that way. You know this because if you get involved, there's always some kind of chilling <reading>err</reading>or (える). So, you step back and let the fridge do its job without messing.",
+  "primaryReading": "ひえる",
+  "readingMnemonic": "The reading comes from 冷やす. Know that and you know this as well.",
+  "otherMeanings": [
+    "To Get Cold"
+  ],
+  "otherReadings": [],
+  "wkSlug": "冷える",
+  "related": {
+    "radicals": [
+      123,
+      189
+    ],
+    "kanjis": [
+      1350
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひえる",
+      "url": "https://files.wanikani.com/8xbdz095dl8yxyyhy4bnzdk8i3g8"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5695,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "諸君"
+  },
+  "primaryMeaning": "Gentlemen",
+  "meaningMnemonic": "My <kanji>various</kanji> <kanji>buddies</kanji>! Wait, that didn't come out right. <vocabulary>Gentlemen</vocabulary>! <vocabulary>My friends</vocabulary>! There we go, much better.",
+  "primaryReading": "しょくん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "My Friends",
+    "Ladies And Gentlemen"
+  ],
+  "otherReadings": [],
+  "wkSlug": "諸君",
+  "related": {
+    "radicals": [
+      117,
+      203,
+      105,
+      5,
+      16
+    ],
+    "kanjis": [
+      1543,
+      682
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょくん",
+      "url": "https://files.wanikani.com/oxm7t0mkks7w0jtex96vcr5cdwwg"
+    }
+  ]
+}

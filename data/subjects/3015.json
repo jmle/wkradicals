@@ -1,0 +1,37 @@
+{
+  "id": 3015,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "役に立つ"
+  },
+  "primaryMeaning": "To Be Useful",
+  "meaningMnemonic": "When you <kanji>stand up</kanji> to do your <kanji>duty</kanji> you're standing up and finally being useful. That's why this verb means <vocabulary>to be useful</vocabulary>.",
+  "primaryReading": "やくにたつ",
+  "readingMnemonic": "The reading for 役 is the one you learned with the kanji. The 立つ reading is that of the 立つ vocabulary, which you should be familiar with by now.",
+  "otherMeanings": [
+    "To Be Of Use",
+    "To Be Helpful",
+    "To Be Of Service"
+  ],
+  "otherReadings": [],
+  "wkSlug": "役に立つ",
+  "related": {
+    "radicals": [
+      99,
+      160,
+      55
+    ],
+    "kanjis": [
+      685,
+      494
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やくにたつ",
+      "url": "https://files.wanikani.com/8r8rjtyjeyymrnk3i3f7wen1yt7y"
+    }
+  ]
+}

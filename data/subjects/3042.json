@@ -1,0 +1,34 @@
+{
+  "id": 3042,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "名所"
+  },
+  "primaryMeaning": "Famous Place",
+  "meaningMnemonic": "A <kanji>famous</kanji> <kanji>place</kanji> is a <vocabulary>famous place</vocabulary>. When traveling around Japan, you should ask about the 名所 if you can.",
+  "primaryReading": "めいしょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "名所",
+  "related": {
+    "radicals": [
+      33,
+      16,
+      73,
+      115
+    ],
+    "kanjis": [
+      544,
+      707
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めいしょ",
+      "url": "https://files.wanikani.com/apbzwdztmj0zhgsz5spqiot5mrho"
+    }
+  ]
+}

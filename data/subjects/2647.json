@@ -1,0 +1,33 @@
+{
+  "id": 2647,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "休日"
+  },
+  "primaryMeaning": "Holiday",
+  "meaningMnemonic": "When you have a <kanji>rest</kanji> <kanji>day</kanji> you have a <vocabulary>holiday</vocabulary>.",
+  "primaryReading": "きゅうじつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 日 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nEvery <vocabulary>holiday</vocabulary>, you eat not one, but two <reading>cu</reading>cumbers. <reading>Gee, two</reading> (きゅうじつ)? Take it easy!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "休日",
+  "related": {
+    "radicals": [
+      75,
+      23,
+      22
+    ],
+    "kanjis": [
+      542,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうじつ",
+      "url": "https://files.wanikani.com/89g3f9j1bw1sfof3e76b0gpa0o03"
+    }
+  ]
+}

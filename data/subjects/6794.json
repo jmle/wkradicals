@@ -1,0 +1,34 @@
+{
+  "id": 6794,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "辛勝"
+  },
+  "primaryMeaning": "Narrow Victory",
+  "meaningMnemonic": "A <kanji>spicy</kanji> <kanji>win</kanji> is a <vocabulary>narrow victory</vocabulary>. Kind of makes sense, right?",
+  "primaryReading": "しんしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "辛勝",
+  "related": {
+    "radicals": [
+      178,
+      43,
+      8819,
+      13
+    ],
+    "kanjis": [
+      1880,
+      738
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんしょう",
+      "url": "https://files.wanikani.com/js7y0i162q5ik6iu4n0xdxyj2phk"
+    }
+  ]
+}

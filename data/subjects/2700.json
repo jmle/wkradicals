@@ -1,0 +1,36 @@
+{
+  "id": 2700,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "見分ける"
+  },
+  "primaryMeaning": "To Distinguish",
+  "meaningMnemonic": "You <kanji>see</kanji> something, then you \"separate\" (分ける) it. This is the same thing as <vocabulary>to distinguish</vocabulary>, <vocabulary>to tell apart</vocabulary>, or <vocabulary>to recognize</vocabulary>. This verb is transitive, so you're doing the action to something. You're distinguishing between things or people.",
+  "primaryReading": "みわける",
+  "readingMnemonic": "You should know the reading of 見 already. The second part, 分ける is a word you should have learned in the previous level. Combine that knowledge together and you get the reading for this word.",
+  "otherMeanings": [
+    "To Tell Apart",
+    "To Recognize"
+  ],
+  "otherReadings": [],
+  "wkSlug": "見分ける",
+  "related": {
+    "radicals": [
+      91,
+      2,
+      24
+    ],
+    "kanjis": [
+      558,
+      501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みわける",
+      "url": "https://files.wanikani.com/3xyfc2ofy8rmazj6rfvfuzrop1uy"
+    }
+  ]
+}

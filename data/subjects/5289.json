@@ -1,0 +1,31 @@
+{
+  "id": 5289,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "貸し〜"
+  },
+  "primaryMeaning": "Rental",
+  "meaningMnemonic": "To lend or to rent is 貸す. This is the noun version of that, used as a prefix. It is something that has been rented, a <vocabulary>rental</vocabulary>.",
+  "primaryReading": "かし",
+  "readingMnemonic": "The reading is the same as 貸す.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "貸し〜",
+  "related": {
+    "radicals": [
+      310,
+      94
+    ],
+    "kanjis": [
+      1324
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かし",
+      "url": "https://files.wanikani.com/4w644rimuxpq97m6ew03iy18zl78"
+    }
+  ]
+}

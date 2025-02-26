@@ -1,0 +1,35 @@
+{
+  "id": 5949,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "損害する"
+  },
+  "primaryMeaning": "To Damage",
+  "meaningMnemonic": "If 損害 is \"damage\" then the verb version would be <vocabulary>to damage</vocabulary>.",
+  "primaryReading": "そんがいする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Reading is the same as 損害 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "損害する-5949",
+  "related": {
+    "radicals": [
+      63,
+      349,
+      78,
+      210,
+      16
+    ],
+    "kanjis": [
+      1573,
+      1093
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そんがいする",
+      "url": "https://files.wanikani.com/i6b79sjzayhv0qnzsbxwtgk0gmh8"
+    }
+  ]
+}

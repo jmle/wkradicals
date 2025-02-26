@@ -1,0 +1,36 @@
+{
+  "id": 6140,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "遺伝子"
+  },
+  "primaryMeaning": "Genes",
+  "meaningMnemonic": "If 遺伝 is <kanji>heredity</kanji> and you pass your heredity to your <kanji>child</kanji>, how is it being passed? Via <vocabulary>genes</vocabulary>, of course.",
+  "primaryReading": "いでんし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "遺伝子",
+  "related": {
+    "radicals": [
+      114,
+      358,
+      75,
+      159,
+      34
+    ],
+    "kanjis": [
+      1616,
+      777,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いでんし",
+      "url": "https://files.wanikani.com/733pvc4exp0yf5w9qhy7r6yn1pnh"
+    }
+  ]
+}

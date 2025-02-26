@@ -1,0 +1,35 @@
+{
+  "id": 6758,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "握り"
+  },
+  "primaryMeaning": "Grip",
+  "meaningMnemonic": "Remember how 握る is \"to grasp\"? This is the noun version, making it a <vocabulary>grip</vocabulary>.",
+  "primaryReading": "にぎり",
+  "readingMnemonic": "The reading comes from 握る, so get a grip on that!",
+  "otherMeanings": [
+    "Handle",
+    "Handful",
+    "Fistful"
+  ],
+  "otherReadings": [],
+  "wkSlug": "握り",
+  "related": {
+    "radicals": [
+      63,
+      387
+    ],
+    "kanjis": [
+      1816
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にぎり",
+      "url": "https://files.wanikani.com/5md27scrbza0ugesm1uhatftp39c"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7162,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "貯蓄"
+  },
+  "primaryMeaning": "Savings",
+  "meaningMnemonic": "Take your <kanji>savings</kanji> and <kanji>amass</kanji> them. That is your <vocabulary>savings</vocabulary>.",
+  "primaryReading": "ちょちく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "貯蓄",
+  "related": {
+    "radicals": [
+      94,
+      78,
+      27,
+      90,
+      403,
+      51
+    ],
+    "kanjis": [
+      1290,
+      2026
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょちく",
+      "url": "https://files.wanikani.com/r5hx981newdkk1e0frs4s44oxo1n"
+    }
+  ]
+}

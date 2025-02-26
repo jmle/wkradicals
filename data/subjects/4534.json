@@ -1,0 +1,37 @@
+{
+  "id": 4534,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "指示"
+  },
+  "primaryMeaning": "Instructions",
+  "meaningMnemonic": "Use your <kanji>finger</kanji> to <kanji>indicate</kanji> some things. These are your <vocabulary>instructions</vocabulary>. Okay, do this (point), do that (point), and then finally do this (point).",
+  "primaryReading": "しじ",
+  "readingMnemonic": "The readings are the on'yomi readings. You've learned them both already, good for you!",
+  "otherMeanings": [
+    "Directions",
+    "Advice"
+  ],
+  "otherReadings": [],
+  "wkSlug": "指示",
+  "related": {
+    "radicals": [
+      63,
+      57,
+      22,
+      207
+    ],
+    "kanjis": [
+      797,
+      1169
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しじ",
+      "url": "https://files.wanikani.com/h66wx226smouc07w95rg3d87t8sn"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2812,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "大作"
+  },
+  "primaryMeaning": "Major Work",
+  "meaningMnemonic": "The <kanji>big</kanji> <kanji>make</kanji>! What is your big make? Bigger than anything else. It is your <vocabulary>major work</vocabulary>!\n\n大作 means a large-scale, ambitious, or significant work. Depending on the context, it can refer to anything from an artistically accomplished <vocabulary>masterpiece</vocabulary> to a big-budget <vocabulary>blockbuster</vocabulary> movie.",
+  "primaryReading": "たいさく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nDid you know that there's a <vocabulary>monumental work</vocabulary> about a <reading>tie</reading> <reading>sack</reading> (たいさく)? It's a <vocabulary>masterpiece</vocabulary> about a magic sack that produces tie after tie after tie after tie... A bit like The Magic Porridge Pot, but with a sack and ties instead.",
+  "otherMeanings": [
+    "Masterpiece",
+    "Blockbuster"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大作",
+  "related": {
+    "radicals": [
+      18,
+      75,
+      122
+    ],
+    "kanjis": [
+      453,
+      584
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいさく",
+      "url": "https://files.wanikani.com/5nylaob1q02tsk8ogp2y6kflhszm"
+    }
+  ]
+}

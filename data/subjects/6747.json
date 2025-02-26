@@ -1,0 +1,35 @@
+{
+  "id": 6747,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "高炉"
+  },
+  "primaryMeaning": "Blast Furnace",
+  "meaningMnemonic": "A <kanji>high</kanji> <kanji>furnace</kanji> is one that's particularly hot and blasty. This is a <vocabulary>blast furnace</vocabulary>.",
+  "primaryReading": "こうろ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "高炉",
+  "related": {
+    "radicals": [
+      8,
+      16,
+      121,
+      46,
+      73
+    ],
+    "kanjis": [
+      666,
+      1870
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうろ",
+      "url": "https://files.wanikani.com/95zac3t9uexe0x39plire5al14sw"
+    }
+  ]
+}

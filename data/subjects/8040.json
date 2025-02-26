@@ -1,0 +1,38 @@
+{
+  "id": 8040,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "虐待"
+  },
+  "primaryMeaning": "Abuse",
+  "meaningMnemonic": "If you can't <kanji>wait</kanji> to <kanji>oppress</kanji> people when you grow up, you're the kind of person who's prone to inflicting <vocabulary>abuse</vocabulary> on other people. You should try to correct that right away.",
+  "primaryReading": "ぎゃくたい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Maltreatment",
+    "Mistreatment",
+    "Cruelty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "虐待",
+  "related": {
+    "radicals": [
+      254,
+      105,
+      99,
+      192
+    ],
+    "kanjis": [
+      2208,
+      726
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎゃくたい",
+      "url": "https://files.wanikani.com/2zjgueuno2a9n4jqxp7ael64z98d"
+    }
+  ]
+}

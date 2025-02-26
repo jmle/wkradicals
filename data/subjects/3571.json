@@ -1,0 +1,36 @@
+{
+  "id": 3571,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "手伝う"
+  },
+  "primaryMeaning": "To Help",
+  "meaningMnemonic": "When you <kanji>transmit</kanji> your <kanji>hand</kanji> to something or someone, you're putting out your hand <vocabulary>to help</vocabulary> them or <vocabulary>to assist</vocabulary> them.",
+  "primaryReading": "てつだう",
+  "readingMnemonic": "Both of these are the kun'yomi readings that you've already learned! The thing is, the た from 伝's つた changes into だ for who knows what reason. Perhaps you can ask for someone <vocabulary>to help</vocabulary> you to understand this dumb reading change.",
+  "otherMeanings": [
+    "To Assist",
+    "To Lend A Hand"
+  ],
+  "otherReadings": [],
+  "wkSlug": "手伝う",
+  "related": {
+    "radicals": [
+      41,
+      75,
+      159
+    ],
+    "kanjis": [
+      474,
+      777
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てつだう",
+      "url": "https://files.wanikani.com/8z1xlhdhttgjvufpxufsacn13azw"
+    }
+  ]
+}

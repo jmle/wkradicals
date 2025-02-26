@@ -1,0 +1,38 @@
+{
+  "id": 8642,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "矯正"
+  },
+  "primaryMeaning": "Correction",
+  "meaningMnemonic": "<kanji>Correct</kanji> something you thought was already <kanji>correct</kanji> by making a <vocabulary>correction</vocabulary>.",
+  "primaryReading": "きょうせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Remedy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "矯正",
+  "related": {
+    "radicals": [
+      72,
+      40,
+      16,
+      121,
+      1,
+      44
+    ],
+    "kanjis": [
+      2457,
+      488
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうせい",
+      "url": "https://files.wanikani.com/doc3l5o8ltbbaot8jx8518p86gp6"
+    }
+  ]
+}

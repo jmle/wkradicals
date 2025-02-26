@@ -1,0 +1,37 @@
+{
+  "id": 6687,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "満潮"
+  },
+  "primaryMeaning": "High Tide",
+  "meaningMnemonic": "A <kanji>full</kanji> <kanji>tide</kanji> is a <vocabulary>high tide</vocabulary> or <vocabulary>full tide</vocabulary>. That's when the water comes up.",
+  "primaryReading": "まんちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Full Tide"
+  ],
+  "otherReadings": [],
+  "wkSlug": "満潮",
+  "related": {
+    "radicals": [
+      103,
+      90,
+      304,
+      8793,
+      43
+    ],
+    "kanjis": [
+      1271,
+      1849
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まんちょう",
+      "url": "https://files.wanikani.com/37v0wwgd3gf4gwceqo8y3wwo2gjk"
+    }
+  ]
+}

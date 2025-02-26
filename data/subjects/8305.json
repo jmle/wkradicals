@@ -1,0 +1,38 @@
+{
+  "id": 8305,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "穀物"
+  },
+  "primaryMeaning": "Grain",
+  "meaningMnemonic": "<kanji>Grain</kanji> <kanji>thing</kanji>s are <vocabulary>grain</vocabulary>s and <vocabulary>cereal</vocabulary>!",
+  "primaryReading": "こくもつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cereal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "穀物",
+  "related": {
+    "radicals": [
+      97,
+      76,
+      135,
+      160,
+      126,
+      173
+    ],
+    "kanjis": [
+      2304,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こくもつ",
+      "url": "https://files.wanikani.com/t1cyw12lb54hliue8in8m6655i4d"
+    }
+  ]
+}

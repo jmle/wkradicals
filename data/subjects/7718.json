@@ -1,0 +1,39 @@
+{
+  "id": 7718,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "居眠り"
+  },
+  "primaryMeaning": "Nap",
+  "meaningMnemonic": "Sometimes even though you're very much awake and <kanji>alive</kanji> you need to <kanji>sleep</kanji> for a little bit, so you take a <vocabulary>nap</vocabulary>. But you're not dead! You're totally alive, so let's hope no one thinks you're doing anything but <vocabulary>dozing off</vocabulary>.",
+  "primaryReading": "いねむり",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Doze",
+    "Dozing",
+    "Nodding Off",
+    "Dozing Off"
+  ],
+  "otherReadings": [],
+  "wkSlug": "居眠り",
+  "related": {
+    "radicals": [
+      37,
+      69,
+      53,
+      312
+    ],
+    "kanjis": [
+      1280,
+      1332
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いねむり",
+      "url": "https://files.wanikani.com/ttbf17q01auppidjp3y2fwswpc1t"
+    }
+  ]
+}

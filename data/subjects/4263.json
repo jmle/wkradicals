@@ -1,0 +1,38 @@
+{
+  "id": 4263,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "倒産"
+  },
+  "primaryMeaning": "Bankruptcy",
+  "meaningMnemonic": "If someone <kanji>overthrow</kanji>s your <kanji>property</kanji>, it'll end in <vocabulary>bankruptcy</vocabulary>. Without property you're sure to <vocabulary>go bankrupt</vocabulary>, unfortunately.",
+  "primaryReading": "とうさん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Go Bankrupt"
+  ],
+  "otherReadings": [],
+  "wkSlug": "倒産",
+  "related": {
+    "radicals": [
+      75,
+      274,
+      128,
+      55,
+      116,
+      210
+    ],
+    "kanjis": [
+      1110,
+      1109
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうさん",
+      "url": "https://files.wanikani.com/5pifie6zzjbgjklekt7xy026x069"
+    }
+  ]
+}

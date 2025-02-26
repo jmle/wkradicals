@@ -1,0 +1,34 @@
+{
+  "id": 2582,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "白人"
+  },
+  "primaryMeaning": "White Person",
+  "meaningMnemonic": "This word uses <kanji>white</kanji> and <kanji>person</kanji> ... put those together and you have a <vocabulary>white person</vocabulary>, aka a <vocabulary>caucasian</vocabulary> person.",
+  "primaryReading": "はくじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 人 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nImagine a <vocabulary>white person</vocabulary> you know well wearing their favorite pair of <reading>hack</reading>ed up <reading>jean</reading>s (はくじん). This person likes to wear jeans with as many rips and holes in them as possible. Now imagine them wearing only their hacked up jeans. What a sight!",
+  "otherMeanings": [
+    "Caucasian"
+  ],
+  "otherReadings": [],
+  "wkSlug": "白人",
+  "related": {
+    "radicals": [
+      52,
+      9
+    ],
+    "kanjis": [
+      491,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はくじん",
+      "url": "https://files.wanikani.com/3rbrycnjln4bqx6x6egvceap75ms"
+    }
+  ]
+}

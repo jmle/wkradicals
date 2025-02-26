@@ -1,0 +1,34 @@
+{
+  "id": 4152,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "配達する"
+  },
+  "primaryMeaning": "To Deliver",
+  "meaningMnemonic": "You <kanji>distribute</kanji> the goods, they <kanji>attain</kanji> the goods. You are going <vocabulary>to deliver</vocabulary> to everyone.",
+  "primaryReading": "はいたつする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "配達する",
+  "related": {
+    "radicals": [
+      182,
+      228,
+      114,
+      260
+    ],
+    "kanjis": [
+      742,
+      1033
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいたつする",
+      "url": "https://files.wanikani.com/d46jv5at3l9avpqwca3xuz4erm1h"
+    }
+  ]
+}

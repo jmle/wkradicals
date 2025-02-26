@@ -1,0 +1,41 @@
+{
+  "id": 3421,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "外来語"
+  },
+  "primaryMeaning": "Foreign Word",
+  "meaningMnemonic": "You know the word 外来 to mean \"imported.\" So, combine that with the kanji for <kanji>language</kanji> and you have an imported word, aka a <vocabulary>borrowed word</vocabulary>. There are a lot of these in Japanese, which makes this word important. Almost everything in katakana is a 外来語, in fact.",
+  "primaryReading": "がいらいご",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Borrowed Word",
+    "Loanword"
+  ],
+  "otherReadings": [],
+  "wkSlug": "外来語",
+  "related": {
+    "radicals": [
+      33,
+      10,
+      1,
+      98,
+      117,
+      39,
+      16
+    ],
+    "kanjis": [
+      521,
+      590,
+      764
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がいらいご",
+      "url": "https://files.wanikani.com/bu8ioro2ss5xn0v4zve8ho3w3268"
+    }
+  ]
+}

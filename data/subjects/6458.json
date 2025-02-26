@@ -1,0 +1,41 @@
+{
+  "id": 6458,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "御手洗"
+  },
+  "primaryMeaning": "Restroom",
+  "meaningMnemonic": "You know 手洗い, right? This is like that, but way more polite sounding. The meaning is still the same though: <vocabulary>restroom</vocabulary>, <vocabulary>bathroom</vocabulary>, <vocabulary>toilet</vocabulary>.",
+  "primaryReading": "おてあらい",
+  "readingMnemonic": "The reading for the 御 is お, the rest is てあらい, even though the い isn't showing on the end. It gets pushed into the 洗い.",
+  "otherMeanings": [
+    "Bathroom",
+    "Toilet"
+  ],
+  "otherReadings": [],
+  "wkSlug": "御手洗",
+  "related": {
+    "radicals": [
+      99,
+      8762,
+      229,
+      145,
+      41,
+      103,
+      258
+    ],
+    "kanjis": [
+      1728,
+      474,
+      1043
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おてあらい",
+      "url": "https://files.wanikani.com/ec4pv3okmfycvryzsz5ojzd96tno"
+    }
+  ]
+}

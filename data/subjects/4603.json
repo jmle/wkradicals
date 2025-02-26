@@ -1,0 +1,36 @@
+{
+  "id": 4603,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "規則"
+  },
+  "primaryMeaning": "Rule",
+  "meaningMnemonic": "A <kanji>standard</kanji> <kanji>rule</kanji> is just one of the <vocabulary>rule</vocabulary>s or <vocabulary>regulation</vocabulary>s. Nothing weird about these rules.",
+  "primaryReading": "きそく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Regulation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "規則",
+  "related": {
+    "radicals": [
+      146,
+      91,
+      94,
+      128
+    ],
+    "kanjis": [
+      1191,
+      1201
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きそく",
+      "url": "https://files.wanikani.com/bsmphahm4nfa5jfydlnspo890rtk"
+    }
+  ]
+}

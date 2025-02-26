@@ -1,0 +1,37 @@
+{
+  "id": 3371,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "太陽"
+  },
+  "primaryMeaning": "Sun",
+  "meaningMnemonic": "The <kanji>fat</kanji> <kanji>sunshine</kanji> thing up in the sky... what is it called? Oh, that's right. It's the <vocabulary>sun</vocabulary>.",
+  "primaryReading": "たいよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "The Sun",
+    "Sol"
+  ],
+  "otherReadings": [],
+  "wkSlug": "太陽",
+  "related": {
+    "radicals": [
+      18,
+      3,
+      176,
+      172
+    ],
+    "kanjis": [
+      505,
+      834
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいよう",
+      "url": "https://files.wanikani.com/0qu6y2dn4i29c4dfntsbgwo9k78q"
+    }
+  ]
+}

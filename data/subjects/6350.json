@@ -1,0 +1,34 @@
+{
+  "id": 6350,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "称える"
+  },
+  "primaryMeaning": "To Praise",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>title</kanji>, so just think about when someone gives you an awesome title. They are doing this <vocabulary>to praise</vocabulary> or <vocabulary>to give praise</vocabulary> to you.",
+  "primaryReading": "たたえる",
+  "readingMnemonic": "After they go <vocabulary>to praise</vocabulary> you, you're all like \"I don't need praise! <reading>Ta-ta</reading> (たた)! I'm outa here.\"",
+  "otherMeanings": [
+    "To Give Praise"
+  ],
+  "otherReadings": [],
+  "wkSlug": "称える",
+  "related": {
+    "radicals": [
+      135,
+      8762,
+      35
+    ],
+    "kanjis": [
+      1698
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たたえる",
+      "url": "https://files.wanikani.com/190okrcb3hdlvhc6e2e6brbg1v6c"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4792,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "補う"
+  },
+  "primaryMeaning": "To Supplement",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>supplement</kanji> so the verb vocab version is <vocabulary>to supplement</vocabulary>.\n\nNote that this word is generally considered relatively formal in tone.",
+  "primaryReading": "おぎなう",
+  "readingMnemonic": "<reading>Oh, gee, now</reading> (おぎな) you're going <vocabulary>to supplement</vocabulary> it? That would have been helpful earlier. Might help to say \"oh gee now\" with a ぎ sound instead of \"ji\" sound out loud, too. This is a tricky reading, won't be learned too easily, so think about it a bit now.",
+  "otherMeanings": [
+    "To Compensate For"
+  ],
+  "otherReadings": [],
+  "wkSlug": "補う",
+  "related": {
+    "radicals": [
+      80,
+      300
+    ],
+    "kanjis": [
+      1261
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おぎなう",
+      "url": "https://files.wanikani.com/tgdtyfyo89vsznnsxchr7qi078a8"
+    }
+  ]
+}

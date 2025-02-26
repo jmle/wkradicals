@@ -1,0 +1,36 @@
+{
+  "id": 3361,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "家族"
+  },
+  "primaryMeaning": "Family",
+  "meaningMnemonic": "Your <kanji>house</kanji> <kanji>tribe</kanji> is your <vocabulary>family</vocabulary>. They live in the same house as you and they're part of your \"tribe.\" This is closer than family, though (depending on how you look at family). This is your <vocabulary>immediate family</vocabulary> because these are the people you live with and give birth to, etc.",
+  "primaryReading": "かぞく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Immediate Family"
+  ],
+  "otherReadings": [],
+  "wkSlug": "家族",
+  "related": {
+    "radicals": [
+      398,
+      66,
+      8762,
+      72
+    ],
+    "kanjis": [
+      660,
+      830
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かぞく",
+      "url": "https://files.wanikani.com/94dada7ht0orxheclm6cy8nypfut"
+    }
+  ]
+}

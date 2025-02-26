@@ -1,0 +1,44 @@
+{
+  "id": 8240,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "賓客"
+  },
+  "primaryMeaning": "Guest Of Honor",
+  "meaningMnemonic": "A <kanji>VIP</kanji> <kanji>guest</kanji> is a <vocabulary>guest of honor</vocabulary>. They're even more important than a normal guest.",
+  "primaryReading": "ひんきゃく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Privileged Guest"
+  ],
+  "otherReadings": [
+    "ひんかく"
+  ],
+  "wkSlug": "賓客",
+  "related": {
+    "radicals": [
+      78,
+      1,
+      198,
+      94,
+      60,
+      16
+    ],
+    "kanjis": [
+      2277,
+      723
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひんきゃく",
+      "url": "https://files.wanikani.com/7whz2nf16xdnu86v8y2t75qf61ux"
+    },
+    {
+      "reading": "ひんかく",
+      "url": "https://files.wanikani.com/xzwyftxhsy07tvvn6k1t3kao7hir"
+    }
+  ]
+}

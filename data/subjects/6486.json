@@ -1,0 +1,36 @@
+{
+  "id": 6486,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "措置"
+  },
+  "primaryMeaning": "Measures",
+  "meaningMnemonic": "<kanji>Set aside</kanji> and <kanji>put</kanji> what you'll need to get the job done over there. These are the <vocabulary>measures</vocabulary> and <vocabulary>steps</vocabulary> we're taking to make sure things get done properly.",
+  "primaryReading": "そち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Steps"
+  ],
+  "otherReadings": [],
+  "wkSlug": "措置",
+  "related": {
+    "radicals": [
+      63,
+      256,
+      163,
+      8821
+    ],
+    "kanjis": [
+      1779,
+      1164
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そち",
+      "url": "https://files.wanikani.com/15cr3jrfnhloi4nfhro4sh2rll7z"
+    }
+  ]
+}

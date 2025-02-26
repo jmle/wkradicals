@@ -1,0 +1,34 @@
+{
+  "id": 2751,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "一回"
+  },
+  "primaryMeaning": "One Time",
+  "meaningMnemonic": "<kanji>One</kanji> <kanji>times</kanji> is <vocabulary>one time</vocabulary>. How many times? Just one.",
+  "primaryReading": "いっかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Take note that 一 is shortened (as it often is) to いっ.",
+  "otherMeanings": [
+    "Once"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一回",
+  "related": {
+    "radicals": [
+      1,
+      16
+    ],
+    "kanjis": [
+      440,
+      569
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いっかい",
+      "url": "https://files.wanikani.com/4iuvns26nb5snxifva1yksein7jl"
+    }
+  ]
+}

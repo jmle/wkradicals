@@ -1,0 +1,33 @@
+{
+  "id": 6366,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "駆ける"
+  },
+  "primaryMeaning": "To Gallop",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>gallop</kanji> and the verb vocab version is <vocabulary>to gallop</vocabulary>.",
+  "primaryReading": "かける",
+  "readingMnemonic": "You learned this reading when you learned the kanji, so you should be able to read this on your own.",
+  "otherMeanings": [
+    "To Drive"
+  ],
+  "otherReadings": [],
+  "wkSlug": "駆ける",
+  "related": {
+    "radicals": [
+      165,
+      322
+    ],
+    "kanjis": [
+      1744
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かける",
+      "url": "https://files.wanikani.com/s5c2wtafk79mp5u9qukmb1uu7hdc"
+    }
+  ]
+}

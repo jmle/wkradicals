@@ -1,0 +1,23 @@
+{
+  "id": 354,
+  "type": "radical",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "彑"
+  },
+  "primaryMeaning": "Shuriken",
+  "otherMeanings": [],
+  "meaningMnemonic": "See the <radical>shuriken</radical> stuck into the ground? In case you don't know, a shuriken is just a throwing star. Awesome ninjas use them. That's what's in this radical.",
+  "wkSlug": "shuriken",
+  "related": {
+    "kanjis": [
+      1591
+    ],
+    "vocabularies": [
+      5886,
+      5887,
+      5888
+    ]
+  }
+}

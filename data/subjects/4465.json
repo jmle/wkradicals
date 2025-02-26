@@ -1,0 +1,38 @@
+{
+  "id": 4465,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "解決"
+  },
+  "primaryMeaning": "Solution",
+  "meaningMnemonic": "To <kanji>solve</kanji> the problem we <kanji>decide</kanji>d to come up with a <vocabulary>solution</vocabulary>, a way of <vocabulary>solving</vocabulary> the problem.",
+  "primaryReading": "かいけつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Solving"
+  ],
+  "otherReadings": [],
+  "wkSlug": "解決",
+  "related": {
+    "radicals": [
+      281,
+      24,
+      126,
+      103,
+      9,
+      157
+    ],
+    "kanjis": [
+      1150,
+      687
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいけつ",
+      "url": "https://files.wanikani.com/msol1gprmgq8s86kd07j2dszbcoq"
+    }
+  ]
+}

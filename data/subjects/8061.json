@@ -1,0 +1,37 @@
+{
+  "id": 8061,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "真鯉"
+  },
+  "primaryMeaning": "Black Carp",
+  "meaningMnemonic": "In <kanji>reality</kanji>, <kanji>carp</kanji> are usually <vocabulary>black carp</vocabulary>. The colored ones aren't as common, people just wish they were.",
+  "primaryReading": "まごい",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Black Koi"
+  ],
+  "otherReadings": [],
+  "wkSlug": "真鯉",
+  "related": {
+    "radicals": [
+      8773,
+      1,
+      2,
+      150,
+      125
+    ],
+    "kanjis": [
+      971,
+      2213
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まごい",
+      "url": "https://files.wanikani.com/2xi87jmbx6vwpgtjey4xxrg8braa"
+    }
+  ]
+}

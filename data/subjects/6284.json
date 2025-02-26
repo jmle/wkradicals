@@ -1,0 +1,33 @@
+{
+  "id": 6284,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "水仙"
+  },
+  "primaryMeaning": "Daffodil",
+  "meaningMnemonic": "A <kanji>water</kanji> <kanji>hermit</kanji>, for some reason, is a <vocabulary>daffodil</vocabulary>. Just imagine a water hermit dancing around picking <vocabulary>daffodil</vocabulary>s, because he loves 'em! Yayyy daffodils!!",
+  "primaryReading": "すいせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "水仙",
+  "related": {
+    "radicals": [
+      45,
+      75,
+      20
+    ],
+    "kanjis": [
+      479,
+      1720
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいせん",
+      "url": "https://files.wanikani.com/kdxiq71vzlg983mfaljptpdei83b"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 8095,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "悠々"
+  },
+  "primaryMeaning": "Quiet",
+  "meaningMnemonic": "<kanji>Leisure</kanji> with more <kanji>leisure</kanji> added on? That's a really <vocabulary>quiet</vocabulary> and <vocabulary>leisurely</vocabulary> life you've got going on!\n\nNote that you need to add と to the end of this word to make it an adverb, and たる to make it an adjective!",
+  "primaryReading": "ゆうゆう",
+  "readingMnemonic": "The reading is just the on'yomi readings (which you learned with the kanji) twice in a row.",
+  "otherMeanings": [
+    "Calm",
+    "Leisurely",
+    "Easy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悠々",
+  "related": {
+    "radicals": [
+      75,
+      8761,
+      60,
+      65,
+      14,
+      3
+    ],
+    "kanjis": [
+      2256,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうゆう",
+      "url": "https://files.wanikani.com/0kg75mq3f5q2c5folr7rwadznxxi"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5454,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "子孫"
+  },
+  "primaryMeaning": "Descendant",
+  "meaningMnemonic": "A <kanji>child</kanji> who is the <kanji>grandchild</kanji> of someone else is a <vocabulary>descendant</vocabulary> of that person.",
+  "primaryReading": "しそん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "子孫",
+  "related": {
+    "radicals": [
+      34,
+      329
+    ],
+    "kanjis": [
+      462,
+      1461
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しそん",
+      "url": "https://files.wanikani.com/u77hqprieh13axbzvblhg1nz2ob2"
+    }
+  ]
+}

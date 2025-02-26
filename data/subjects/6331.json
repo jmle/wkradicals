@@ -1,0 +1,36 @@
+{
+  "id": 6331,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "短銃"
+  },
+  "primaryMeaning": "Pistol",
+  "meaningMnemonic": "A <kanji>short</kanji> <kanji>gun</kanji> is a <vocabulary>pistol</vocabulary>, because it's not long like a rifle, it's a short gun!",
+  "primaryReading": "たんじゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Revolver"
+  ],
+  "otherReadings": [],
+  "wkSlug": "短銃",
+  "related": {
+    "radicals": [
+      72,
+      181,
+      118,
+      285
+    ],
+    "kanjis": [
+      847,
+      1739
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たんじゅう",
+      "url": "https://files.wanikani.com/xb1c1vojw8d45nkjjehde86bou3x"
+    }
+  ]
+}

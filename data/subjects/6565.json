@@ -1,0 +1,47 @@
+{
+  "id": 6565,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "携帯電話"
+  },
+  "primaryMeaning": "Portable Phone",
+  "meaningMnemonic": "You know that 携帯 means \"portable\" or \"cell phone\" or \"mobile phone.\" And then 電話 means \"telephone.\" This is basically just the longer version of simply saying 携帯, making this a <vocabulary>portable phone</vocabulary> or <vocabulary>cell phone</vocabulary> or <vocabulary>mobile phone</vocabulary>. It's sort of like the difference between saying \"my cell\" and \"my cell phone,\" you dig?",
+  "primaryReading": "けいたいでんわ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Will help to know the readings of 携帯 and 電話 for this one.",
+  "otherMeanings": [
+    "Cell Phone",
+    "Mobile Phone"
+  ],
+  "otherReadings": [],
+  "wkSlug": "携帯電話",
+  "related": {
+    "radicals": [
+      63,
+      240,
+      200,
+      20,
+      1,
+      76,
+      102,
+      119,
+      51,
+      211,
+      117,
+      174
+    ],
+    "kanjis": [
+      1756,
+      1463,
+      706,
+      705
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいたいでんわ",
+      "url": "https://files.wanikani.com/70oafq3m9xma2iva7e3ie7kfo8xv"
+    }
+  ]
+}

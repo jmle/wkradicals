@@ -1,0 +1,37 @@
+{
+  "id": 3321,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "家庭"
+  },
+  "primaryMeaning": "Family",
+  "meaningMnemonic": "The essence of your <kanji>house</kanji> and <kanji>garden</kanji> is your <vocabulary>family</vocabulary>, <vocabulary>household</vocabulary>, or <vocabulary>home</vocabulary>.",
+  "primaryReading": "かてい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Household",
+    "Home"
+  ],
+  "otherReadings": [],
+  "wkSlug": "家庭",
+  "related": {
+    "radicals": [
+      398,
+      62,
+      206,
+      48
+    ],
+    "kanjis": [
+      660,
+      814
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かてい",
+      "url": "https://files.wanikani.com/7lwptnc2ho3vih46zbbrvw7wz4ou"
+    }
+  ]
+}

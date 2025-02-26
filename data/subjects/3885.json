@@ -1,0 +1,33 @@
+{
+  "id": 3885,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "着ける"
+  },
+  "primaryMeaning": "To Put On",
+  "meaningMnemonic": "Another verb for this kanji! Crazy! I know, I'm sorry. The previous ones were: 着る (to wear), 着く (to arrive), and now 着ける (to put on / to wear). At least it's similar to 着る, right? In this case, this word is like 付ける, which means \"to attach.\" It's used for things you \"attach\" to your body to wear, like accessories, or a face mask. That's why this is <vocabulary>to put on</vocabulary> or <vocabulary>to wear</vocabulary>. Same sound, different kanji, similar ideas.",
+  "primaryReading": "つける",
+  "readingMnemonic": "The reading is the same as 着く's reading, but it might be easier to think it shares a reading with 付ける, which has a similar meaning. Put on clothes, attach on clothes, etc.",
+  "otherMeanings": [
+    "To Wear"
+  ],
+  "otherReadings": [],
+  "wkSlug": "着ける",
+  "related": {
+    "radicals": [
+      136,
+      53
+    ],
+    "kanjis": [
+      846
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つける",
+      "url": "https://files.wanikani.com/r3ioctcntt7t3n1y36sv9l1ki7mn"
+    }
+  ]
+}

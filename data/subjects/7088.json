@@ -1,0 +1,35 @@
+{
+  "id": 7088,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "塀"
+  },
+  "primaryMeaning": "Wall",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "へい",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Fence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "塀",
+  "related": {
+    "radicals": [
+      17,
+      37,
+      8767,
+      171
+    ],
+    "kanjis": [
+      1989
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へい",
+      "url": "https://files.wanikani.com/vaqss7w8wxrwli1xfanu1f7f17d7"
+    }
+  ]
+}

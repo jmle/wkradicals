@@ -1,0 +1,33 @@
+{
+  "id": 7310,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "淡水"
+  },
+  "primaryMeaning": "Fresh Water",
+  "meaningMnemonic": "A <kanji>faint</kanji> <kanji>water</kanji> is water that's not thick with salt. It's <vocabulary>fresh water</vocabulary>.",
+  "primaryReading": "たんすい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "淡水",
+  "related": {
+    "radicals": [
+      103,
+      46,
+      45
+    ],
+    "kanjis": [
+      2066,
+      479
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たんすい",
+      "url": "https://files.wanikani.com/jpagd7uo3gsou0l3gcfttu0yk8d3"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7969,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "啓示"
+  },
+  "primaryMeaning": "Revelation",
+  "meaningMnemonic": "What <kanji>indicate</kanji>s that you've been <kanji>enlighten</kanji>ed enough to reach enlightenment? A <vocabulary>revelation</vocabulary>! That's the only way you can know you've been enlightened enough.",
+  "primaryReading": "けいじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "啓示",
+  "related": {
+    "radicals": [
+      73,
+      60,
+      16,
+      207
+    ],
+    "kanjis": [
+      2220,
+      1169
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいじ",
+      "url": "https://files.wanikani.com/aadwxwj1qppjf4lb28oiwyrkknxn"
+    }
+  ]
+}

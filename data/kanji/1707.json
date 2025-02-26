@@ -1,0 +1,45 @@
+{
+  "id": 1707,
+  "type": "kanji",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "超"
+  },
+  "primaryReading": "ちょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ちょう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "こ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Ultra",
+  "otherMeanings": [
+    "Super"
+  ],
+  "meaningMnemonic": "You <radical>run</radical> and <radical>call</radical> out to people at the same time because you're <kanji>super</kanji> <kanji>ultra</kanji> excited right now. You have a super crazy amount of energy you need to get out with your running and calling.",
+  "readingMnemonic": "You're just becoming <kanji>ultra</kanji> tired when you hear a terrifying sound. It's Mrs. <reading>Chou</reading> (ちょう) barreling down toward you. \"WERE YOU CALLING FOR ME, CHILD?!\" she screams.",
+  "wkSlug": "超",
+  "related": {
+    "radicals": [
+      124,
+      331
+    ],
+    "vocabularies": [
+      6011,
+      6012,
+      6014,
+      6233
+    ]
+  },
+  "radicalNames": [
+    "Run",
+    "Call"
+  ]
+}

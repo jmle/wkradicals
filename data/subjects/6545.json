@@ -1,0 +1,33 @@
+{
+  "id": 6545,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "誠"
+  },
+  "primaryMeaning": "Sincerity",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "まこと",
+  "readingMnemonic": "<vocabulary>Sincerity</vocabulary> and <vocabulary>truth</vocabulary> are so important to me that I always keep them inside <reading>my coat</reading> (まこと). That's where I keep everything that's dearest to me, and what could be more important that sincerity and truth? Where do you keep sincerity and truth? I bet your answer is \"my coat\" too.",
+  "otherMeanings": [
+    "Truth"
+  ],
+  "otherReadings": [],
+  "wkSlug": "誠",
+  "related": {
+    "radicals": [
+      117,
+      263
+    ],
+    "kanjis": [
+      1800
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まこと",
+      "url": "https://files.wanikani.com/6dub9i0ava7u1zoi5xpdadk6m7c9"
+    }
+  ]
+}

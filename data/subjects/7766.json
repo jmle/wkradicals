@@ -1,0 +1,37 @@
+{
+  "id": 7766,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "本質"
+  },
+  "primaryMeaning": "Essence",
+  "meaningMnemonic": "The <kanji>real</kanji> <kanji>quality</kanji> of something is its <vocabulary>essence</vocabulary>, or its <vocabulary>true nature</vocabulary>. Whether it's good or bad is a different story.",
+  "primaryReading": "ほんしつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "True Nature",
+    "Substance",
+    "Reality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "本質",
+  "related": {
+    "radicals": [
+      50,
+      115,
+      94
+    ],
+    "kanjis": [
+      487,
+      1242
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほんしつ",
+      "url": "https://files.wanikani.com/dab99nfgwurxber5m0quy8itq67g"
+    }
+  ]
+}

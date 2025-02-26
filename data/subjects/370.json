@@ -1,0 +1,22 @@
+{
+  "id": 370,
+  "type": "radical",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "空"
+  },
+  "primaryMeaning": "Sky",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>sky</radical>.",
+  "wkSlug": "sky",
+  "related": {
+    "kanjis": [
+      1714
+    ],
+    "vocabularies": [
+      6454,
+      8690
+    ]
+  }
+}

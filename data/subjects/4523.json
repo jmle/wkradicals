@@ -1,0 +1,35 @@
+{
+  "id": 4523,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "勢力"
+  },
+  "primaryMeaning": "Influence",
+  "meaningMnemonic": "Your <kanji>force</kanji> and <kanji>power</kanji> combine together to create an <vocabulary>influence</vocabulary> (or a <vocabulary>force</vocabulary>).",
+  "primaryReading": "せいりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Force"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勢力",
+  "related": {
+    "radicals": [
+      222,
+      223,
+      13
+    ],
+    "kanjis": [
+      1167,
+      447
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいりょく",
+      "url": "https://files.wanikani.com/xz9sowol3e1tv10i2ylxkcvsrol6"
+    }
+  ]
+}

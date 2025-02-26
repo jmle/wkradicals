@@ -1,0 +1,33 @@
+{
+  "id": 5506,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "押しボタン"
+  },
+  "primaryMeaning": "Push Button",
+  "meaningMnemonic": "If 押し is <kanji>push</kanji>, and a ボタン is a button, then you have yourself a <vocabulary>push button</vocabulary>.",
+  "primaryReading": "おしぼたん",
+  "readingMnemonic": "The reading is the same as 押す.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "おしボタン"
+  ],
+  "wkSlug": "押しボタン",
+  "related": {
+    "radicals": [
+      63,
+      330
+    ],
+    "kanjis": [
+      1430
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おしぼたん",
+      "url": "https://files.wanikani.com/a6t3t91nwczra3ru4dzkgkgyoycw"
+    }
+  ]
+}

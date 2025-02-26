@@ -1,0 +1,36 @@
+{
+  "id": 4935,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "故障"
+  },
+  "primaryMeaning": "Malfunction",
+  "meaningMnemonic": "By some <kanji>circumstance</kanji>, the thing you're using is <kanji>hinder</kanji>ing you. Usually it works, but now it's <vocabulary>out of order</vocabulary> and has a <vocabulary>malfunction</vocabulary>. ",
+  "primaryReading": "こしょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Out Of Order"
+  ],
+  "otherReadings": [],
+  "wkSlug": "故障",
+  "related": {
+    "radicals": [
+      69,
+      60,
+      176,
+      8828
+    ],
+    "kanjis": [
+      1291,
+      1292
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こしょう",
+      "url": "https://files.wanikani.com/9m7x0ptghofy91m2mzhov49vwxpi"
+    }
+  ]
+}

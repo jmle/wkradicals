@@ -1,0 +1,37 @@
+{
+  "id": 4023,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "無茶"
+  },
+  "primaryMeaning": "Irrational",
+  "meaningMnemonic": "Imagine having <kanji>nothing</kanji> but <kanji>tea</kanji> for an entire week. Sounds completely <vocabulary>irrational</vocabulary>, right? Such a <vocabulary>reckless</vocabulary> diet plan seems <vocabulary>excessive</vocabulary>.\n\n無茶 is often used to point out that something goes against common sense; or to criticize or disapprove of some actions or situations that might be seen as reckless or excessive.",
+  "primaryReading": "むちゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Reckless",
+    "Excessive"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無茶",
+  "related": {
+    "radicals": [
+      252,
+      90,
+      8764,
+      130
+    ],
+    "kanjis": [
+      1008,
+      643
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むちゃ",
+      "url": "https://files.wanikani.com/z5svo8sof0ewexwmvsrhgviva81n"
+    }
+  ]
+}

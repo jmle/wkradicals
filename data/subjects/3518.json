@@ -1,0 +1,36 @@
+{
+  "id": 3518,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "飲み物"
+  },
+  "primaryMeaning": "Beverage",
+  "meaningMnemonic": "A <kanji>thing</kanji> you <kanji>drink</kanji> is a <vocabulary>beverage</vocabulary>.",
+  "primaryReading": "のみもの",
+  "readingMnemonic": "These are both the kun'yomi readings. You've learned them already, so you already know how to read this word!",
+  "otherMeanings": [
+    "Drink"
+  ],
+  "otherReadings": [],
+  "wkSlug": "飲み物",
+  "related": {
+    "radicals": [
+      139,
+      142,
+      126,
+      173
+    ],
+    "kanjis": [
+      755,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のみもの",
+      "url": "https://files.wanikani.com/77au25iifwgqkrvh01qyurf4uzqa"
+    }
+  ]
+}

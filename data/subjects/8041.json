@@ -1,0 +1,36 @@
+{
+  "id": 8041,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "残虐"
+  },
+  "primaryMeaning": "Cruelty",
+  "meaningMnemonic": "The <kanji>remainder</kanji> of <kanji>oppress</kanji>ion is <vocabulary>cruelty</vocabulary>. Even when you're done oppressing people the <vocabulary>brutality</vocabulary> you caused will linger in their minds and hearts.",
+  "primaryReading": "ざんぎゃく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Brutality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "残虐",
+  "related": {
+    "radicals": [
+      132,
+      8782,
+      254,
+      105
+    ],
+    "kanjis": [
+      912,
+      2208
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ざんぎゃく",
+      "url": "https://files.wanikani.com/cfjo1ryao9jubm6vzod2r7ydpaaf"
+    }
+  ]
+}

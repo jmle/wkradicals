@@ -1,0 +1,34 @@
+{
+  "id": 4384,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "乱す"
+  },
+  "primaryMeaning": "To Put In Disorder",
+  "meaningMnemonic": "You know how 乱れる is \"to be in disorder\"? Well, now you're the one causing this. So, by doing this you are going <vocabulary>to put in disorder</vocabulary>, <vocabulary>to throw out of order</vocabulary>, or <vocabulary>to disturb</vocabulary> whatever it is. Just imagine all the people who will try to <reading>sue</reading> (す) you for your actions.",
+  "primaryReading": "みだす",
+  "readingMnemonic": "The reading is the same as 乱れる, so hopefully you know it already.",
+  "otherMeanings": [
+    "To Throw Out Of Order",
+    "To Disturb"
+  ],
+  "otherReadings": [],
+  "wkSlug": "乱す",
+  "related": {
+    "radicals": [
+      174,
+      211
+    ],
+    "kanjis": [
+      1079
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みだす",
+      "url": "https://files.wanikani.com/wa25ibrr20hahnhda35b3q8xmbja"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 4833,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "年輩"
+  },
+  "primaryMeaning": "Elderly Person",
+  "meaningMnemonic": "For <kanji>year</kanji>s and years, your <kanji>comrade</kanji>s have been with you, but now they're all <vocabulary>elderly</vocabulary>.\n\nThis is a less common version of <ja>年配</ja>, but you'll still sometimes encounter it.",
+  "primaryReading": "ねんぱい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. As this vocab is identical to <ja>年配</ja>, it's also read the same. Just remember that the <ja>はい</ja> turns into <ja>ぱい</ja>!",
+  "otherMeanings": [
+    "Old Person",
+    "Elderly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "年輩",
+  "related": {
+    "radicals": [
+      8762,
+      126,
+      209,
+      93
+    ],
+    "kanjis": [
+      546,
+      1276
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねんぱい",
+      "url": "https://files.wanikani.com/3xwe3ykfy3jj5ytzdlymy9pyjxnt"
+    }
+  ]
+}

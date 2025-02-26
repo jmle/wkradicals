@@ -1,0 +1,35 @@
+{
+  "id": 5380,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "登録する"
+  },
+  "primaryMeaning": "To Register",
+  "meaningMnemonic": "登録 is <kanji>registration</kanji>. Make that into a verb and you have <vocabulary>to register</vocabulary>.",
+  "primaryReading": "とうろくする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "登録する",
+  "related": {
+    "radicals": [
+      168,
+      181,
+      118,
+      105,
+      45
+    ],
+    "kanjis": [
+      845,
+      1358
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうろくする",
+      "url": "https://files.wanikani.com/e85iaqoc5ywyit3brn3a49efkla0"
+    }
+  ]
+}

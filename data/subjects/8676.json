@@ -1,0 +1,38 @@
+{
+  "id": 8676,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "楽天主義"
+  },
+  "primaryMeaning": "Optimism",
+  "meaningMnemonic": "You know that 主義 is \"-ism.\" If you add that to being <kanji>comfort</kanji>able like you're in <kanji>heaven</kanji> then you have lots of <vocabulary>optimism</vocabulary>. You're sure you'll be okay in any situation!\n\nThis is a noun in Japanese but, depending on the context, it's often translated into English as an adjective.",
+  "primaryReading": "らくてんしゅぎ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "楽天主義",
+  "related": {
+    "radicals": [
+      52,
+      123,
+      23,
+      40,
+      154,
+      383
+    ],
+    "kanjis": [
+      704,
+      473,
+      528,
+      1154
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らくてんしゅぎ",
+      "url": "https://files.wanikani.com/5ki3eumx7hbsmkxefohpbyq1yxib"
+    }
+  ]
+}

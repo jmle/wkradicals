@@ -1,0 +1,35 @@
+{
+  "id": 4119,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "夕焼け"
+  },
+  "primaryMeaning": "Sunset",
+  "meaningMnemonic": "When the <kanji>evening</kanji> is <kanji>burning</kanji> with sun, it is the sun going down, getting all close to the horizon and earth. This is the <vocabulary>sunset</vocabulary>, or more specifically, the <vocabulary>evening glow</vocabulary> you can see during a sunset.",
+  "primaryReading": "ゆうやけ",
+  "readingMnemonic": "The readings are the kun'yomi vocab readings. Combine 夕 and 焼け (you learned the reading via the kanji) and you'll have <reading>ゆうやけ</reading>.",
+  "otherMeanings": [
+    "Evening Glow"
+  ],
+  "otherReadings": [],
+  "wkSlug": "夕焼け",
+  "related": {
+    "radicals": [
+      33,
+      46,
+      257
+    ],
+    "kanjis": [
+      461,
+      1040
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうやけ",
+      "url": "https://files.wanikani.com/04elhlfj9a1wwdl1baxbrn5renvg"
+    }
+  ]
+}

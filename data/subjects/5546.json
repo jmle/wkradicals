@@ -1,0 +1,36 @@
+{
+  "id": 5546,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "興味"
+  },
+  "primaryMeaning": "Interest",
+  "meaningMnemonic": "I have an <kanji>interest</kanji> in the <kanji>flavor</kanji>... You do? Yes, I have a very deep <vocabulary>interest</vocabulary> in it.",
+  "primaryReading": "きょうみ",
+  "readingMnemonic": "As a jukugo kanji, you can guess the reading is the on'yomi kanji readings, which it is, so you should be able to read it.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "興味",
+  "related": {
+    "radicals": [
+      8792,
+      341,
+      1,
+      2,
+      16,
+      134
+    ],
+    "kanjis": [
+      1491,
+      812
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうみ",
+      "url": "https://files.wanikani.com/gl31vwy0hirrbqsm0alh71kwee46"
+    }
+  ]
+}

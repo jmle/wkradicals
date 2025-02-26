@@ -1,0 +1,33 @@
+{
+  "id": 8741,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "部首"
+  },
+  "primaryMeaning": "Radical",
+  "meaningMnemonic": "Picture the <kanji>part</kanji> of your body that makes up your <kanji>neck</kanji>. Are you picturing it? That's a building block that makes up your body. A really important one. If you didn't have that neck, you wouldn't look like a person at all. Sound familiar? It should! Because that part of your neck is a <vocabulary>radical</vocabulary>! Just like part of your neck is a building block of your body, the radical is a building block of kanji. Get it? I sure hope so!",
+  "primaryReading": "ぶしゅ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You haven't learned this reading for 首 yet, so here's a mnemonic to help you:\n\nWhen you need a <vocabulary>radical</vocabulary> to make a new kanji, you just press a button and the radical comes tumbling down the radical <reading>chu</reading>te (しゅ). There's definitely no rhyme or reason to radical picking, it's just whatever pops out of the ol' chute.\n ",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "部首",
+  "related": {
+    "radicals": [
+      175,
+      176,
+      156
+    ],
+    "kanjis": [
+      721,
+      645
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶしゅ",
+      "url": "https://files.wanikani.com/q7ghudm5pon2igb7fwd8zzy7ia7c"
+    }
+  ]
+}

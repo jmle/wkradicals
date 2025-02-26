@@ -1,0 +1,37 @@
+{
+  "id": 7893,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "特殊"
+  },
+  "primaryMeaning": "Special",
+  "meaningMnemonic": "An <kanji>especially</kanji> <kanji>special</kanji> thing is even more <vocabulary>special</vocabulary> and probably a lot more <vocabulary>unique</vocabulary> than ordinary special things.",
+  "primaryReading": "とくしゅ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Unique"
+  ],
+  "otherReadings": [],
+  "wkSlug": "特殊",
+  "related": {
+    "radicals": [
+      126,
+      192,
+      132,
+      5,
+      134
+    ],
+    "kanjis": [
+      807,
+      2178
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とくしゅ",
+      "url": "https://files.wanikani.com/ocnt44ixlmxhh7sz6eayrslejsre"
+    }
+  ]
+}

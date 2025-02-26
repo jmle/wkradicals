@@ -1,0 +1,36 @@
+{
+  "id": 4408,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "委員"
+  },
+  "primaryMeaning": "Member Of A Committee",
+  "meaningMnemonic": "A <kanji>committee</kanji> <kanji>member</kanji> is a <vocabulary>member of a committee</vocabulary> (or a <vocabulary>committee member</vocabulary>).",
+  "primaryReading": "いいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Committee Member"
+  ],
+  "otherReadings": [],
+  "wkSlug": "委員",
+  "related": {
+    "radicals": [
+      135,
+      19,
+      16,
+      94
+    ],
+    "kanjis": [
+      1125,
+      821
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いいん",
+      "url": "https://files.wanikani.com/s2so5taji6s9lsv5w43wvnmjs9tt"
+    }
+  ]
+}

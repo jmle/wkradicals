@@ -1,0 +1,33 @@
+{
+  "id": 5879,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "紹介"
+  },
+  "primaryMeaning": "Introduction",
+  "meaningMnemonic": "My <kanji>introduce</kanji> was <kanji>jammed in</kanji> there for you to hear. That is my <vocabulary>introduction</vocabulary>. Jammin' it in.",
+  "primaryReading": "しょうかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "紹介",
+  "related": {
+    "radicals": [
+      86,
+      331,
+      166
+    ],
+    "kanjis": [
+      1586,
+      1587
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうかい",
+      "url": "https://files.wanikani.com/bg9n2ycdc7f5mn6ekxti7icel94d"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8717,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "右腕"
+  },
+  "primaryMeaning": "Right Arm",
+  "meaningMnemonic": "Your <kanji>right</kanji> <kanji>arm</kanji> is your <vocabulary>right arm</vocabulary>.",
+  "primaryReading": "みぎうで",
+  "readingMnemonic": "This is a jukugo word, but it uses kun'yomi instead of on'yomi, so watch out for that!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "右腕",
+  "related": {
+    "radicals": [
+      26,
+      16,
+      43,
+      78,
+      33,
+      158
+    ],
+    "kanjis": [
+      484,
+      1227
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みぎうで",
+      "url": "https://files.wanikani.com/ikbqkinhbbsg1dff1wfcar3wnhso"
+    }
+  ]
+}

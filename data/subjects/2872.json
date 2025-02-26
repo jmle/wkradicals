@@ -1,0 +1,33 @@
+{
+  "id": 2872,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "目次"
+  },
+  "primaryMeaning": "Table Of Contents",
+  "meaningMnemonic": "Your <kanji>eye</kanji> is on what's <kanji>next</kanji>. How is this possible to see what's coming up? That's because you're looking at a <vocabulary>table of contents</vocabulary>.",
+  "primaryReading": "もくじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "目次",
+  "related": {
+    "radicals": [
+      53,
+      123,
+      142
+    ],
+    "kanjis": [
+      492,
+      616
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もくじ",
+      "url": "https://files.wanikani.com/b09rxp7pmpwu81v6eon6zo7v0pm6"
+    }
+  ]
+}

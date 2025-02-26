@@ -1,0 +1,30 @@
+{
+  "id": 2924,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "首"
+  },
+  "primaryMeaning": "Neck",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "くび",
+  "readingMnemonic": "You learned the reading for this word via the kanji, so you should be able to read this word just fine.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "首",
+  "related": {
+    "radicals": [
+      156
+    ],
+    "kanjis": [
+      645
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くび",
+      "url": "https://files.wanikani.com/hng8t55tju2qvh74vj6k2jbiolqh"
+    }
+  ]
+}

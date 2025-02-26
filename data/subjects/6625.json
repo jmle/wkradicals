@@ -1,0 +1,38 @@
+{
+  "id": 6625,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "模範"
+  },
+  "primaryMeaning": "Exemplification",
+  "meaningMnemonic": "An <kanji>imitation</kanji> of an <kanji>example</kanji> is the <vocabulary>exemplification</vocabulary> of something. It is also a <vocabulary>model</vocabulary> of the example of what you're making.",
+  "primaryReading": "もはん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Model",
+    "Example"
+  ],
+  "otherReadings": [],
+  "wkSlug": "模範",
+  "related": {
+    "radicals": [
+      23,
+      356,
+      85,
+      93,
+      158
+    ],
+    "kanjis": [
+      1264,
+      1828
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もはん",
+      "url": "https://files.wanikani.com/xcfq6xrqu0hyab9ze8keqd4nxp9p"
+    }
+  ]
+}

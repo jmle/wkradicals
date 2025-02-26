@@ -1,0 +1,40 @@
+{
+  "id": 1343,
+  "type": "kanji",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "康"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Ease",
+  "otherMeanings": [
+    "Peace"
+  ],
+  "meaningMnemonic": "You see a <radical>canopy</radical> under which someone has left a <radical>brush</radical> (in its 肀 form) next to the <radical>water</radical>, creating a scene of such <kanji>ease</kanji> and <kanji>peace</kanji>!",
+  "readingMnemonic": "It turns out this place of <kanji>ease</kanji> and <kanji>peace</kanji> was created by <reading>こう</reading>いち, who suddenly comes in looking for the brush he left.",
+  "wkSlug": "康",
+  "related": {
+    "radicals": [
+      62,
+      220,
+      45
+    ],
+    "vocabularies": [
+      5006,
+      5230
+    ]
+  },
+  "radicalNames": [
+    "Canopy",
+    "Brush",
+    "Water"
+  ]
+}

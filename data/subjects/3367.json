@@ -1,0 +1,39 @@
+{
+  "id": 3367,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "最深"
+  },
+  "primaryMeaning": "Deepest",
+  "meaningMnemonic": "The <kanji>most</kanji> <kanji>deep</kanji> is the <vocabulary>deepest</vocabulary>.\n\n最深 is a formal word used in geology to describe the deepest point of things like caves and oceans.",
+  "primaryReading": "さいしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "The Deepest"
+  ],
+  "otherReadings": [],
+  "wkSlug": "最深",
+  "related": {
+    "radicals": [
+      22,
+      88,
+      30,
+      103,
+      76,
+      28,
+      23
+    ],
+    "kanjis": [
+      774,
+      831
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいしん",
+      "url": "https://files.wanikani.com/uei5etb8lwl3rjnru2ykcfll6qdm"
+    }
+  ]
+}

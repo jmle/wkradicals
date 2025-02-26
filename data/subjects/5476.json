@@ -1,0 +1,37 @@
+{
+  "id": 5476,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "血脈"
+  },
+  "primaryMeaning": "Lineage",
+  "meaningMnemonic": "<kanji>Blood</kanji> flows through your <kanji>vein</kanji>s, carrying the stories of your <vocabulary>lineage</vocabulary>, your <vocabulary>bloodline</vocabulary>.\n\nNote that this word is quite formal and literary.",
+  "primaryReading": "けつみゃく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Bloodline",
+    "Blood Relationship"
+  ],
+  "otherReadings": [],
+  "wkSlug": "血脈",
+  "related": {
+    "radicals": [
+      137,
+      43,
+      116,
+      8778
+    ],
+    "kanjis": [
+      619,
+      1468
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けつみゃく",
+      "url": "https://files.wanikani.com/uqjs10juh68x7nmftmhu9k1jrx17"
+    }
+  ]
+}

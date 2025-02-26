@@ -1,0 +1,35 @@
+{
+  "id": 5517,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "迎える"
+  },
+  "primaryMeaning": "To Pick Someone Up",
+  "meaningMnemonic": "The kanji means <kanji>welcome</kanji>, but the verb version is <vocabulary>to pick someone up</vocabulary> or <vocabulary>to meet someone</vocabulary>. That's weird. But, think of it this way: When you go to welcome someone, you are going <vocabulary>to meet someone</vocabulary> too. You have to go somewhere to wait and welcome them, which is why you are going to pick someone up or going to meet them. Something like that anyways.",
+  "primaryReading": "むかえる",
+  "readingMnemonic": "<vocabulary>To pick someone up</vocabulary> you are going to drive your <reading>moo ca</reading>r. It's a car that's designed to look like a cow, but you think it will be a nice way to welcome your friend.",
+  "otherMeanings": [
+    "To Meet Someone",
+    "To Welcome",
+    "To Invite"
+  ],
+  "otherReadings": [],
+  "wkSlug": "迎える",
+  "related": {
+    "radicals": [
+      114,
+      340
+    ],
+    "kanjis": [
+      1481
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むかえる",
+      "url": "https://files.wanikani.com/09xdbybycna9x4v9tetfg498ocm0"
+    }
+  ]
+}

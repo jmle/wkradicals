@@ -1,0 +1,35 @@
+{
+  "id": 6753,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "克服する"
+  },
+  "primaryMeaning": "To Conquer",
+  "meaningMnemonic": "克服 is \"conquest\" so the verb version of that is <vocabulary>to conquer</vocabulary>.",
+  "primaryReading": "こくふくする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "克服する",
+  "related": {
+    "radicals": [
+      69,
+      28,
+      43,
+      145,
+      30
+    ],
+    "kanjis": [
+      1804,
+      716
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こくふくする",
+      "url": "https://files.wanikani.com/3zvw7tj91w5o5jsgndwwhc5i11qa"
+    }
+  ]
+}

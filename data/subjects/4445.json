@@ -1,0 +1,40 @@
+{
+  "id": 4445,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "評価"
+  },
+  "primaryMeaning": "Evaluation",
+  "meaningMnemonic": "Let's <kanji>evaluate</kanji> the <kanji>value</kanji>. What is this also known as? An <vocabulary>evaluation</vocabulary>.",
+  "primaryReading": "ひょうか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Appraisal",
+    "Verdict",
+    "Valuation",
+    "Assessment",
+    "Rating"
+  ],
+  "otherReadings": [],
+  "wkSlug": "評価",
+  "related": {
+    "radicals": [
+      117,
+      279,
+      75,
+      424
+    ],
+    "kanjis": [
+      1140,
+      1166
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひょうか",
+      "url": "https://files.wanikani.com/66zncn20o8bgv41s3afwr8igzhwd"
+    }
+  ]
+}

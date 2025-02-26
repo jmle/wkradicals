@@ -1,0 +1,36 @@
+{
+  "id": 4113,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "洗練"
+  },
+  "primaryMeaning": "Refinement",
+  "meaningMnemonic": "You take your <kanji>practice</kanji> and you <kanji>wash</kanji> it. Slowly chunks fall off and it becomes more and more simple. You are washing away the gunk on the outside to attain <vocabulary>refinement</vocabulary> and <vocabulary>polish</vocabulary> yourself, via practice.",
+  "primaryReading": "せんれん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Polish"
+  ],
+  "otherReadings": [],
+  "wkSlug": "洗練",
+  "related": {
+    "radicals": [
+      103,
+      258,
+      86,
+      224
+    ],
+    "kanjis": [
+      1043,
+      869
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんれん",
+      "url": "https://files.wanikani.com/witvcut4pqvd5rf3mbfxcuur0d03"
+    }
+  ]
+}

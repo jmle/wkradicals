@@ -1,0 +1,34 @@
+{
+  "id": 7837,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "〜軒"
+  },
+  "primaryMeaning": "House Counter",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. \n\nThis is generally used to count single-family detached houses, but it can also be used to count individual units within a residential complex, as well as shops or restaurants.",
+  "primaryReading": "けん",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Counter For Houses",
+    "Counter For Buildings"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜軒",
+  "related": {
+    "radicals": [
+      93,
+      61
+    ],
+    "kanjis": [
+      2133
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けん",
+      "url": "https://files.wanikani.com/e1glfrnn85b4vcgt84y4piyt7bdz"
+    }
+  ]
+}

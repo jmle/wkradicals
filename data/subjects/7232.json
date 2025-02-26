@@ -1,0 +1,33 @@
+{
+  "id": 7232,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "培う"
+  },
+  "primaryMeaning": "To Cultivate",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>cultivate</kanji> and the verb vocab version means <vocabulary>to cultivate</vocabulary>.",
+  "primaryReading": "つちかう",
+  "readingMnemonic": "You have <reading>two chee</reading>se <reading>ca</reading>rs (つちか) that are growing mold. But that's a good thing, because it's the good kind of cheese mold. So, you cultivate the mold on these two cheese cars, comparing the difference between the two.",
+  "otherMeanings": [
+    "To Foster"
+  ],
+  "otherReadings": [],
+  "wkSlug": "培う",
+  "related": {
+    "radicals": [
+      17,
+      175
+    ],
+    "kanjis": [
+      2039
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つちかう",
+      "url": "https://files.wanikani.com/lj2fzksxv0yv3qv5e7lziigsgsr6"
+    }
+  ]
+}

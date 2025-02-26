@@ -1,0 +1,35 @@
+{
+  "id": 8098,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "愚"
+  },
+  "primaryMeaning": "Foolish",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. Since this word is both a noun and a na-adjective, it can also mean things like <vocabulary>folly</vocabulary> and <vocabulary>foolishness</vocabulary>.",
+  "primaryReading": "ぐ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Silly",
+    "Folly",
+    "Foolishness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "愚",
+  "related": {
+    "radicals": [
+      410,
+      65
+    ],
+    "kanjis": [
+      2239
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぐ",
+      "url": "https://files.wanikani.com/39bhgjd4bal5zavuuli8d9zi6v2z"
+    }
+  ]
+}

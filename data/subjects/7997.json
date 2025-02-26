@@ -1,0 +1,35 @@
+{
+  "id": 7997,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "自浄"
+  },
+  "primaryMeaning": "Self Purification",
+  "meaningMnemonic": "If you <kanji>purify</kanji> your <kanji>self</kanji> you are performing <vocabulary>self purification</vocabulary>.",
+  "primaryReading": "じじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Self Cleansing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "自浄",
+  "related": {
+    "radicals": [
+      109,
+      103,
+      261
+    ],
+    "kanjis": [
+      578,
+      2192
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じじょう",
+      "url": "https://files.wanikani.com/6sn02kacpa2vp9uyz83mtcjbru1x"
+    }
+  ]
+}

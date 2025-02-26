@@ -1,0 +1,33 @@
+{
+  "id": 6684,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "朗らか"
+  },
+  "primaryMeaning": "Bright",
+  "meaningMnemonic": "This is the na-adjective version of <kanji>bright</kanji>. The word is <vocabulary>bright</vocabulary> or <vocabulary>cheerful</vocabulary>.",
+  "primaryReading": "ほがらか",
+  "readingMnemonic": "Of all the people who are bright and cheerful, one man comes to mind. The cheerful Hulk <reading>Hoga</reading>n (ほが).",
+  "otherMeanings": [
+    "Cheerful"
+  ],
+  "otherReadings": [],
+  "wkSlug": "朗らか",
+  "related": {
+    "radicals": [
+      8822,
+      43
+    ],
+    "kanjis": [
+      1848
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほがらか",
+      "url": "https://files.wanikani.com/ks1dcw3xq9wgb0p7wvres1ze9qdd"
+    }
+  ]
+}

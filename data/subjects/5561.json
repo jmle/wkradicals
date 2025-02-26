@@ -1,0 +1,35 @@
+{
+  "id": 5561,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "傷"
+  },
+  "primaryMeaning": "Wound",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "きず",
+  "readingMnemonic": "To remember this reading, just think about what your mommy did for you when you were little and you got yourself a <vocabulary>wound</vocabulary>... she would <reading>kiss</reading> (きず) the wounds better. Of course, that never worked and was a total farce, but try to forgive mommy this one time, okay?",
+  "otherMeanings": [
+    "Damage",
+    "Flaw"
+  ],
+  "otherReadings": [],
+  "wkSlug": "傷",
+  "related": {
+    "radicals": [
+      75,
+      8762,
+      172
+    ],
+    "kanjis": [
+      1499
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きず",
+      "url": "https://files.wanikani.com/suac29h204zlpkle8urz6a7o5l8d"
+    }
+  ]
+}

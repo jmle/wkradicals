@@ -1,0 +1,34 @@
+{
+  "id": 5348,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "切符"
+  },
+  "primaryMeaning": "Ticket",
+  "meaningMnemonic": "A <kanji>cut</kanji> <kanji>token</kanji> is a token you cut out from a sheet of paper into smaller sheets, and each of these pieces is a <vocabulary>ticket</vocabulary>.",
+  "primaryReading": "きっぷ",
+  "readingMnemonic": "The reading is 切る cut short to きっ, then ふ rendaku'd to ぷ. It's a bit of a troublesome word, so concentrate on this now a bit so you can get it in the reviews.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "切符",
+  "related": {
+    "radicals": [
+      4,
+      24,
+      85,
+      248
+    ],
+    "kanjis": [
+      502,
+      1435
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きっぷ",
+      "url": "https://files.wanikani.com/7s8fk75325qvi6x2tcf4wzi5fcfp"
+    }
+  ]
+}

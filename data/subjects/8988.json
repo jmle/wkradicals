@@ -1,0 +1,34 @@
+{
+  "id": 8988,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "麺つゆ"
+  },
+  "primaryMeaning": "Mentsuyu",
+  "meaningMnemonic": "You know that 麺 means \"noodles\", and つゆ is another word for \"soup\" or \"broth\". Put the two together and you have the delicious <vocabulary>mentsuyu </vocabulary>, or <vocabulary>noodle soup base</vocabulary>. It's usually made of dashi, soy sauce, mirin and sugar​. Yum!",
+  "primaryReading": "めんつゆ",
+  "readingMnemonic": "You learned the reading for 麺 when you learned the kanji.",
+  "otherMeanings": [
+    "Noodle Soup Base",
+    "Noodle Broth"
+  ],
+  "otherReadings": [],
+  "wkSlug": "麺つゆ",
+  "related": {
+    "radicals": [
+      8907,
+      250
+    ],
+    "kanjis": [
+      8955
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めんつゆ",
+      "url": "https://files.wanikani.com/dw3c20f61gzik6519zy7bfmyz2bz"
+    }
+  ]
+}

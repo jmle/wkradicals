@@ -1,0 +1,31 @@
+{
+  "id": 5896,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "彼"
+  },
+  "primaryMeaning": "He",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かれ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "彼",
+  "related": {
+    "radicals": [
+      99,
+      195
+    ],
+    "kanjis": [
+      1594
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かれ",
+      "url": "https://files.wanikani.com/kjj59zgnmcjt3oy9hdq3i4rck9zo"
+    }
+  ]
+}

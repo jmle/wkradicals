@@ -1,0 +1,34 @@
+{
+  "id": 5775,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "聖日"
+  },
+  "primaryMeaning": "Holy Day",
+  "meaningMnemonic": "A <kanji>holy</kanji> <kanji>day</kanji> is a <vocabulary>holy day</vocabulary>.",
+  "primaryReading": "せいじつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "聖日-5775",
+  "related": {
+    "radicals": [
+      88,
+      16,
+      48,
+      22
+    ],
+    "kanjis": [
+      1558,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいじつ",
+      "url": "https://files.wanikani.com/yxh5zolfgsht09ydfbhno9uue3jn"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8127,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "痴漢"
+  },
+  "primaryMeaning": "Groper",
+  "meaningMnemonic": "A <kanji>stupid</kanji> <kanji>man</kanji> is a <vocabulary>groper</vocabulary>. I mean, not always. But it's probably fair to call a groper or <vocabulary>molester</vocabulary> a stupid man.",
+  "primaryReading": "ちかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Molester"
+  ],
+  "otherReadings": [],
+  "wkSlug": "痴漢",
+  "related": {
+    "radicals": [
+      187,
+      72,
+      16,
+      103,
+      8774
+    ],
+    "kanjis": [
+      2250,
+      757
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちかん",
+      "url": "https://files.wanikani.com/ty7y6gzcqvzmgk09ztv0tehy30gk"
+    }
+  ]
+}

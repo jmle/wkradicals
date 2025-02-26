@@ -1,0 +1,33 @@
+{
+  "id": 8439,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "呆け"
+  },
+  "primaryMeaning": "Idiot",
+  "meaningMnemonic": "Someone who's <kanji>shock</kanji>ed at everything all the time will seem like an <vocabulary>idiot</vocabulary>. At this point, putting your drinks in a glass shouldn't be surprising. I mean, come on. Only a <vocabulary>fool</vocabulary> lets himself be shocked by everything he sees.",
+  "primaryReading": "ぼけ",
+  "readingMnemonic": "Remember when you learned 呆ける? Well just cut the る part off the end and it's exactly the same! If you can remember that, you'll remember this reading as well.",
+  "otherMeanings": [
+    "Fool"
+  ],
+  "otherReadings": [],
+  "wkSlug": "呆け",
+  "related": {
+    "radicals": [
+      16,
+      23
+    ],
+    "kanjis": [
+      2251
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼけ",
+      "url": "https://files.wanikani.com/5e6mg3c7tj5ugt14khc6cbwq3xnn"
+    }
+  ]
+}

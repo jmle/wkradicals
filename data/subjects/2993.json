@@ -1,0 +1,35 @@
+{
+  "id": 2993,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "支店"
+  },
+  "primaryMeaning": "Branch Office",
+  "meaningMnemonic": "The <kanji>support</kanji> <kanji>shop</kanji> is the <vocabulary>branch office</vocabulary>. Presumably this is because the regular \"shop\" is the \"shop\" and anything that supports it is the local (branch) office.\n\nIf it helps, this word has the same meaning as 支局 which you will also be learning in this level.",
+  "primaryReading": "してん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Branch Store"
+  ],
+  "otherReadings": [],
+  "wkSlug": "支店",
+  "related": {
+    "radicals": [
+      81,
+      62,
+      143
+    ],
+    "kanjis": [
+      678,
+      625
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "してん",
+      "url": "https://files.wanikani.com/jizy2yjdgpuxlhd0l0pgu9d1wsu6"
+    }
+  ]
+}

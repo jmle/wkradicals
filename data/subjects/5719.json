@@ -1,0 +1,33 @@
+{
+  "id": 5719,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "肺臓"
+  },
+  "primaryMeaning": "Lung",
+  "meaningMnemonic": "The <kanji>lung</kanji> <kanji>internal organ</kanji> is the <vocabulary>lung</vocabulary>.",
+  "primaryReading": "はいぞう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "肺臓",
+  "related": {
+    "radicals": [
+      43,
+      267,
+      347
+    ],
+    "kanjis": [
+      1537,
+      1546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいぞう",
+      "url": "https://files.wanikani.com/o1uaugsvwvw14260nvpiurt5dh1x"
+    }
+  ]
+}

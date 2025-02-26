@@ -1,0 +1,33 @@
+{
+  "id": 6627,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "紛らす"
+  },
+  "primaryMeaning": "To Divert",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>distract</kanji> and the verb vocab version of this word is <vocabulary>to distract</vocabulary> and <vocabulary>to divert</vocabulary>.",
+  "primaryReading": "まぎらす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You need <vocabulary>to divert</vocabulary> and <vocabulary>to distract</vocabulary> <reading>Maggie</reading> (まぎ). ",
+  "otherMeanings": [
+    "To Distract"
+  ],
+  "otherReadings": [],
+  "wkSlug": "紛らす",
+  "related": {
+    "radicals": [
+      86,
+      247
+    ],
+    "kanjis": [
+      1829
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まぎらす",
+      "url": "https://files.wanikani.com/iz8c2dc4ny3wqb6b6fmypjgbl5cl"
+    }
+  ]
+}

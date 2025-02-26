@@ -1,0 +1,34 @@
+{
+  "id": 6511,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "軍艦"
+  },
+  "primaryMeaning": "Battleship",
+  "meaningMnemonic": "An <kanji>army</kanji> <kanji>warship</kanji> is a <vocabulary>battleship</vocabulary>. Did you sink it? Oh oh! You sunk my 軍艦!",
+  "primaryReading": "ぐんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "軍艦",
+  "related": {
+    "radicals": [
+      76,
+      93,
+      149,
+      328
+    ],
+    "kanjis": [
+      954,
+      1790
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぐんかん",
+      "url": "https://files.wanikani.com/9v3qeajyib2n19dsn0gbvnwpymbs"
+    }
+  ]
+}

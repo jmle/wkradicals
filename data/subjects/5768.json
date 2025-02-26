@@ -1,0 +1,33 @@
+{
+  "id": 5768,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "縦"
+  },
+  "primaryMeaning": "Vertical",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たて",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "縦",
+  "related": {
+    "radicals": [
+      86,
+      99,
+      8767,
+      229
+    ],
+    "kanjis": [
+      1556
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たて",
+      "url": "https://files.wanikani.com/zxyxk4xz6o4pvz4zoijmvmnkgtw7"
+    }
+  ]
+}

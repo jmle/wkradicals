@@ -1,0 +1,38 @@
+{
+  "id": 8125,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "音痴"
+  },
+  "primaryMeaning": "Tone Deafness",
+  "meaningMnemonic": "If you're <kanji>stupid</kanji> when it comes to <kanji>sound</kanji>s, then you're <vocabulary>tone deaf</vocabulary>. ",
+  "primaryReading": "おんち",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Tone Deaf",
+    "Off Key"
+  ],
+  "otherReadings": [],
+  "wkSlug": "音痴",
+  "related": {
+    "radicals": [
+      55,
+      22,
+      187,
+      72,
+      16
+    ],
+    "kanjis": [
+      606,
+      2250
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おんち",
+      "url": "https://files.wanikani.com/hd3d2z5f2d6ak4jfx6xddd10zdpd"
+    }
+  ]
+}

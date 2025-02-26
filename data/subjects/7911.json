@@ -1,0 +1,34 @@
+{
+  "id": 7911,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "発祥"
+  },
+  "primaryMeaning": "Origin",
+  "meaningMnemonic": "Your <kanji>auspicious</kanji> <kanji>departure</kanji> from another world is your <vocabulary>origin</vocabulary> story. You originally came from another place, and you had to leave there gloriously before you could enter this world.",
+  "primaryReading": "はっしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "発祥",
+  "related": {
+    "radicals": [
+      168,
+      171,
+      80,
+      136
+    ],
+    "kanjis": [
+      729,
+      2165
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はっしょう",
+      "url": "https://files.wanikani.com/tnizvgt0ud2gb4yefa41wv7gvtxz"
+    }
+  ]
+}

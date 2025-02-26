@@ -1,0 +1,36 @@
+{
+  "id": 7006,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "零点"
+  },
+  "primaryMeaning": "Zero Points",
+  "meaningMnemonic": "<kanji>Zero</kanji> <kanji>point</kanji>s means you got <vocabulary>zero point</vocabulary>s. Could also refer to getting <vocabulary>zero marks</vocabulary> on your test.",
+  "primaryReading": "れいてん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Zero Marks"
+  ],
+  "otherReadings": [],
+  "wkSlug": "零点",
+  "related": {
+    "radicals": [
+      119,
+      189,
+      143,
+      131
+    ],
+    "kanjis": [
+      1958,
+      641
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "れいてん",
+      "url": "https://files.wanikani.com/lccanix79ugtjfctrmsrksevdn0e"
+    }
+  ]
+}

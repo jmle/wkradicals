@@ -1,0 +1,36 @@
+{
+  "id": 4659,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "誕生日"
+  },
+  "primaryMeaning": "Birthday",
+  "meaningMnemonic": "Remember how 誕生 is <kanji>birth</kanji>? If you add <kanji>day</kanji> on there, you have a <vocabulary>birthday</vocabulary>. Happy birthday!",
+  "primaryReading": "たんじょうび",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji, but with this word 日 uses the kun'yomi ひ, which is turned into び due to rendaku. ",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "誕生日",
+  "related": {
+    "radicals": [
+      117,
+      206,
+      229,
+      210,
+      22
+    ],
+    "kanjis": [
+      1156,
+      850,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たんじょうび",
+      "url": "https://files.wanikani.com/j4bsd7uqpwsuxbncai3rsvrja6g8"
+    }
+  ]
+}

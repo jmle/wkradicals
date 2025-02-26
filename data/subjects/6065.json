@@ -1,0 +1,36 @@
+{
+  "id": 6065,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "募集"
+  },
+  "primaryMeaning": "Recruiting",
+  "meaningMnemonic": "I want to <kanji>recruit</kanji> some people, so let's <kanji>gather</kanji> them up and do some <vocabulary>recruiting</vocabulary> and <vocabulary>solicitation</vocabulary> to get them.",
+  "primaryReading": "ぼしゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Solicitation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "募集",
+  "related": {
+    "radicals": [
+      356,
+      13,
+      240,
+      23
+    ],
+    "kanjis": [
+      1648,
+      754
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼしゅう",
+      "url": "https://files.wanikani.com/2o2yaj10ydicm4sy9mweoe96d1xg"
+    }
+  ]
+}

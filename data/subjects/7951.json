@@ -1,0 +1,37 @@
+{
+  "id": 7951,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "陳列"
+  },
+  "primaryMeaning": "Exhibition",
+  "meaningMnemonic": "An <kanji>exhibit</kanji> of things in a <kanji>row</kanji> only happens at an <vocabulary>exhibition</vocabulary>. Everything will be neatly lined up on <vocabulary>display</vocabulary> for you there.",
+  "primaryReading": "ちんれつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Display",
+    "Show"
+  ],
+  "otherReadings": [],
+  "wkSlug": "陳列",
+  "related": {
+    "radicals": [
+      176,
+      224,
+      132,
+      128
+    ],
+    "kanjis": [
+      2173,
+      936
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちんれつ",
+      "url": "https://files.wanikani.com/qj3wc7hfsl10tshxobkobyu8y22o"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4144,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "訓読み"
+  },
+  "primaryMeaning": "Kun'yomi",
+  "meaningMnemonic": "The <kanji>instruction</kanji> <kanji>reading</kanji> may not make a lot of sense, but you've heard this word before. Jump to the reading and you'll know what the meaning of this word is.",
+  "primaryReading": "くんよみ",
+  "readingMnemonic": "The reading is the word 読み (like 読む) and the reading you learned for 訓 combined, making <reading>くんよ</reading>み. Sounds familiar? It's that <vocabulary>kun'yomi</vocabulary> reading you've heard so much about.",
+  "otherMeanings": [
+    "Kun Reading",
+    "Japanese Reading"
+  ],
+  "otherReadings": [],
+  "wkSlug": "訓読み",
+  "related": {
+    "radicals": [
+      117,
+      21,
+      439
+    ],
+    "kanjis": [
+      1028,
+      765
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くんよみ",
+      "url": "https://files.wanikani.com/pxqutu2g4xme05snuba0eikg8ocw"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6698,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "権威"
+  },
+  "primaryMeaning": "Authority",
+  "meaningMnemonic": "You have <kanji>rights</kanji> and <kanji>might</kanji> over this area. That gives you <vocabulary>authority</vocabulary>.",
+  "primaryReading": "けんい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "権威",
+  "related": {
+    "radicals": [
+      23,
+      72,
+      240,
+      5,
+      194,
+      1,
+      19
+    ],
+    "kanjis": [
+      1134,
+      1852
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんい",
+      "url": "https://files.wanikani.com/ive3fjk2d6dm9jvqzk1u5gt6wja5"
+    }
+  ]
+}

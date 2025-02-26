@@ -1,0 +1,36 @@
+{
+  "id": 4794,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "気候"
+  },
+  "primaryMeaning": "Climate",
+  "meaningMnemonic": "The <kanji>energy</kanji> of the <kanji>climate</kanji> is the <vocabulary>climate</vocabulary>. High energy? Climate. Low energy. Climate.",
+  "primaryReading": "きこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "気候",
+  "related": {
+    "radicals": [
+      82,
+      31,
+      75,
+      8761,
+      157,
+      72
+    ],
+    "kanjis": [
+      548,
+      1262
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きこう",
+      "url": "https://files.wanikani.com/5o72mkntlwhv1ki0114q52d8lmah"
+    }
+  ]
+}

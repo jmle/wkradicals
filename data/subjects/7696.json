@@ -1,0 +1,36 @@
+{
+  "id": 7696,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "言葉つき"
+  },
+  "primaryMeaning": "Diction",
+  "meaningMnemonic": "Remember how 言葉 means \"language?\" Well, the way you \"attach\" (付き) language to things is your <vocabulary>diction</vocabulary>. Everyone has their own 言葉つき when they speak. How would you describe your 言葉つき?\n\n言葉つき refers to the characteristics of <vocabulary>how one speaks</vocabulary>, including the words they choose, how they say them, and their overall speaking style.",
+  "primaryReading": "ことばつき",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "How One Speaks"
+  ],
+  "otherReadings": [],
+  "wkSlug": "言葉つき",
+  "related": {
+    "radicals": [
+      117,
+      90,
+      83,
+      23
+    ],
+    "kanjis": [
+      593,
+      750
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ことばつき",
+      "url": "https://files.wanikani.com/f4e5sly7gjhux3b63233bx1tuvc4"
+    }
+  ]
+}

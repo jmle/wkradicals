@@ -1,0 +1,42 @@
+{
+  "id": 2014,
+  "type": "kanji",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "蛇"
+  },
+  "primaryReading": "へび",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "へび",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "じゃ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Snake",
+  "otherMeanings": [],
+  "meaningMnemonic": "There is an <radical>insect</radical> on the <radical>roof</radical> in a <radical>spoon</radical>. It's there for the eating, and it's how you plan to attract a <kanji>snake</kanji> to your roof.",
+  "readingMnemonic": "Why don't you just bring a <kanji>snake</kanji> up to the roof yourself? Because snakes are <reading>heavy</reading> (へび).",
+  "wkSlug": "蛇",
+  "related": {
+    "radicals": [
+      89,
+      78,
+      57
+    ],
+    "vocabularies": [
+      7170
+    ]
+  },
+  "radicalNames": [
+    "Insect",
+    "Roof",
+    "Spoon"
+  ]
+}

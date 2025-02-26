@@ -1,0 +1,36 @@
+{
+  "id": 6323,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "飛躍"
+  },
+  "primaryMeaning": "Leaping",
+  "meaningMnemonic": "To <kanji>fly</kanji> and <kanji>leap</kanji> is <vocabulary>leaping</vocabulary>.\n\n飛躍 is mainly used in a figurative way to highlight remarkable progress in areas like personal growth or technological advancement. It can also describe a logic that jumps suddenly from one point to another without clear connections.",
+  "primaryReading": "ひやく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Rapid Progress"
+  ],
+  "otherReadings": [],
+  "wkSlug": "飛躍",
+  "related": {
+    "radicals": [
+      270,
+      95,
+      105,
+      240
+    ],
+    "kanjis": [
+      1092,
+      1738
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひやく",
+      "url": "https://files.wanikani.com/jnrq386227y2m4l5808pjkj46zxo"
+    }
+  ]
+}

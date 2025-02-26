@@ -1,0 +1,34 @@
+{
+  "id": 6570,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "克明"
+  },
+  "primaryMeaning": "Detailed",
+  "meaningMnemonic": "If you're <kanji>overcome</kanji> with <kanji>bright</kanji>ness, you'll be able to see all the little fine <vocabulary>detailed</vocabulary> things.",
+  "primaryReading": "こくめい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "克明",
+  "related": {
+    "radicals": [
+      69,
+      28,
+      22,
+      43
+    ],
+    "kanjis": [
+      1804,
+      626
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こくめい",
+      "url": "https://files.wanikani.com/a1ialfhplz01y1e9yzyhezfcztz8"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3904,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "暗記する"
+  },
+  "primaryMeaning": "To Memorize",
+  "meaningMnemonic": "Hopefully you've seen 暗記 before now. It means \"memorization.\" So, turn that into a verb and you have <vocabulary>to memorize</vocabulary>.",
+  "primaryReading": "あんきする",
+  "readingMnemonic": "The reading comes from 暗記. It also is the reading you learned with the kanji too.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "暗記する",
+  "related": {
+    "radicals": [
+      22,
+      55,
+      117,
+      228
+    ],
+    "kanjis": [
+      864,
+      664
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あんきする",
+      "url": "https://files.wanikani.com/av2fcfbcz53ivx24lvirezv4dc3a"
+    }
+  ]
+}

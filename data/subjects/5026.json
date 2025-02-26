@@ -1,0 +1,36 @@
+{
+  "id": 5026,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "間抜け"
+  },
+  "primaryMeaning": "Idiot",
+  "meaningMnemonic": "You learned that 抜ける is \"to fall out.\" If an <kanji>interval of time</kanji> falls out of you, you're totally spaced out. You won't learn anything and you'll become an <vocabulary>idiot</vocabulary>.\n\n間抜け can refer to both a person who does something foolish and to the foolish actions themselves. It's often used to criticize <vocabulary>dumb</vocabulary> behavior.",
+  "primaryReading": "まぬけ",
+  "readingMnemonic": "The readings come from the ま reading of 間 and from 抜く.",
+  "otherMeanings": [
+    "Dumb"
+  ],
+  "otherReadings": [],
+  "wkSlug": "間抜け",
+  "related": {
+    "radicals": [
+      214,
+      22,
+      63,
+      301
+    ],
+    "kanjis": [
+      701,
+      1257
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まぬけ",
+      "url": "https://files.wanikani.com/kd8e2siwggrw9494vj0lxl267fmw"
+    }
+  ]
+}

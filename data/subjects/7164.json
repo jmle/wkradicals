@@ -1,0 +1,31 @@
+{
+  "id": 7164,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "蚊"
+  },
+  "primaryMeaning": "Mosquito",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "か",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "蚊",
+  "related": {
+    "radicals": [
+      89,
+      42
+    ],
+    "kanjis": [
+      2013
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "か",
+      "url": "https://files.wanikani.com/nh3758ksg2tl76pmn7d9u2qbskqi"
+    }
+  ]
+}

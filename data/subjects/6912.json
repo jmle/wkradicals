@@ -1,0 +1,36 @@
+{
+  "id": 6912,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "無菌"
+  },
+  "primaryMeaning": "Sterilized",
+  "meaningMnemonic": "Someplace with <kanji>nothing</kanji> amounts of <kanji>bacteria</kanji> is <vocabulary>sterilized</vocabulary> and <vocabulary>aseptic</vocabulary>.",
+  "primaryReading": "むきん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Aseptic"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無菌",
+  "related": {
+    "radicals": [
+      252,
+      90,
+      16,
+      135
+    ],
+    "kanjis": [
+      1008,
+      1930
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むきん",
+      "url": "https://files.wanikani.com/ucm71kxz1nx6yxrkisz19zhxbzb1"
+    }
+  ]
+}

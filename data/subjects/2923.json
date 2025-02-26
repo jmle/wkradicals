@@ -1,0 +1,30 @@
+{
+  "id": 2923,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "食べる"
+  },
+  "primaryMeaning": "To Eat",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>eat</kanji> so the verb version is <vocabulary>to eat</vocabulary>.",
+  "primaryReading": "たべる",
+  "readingMnemonic": "You have to remember the た portion if you want to be able to read this word, which uses the kun'yomi reading. Think about yourself <vocabulary>eat</vocabulary>ing some <reading>ta</reading>cos (た). Imagine yourself eating it, that raw beef taste in your mouth (either like it or hate it).",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "食べる",
+  "related": {
+    "radicals": [
+      139
+    ],
+    "kanjis": [
+      644
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たべる",
+      "url": "https://files.wanikani.com/zz3cc6thglaquf2vbyxyutsz8web"
+    }
+  ]
+}

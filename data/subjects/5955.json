@@ -1,0 +1,36 @@
+{
+  "id": 5955,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "貿易"
+  },
+  "primaryMeaning": "Trade",
+  "meaningMnemonic": "<kanji>Trade</kanji> is <kanji>easy</kanji> if you like <vocabulary>trade</vocabulary> and <vocabulary>commerce</vocabulary>.",
+  "primaryReading": "ぼうえき",
+  "readingMnemonic": "The 貿 reading is okay, but the 易 reading is different from what you're used to. Just think about how a lot of the trade that comes in will come into the train <reading>station</reading> (駅). So if you want good trade, you'll want to be at the えき.",
+  "otherMeanings": [
+    "Commerce"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貿易",
+  "related": {
+    "radicals": [
+      140,
+      24,
+      94,
+      172
+    ],
+    "kanjis": [
+      1613,
+      1063
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうえき",
+      "url": "https://files.wanikani.com/dt9qb3idvjtwl5wc6wyvjj77srzo"
+    }
+  ]
+}

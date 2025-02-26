@@ -1,0 +1,37 @@
+{
+  "id": 7225,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "麻酔"
+  },
+  "primaryMeaning": "Anesthesia",
+  "meaningMnemonic": "A <kanji>hemp</kanji> <kanji>drunk</kanji>ness is when you take some \"hemp\" and put it into your body so you don't really feel anything anymore. This is <vocabulary>anesthesia</vocabulary>.",
+  "primaryReading": "ますい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Anaesthesia"
+  ],
+  "otherReadings": [],
+  "wkSlug": "麻酔",
+  "related": {
+    "radicals": [
+      62,
+      23,
+      182,
+      11,
+      15
+    ],
+    "kanjis": [
+      2036,
+      1603
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ますい",
+      "url": "https://files.wanikani.com/yqw5a8purbdteer0bmshf82f5zji"
+    }
+  ]
+}

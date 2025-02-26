@@ -1,0 +1,35 @@
+{
+  "id": 6029,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "一人暮らし"
+  },
+  "primaryMeaning": "Living Alone",
+  "meaningMnemonic": "If 暮らす is \"to live\" or \"to live one's life,\" then to live one's life as 一人, means you are <vocabulary>living alone</vocabulary>.",
+  "primaryReading": "ひとりぐらし",
+  "readingMnemonic": "The reading is the vocab readings from 一人 and 暮らす.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "一人暮らし",
+  "related": {
+    "radicals": [
+      1,
+      9,
+      356,
+      22
+    ],
+    "kanjis": [
+      440,
+      444,
+      1527
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひとりぐらし",
+      "url": "https://files.wanikani.com/csdzyuutuf18gzzrk3jjpwz5dxo8"
+    }
+  ]
+}

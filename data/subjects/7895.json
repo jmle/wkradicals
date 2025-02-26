@@ -1,0 +1,34 @@
+{
+  "id": 7895,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "没"
+  },
+  "primaryMeaning": "Discard",
+  "meaningMnemonic": "When a plant or an animal <kanji>die</kanji>s you have to <vocabulary>discard</vocabulary> it. You can't just keep it sitting around the house after <vocabulary>death</vocabulary>, that's weird. ",
+  "primaryReading": "ぼつ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Reject",
+    "Death"
+  ],
+  "otherReadings": [],
+  "wkSlug": "没",
+  "related": {
+    "radicals": [
+      103,
+      160
+    ],
+    "kanjis": [
+      2180
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼつ",
+      "url": "https://files.wanikani.com/4mx97uofr6ckgmszej1ksr6w9yj4"
+    }
+  ]
+}

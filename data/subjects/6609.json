@@ -1,0 +1,35 @@
+{
+  "id": 6609,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "掛軸"
+  },
+  "primaryMeaning": "Hanging Scroll",
+  "meaningMnemonic": "It <kanji>hang</kanji>s on an <kanji>axis</kanji> point. The axis opens up, and reveals a <vocabulary>hanging scroll</vocabulary>. This might take a little extra imagination, but I believe in you.",
+  "primaryReading": "かけじく",
+  "readingMnemonic": "For 掛 you'll want to think back to the word 掛ける, then shorten it and shove it into the kanji half way (the かけ part at least). For 軸 that's the reading you learned with the kanji, so at least you have that to work off of.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "掛軸",
+  "related": {
+    "radicals": [
+      63,
+      17,
+      10,
+      93,
+      268
+    ],
+    "kanjis": [
+      1278,
+      1822
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かけじく",
+      "url": "https://files.wanikani.com/hxgox5prks5ewgjkmp0s7pz9jlov"
+    }
+  ]
+}

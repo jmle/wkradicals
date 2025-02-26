@@ -1,0 +1,39 @@
+{
+  "id": 3315,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "便所"
+  },
+  "primaryMeaning": "Restroom",
+  "meaningMnemonic": "*Ahem.* This is the <kanji>convenience</kanji> <kanji>facility</kanji>. What place above all others should be convenient to get to? You know, just in case? That would be the <vocabulary>restroom</vocabulary>. You might also call it the <vocabulary>bathroom</vocabulary>, the <vocabulary>toilet</vocabulary>, the lavatory, or the facilities.\n\nThis word is casual and can often sound gruff, so you won't normally see it on official signs or hear it in polite conversation. It's worth knowing so you can understand it in casual speaking and writing though.",
+  "primaryReading": "べんじょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just watch out for the rendaku. ",
+  "otherMeanings": [
+    "Bathroom",
+    "Toilet"
+  ],
+  "otherReadings": [],
+  "wkSlug": "便所",
+  "related": {
+    "radicals": [
+      75,
+      1,
+      51,
+      31,
+      73,
+      115
+    ],
+    "kanjis": [
+      808,
+      707
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "べんじょ",
+      "url": "https://files.wanikani.com/0zegqkkx30chqz7gf3nqkqh22h1t"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 3440,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "足りない"
+  },
+  "primaryMeaning": "Not Enough",
+  "meaningMnemonic": "You know the word 足りる from Level 4. What is this one? it's the opposite (negative form on a verb is ない). So, what is the opposite of 足りる (To be sufficient)? The opposite is <vocabulary>to not be sufficient</vocabulary> or <vocabulary>not enough</vocabulary>.",
+  "primaryReading": "たりない",
+  "readingMnemonic": "The reading is the same as 足りる (たりる) which you should have seen in Level 4.",
+  "otherMeanings": [
+    "Insufficient",
+    "Not Sufficient"
+  ],
+  "otherReadings": [],
+  "wkSlug": "足りない",
+  "related": {
+    "radicals": [
+      95
+    ],
+    "kanjis": [
+      561
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たりない",
+      "url": "https://files.wanikani.com/c4svd1xg346lwf5t6vfplj6cp0s0"
+    }
+  ]
+}

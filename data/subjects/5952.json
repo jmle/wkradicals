@@ -1,0 +1,36 @@
+{
+  "id": 5952,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "旧姓"
+  },
+  "primaryMeaning": "Former Surname",
+  "meaningMnemonic": "Your <kanji>former</kanji> <kanji>surname</kanji> is just that: your <vocabulary>former surname</vocabulary>! This is often your <vocabulary>maiden name</vocabulary>, as in the name you had before getting married.",
+  "primaryReading": "きゅうせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Maiden Name"
+  ],
+  "otherReadings": [],
+  "wkSlug": "旧姓",
+  "related": {
+    "radicals": [
+      8761,
+      22,
+      19,
+      210
+    ],
+    "kanjis": [
+      1611,
+      1612
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうせい",
+      "url": "https://files.wanikani.com/u41uzq6u539l5a2xviiq1a7qeqr1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6045,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "汁物"
+  },
+  "primaryMeaning": "Soups",
+  "meaningMnemonic": "A <kanji>soup</kanji> <kanji>thing</kanji> is what you use to refer to <vocabulary>soups</vocabulary>.",
+  "primaryReading": "しるもの",
+  "readingMnemonic": "The reading is both the kun'yomi readings combined to form one word. So, you'll want to make sure you know the word 汁.",
+  "otherMeanings": [
+    "Soup"
+  ],
+  "otherReadings": [],
+  "wkSlug": "汁物",
+  "related": {
+    "radicals": [
+      103,
+      15,
+      126,
+      173
+    ],
+    "kanjis": [
+      1597,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しるもの",
+      "url": "https://files.wanikani.com/ucs0glv9p7frm5wxvjp4m9y6rkbh"
+    }
+  ]
+}

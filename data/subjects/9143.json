@@ -1,0 +1,34 @@
+{
+  "id": 9143,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "元パートナー"
+  },
+  "primaryMeaning": "Ex-Partner",
+  "meaningMnemonic": "Your <kanji>origin</kanji> partner is a partner you had originally, but don't have anymore. In other words, this is your <vocabulary>ex-partner</vocabulary> or <vocabulary>former partner</vocabulary>.\n\nLike in English, this word is fairly formal, and it covers any kind of ex-partner, including business and romantic partners.",
+  "primaryReading": "もとぱーとなー",
+  "readingMnemonic": "This uses the kun'yomi of 元 and then it's just kana, so you should know how to read this!",
+  "otherMeanings": [
+    "Former Partner"
+  ],
+  "otherReadings": [
+    "もとパートナー"
+  ],
+  "wkSlug": "元パートナー",
+  "related": {
+    "radicals": [
+      64
+    ],
+    "kanjis": [
+      498
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もとぱーとなー",
+      "url": "https://files.wanikani.com/xocr3xjvzvjkt3mdlk8qttwzrt5a"
+    }
+  ]
+}

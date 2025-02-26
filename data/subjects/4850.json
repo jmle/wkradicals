@@ -1,0 +1,35 @@
+{
+  "id": 4850,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "〜務省"
+  },
+  "primaryMeaning": "Ministry Of",
+  "meaningMnemonic": "Let us <kanji>conserve</kanji> our <kanji>task</kanji>s. We will give it to the <vocabulary>Ministry Of</vocabulary> Tasks!",
+  "primaryReading": "むしょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "〜務省",
+  "related": {
+    "radicals": [
+      148,
+      60,
+      13,
+      198,
+      53
+    ],
+    "kanjis": [
+      1129,
+      1147
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むしょう",
+      "url": "https://files.wanikani.com/2jko145798gw86dam2i0a97irf8r"
+    }
+  ]
+}

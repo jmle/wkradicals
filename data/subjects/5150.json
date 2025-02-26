@@ -1,0 +1,35 @@
+{
+  "id": 5150,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "金庫"
+  },
+  "primaryMeaning": "A Safe",
+  "meaningMnemonic": "<kanji>Gold</kanji> <kanji>storage</kanji> is where you put your gold. You want it to be safe, so you put it in <vocabulary>a safe</vocabulary>.",
+  "primaryReading": "きんこ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Safe"
+  ],
+  "otherReadings": [],
+  "wkSlug": "金庫",
+  "related": {
+    "radicals": [
+      118,
+      62,
+      93
+    ],
+    "kanjis": [
+      602,
+      1348
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんこ",
+      "url": "https://files.wanikani.com/7oa1nhjp1432vbdjjxsstujbuzmo"
+    }
+  ]
+}

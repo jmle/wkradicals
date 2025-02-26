@@ -1,0 +1,37 @@
+{
+  "id": 3998,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "失恋"
+  },
+  "primaryMeaning": "Heartbreak",
+  "meaningMnemonic": "The <kanji>fault</kanji> of <kanji>romance</kanji> isn't the romance itself, it's when everything falls apart. It's when you experience <vocabulary>heartbreak</vocabulary> or <vocabulary>unrequited love</vocabulary>. Have you ever felt the fault of romance? If so, remember back to that time, and think about how terrible of a fault it is.",
+  "primaryReading": "しつれん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Broken Heart",
+    "Unrequited Love"
+  ],
+  "otherReadings": [],
+  "wkSlug": "失恋",
+  "related": {
+    "radicals": [
+      5,
+      146,
+      9329,
+      65
+    ],
+    "kanjis": [
+      654,
+      1024
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しつれん",
+      "url": "https://files.wanikani.com/uled9g33oo2iusj7x7i294p6ntph"
+    }
+  ]
+}

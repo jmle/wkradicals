@@ -1,0 +1,33 @@
+{
+  "id": 5758,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "奴"
+  },
+  "primaryMeaning": "Dude",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "やつ",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You did not learn this reading, so here's a mnemonic to help you to remember: \n\nSome <vocabulary>dude</vocabulary>... he did it two times. <reading>Yah, two</reading> (やつ) times.\n\nThis can seem kind of derogatory, if you say it the wrong way. But as long as you're duding to your dude friends and not your no-dude boss, you should be a-okay to dude-bro it up!",
+  "otherMeanings": [
+    "Guy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "奴",
+  "related": {
+    "radicals": [
+      19,
+      30
+    ],
+    "kanjis": [
+      1551
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やつ",
+      "url": "https://files.wanikani.com/e68b8fw07zg2z87k8d6kyhk2l15l"
+    }
+  ]
+}

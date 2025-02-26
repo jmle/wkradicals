@@ -1,0 +1,33 @@
+{
+  "id": 4578,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "済ます"
+  },
+  "primaryMeaning": "To Finish Something",
+  "meaningMnemonic": "Remember 済む and how it means \"to come to an end.\" This is like that, but slightly different. This is <vocabulary>to finish something</vocabulary> or <vocabulary>to settle something</vocabulary>, because this is when you're doing the coming to an end action. You can remember this because you're coming in to finish the score uno <reading>mas</reading> (ます) time. This is the last time.",
+  "primaryReading": "すます",
+  "readingMnemonic": "The reading is the same as the one you learned with 済む, so if you know that you'll be able <vocabulary>to finish</vocabulary> this vocab.",
+  "otherMeanings": [
+    "To Settle Something"
+  ],
+  "otherReadings": [],
+  "wkSlug": "済ます",
+  "related": {
+    "radicals": [
+      103,
+      277
+    ],
+    "kanjis": [
+      1124
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すます",
+      "url": "https://files.wanikani.com/gdhr65glga9v265lyxkdthp4021c"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3933,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "建築家"
+  },
+  "primaryMeaning": "Architect",
+  "meaningMnemonic": "You know that 建築 is architecture. So, someone of <kanji>house</kanji> <kanji>architecture</kanji> is someone who does architecture. They are an <vocabulary>architect</vocabulary>.",
+  "primaryReading": "けんちくか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will also help if you know how to read 建築 already.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "建築家",
+  "related": {
+    "radicals": [
+      206,
+      220,
+      85,
+      241,
+      23,
+      398
+    ],
+    "kanjis": [
+      946,
+      957,
+      660
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんちくか",
+      "url": "https://files.wanikani.com/k365ds3oel2gknh2oexjx8a4d9bx"
+    }
+  ]
+}

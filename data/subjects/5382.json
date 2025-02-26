@@ -1,0 +1,36 @@
+{
+  "id": 5382,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "預金"
+  },
+  "primaryMeaning": "Bank Deposit",
+  "meaningMnemonic": "<kanji>Deposit</kanji> your <kanji>gold</kanji> here in the bank. When you do that, it is a <vocabulary>bank deposit</vocabulary>.",
+  "primaryReading": "よきん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Deposit",
+    "Bank Account"
+  ],
+  "otherReadings": [],
+  "wkSlug": "預金",
+  "related": {
+    "radicals": [
+      339,
+      184,
+      118
+    ],
+    "kanjis": [
+      1425,
+      602
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よきん",
+      "url": "https://files.wanikani.com/uw044pic7xcea9n13i4009f6y0vo"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4570,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "状態"
+  },
+  "primaryMeaning": "Condition",
+  "meaningMnemonic": "The <kanji>condition</kanji> that something is in and the <kanji>appearance</kanji> of it is the <vocabulary>condition</vocabulary> / <vocabulary>state</vocabulary> of that object.",
+  "primaryReading": "じょうたい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "State"
+  ],
+  "otherReadings": [],
+  "wkSlug": "状態",
+  "related": {
+    "radicals": [
+      8826,
+      47,
+      287,
+      65
+    ],
+    "kanjis": [
+      1183,
+      1184
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうたい",
+      "url": "https://files.wanikani.com/zy3rq7grmlfml2g4b0i1dnkx4owf"
+    }
+  ]
+}

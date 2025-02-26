@@ -1,0 +1,38 @@
+{
+  "id": 7833,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "貞節"
+  },
+  "primaryMeaning": "Chastity",
+  "meaningMnemonic": "<kanji>Chastity</kanji> is always in <kanji>season</kanji> so it's always cool to try to keep your <vocabulary>chastity</vocabulary>. Spring, summer? Doesn't matter. Your decision to stay that way is fine no matter what time of year it is.",
+  "primaryReading": "ていせつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Virtue",
+    "Fidelity"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貞節",
+  "related": {
+    "radicals": [
+      10,
+      94,
+      85,
+      196,
+      145
+    ],
+    "kanjis": [
+      2144,
+      1058
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ていせつ",
+      "url": "https://files.wanikani.com/aaoacbncaflsm2544w4q060vnk5i"
+    }
+  ]
+}

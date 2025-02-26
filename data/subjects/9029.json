@@ -1,0 +1,34 @@
+{
+  "id": 9029,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "莫大"
+  },
+  "primaryMeaning": "Huge",
+  "meaningMnemonic": "Something that is <kanji>endless</kanji>ly <kanji>big</kanji> isn't just big, but <vocabulary>huge</vocabulary> and <vocabulary>enormous</vocabulary>.\n\nThis word is often used in contexts that involve money, but it can also be used for other things like time, energy, and data.",
+  "primaryReading": "ばくだい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Enormous"
+  ],
+  "otherReadings": [],
+  "wkSlug": "莫大",
+  "related": {
+    "radicals": [
+      356,
+      18
+    ],
+    "kanjis": [
+      9028,
+      453
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばくだい",
+      "url": "https://files.wanikani.com/b0pf5x0adogxoxro7xtwa4t4vcru"
+    }
+  ]
+}

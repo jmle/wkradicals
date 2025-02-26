@@ -1,0 +1,40 @@
+{
+  "id": 6845,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "核分裂"
+  },
+  "primaryMeaning": "Nuclear Fission",
+  "meaningMnemonic": "分裂 means \"split\" or \"division.\" The <kanji>nucleus</kanji> version of this split is <vocabulary>nuclear fission</vocabulary>.",
+  "primaryReading": "かくぶんれつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Karyokinesis"
+  ],
+  "otherReadings": [],
+  "wkSlug": "核分裂",
+  "related": {
+    "radicals": [
+      23,
+      351,
+      2,
+      24,
+      132,
+      128,
+      320
+    ],
+    "kanjis": [
+      1626,
+      501,
+      1839
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かくぶんれつ",
+      "url": "https://files.wanikani.com/zcw4ax3iznt9nje2r69eghvc5m4y"
+    }
+  ]
+}

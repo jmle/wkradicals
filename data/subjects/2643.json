@@ -1,0 +1,30 @@
+{
+  "id": 2643,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "矢"
+  },
+  "primaryMeaning": "Arrow",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "や",
+  "readingMnemonic": "The reading for this word is the same as the one you learned when learning the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "矢",
+  "related": {
+    "radicals": [
+      72
+    ],
+    "kanjis": [
+      526
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "や",
+      "url": "https://files.wanikani.com/p88rrpegl4l2yad2zoorkov6q50u"
+    }
+  ]
+}

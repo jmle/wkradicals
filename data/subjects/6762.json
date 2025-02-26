@@ -1,0 +1,33 @@
+{
+  "id": 6762,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "泊まり"
+  },
+  "primaryMeaning": "Overnight Stay",
+  "meaningMnemonic": "You know that 泊まる is \"to stay the night.\" The noun version is a <vocabulary>overnight stay</vocabulary> or <vocabulary>sleepover</vocabulary>.",
+  "primaryReading": "とまり",
+  "readingMnemonic": "The reading comes from 泊まる, so pull from that and you shall know this.",
+  "otherMeanings": [
+    "Sleepover"
+  ],
+  "otherReadings": [],
+  "wkSlug": "泊まり",
+  "related": {
+    "radicals": [
+      103,
+      52
+    ],
+    "kanjis": [
+      1824
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とまり",
+      "url": "https://files.wanikani.com/718jdkl8py3o561454d4rv6jpxcc"
+    }
+  ]
+}

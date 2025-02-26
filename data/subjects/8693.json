@@ -1,0 +1,37 @@
+{
+  "id": 8693,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "左右"
+  },
+  "primaryMeaning": "Left And Right",
+  "meaningMnemonic": "Put <kanji>left</kanji> and <kanji>right</kanji> together and you end up with <vocabulary>left and right</vocabulary>! Just make sure you say them in the right order!",
+  "primaryReading": "さゆう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Both Ways",
+    "Influence",
+    "Control"
+  ],
+  "otherReadings": [],
+  "wkSlug": "左右",
+  "related": {
+    "radicals": [
+      26,
+      25,
+      16
+    ],
+    "kanjis": [
+      486,
+      484
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さゆう",
+      "url": "https://files.wanikani.com/yp5t3w63zaxddomfets3jb9io6vj"
+    }
+  ]
+}

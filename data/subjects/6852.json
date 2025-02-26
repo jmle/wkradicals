@@ -1,0 +1,36 @@
+{
+  "id": 6852,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "滅びる"
+  },
+  "primaryMeaning": "To Be Destroyed",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>destroy</kanji> so the verb vocab version is <vocabulary>to be destroyed</vocabulary>. You know you're not destroying things because of the <reading>beer</reading> (びる). You'd never destroy beer... but someone else might. Grrr.",
+  "primaryReading": "ほろびる",
+  "readingMnemonic": "\"THE <reading>HORROR</reading>!\" (ほろ) you cry, as your beer is about <vocabulary>to be destroyed</vocabulary>.",
+  "otherMeanings": [
+    "To Be Annihilated"
+  ],
+  "otherReadings": [],
+  "wkSlug": "滅びる",
+  "related": {
+    "radicals": [
+      103,
+      5,
+      194,
+      1,
+      46
+    ],
+    "kanjis": [
+      1868
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほろびる",
+      "url": "https://files.wanikani.com/c8rlwm2fbghookht50ogf1yk7wjj"
+    }
+  ]
+}

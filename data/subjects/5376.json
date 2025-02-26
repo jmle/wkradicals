@@ -1,0 +1,33 @@
+{
+  "id": 5376,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "遊ぶ"
+  },
+  "primaryMeaning": "To Play",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>play</kanji> and the verb vocab version is <vocabulary>to play</vocabulary>.",
+  "primaryReading": "あそぶ",
+  "readingMnemonic": "You want <vocabulary>to play</vocabulary> with everyone, but every once in a while someone doesn't want to play with you. You know what? That's okay. If someone doesn't want to play with you, they're the <reading>a**hole</reading> (あそ), not you.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "遊ぶ",
+  "related": {
+    "radicals": [
+      114,
+      66,
+      8762,
+      34
+    ],
+    "kanjis": [
+      1417
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あそぶ",
+      "url": "https://files.wanikani.com/3jc1om52eqm5hcyywjovhvvyirxe"
+    }
+  ]
+}

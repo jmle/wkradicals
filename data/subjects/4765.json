@@ -1,0 +1,36 @@
+{
+  "id": 4765,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "割引"
+  },
+  "primaryMeaning": "Discount",
+  "meaningMnemonic": "<kanji>Divide</kanji> that price and <kanji>pull</kanji> it apart. You only have to pay for one part! What a <vocabulary>discount</vocabulary>.",
+  "primaryReading": "わりびき",
+  "readingMnemonic": "The readings are the ones you learned with the kanji. き from ひき kind of just gets stuffed into the 引 and hidden away like that strange collection of fingernails you have hidden in your closet drawer inside of a 35mm film container. Also remember that the reading gets changed to びき here because of that pesky rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "割引",
+  "related": {
+    "radicals": [
+      78,
+      210,
+      16,
+      128,
+      36,
+      8761
+    ],
+    "kanjis": [
+      1193,
+      507
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わりびき",
+      "url": "https://files.wanikani.com/a7hbpiupgkpl4x81pa3d73litfde"
+    }
+  ]
+}

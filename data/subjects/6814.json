@@ -1,0 +1,31 @@
+{
+  "id": 6814,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "釣り"
+  },
+  "primaryMeaning": "Fishing",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "つり",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "釣り",
+  "related": {
+    "radicals": [
+      118,
+      236
+    ],
+    "kanjis": [
+      1893
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つり",
+      "url": "https://files.wanikani.com/7756nrcjyacp105h4vq7ulfpbqor"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2533,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "千円"
+  },
+  "primaryMeaning": "One Thousand Yen",
+  "meaningMnemonic": "A thousand of these yen things makes this word <vocabulary>one thousand yen</vocabulary>.",
+  "primaryReading": "せんえん",
+  "readingMnemonic": "Since you know the on'yomi readings of these two kanji, you should know the reading for this vocab word as well!",
+  "otherMeanings": [
+    "A Thousand Yen",
+    "Thousand Yen"
+  ],
+  "otherReadings": [],
+  "wkSlug": "千円",
+  "related": {
+    "radicals": [
+      32,
+      29,
+      8
+    ],
+    "kanjis": [
+      460,
+      472
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんえん",
+      "url": "https://files.wanikani.com/4vr8px69n3y4qc25kbnbi73fc5vi"
+    }
+  ]
+}

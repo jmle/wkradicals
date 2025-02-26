@@ -1,0 +1,33 @@
+{
+  "id": 6905,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "食卓"
+  },
+  "primaryMeaning": "Dining Table",
+  "meaningMnemonic": "An <kanji>eat</kanji>ing <kanji>table</kanji> is a <vocabulary>dining table</vocabulary>.",
+  "primaryReading": "しょくたく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "食卓",
+  "related": {
+    "radicals": [
+      139,
+      10,
+      201
+    ],
+    "kanjis": [
+      644,
+      1928
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょくたく",
+      "url": "https://files.wanikani.com/vu1i9v6vgokdq5evygizi5nddsaf"
+    }
+  ]
+}

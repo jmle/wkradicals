@@ -1,0 +1,36 @@
+{
+  "id": 4981,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "改造"
+  },
+  "primaryMeaning": "Remodeling",
+  "meaningMnemonic": "<kanji>Renew</kanji> it by <kanji>creat</kanji>ing something anew. This is <vocabulary>remodeling</vocabulary> because you're creating something and changing something that exists already, renewing it.",
+  "primaryReading": "かいぞう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Reshuffle"
+  ],
+  "otherReadings": [],
+  "wkSlug": "改造",
+  "related": {
+    "radicals": [
+      228,
+      60,
+      114,
+      306
+    ],
+    "kanjis": [
+      1082,
+      1281
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいぞう",
+      "url": "https://files.wanikani.com/zehs6n8zeqpzfmjqylxr4zxj16uu"
+    }
+  ]
+}

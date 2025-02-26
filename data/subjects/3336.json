@@ -1,0 +1,34 @@
+{
+  "id": 3336,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "本流"
+  },
+  "primaryMeaning": "Mainstream",
+  "meaningMnemonic": "The <kanji>origin</kanji> <kanji>stream</kanji>, that's where everything comes from. That is the <vocabulary>mainstream</vocabulary>.",
+  "primaryReading": "ほんりゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "本流",
+  "related": {
+    "radicals": [
+      50,
+      103,
+      8776,
+      21
+    ],
+    "kanjis": [
+      487,
+      818
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほんりゅう",
+      "url": "https://files.wanikani.com/wq1ovhrt2e37p1zxwcie6ruao7i2"
+    }
+  ]
+}

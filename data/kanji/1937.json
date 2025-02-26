@@ -1,0 +1,42 @@
+{
+  "id": 1937,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "溝"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "みぞ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Gutter",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Tsunami</radical> vs <radical>lifeguard</radical>. Who will win? After the water drains away, we find the lifeguard in the <kanji>gutter</kanji>.",
+  "readingMnemonic": "In the <kanji>gutter</kanji> is a lifeguard, so Emperor <reading>こう</reading>いち decides to survey the damage.",
+  "wkSlug": "溝",
+  "related": {
+    "radicals": [
+      103,
+      303
+    ],
+    "vocabularies": [
+      6926,
+      6927,
+      6928
+    ]
+  },
+  "radicalNames": [
+    "Tsunami",
+    "Lifeguard"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 4653,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "優秀"
+  },
+  "primaryMeaning": "Superior",
+  "meaningMnemonic": "Something that's <kanji>superior</kanji> will <kanji>excel</kanji>. It is <vocabulary>superior</vocabulary> and <vocabulary>excellent</vocabulary> in every way.\n\nThis word is typically used to describe someone's superiority or excellence, often in comparison to others.",
+  "primaryReading": "ゆうしゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Superiority",
+    "Excellent"
+  ],
+  "otherReadings": [],
+  "wkSlug": "優秀",
+  "related": {
+    "radicals": [
+      75,
+      239,
+      76,
+      65,
+      60,
+      135,
+      200
+    ],
+    "kanjis": [
+      1206,
+      1216
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうしゅう",
+      "url": "https://files.wanikani.com/aaedd0spp7rbowhpfzs7t1n0wuga"
+    }
+  ]
+}

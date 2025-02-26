@@ -1,0 +1,36 @@
+{
+  "id": 3379,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "学期"
+  },
+  "primaryMeaning": "School Term",
+  "meaningMnemonic": "The <kanji>study</kanji> <kanji>period of time</kanji> isn't the pitiful amount of time you spend studying. It's something much bigger: the <vocabulary>school term</vocabulary>. Ugh, how much longer is this study period of time???",
+  "primaryReading": "がっき",
+  "readingMnemonic": "The reading is on'yomi because it's a jukugo word but がく gets shortened to がっ, so be careful. Maybe you just wish the school term would get shorter which is why you shortened がく like that?",
+  "otherMeanings": [
+    "Semester"
+  ],
+  "otherReadings": [],
+  "wkSlug": "学期",
+  "related": {
+    "radicals": [
+      8769,
+      34,
+      205,
+      43
+    ],
+    "kanjis": [
+      599,
+      839
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がっき",
+      "url": "https://files.wanikani.com/tpabvutdwouypym3bh3n4pd9wsib"
+    }
+  ]
+}

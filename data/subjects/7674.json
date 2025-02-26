@@ -1,0 +1,38 @@
+{
+  "id": 7674,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "活気"
+  },
+  "primaryMeaning": "Energy",
+  "meaningMnemonic": "If you have <kanji>lively</kanji> <kanji>energy</kanji> you have more than enough <vocabulary>energy</vocabulary> for everyone to start noticing. They come up to you and compliment you on your amazing <vocabulary>liveliness</vocabulary>.",
+  "primaryReading": "かっき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just be careful because かつ is being shortened here to かっ. It's a pretty common change for on'yomi ending in つ, so keep your eyes open for more that do this!",
+  "otherMeanings": [
+    "Liveliness",
+    "Vigor",
+    "Spirit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "活気",
+  "related": {
+    "radicals": [
+      103,
+      174,
+      82,
+      31
+    ],
+    "kanjis": [
+      639,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かっき",
+      "url": "https://files.wanikani.com/kfoe52dn0iflqgolwxgvsdmive46"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9302,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "首相"
+  },
+  "primaryMeaning": "Prime Minister",
+  "meaningMnemonic": "The <kanji>neck</kanji> <kanji>minister</kanji>? This meaning <vocabulary>prime minister</vocabulary> makes sense if you think about the neck being the most important part of the body, kind of like the head! ",
+  "primaryReading": "しゅしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. It also uses a reading for 相 that you haven't learned yet, so here's a mnemonic to help you:\n\nThe first <vocabulary>prime minister</vocabulary>s of Japan were actually the <reading>sho</reading>guns (しょう)… kind of.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "首相",
+  "related": {
+    "radicals": [
+      156,
+      23,
+      53
+    ],
+    "kanjis": [
+      645,
+      730
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅしょう",
+      "url": "https://files.wanikani.com/4yre0anx1e0m2mkfjv64z7o88sqr"
+    }
+  ]
+}

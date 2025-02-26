@@ -1,0 +1,38 @@
+{
+  "id": 3230,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "病気"
+  },
+  "primaryMeaning": "Sick",
+  "meaningMnemonic": "When your <kanji>energy</kanji> is that of <kanji>sick</kanji>ness, you are probably <vocabulary>sick</vocabulary>.",
+  "primaryReading": "びょうき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Illness",
+    "Sickness",
+    "Disease"
+  ],
+  "otherReadings": [],
+  "wkSlug": "病気",
+  "related": {
+    "radicals": [
+      187,
+      186,
+      82,
+      31
+    ],
+    "kanjis": [
+      773,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "びょうき",
+      "url": "https://files.wanikani.com/ubxjrdnhxyxvalb8iytzddsgx5pc"
+    }
+  ]
+}

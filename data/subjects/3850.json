@@ -1,0 +1,36 @@
+{
+  "id": 3850,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "日光浴"
+  },
+  "primaryMeaning": "Sunbathe",
+  "meaningMnemonic": "You know that 日光 is \"sunlight\" so when you add <kanji>bathe</kanji> you get \"sunlight bathe\" ... but that sounds dumb, so let's call this word <vocabulary>sunbathe</vocabulary> instead!",
+  "primaryReading": "にっこうよく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "日光浴",
+  "related": {
+    "radicals": [
+      22,
+      8765,
+      101,
+      103,
+      249
+    ],
+    "kanjis": [
+      476,
+      567,
+      979
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にっこうよく",
+      "url": "https://files.wanikani.com/qkshapnhvg5xgkv1umgk6ufssvjn"
+    }
+  ]
+}

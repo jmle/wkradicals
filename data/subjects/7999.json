@@ -1,0 +1,33 @@
+{
+  "id": 7999,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "浄土"
+  },
+  "primaryMeaning": "Pure Land",
+  "meaningMnemonic": "Land where all the people have been <kanji>cleanse</kanji>d and <kanji>purified</kanji> is the <vocabulary>Pure Land</vocabulary> of Buddhism. ",
+  "primaryReading": "じょうど",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "浄土",
+  "related": {
+    "radicals": [
+      103,
+      261,
+      17
+    ],
+    "kanjis": [
+      2192,
+      459
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょうど",
+      "url": "https://files.wanikani.com/lxbqrpk901s1qtl0juh50jygk779"
+    }
+  ]
+}

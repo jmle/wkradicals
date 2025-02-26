@@ -1,0 +1,42 @@
+{
+  "id": 3164,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "日本酒"
+  },
+  "primaryMeaning": "Japanese Style Alcohol",
+  "meaningMnemonic": "You know that 日本 is \"Japan\" so when you add <kanji>alcohol</kanji> onto the end of that you have <vocabulary>Japanese Style Alcohol</vocabulary> (what's the big Japanese style alcohol that everyone knows? That's <vocabulary>sake</vocabulary>).",
+  "primaryReading": "にほんしゅ",
+  "readingMnemonic": "The reading for this is just the vocab 日本's primary reading plus the on'yomi you learned for 酒, put together.",
+  "otherMeanings": [
+    "Japanese Alcohol",
+    "Sake"
+  ],
+  "otherReadings": [],
+  "wkSlug": "日本酒",
+  "related": {
+    "radicals": [
+      22,
+      50,
+      103,
+      182
+    ],
+    "kanjis": [
+      476,
+      487,
+      743
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にっぽんしゅ",
+      "url": "https://files.wanikani.com/3b7la6np5quqyqa53exwm8ti3tgo"
+    },
+    {
+      "reading": "にほんしゅ",
+      "url": "https://files.wanikani.com/5vtapym0lwk6k82gaygrn12h1bpa"
+    }
+  ]
+}

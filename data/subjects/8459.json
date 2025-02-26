@@ -1,0 +1,39 @@
+{
+  "id": 8459,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "憤慨"
+  },
+  "primaryMeaning": "Anger",
+  "meaningMnemonic": "You <kanji>resent</kanji> someone so much that you <kanji>sigh</kanji> with <vocabulary>anger</vocabulary> whenever they're around. Everything they do makes you feel really strong <vocabulary>resentment</vocabulary>.",
+  "primaryReading": "ふんがい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Indignation",
+    "Resentment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "憤慨",
+  "related": {
+    "radicals": [
+      232,
+      15,
+      90,
+      94,
+      196,
+      333
+    ],
+    "kanjis": [
+      2390,
+      2368
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふんがい",
+      "url": "https://files.wanikani.com/0eft48ld392c93ox4kvd7rhf9kqw"
+    }
+  ]
+}

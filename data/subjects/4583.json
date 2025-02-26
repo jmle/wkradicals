@@ -1,0 +1,39 @@
+{
+  "id": 4583,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "責任感"
+  },
+  "primaryMeaning": "Sense Of Responsibility",
+  "meaningMnemonic": "責任 is <kanji>responsibility</kanji>. If you add 感 you get a \"feeling of responsibility.\" That's not really a thing people say. What people do say, however, is <vocabulary>sense of responsibility</vocabulary>. Do you have one?",
+  "primaryReading": "せきにんかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "責任感",
+  "related": {
+    "radicals": [
+      210,
+      94,
+      75,
+      48,
+      5,
+      194,
+      8781,
+      65
+    ],
+    "kanjis": [
+      1146,
+      1142,
+      862
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せきにんかん",
+      "url": "https://files.wanikani.com/ve21t0be89lz9a7m8eyw3etabjap"
+    }
+  ]
+}

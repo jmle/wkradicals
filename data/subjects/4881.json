@@ -1,0 +1,36 @@
+{
+  "id": 4881,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "宿"
+  },
+  "primaryMeaning": "Lodging",
+  "meaningMnemonic": "A <kanji>lodge</kanji> is a form of <vocabulary>lodging</vocabulary>. It is also considered to be an <vocabulary>inn</vocabulary> or <vocabulary>hotel</vocabulary>.",
+  "primaryReading": "やど",
+  "readingMnemonic": "<reading>Yah do</reading> (やど) what you must to get <vocabulary>lodging</vocabulary>s for the night. Whether that's an <vocabulary>inn</vocabulary> or <vocabulary>hotel</vocabulary> or whatever. <reading>Yah do</reading> what you gotta do.",
+  "otherMeanings": [
+    "Inn",
+    "Hotel",
+    "Lodge"
+  ],
+  "otherReadings": [],
+  "wkSlug": "宿",
+  "related": {
+    "radicals": [
+      78,
+      75,
+      239
+    ],
+    "kanjis": [
+      860
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やど",
+      "url": "https://files.wanikani.com/ws29giwqqkr2ecwvac3jq1g271qz"
+    }
+  ]
+}

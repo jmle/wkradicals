@@ -1,0 +1,37 @@
+{
+  "id": 5551,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "複数"
+  },
+  "primaryMeaning": "Multiple",
+  "meaningMnemonic": "The <kanji>duplicate</kanji> <kanji>numbers</kanji> are when you duplicate the numbers into more numbers, representing <vocabulary>multiple</vocabulary>.",
+  "primaryReading": "ふくすう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Plural"
+  ],
+  "otherReadings": [],
+  "wkSlug": "複数",
+  "related": {
+    "radicals": [
+      80,
+      265,
+      98,
+      19,
+      60
+    ],
+    "kanjis": [
+      1493,
+      703
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふくすう",
+      "url": "https://files.wanikani.com/rdq704vyecuw4y3il95k71rsikuv"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 5406,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "絶やす"
+  },
+  "primaryMeaning": "To Kill Off",
+  "meaningMnemonic": "絶える is \"to die out.\" 絶やす is \"<vocabulary>to kill off</vocabulary>.\" You know this because if something is to die off, you'd say \"no.\" But if you're the one doing the killing off, you'd say <reading>yes</reading> (やす).",
+  "primaryReading": "たやす",
+  "readingMnemonic": "The reading comes from 絶える.",
+  "otherMeanings": [
+    "To Let Die Out"
+  ],
+  "otherReadings": [],
+  "wkSlug": "絶やす",
+  "related": {
+    "radicals": [
+      86,
+      110
+    ],
+    "kanjis": [
+      1371
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たやす",
+      "url": "https://files.wanikani.com/dseh0k3cerqfpfywhpju39h65udn"
+    }
+  ]
+}

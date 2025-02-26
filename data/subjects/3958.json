@@ -1,0 +1,37 @@
+{
+  "id": 3958,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "東側"
+  },
+  "primaryMeaning": "East Side",
+  "meaningMnemonic": "The <kanji>East</kanji> <kanji>side</kanji> is the <vocabulary>East side</vocabulary>.",
+  "primaryReading": "ひがしがわ",
+  "readingMnemonic": "Remember how 東口 read as ひがしぐち? This word is like that too, with 東 being read as ひがし. 側 is read like you learned it with the kanji.",
+  "otherMeanings": [
+    "East"
+  ],
+  "otherReadings": [],
+  "wkSlug": "東側",
+  "related": {
+    "radicals": [
+      23,
+      22,
+      75,
+      94,
+      128
+    ],
+    "kanjis": [
+      627,
+      999
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひがしがわ",
+      "url": "https://files.wanikani.com/u9n0z6knrnnanr89bmfw3p4jo50x"
+    }
+  ]
+}

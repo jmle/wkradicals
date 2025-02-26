@@ -1,0 +1,26 @@
+{
+  "id": 221,
+  "type": "radical",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "意"
+  },
+  "primaryMeaning": "Idea",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>idea</radical>.",
+  "wkSlug": "idea",
+  "related": {
+    "kanjis": [
+      875,
+      2029
+    ],
+    "vocabularies": [
+      3527,
+      3528,
+      3529,
+      7203,
+      7204
+    ]
+  }
+}

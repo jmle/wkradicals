@@ -1,0 +1,36 @@
+{
+  "id": 4954,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "独学"
+  },
+  "primaryMeaning": "Self Study",
+  "meaningMnemonic": "You are <kanji>alone</kanji> in your <kanji>study</kanji>. You are studying on your own. This is <vocabulary>self study</vocabulary>.",
+  "primaryReading": "どくがく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Self Education"
+  ],
+  "otherReadings": [],
+  "wkSlug": "独学",
+  "related": {
+    "radicals": [
+      144,
+      89,
+      8769,
+      34
+    ],
+    "kanjis": [
+      1312,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どくがく",
+      "url": "https://files.wanikani.com/fko1iz93zz3ufddy29dlhsevkvgb"
+    }
+  ]
+}

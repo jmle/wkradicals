@@ -1,0 +1,34 @@
+{
+  "id": 7744,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "別"
+  },
+  "primaryMeaning": "Different",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "べつ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Separate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "別",
+  "related": {
+    "radicals": [
+      16,
+      24,
+      128
+    ],
+    "kanjis": [
+      785
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "べつ",
+      "url": "https://files.wanikani.com/h5prxjikt8dgy45i25bzy1vd7p5b"
+    }
+  ]
+}

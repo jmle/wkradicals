@@ -1,0 +1,34 @@
+{
+  "id": 4737,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "質問"
+  },
+  "primaryMeaning": "Question",
+  "meaningMnemonic": "A <kanji>quality</kanji> <kanji>problem</kanji> is worth a <vocabulary>question</vocabulary>. A low quality problem however... don't ask the question. There are stupid questions, after all.",
+  "primaryReading": "しつもん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "質問",
+  "related": {
+    "radicals": [
+      115,
+      94,
+      214,
+      16
+    ],
+    "kanjis": [
+      1242,
+      859
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しつもん",
+      "url": "https://files.wanikani.com/2ihp1cfu8l29rlvz7do98crb4ue8"
+    }
+  ]
+}

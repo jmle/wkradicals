@@ -1,0 +1,34 @@
+{
+  "id": 4717,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "時差"
+  },
+  "primaryMeaning": "Time Difference",
+  "meaningMnemonic": "The <kanji>time</kanji> <kanji>distinction</kanji> is how you tell apart time zones. It is the <vocabulary>time difference</vocabulary>.",
+  "primaryReading": "じさ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "時差",
+  "related": {
+    "radicals": [
+      22,
+      192,
+      136,
+      25
+    ],
+    "kanjis": [
+      662,
+      1235
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じさ",
+      "url": "https://files.wanikani.com/vlbf4fd0oe38o3p80q4d6if4twaq"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6696,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "垣根"
+  },
+  "primaryMeaning": "Hedge",
+  "meaningMnemonic": "A <kanji>hedge</kanji> (or <kanji>fence</kanji>) <kanji>root</kanji> is where the hedge and fence grow from. What grows from this? Well, it's simply a <vocabulary>hedge</vocabulary> or a <vocabulary>fence</vocabulary>.",
+  "primaryReading": "かきね",
+  "readingMnemonic": "The readings are the kun'yomi readings of the kanji. With 垣 that's the one you learned and with 根 that's the vocab version of the kanji.",
+  "otherMeanings": [
+    "Fence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "垣根",
+  "related": {
+    "radicals": [
+      17,
+      1,
+      293,
+      23,
+      196
+    ],
+    "kanjis": [
+      1851,
+      817
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かきね",
+      "url": "https://files.wanikani.com/9cdnskawx9xsxpdjiw5ydk8d5k0r"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6653,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "誰"
+  },
+  "primaryMeaning": "Who",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "だれ",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "誰",
+  "related": {
+    "radicals": [
+      117,
+      240
+    ],
+    "kanjis": [
+      1837
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だれ",
+      "url": "https://files.wanikani.com/znv7yvubp5ghhgbk06g3rg7vvt0h"
+    }
+  ]
+}

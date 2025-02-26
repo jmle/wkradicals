@@ -1,0 +1,36 @@
+{
+  "id": 1513,
+  "type": "kanji",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "簡"
+  },
+  "primaryReading": "かん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "かん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Simplicity",
+  "otherMeanings": [],
+  "meaningMnemonic": "Keeping at a <radical>bamboo</radical> <radical>interval</radical> is the definition of <kanji>simplicity</kanji>. ",
+  "readingMnemonic": "<kanji>Simplicity</kanji> is what Genghis <reading>Khan</reading> (かん) always demanded. Everything he decided was based on simplicity.",
+  "wkSlug": "簡",
+  "related": {
+    "radicals": [
+      85,
+      344
+    ],
+    "vocabularies": [
+      5598,
+      5936
+    ]
+  },
+  "radicalNames": [
+    "Bamboo",
+    "Interval"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4782,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "投票する"
+  },
+  "primaryMeaning": "To Vote",
+  "meaningMnemonic": "<kanji>Throw</kanji> a <kanji>ballot</kanji> in the ballot box <vocabulary>to vote</vocabulary>.",
+  "primaryReading": "とうひょうする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. You may have to think back to some other words using 投 to remember the on'yomi reading, 投資 for example.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "投票する",
+  "related": {
+    "radicals": [
+      63,
+      160,
+      424,
+      207
+    ],
+    "kanjis": [
+      686,
+      1255
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうひょうする",
+      "url": "https://files.wanikani.com/7ca513fjul30e85l1zrcibt93ede"
+    }
+  ]
+}

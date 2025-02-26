@@ -1,0 +1,31 @@
+{
+  "id": 6899,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "疲れる"
+  },
+  "primaryMeaning": "To Get Tired",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>tired</kanji>, so the verb version means <vocabulary>to get tired</vocabulary>. \n\n疲れる refers to a physical or mental kind of tiredness, like you just worked out or studied a ton, but isn't used to describe sleepiness.",
+  "primaryReading": "つかれる",
+  "readingMnemonic": "For example, you're bound <vocabulary>to get tired</vocabulary> if you try to lift <reading>two ca</reading>rs (つか), right? So think about that as you learn this word's reading.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "疲れる",
+  "related": {
+    "radicals": [
+      187,
+      195
+    ],
+    "kanjis": [
+      1926
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つかれる",
+      "url": "https://files.wanikani.com/6hdp1fdbw512wcjzuzlxmsa2x8m5"
+    }
+  ]
+}

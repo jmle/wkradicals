@@ -1,0 +1,36 @@
+{
+  "id": 5045,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "大規模"
+  },
+  "primaryMeaning": "Large Scale",
+  "meaningMnemonic": "Remember how 規模 is <kanji>scale</kanji>? Well, this is a big scale, which is on a <vocabulary>large scale</vocabulary>.",
+  "primaryReading": "だいきぼ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "大規模",
+  "related": {
+    "radicals": [
+      18,
+      146,
+      91,
+      23,
+      356
+    ],
+    "kanjis": [
+      453,
+      1191,
+      1264
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だいきぼ",
+      "url": "https://files.wanikani.com/xq2jpxiytufmo3fz3x1pz5e35xnw"
+    }
+  ]
+}

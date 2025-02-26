@@ -1,0 +1,37 @@
+{
+  "id": 7611,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "衣服"
+  },
+  "primaryMeaning": "Clothes",
+  "meaningMnemonic": "<kanji>Clothes</kanji> <kanji>clothes</kanji> are still <vocabulary>clothes</vocabulary>!",
+  "primaryReading": "いふく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Clothing",
+    "Garment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "衣服",
+  "related": {
+    "radicals": [
+      320,
+      43,
+      145,
+      30
+    ],
+    "kanjis": [
+      1796,
+      716
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いふく",
+      "url": "https://files.wanikani.com/gxtp5a38fxd291hwizph7m5xeu73"
+    }
+  ]
+}

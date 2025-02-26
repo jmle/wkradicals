@@ -1,0 +1,36 @@
+{
+  "id": 6710,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "慰謝"
+  },
+  "primaryMeaning": "Consolation",
+  "meaningMnemonic": "I show my <kanji>consolation</kanji> by <kanji>apologiz</kanji>ing. This is <vocabulary>consolation</vocabulary>.",
+  "primaryReading": "いしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "慰謝",
+  "related": {
+    "radicals": [
+      37,
+      207,
+      74,
+      65,
+      117,
+      234
+    ],
+    "kanjis": [
+      1856,
+      892
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いしゃ",
+      "url": "https://files.wanikani.com/k1ogu7l0naky3pvoc4lzqt1hrlkv"
+    }
+  ]
+}

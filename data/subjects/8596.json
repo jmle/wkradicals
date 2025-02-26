@@ -1,0 +1,38 @@
+{
+  "id": 8596,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "弾劾"
+  },
+  "primaryMeaning": "Impeachment",
+  "meaningMnemonic": "The final <kanji>bullet</kanji> of <kanji>censure</kanji> is <vocabulary>impeachment</vocabulary>. You've already been publicly humiliated and now you're being impeached because of it. Yikes.",
+  "primaryReading": "だんがい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Accusation",
+    "Censure",
+    "Denunciation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "弾劾",
+  "related": {
+    "radicals": [
+      36,
+      199,
+      351,
+      13
+    ],
+    "kanjis": [
+      1659,
+      2452
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だんがい",
+      "url": "https://files.wanikani.com/ybuztungjawuatykcobvbrcop9xs"
+    }
+  ]
+}

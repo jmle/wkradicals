@@ -1,0 +1,38 @@
+{
+  "id": 2938,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "以外"
+  },
+  "primaryMeaning": "Other Than",
+  "meaningMnemonic": "<kanji>Compared with</kanji> this, it's <kanji>outside</kanji> what you wanted. You'll have anything <vocabulary>other than</vocabulary> that.",
+  "primaryReading": "いがい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Excepting",
+    "Except For"
+  ],
+  "otherReadings": [],
+  "wkSlug": "以外",
+  "related": {
+    "radicals": [
+      56,
+      3,
+      9,
+      33,
+      10
+    ],
+    "kanjis": [
+      653,
+      521
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いがい",
+      "url": "https://files.wanikani.com/5bej9p6vasvf46kbg2obge0mb9a2"
+    }
+  ]
+}

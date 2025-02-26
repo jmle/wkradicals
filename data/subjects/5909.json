@@ -1,0 +1,34 @@
+{
+  "id": 5909,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "有意"
+  },
+  "primaryMeaning": "Significance",
+  "meaningMnemonic": "If you <kanji>have</kanji> an <kanji>idea</kanji>, it means you are important. You have <vocabulary>significance</vocabulary>. Those without ideas are just big jokes and can't do anything at all.",
+  "primaryReading": "ゆうい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "有意",
+  "related": {
+    "radicals": [
+      26,
+      43,
+      197,
+      65
+    ],
+    "kanjis": [
+      615,
+      811
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうい",
+      "url": "https://files.wanikani.com/w4ksbhixfgnouzmz8iq7f1q9xhu5"
+    }
+  ]
+}

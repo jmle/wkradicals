@@ -1,0 +1,38 @@
+{
+  "id": 6957,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "素粒子"
+  },
+  "primaryMeaning": "Elementary Particle",
+  "meaningMnemonic": "A <kanji>particle</kanji> (粒子) that is the <kanji>element</kanji> version of it is an <vocabulary>elementary particle</vocabulary>.",
+  "primaryReading": "そりゅうし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Particle"
+  ],
+  "otherReadings": [],
+  "wkSlug": "素粒子",
+  "related": {
+    "radicals": [
+      210,
+      86,
+      98,
+      55,
+      34
+    ],
+    "kanjis": [
+      1138,
+      1901,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そりゅうし",
+      "url": "https://files.wanikani.com/xu2qdys74stmsgz4ne9cked14qv3"
+    }
+  ]
+}

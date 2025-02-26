@@ -1,0 +1,33 @@
+{
+  "id": 2530,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "十六"
+  },
+  "primaryMeaning": "Sixteen",
+  "meaningMnemonic": "You have ten and six (not to be confused with six tens!). When you have ten and six, you have a total of <vocabulary>sixteen</vocabulary>.",
+  "primaryReading": "じゅうろく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "十六",
+  "related": {
+    "radicals": [
+      15,
+      8,
+      2
+    ],
+    "kanjis": [
+      448,
+      471
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうろく",
+      "url": "https://files.wanikani.com/o5qvrleu8zn9ze6p9utyd66nzpdf"
+    }
+  ]
+}

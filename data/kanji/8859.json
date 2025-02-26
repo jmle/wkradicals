@@ -1,0 +1,45 @@
+{
+  "id": 8859,
+  "type": "kanji",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "諦"
+  },
+  "primaryReading": "あきら",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "あきら",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "てい",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Give Up",
+  "otherMeanings": [
+    "Abandon"
+  ],
+  "meaningMnemonic": "You have something to <radical>say</radical>, you <radical>stand</radical> on a <radical>towel</radical>, and shout, \"I <kanji>GIVE UP</kanji>!\" ",
+  "readingMnemonic": "Just before you're ready to <kanji>give up</kanji> on something, you yell, \"<reading>AKIRA</reading> (あきら)!\"",
+  "wkSlug": "諦",
+  "related": {
+    "radicals": [
+      117,
+      55,
+      102
+    ],
+    "vocabularies": [
+      8866,
+      8867
+    ]
+  },
+  "radicalNames": [
+    "Say",
+    "Stand",
+    "Towel"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7330,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "俗語"
+  },
+  "primaryMeaning": "Colloquialism",
+  "meaningMnemonic": "<kanji>Vulgar</kanji> <kanji>language</kanji> isn't necessarily bad words, or something like that. It's just rougher and not as standard as standard language. It is a <vocabulary>colloquialism</vocabulary> or <vocabulary>colloquial language</vocabulary>.",
+  "primaryReading": "ぞくご",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Colloquial Language"
+  ],
+  "otherReadings": [],
+  "wkSlug": "俗語",
+  "related": {
+    "radicals": [
+      75,
+      249,
+      117,
+      39,
+      16
+    ],
+    "kanjis": [
+      2074,
+      764
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぞくご",
+      "url": "https://files.wanikani.com/w9f6zl6yqz5n0n678ssxu06qth7n"
+    }
+  ]
+}

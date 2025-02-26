@@ -1,0 +1,32 @@
+{
+  "id": 3628,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "選ぶ"
+  },
+  "primaryMeaning": "To Choose",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>\"choose\"</kanji>, so the verb version is <vocabulary>to choose</vocabulary>.",
+  "primaryReading": "えらぶ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou have the opportunity <vocabulary>to choose</vocabulary>. You choose, and a bright sign lights up reading \"<reading>error</reading>\" (えら).",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "選ぶ",
+  "related": {
+    "radicals": [
+      114,
+      228,
+      269
+    ],
+    "kanjis": [
+      886
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えらぶ",
+      "url": "https://files.wanikani.com/i0f3gf7qd538e5v199hlf6ewcc9g"
+    }
+  ]
+}

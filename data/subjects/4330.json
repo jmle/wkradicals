@@ -1,0 +1,36 @@
+{
+  "id": 4330,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "会議"
+  },
+  "primaryMeaning": "Meeting",
+  "meaningMnemonic": "A place where people <kanji>meet</kanji> and do <kanji>deliberation</kanji>. Sounds boring, but also sounds like some kind of <vocabulary>meeting</vocabulary> or <vocabulary>conference</vocabulary>.",
+  "primaryReading": "かいぎ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Conference",
+    "Assembly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "会議",
+  "related": {
+    "radicals": [
+      155,
+      117,
+      383
+    ],
+    "kanjis": [
+      566,
+      1114
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいぎ",
+      "url": "https://files.wanikani.com/wxmopvybf5d6ke7pkie536k1nx49"
+    }
+  ]
+}

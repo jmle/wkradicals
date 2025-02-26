@@ -1,0 +1,38 @@
+{
+  "id": 4165,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "試験"
+  },
+  "primaryMeaning": "Examination",
+  "meaningMnemonic": "If you <kanji>attempt</kanji> a <kanji>test</kanji>, you're taking an <vocabulary>examination</vocabulary>. There are a lot of these in Japan, so make sure you know this word if you want to fit in with all the whining and whinging that students do, especially come the final year of high school.",
+  "primaryReading": "しけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Test",
+    "Experiment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "試験",
+  "related": {
+    "radicals": [
+      117,
+      79,
+      25,
+      165,
+      8785
+    ],
+    "kanjis": [
+      1029,
+      1048
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しけん",
+      "url": "https://files.wanikani.com/w0sf32agn897ydn4r9e8mdhtesyd"
+    }
+  ]
+}

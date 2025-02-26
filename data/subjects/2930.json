@@ -1,0 +1,35 @@
+{
+  "id": 2930,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "自由"
+  },
+  "primaryMeaning": "Freedom",
+  "meaningMnemonic": "When you have <kanji>self</kanji> <kanji>reason</kanji>, you are able to think for yourself. When you can think for yourself, you have <vocabulary>freedom</vocabulary>. Very philosophical, this vocab is.",
+  "primaryReading": "じゆう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Liberty"
+  ],
+  "otherReadings": [],
+  "wkSlug": "自由",
+  "related": {
+    "radicals": [
+      109,
+      15,
+      16
+    ],
+    "kanjis": [
+      578,
+      648
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゆう",
+      "url": "https://files.wanikani.com/9krnvw6gcxlfeyu3vbtj86d7h1jf"
+    }
+  ]
+}

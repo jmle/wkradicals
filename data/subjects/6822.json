@@ -1,0 +1,33 @@
+{
+  "id": 6822,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "大砲"
+  },
+  "primaryMeaning": "Cannon",
+  "meaningMnemonic": "A <kanji>big</kanji> <kanji>cannon</kanji> is... wait for it... just a <vocabulary>cannon</vocabulary>. I guess all cannons are big, right? At least when you compare them to guns.",
+  "primaryReading": "たいほう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "大砲",
+  "related": {
+    "radicals": [
+      18,
+      54,
+      395
+    ],
+    "kanjis": [
+      453,
+      1902
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいほう",
+      "url": "https://files.wanikani.com/4s6sj6tvm8hm7pi7dk2jmqyq44v7"
+    }
+  ]
+}

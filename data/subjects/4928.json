@@ -1,0 +1,38 @@
+{
+  "id": 4928,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "授業"
+  },
+  "primaryMeaning": "Lesson",
+  "meaningMnemonic": "The <kanji>instruct</kanji>ion <kanji>business</kanji> is when you give a <vocabulary>lesson</vocabulary> or <vocabulary>class</vocabulary> to someone.",
+  "primaryReading": "じゅぎょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Class",
+    "Teaching"
+  ],
+  "otherReadings": [],
+  "wkSlug": "授業",
+  "related": {
+    "radicals": [
+      63,
+      298,
+      8768,
+      136,
+      2
+    ],
+    "kanjis": [
+      1282,
+      756
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅぎょう",
+      "url": "https://files.wanikani.com/3hiwvvlutaa1oacgy04kb2f8amoi"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2407,
+  "type": "kanji",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "吟"
+  },
+  "primaryReading": "ぎん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ぎん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Recital",
+  "otherMeanings": [],
+  "meaningMnemonic": "We want you to say things with your <radical>mouth</radical> right <radical>now</radical> because it's <kanji>recital</kanji> time! Go, perform please. What do you mean you didn't know the recital was right now? Well, tough luck. Recite!",
+  "readingMnemonic": "Here, if you are too afraid to start the <kanji>recital</kanji> now drink this <reading>gin</reading> (ぎん) to get your courage up. But once you're done drinking it the recital starts!",
+  "wkSlug": "吟",
+  "related": {
+    "radicals": [
+      16,
+      238
+    ],
+    "vocabularies": [
+      8526
+    ]
+  },
+  "radicalNames": [
+    "Mouth",
+    "Now"
+  ]
+}

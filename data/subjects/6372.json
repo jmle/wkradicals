@@ -1,0 +1,34 @@
+{
+  "id": 6372,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "独唱"
+  },
+  "primaryMeaning": "Solo",
+  "meaningMnemonic": "An <kanji>alone</kanji> <kanji>chant</kanji> is one you do alone. It's a <vocabulary>solo</vocabulary>!",
+  "primaryReading": "どくしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "独唱",
+  "related": {
+    "radicals": [
+      144,
+      89,
+      16,
+      22
+    ],
+    "kanjis": [
+      1312,
+      1746
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どくしょう",
+      "url": "https://files.wanikani.com/d6q19c44tmfw9rcmtsr2tlbzptwr"
+    }
+  ]
+}

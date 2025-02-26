@@ -1,0 +1,35 @@
+{
+  "id": 6959,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "揚げ出し"
+  },
+  "primaryMeaning": "Deep Fried",
+  "meaningMnemonic": "Remember how 揚げる can mean \"to deep fry\"? 揚げ出し is a Japanese cooking technique where you deep fry something (usually tofu) and serve it in broth. This word might be easy to remember if you know that \"dashi\" soup stock is often used to make the agedashi broth.",
+  "primaryReading": "あげだし",
+  "readingMnemonic": "The reading is 揚げる and 出す's reading.",
+  "otherMeanings": [
+    "Agedashi"
+  ],
+  "otherReadings": [],
+  "wkSlug": "揚げ出し",
+  "related": {
+    "radicals": [
+      63,
+      172,
+      20
+    ],
+    "kanjis": [
+      1815,
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あげだし",
+      "url": "https://files.wanikani.com/tcjfhxsssm5rk2dl5noplw9w5taf"
+    }
+  ]
+}

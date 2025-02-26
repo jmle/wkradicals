@@ -1,0 +1,34 @@
+{
+  "id": 7226,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "灯り"
+  },
+  "primaryMeaning": "Lamp",
+  "meaningMnemonic": "The meaning of this noun is the same as the kanji, <vocabulary>lamp</vocabulary>. Can also mean <vocabulary>light</vocabulary> and <vocabulary>torch</vocabulary> as well, depending on where you herald from.",
+  "primaryReading": "あかり",
+  "readingMnemonic": "The reading is like that of 明るい, which means \"bright.\" At least the あか part is the same. What is a <vocabulary>lamp</vocabulary> if not <reading>明</reading>るい (あか)? Another way to think of it is \"what is a bright color?\" The color <reading>赤</reading> (あか) is a bright color and would make a sexy lamp.",
+  "otherMeanings": [
+    "Light",
+    "Torch"
+  ],
+  "otherReadings": [],
+  "wkSlug": "灯り",
+  "related": {
+    "radicals": [
+      46,
+      27
+    ],
+    "kanjis": [
+      2037
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あかり",
+      "url": "https://files.wanikani.com/q91clmvwy10nny0e2zeaohclkhge"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 9247,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "繋がる"
+  },
+  "primaryMeaning": "To Be Connected",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this is a verb. The kanji itself means <kanji>connect</kanji>, which makes this <vocabulary>to be connected to</vocabulary>. In other situations, this can also mean <vocabulary>to be tied together</vocabulary>, or <vocabulary>to lead to</vocabulary>.",
+  "primaryReading": "つながる",
+  "readingMnemonic": "You already learned this reading with the kanji, so you should be good to go!",
+  "otherMeanings": [
+    "To Be Tied Together",
+    "To Lead To",
+    "To Be Connected To"
+  ],
+  "otherReadings": [],
+  "wkSlug": "繋がる",
+  "related": {
+    "radicals": [
+      93,
+      160,
+      86
+    ],
+    "kanjis": [
+      9246
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つながる",
+      "url": "https://files.wanikani.com/xyotxsiuqqzwcjzka8g40lw57i64"
+    }
+  ]
+}

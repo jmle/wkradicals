@@ -1,0 +1,36 @@
+{
+  "id": 4824,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "下巻"
+  },
+  "primaryMeaning": "Last Volume",
+  "meaningMnemonic": "The <kanji>scroll</kanji> that's <kanji>below</kanji> is the last scroll you read, making it the <vocabulary>last volume</vocabulary>.",
+  "primaryReading": "げかん",
+  "readingMnemonic": "The 下 uses the alternative reading of げ but 巻 is all good and normal.",
+  "otherMeanings": [
+    "Final Volume"
+  ],
+  "otherReadings": [],
+  "wkSlug": "下巻",
+  "related": {
+    "radicals": [
+      1,
+      10,
+      8819,
+      228
+    ],
+    "kanjis": [
+      451,
+      1273
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げかん",
+      "url": "https://files.wanikani.com/7opoqnv3frxlxwx4dryr6xak76bb"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 6256,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "原子爆弾"
+  },
+  "primaryMeaning": "Atomic Bomb",
+  "meaningMnemonic": "原子 is atom and 爆弾 is bomb. What is an atom bomb? An <vocabulary>atomic bomb</vocabulary>.",
+  "primaryReading": "げんしばくだん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "原子爆弾",
+  "related": {
+    "radicals": [
+      230,
+      34,
+      46,
+      366,
+      36,
+      199
+    ],
+    "kanjis": [
+      995,
+      462,
+      1658,
+      1659
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんしばくだん",
+      "url": "https://files.wanikani.com/l2tvdhpk09hoiz5jn8gzwenddam6"
+    }
+  ]
+}

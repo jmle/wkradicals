@@ -1,0 +1,38 @@
+{
+  "id": 3342,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "社員"
+  },
+  "primaryMeaning": "Employee",
+  "meaningMnemonic": "The <kanji>company</kanji> <kanji>members</kanji> are the <vocabulary>employees</vocabulary> and the <vocabulary>staff</vocabulary>.",
+  "primaryReading": "しゃいん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Staff",
+    "Company Employee",
+    "Company Staff"
+  ],
+  "otherReadings": [],
+  "wkSlug": "社員",
+  "related": {
+    "radicals": [
+      80,
+      17,
+      16,
+      94
+    ],
+    "kanjis": [
+      591,
+      821
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃいん",
+      "url": "https://files.wanikani.com/n3jdiebovvjksyjm60qudio263as"
+    }
+  ]
+}

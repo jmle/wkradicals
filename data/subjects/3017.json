@@ -1,0 +1,32 @@
+{
+  "id": 3017,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "決"
+  },
+  "primaryMeaning": "Decision",
+  "meaningMnemonic": "Noun version of <kanji>decide</kanji>? It's a <vocabulary>decision</vocabulary>.",
+  "primaryReading": "けつ",
+  "readingMnemonic": "The reading for this word is the same as the kanji!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "決",
+  "related": {
+    "radicals": [
+      103,
+      9,
+      157
+    ],
+    "kanjis": [
+      687
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けつ",
+      "url": "https://files.wanikani.com/mhr3tdsburqz3llq3w7ikda7pvtg"
+    }
+  ]
+}

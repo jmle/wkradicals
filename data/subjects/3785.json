@@ -1,0 +1,36 @@
+{
+  "id": 3785,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "英会話"
+  },
+  "primaryMeaning": "English Conversation",
+  "meaningMnemonic": "<kanji>English</kanji> <kanji>meet</kanji>ing and <kanji>talk</kanji>ing with each other. This is <vocabulary>English Conversation</vocabulary>. This is used a lot when talking about \"speaking in English\" for studying English and whatnot.",
+  "primaryReading": "えいかいわ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "英会話",
+  "related": {
+    "radicals": [
+      90,
+      231,
+      155,
+      117,
+      174
+    ],
+    "kanjis": [
+      953,
+      566,
+      705
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えいかいわ",
+      "url": "https://files.wanikani.com/0jlbhe84b0th4j0ihs99ovsypomi"
+    }
+  ]
+}

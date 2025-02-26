@@ -1,0 +1,38 @@
+{
+  "id": 7880,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "恒例"
+  },
+  "primaryMeaning": "Established Practice",
+  "meaningMnemonic": "<kanji>Constant</kanji> <kanji>example</kanji>s that you use all the time end up becoming part of an <vocabulary>established practice</vocabulary>. You constantly use them so it just stays that way after a while.",
+  "primaryReading": "こうれい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Custom"
+  ],
+  "otherReadings": [],
+  "wkSlug": "恒例",
+  "related": {
+    "radicals": [
+      232,
+      1,
+      293,
+      75,
+      132,
+      128
+    ],
+    "kanjis": [
+      2171,
+      896
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうれい",
+      "url": "https://files.wanikani.com/m5k656xbthtyi7ixvpl2pr2zg0um"
+    }
+  ]
+}

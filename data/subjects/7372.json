@@ -1,0 +1,37 @@
+{
+  "id": 7372,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "駄目"
+  },
+  "primaryMeaning": "Not Good",
+  "meaningMnemonic": "If something is <kanji>burdensome</kanji> to the <kanji>eye</kanji> (when you look at it), you know that that thing is <vocabulary>not good</vocabulary> or <vocabulary>hopeless</vocabulary>. Just look at that burdensome thing with your eye. This can also mean <vocabulary>not allowed</vocabulary>. Parents say this to their kids all the time.",
+  "primaryReading": "だめ",
+  "readingMnemonic": "The readings are the readings you learned with the kanji.",
+  "otherMeanings": [
+    "Hopeless",
+    "Cannot",
+    "Not Allowed"
+  ],
+  "otherReadings": [],
+  "wkSlug": "駄目",
+  "related": {
+    "radicals": [
+      165,
+      411,
+      53
+    ],
+    "kanjis": [
+      2087,
+      492
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だめ",
+      "url": "https://files.wanikani.com/4jjxzf5hyvdjykp92qgr716xkmmq"
+    }
+  ]
+}

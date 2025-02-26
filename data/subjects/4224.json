@@ -1,0 +1,34 @@
+{
+  "id": 4224,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "節句"
+  },
+  "primaryMeaning": "Seasonal Festival",
+  "meaningMnemonic": "Think of what a <kanji>paragraph</kanji> of a <kanji>season</kanji> would be. It's a small part of the season, but it's worth writing about. That's a <vocabulary>seasonal festival</vocabulary>. These are fun!",
+  "primaryReading": "せっく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just note that せつ gets shortened to せっ just like many つs do in this situation.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "節句",
+  "related": {
+    "radicals": [
+      85,
+      196,
+      145,
+      242
+    ],
+    "kanjis": [
+      1058,
+      1053
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せっく",
+      "url": "https://files.wanikani.com/8t5pt1gc85baavb1xuazys0xqqgk"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8846,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "嘘吐き"
+  },
+  "primaryMeaning": "Liar",
+  "meaningMnemonic": "If <kanji>lies</kanji> puke (吐く) out of your mouth, you're a <vocabulary>liar</vocabulary>.",
+  "primaryReading": "うそつき",
+  "readingMnemonic": "This is a combination of the kun'yomi readings, one of which you haven't seen yet. You'll usually see this word without the 吐 kanji, as in 嘘つき, but for now let's learn its kanji reading! \n\nYou can't just tell one <vocabulary>lie</vocabulary>, it always turns into <reading>two</reading> (つ). Kind of like a chip or pretzel, you can't just have one. With lies, you have to open your mouth for two more. And then two more.... and... well you get it.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "嘘吐き",
+  "related": {
+    "radicals": [
+      16,
+      254,
+      8768,
+      17
+    ],
+    "kanjis": [
+      8836,
+      1550
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うそつき",
+      "url": "https://files.wanikani.com/7dwvp3sggzfnmr4h5s5r9yhzhyoq"
+    }
+  ]
+}

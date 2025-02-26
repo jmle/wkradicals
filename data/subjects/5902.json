@@ -1,0 +1,33 @@
+{
+  "id": 5902,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "果汁"
+  },
+  "primaryMeaning": "Fruit Juice",
+  "meaningMnemonic": "<kanji>Fruit</kanji> <kanji>soup</kanji> isn't really a soup, it's more of a <vocabulary>fruit juice</vocabulary>.",
+  "primaryReading": "かじゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "果汁",
+  "related": {
+    "radicals": [
+      235,
+      103,
+      15
+    ],
+    "kanjis": [
+      1005,
+      1597
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かじゅう",
+      "url": "https://files.wanikani.com/fcj5g5kjeldhypg5q6ialaisal7b"
+    }
+  ]
+}

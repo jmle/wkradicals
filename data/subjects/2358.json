@@ -1,0 +1,39 @@
+{
+  "id": 2358,
+  "type": "kanji",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "凸"
+  },
+  "primaryReading": "とつ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "とつ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "でこ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Convex",
+  "otherMeanings": [
+    "Uneven"
+  ],
+  "meaningMnemonic": "The <radical>convex</radical> radical and the <kanji>convex</kanji> kanji are the same, so hopefully you now just know them both.",
+  "readingMnemonic": "Is this <kanji>convex</kanji>? It's <reading>totes</reading> (とつ) convex! ",
+  "wkSlug": "凸",
+  "related": {
+    "radicals": [
+      434
+    ],
+    "vocabularies": [
+      8349,
+      8350,
+      8520
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7319,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "陰謀"
+  },
+  "primaryMeaning": "Conspiracy",
+  "meaningMnemonic": "Under the <kanji>shade</kanji> people <kanji>conspire</kanji>. When people do this, <vocabulary>conspiracy</vocabulary> appears.",
+  "primaryReading": "いんぼう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "陰謀",
+  "related": {
+    "radicals": [
+      176,
+      238,
+      159,
+      117,
+      360,
+      23
+    ],
+    "kanjis": [
+      1931,
+      2069
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いんぼう",
+      "url": "https://files.wanikani.com/gqk38sd6g97mekm9y3fwu58u02gt"
+    }
+  ]
+}

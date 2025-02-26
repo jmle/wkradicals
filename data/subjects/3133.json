@@ -1,0 +1,36 @@
+{
+  "id": 3133,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "世界"
+  },
+  "primaryMeaning": "The World",
+  "meaningMnemonic": "Both kanji mean <kanji>world</kanji>, so it should be easy to guess this is a word for <vocabulary>the World</vocabulary>. It also means <vocabulary>society</vocabulary> or <vocabulary>the Universe</vocabulary>.",
+  "primaryReading": "せかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You know the on'yomi reading for 界, but you didn't learn this on'yomi reading of 世, so here's a mnemonic to help you remember:\n\nWhat's the most hated vegetable in <vocabulary>the world</vocabulary>? <reading>Ce</reading>lery (せ), probably. The world is divided into those who love celery and those who hate celery. Which one are you?",
+  "otherMeanings": [
+    "Society",
+    "The Universe"
+  ],
+  "otherReadings": [],
+  "wkSlug": "世界",
+  "related": {
+    "radicals": [
+      83,
+      51,
+      166
+    ],
+    "kanjis": [
+      527,
+      728
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せかい",
+      "url": "https://files.wanikani.com/jt6cnjgax8cfcmdi8635mcq7ryfm"
+    }
+  ]
+}

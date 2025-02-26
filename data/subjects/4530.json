@@ -1,0 +1,36 @@
+{
+  "id": 4530,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "市営"
+  },
+  "primaryMeaning": "Run By The City",
+  "meaningMnemonic": "Something that is <kanji>manage</kanji>d by the <kanji>city</kanji> is <vocabulary>run by the city</vocabulary>, or <vocabulary>city-run</vocabulary>.",
+  "primaryReading": "しえい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "City-Run"
+  ],
+  "otherReadings": [],
+  "wkSlug": "市営",
+  "related": {
+    "radicals": [
+      8,
+      102,
+      8769,
+      282
+    ],
+    "kanjis": [
+      522,
+      1168
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しえい",
+      "url": "https://files.wanikani.com/24k8jq0yyx8hi9scva6sp9kn105n"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8643,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "硫黄"
+  },
+  "primaryMeaning": "Sulfur",
+  "meaningMnemonic": "<kanji>Sulfur</kanji> that's <kanji>yellow</kanji> is still <vocabulary>sulfur</vocabulary>. It smells like rotten eggs, which are also kinda yellow.",
+  "primaryReading": "いおう",
+  "readingMnemonic": "The reading for this word is an exception. Here's a mnemonic to help you remember it:\n\nThis <vocabulary>sulfur</vocabulary> smells like an <reading>ea</reading>gle's <reading>OOHHH</reading> (いおう)!! Oh no. Sulfur smells... it smells... like an eagle's... OH.. Oh eww no.",
+  "otherMeanings": [
+    "Sulphur"
+  ],
+  "otherReadings": [],
+  "wkSlug": "硫黄",
+  "related": {
+    "radicals": [
+      54,
+      8776,
+      21,
+      152
+    ],
+    "kanjis": [
+      2365,
+      676
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いおう",
+      "url": "https://files.wanikani.com/oxn28s0wc7npcgtqtbzfw23q9rvp"
+    }
+  ]
+}

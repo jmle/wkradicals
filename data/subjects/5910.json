@@ -1,0 +1,31 @@
+{
+  "id": 5910,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "熊"
+  },
+  "primaryMeaning": "Bear",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "くま",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "熊",
+  "related": {
+    "radicals": [
+      287,
+      131
+    ],
+    "kanjis": [
+      1601
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くま",
+      "url": "https://files.wanikani.com/tyz2x25mw1ndmn1035u0r9kbagnp"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3442,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "世の中"
+  },
+  "primaryMeaning": "Society",
+  "meaningMnemonic": "The <kanji>middle</kanji> of the <kanji>world</kanji> is the <vocabulary>society</vocabulary>. It's what holds everything together, for us humans. You can also call it <vocabulary>the world</vocabulary>.",
+  "primaryReading": "よのなか",
+  "readingMnemonic": "The readings are the kun'yomi readings. Why? Because this word is really two separate words connected together into one bigger word. You know the kun'yomi readings from vocab practice in previous levels.",
+  "otherMeanings": [
+    "The World"
+  ],
+  "otherReadings": [],
+  "wkSlug": "世の中",
+  "related": {
+    "radicals": [
+      83,
+      49
+    ],
+    "kanjis": [
+      527,
+      469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よのなか",
+      "url": "https://files.wanikani.com/hh7mgu6rb64tv8muxtzd1syf4iy9"
+    }
+  ]
+}

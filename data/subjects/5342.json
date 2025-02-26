@@ -1,0 +1,34 @@
+{
+  "id": 5342,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "初版"
+  },
+  "primaryMeaning": "First Edition",
+  "meaningMnemonic": "The <kanji>first</kanji> <kanji>edition</kanji> is the <vocabulary>first edition</vocabulary>.",
+  "primaryReading": "しょはん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "初版",
+  "related": {
+    "radicals": [
+      80,
+      24,
+      162,
+      218
+    ],
+    "kanjis": [
+      784,
+      1421
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょはん",
+      "url": "https://files.wanikani.com/xs68edqvyefjdlk1n7us2swwuf1w"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5822,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "損害"
+  },
+  "primaryMeaning": "Damage",
+  "meaningMnemonic": "Your <kanji>loss</kanji> comes from <kanji>damage</kanji> done to you. This is <vocabulary>damage</vocabulary>.\n\nThis word is usually used as a noun. It can occasionally be turned into verb by adding する, but this is very rare!",
+  "primaryReading": "そんがい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Injury"
+  ],
+  "otherReadings": [],
+  "wkSlug": "損害",
+  "related": {
+    "radicals": [
+      63,
+      349,
+      78,
+      210,
+      16
+    ],
+    "kanjis": [
+      1573,
+      1093
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そんがい",
+      "url": "https://files.wanikani.com/cnpzr8xjj7odh14l1a2t2osc8221"
+    }
+  ]
+}

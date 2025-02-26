@@ -1,0 +1,34 @@
+{
+  "id": 6658,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "裂く"
+  },
+  "primaryMeaning": "To Tear",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>split</kanji>, but if you split something, you are going <vocabulary>to tear</vocabulary> it or <vocabulary>to rip up</vocabulary> it.",
+  "primaryReading": "さく",
+  "readingMnemonic": "In order to get it open, you need <vocabulary>to tear</vocabulary> and rip up a <reading>sack</reading> (さく). Sacks don't have tabs or zippers or any of those fancy things. If you want to get at the stuff in a sack you have to tear the top right off!",
+  "otherMeanings": [
+    "To Rip Up"
+  ],
+  "otherReadings": [],
+  "wkSlug": "裂く",
+  "related": {
+    "radicals": [
+      132,
+      128,
+      320
+    ],
+    "kanjis": [
+      1839
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さく",
+      "url": "https://files.wanikani.com/wy9eqq7dnqu3za9viyfc4eoox9ye"
+    }
+  ]
+}

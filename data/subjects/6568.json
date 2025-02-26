@@ -1,0 +1,39 @@
+{
+  "id": 6568,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "不透明"
+  },
+  "primaryMeaning": "Opacity",
+  "meaningMnemonic": "You know that 透明 is \"transparency\" or \"transparent\" - so, if something is not transparent, then it is <vocabulary>opaque</vocabulary>, making this word <vocabulary>opacity</vocabulary>.",
+  "primaryReading": "ふとうめい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Opaque"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不透明",
+  "related": {
+    "radicals": [
+      96,
+      114,
+      135,
+      200,
+      22,
+      43
+    ],
+    "kanjis": [
+      563,
+      1771,
+      626
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふとうめい",
+      "url": "https://files.wanikani.com/8h7wytzdahmbv57dvjme3xws6f77"
+    }
+  ]
+}

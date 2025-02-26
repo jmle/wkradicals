@@ -1,0 +1,36 @@
+{
+  "id": 6295,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "勧める"
+  },
+  "primaryMeaning": "To Recommend",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>recommend</kanji> so the verb vocab version is <vocabulary>to recommend</vocabulary>.\n\n",
+  "primaryReading": "すすめる",
+  "readingMnemonic": "To remember the reading think about how you are going <vocabulary>to recommend</vocabulary> this restaurant to your friends, <reading>Sue</reading> and <reading>Sue</reading> (すす). You refer to them as \"Sue Sue\" to make things easier on yourself, and they're always looking for recommendations.",
+  "otherMeanings": [
+    "To Suggest",
+    "To Advise",
+    "To Offer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勧める",
+  "related": {
+    "radicals": [
+      72,
+      240,
+      13
+    ],
+    "kanjis": [
+      1723
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すすめる",
+      "url": "https://files.wanikani.com/4fhycdxzi5ro01m7va2hyklbhg4h"
+    }
+  ]
+}

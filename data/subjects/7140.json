@@ -1,0 +1,34 @@
+{
+  "id": 7140,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "紛れもない"
+  },
+  "primaryMeaning": "Unmistakable",
+  "meaningMnemonic": "紛らわしい is \"confusing\" or \"misleading.\" This is the negative of that (you can tell by the ない), meaning it's kind of the opposite of those things. This word is <vocabulary>unmistakable</vocabulary>, <vocabulary> indisputable </vocabulary>, and <vocabulary>obvious</vocabulary>.",
+  "primaryReading": "まぎれもない",
+  "readingMnemonic": "The reading comes from 紛らわしい.",
+  "otherMeanings": [
+    "Indisputable",
+    "Obvious"
+  ],
+  "otherReadings": [],
+  "wkSlug": "紛れもない",
+  "related": {
+    "radicals": [
+      86,
+      247
+    ],
+    "kanjis": [
+      1829
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まぎれもない",
+      "url": "https://files.wanikani.com/f4z16ipak7w4rd1iikpuglagu951"
+    }
+  ]
+}

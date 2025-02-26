@@ -1,0 +1,35 @@
+{
+  "id": 2951,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "学校"
+  },
+  "primaryMeaning": "School",
+  "meaningMnemonic": "A <kanji>study</kanji> <kanji>school</kanji> is obviously a place where people study and learn. In English, that's simply a <vocabulary>school</vocabulary>.",
+  "primaryReading": "がっこう",
+  "readingMnemonic": "This jukugo word consists of on'yomi readings, except 学 (がく) is shortened with a small っ to make it <reading>がっこう</reading>.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "学校",
+  "related": {
+    "radicals": [
+      8769,
+      34,
+      23,
+      8,
+      68
+    ],
+    "kanjis": [
+      599,
+      658
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がっこう",
+      "url": "https://files.wanikani.com/ex2l405vh9lrw2axjvisxr6hchq6"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6019,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "馬鹿"
+  },
+  "primaryMeaning": "Idiot",
+  "meaningMnemonic": "A <kanji>horse</kanji> <kanji>deer</kanji> is a <vocabulary>stupid</vocabulary> idea. You're an <vocabulary>idiot</vocabulary> for thinking about it, really. It's quite <vocabulary>dumb</vocabulary>.",
+  "primaryReading": "ばか",
+  "readingMnemonic": "You learned both of these readings when you learned the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Dumb",
+    "Fool",
+    "Stupid",
+    "Absurd"
+  ],
+  "otherReadings": [],
+  "wkSlug": "馬鹿",
+  "related": {
+    "radicals": [
+      165,
+      62,
+      424,
+      161
+    ],
+    "kanjis": [
+      692,
+      1640
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばか",
+      "url": "https://files.wanikani.com/o0i5tip4z327losaxvdmvn297ooa"
+    }
+  ]
+}

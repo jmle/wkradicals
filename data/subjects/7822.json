@@ -1,0 +1,35 @@
+{
+  "id": 7822,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "聡い"
+  },
+  "primaryMeaning": "Smart",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's another way of saying <kanji>wise</kanji>? <vocabulary>Smart</vocabulary> or <vocabulary>discerning</vocabulary>.",
+  "primaryReading": "さとい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn this reading yet, so here's a mnemonic to help you:\n\nWhat did you do to get so <vocabulary>smart</vocabulary>? You <reading>sat</reading> (さと) in class all day. You didn't even get up after class was over. You planted your butt down and sat in your desk until class started again the next morning. You absorb knowledge through your behind, so as long as you sat down all day, you sucked up all the knowledge in the world!",
+  "otherMeanings": [
+    "Discerning",
+    "Sharp"
+  ],
+  "otherReadings": [],
+  "wkSlug": "聡い",
+  "related": {
+    "radicals": [
+      88,
+      237,
+      65
+    ],
+    "kanjis": [
+      2152
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さとい",
+      "url": "https://files.wanikani.com/u1x7cwar1uz6bxgkec7ihyph7snh"
+    }
+  ]
+}

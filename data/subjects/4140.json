@@ -1,0 +1,35 @@
+{
+  "id": 4140,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "洗脳"
+  },
+  "primaryMeaning": "Brainwashing",
+  "meaningMnemonic": "Give your <kanji>brain</kanji> a nice <kanji>wash</kanji>. No! Wait! It's not as nice as it sounds. This is <vocabulary>brainwashing</vocabulary>.",
+  "primaryReading": "せんのう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "洗脳",
+  "related": {
+    "radicals": [
+      103,
+      258,
+      43,
+      8783,
+      262
+    ],
+    "kanjis": [
+      1043,
+      1045
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんのう",
+      "url": "https://files.wanikani.com/q08qnqsb8yafi08q9vrbc7ap5wy2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2949,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "月末"
+  },
+  "primaryMeaning": "End Of The Month",
+  "meaningMnemonic": "You know how 月 can also mean <kanji>month</kanji>? If you add 末 on there you have the \"month end\" aka the <vocabulary>end of the month</vocabulary>.",
+  "primaryReading": "げつまつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nWhen it's the <vocabulary>end of the month</vocabulary>, everybody <reading>gets</reading> <reading>mats</reading> (げつまつ). We don't pay people in money at Tofugu, but everyone gets mats at the <vocabulary>month end</vocabulary> instead.",
+  "otherMeanings": [
+    "Month End"
+  ],
+  "otherReadings": [],
+  "wkSlug": "月末",
+  "related": {
+    "radicals": [
+      43,
+      134
+    ],
+    "kanjis": [
+      477,
+      657
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げつまつ",
+      "url": "https://files.wanikani.com/bdar3vzjlti57qegt0t0qz67zt15"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5351,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "精神病"
+  },
+  "primaryMeaning": "Mental Illness",
+  "meaningMnemonic": "精神 is your spirit or mind, the non-physical part of you. When it's <kanji>sick</kanji>, it's a <vocabulary>mental illness</vocabulary> or <vocabulary>mental disorder</vocabulary>.\n\nNote that the term 精神病, when used on its own, carries a stigma and is considered a bit disrespectful and outdated.",
+  "primaryReading": "せいしんびょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help if you know 精神 already, though.",
+  "otherMeanings": [
+    "Mental Disorder"
+  ],
+  "otherReadings": [],
+  "wkSlug": "精神病",
+  "related": {
+    "radicals": [
+      98,
+      120,
+      80,
+      190,
+      187,
+      186
+    ],
+    "kanjis": [
+      1370,
+      799,
+      773
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいしんびょう",
+      "url": "https://files.wanikani.com/9u9un9srir3zhk1vu8687ijjgy8j"
+    }
+  ]
+}

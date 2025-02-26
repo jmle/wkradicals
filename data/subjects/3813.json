@@ -1,0 +1,34 @@
+{
+  "id": 3813,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "冒険"
+  },
+  "primaryMeaning": "Adventure",
+  "meaningMnemonic": "You <kanji>dare</kanji> to do something <kanji>risky</kanji>. It's <vocabulary>adventure</vocabulary> time! Imagine yourself daring yourself to do risky things. Is this an adventure? If not, make it so!",
+  "primaryReading": "ぼうけん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "冒険",
+  "related": {
+    "radicals": [
+      22,
+      53,
+      176,
+      8785
+    ],
+    "kanjis": [
+      992,
+      988
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうけん",
+      "url": "https://files.wanikani.com/x677squzzrqiy43rm501bh70gqss"
+    }
+  ]
+}

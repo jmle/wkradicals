@@ -1,0 +1,36 @@
+{
+  "id": 2851,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "両手"
+  },
+  "primaryMeaning": "Both Hands",
+  "meaningMnemonic": "Don't use one hand when you can use <vocabulary>both hands</vocabulary>. This is simply <kanji>both</kanji> plus <kanji>hand</kanji> put together. It can also mean <vocabulary>both arms</vocabulary>.",
+  "primaryReading": "りょうて",
+  "readingMnemonic": "This word uses the readings you learned with both kanji. No problemo for a kanji master such as yourself.",
+  "otherMeanings": [
+    "Both Arms"
+  ],
+  "otherReadings": [],
+  "wkSlug": "両手",
+  "related": {
+    "radicals": [
+      1,
+      29,
+      20,
+      41
+    ],
+    "kanjis": [
+      609,
+      474
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょうて",
+      "url": "https://files.wanikani.com/aq376n86606smpags0x9twfvxvfc"
+    }
+  ]
+}

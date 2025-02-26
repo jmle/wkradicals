@@ -1,0 +1,36 @@
+{
+  "id": 5926,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "銅像"
+  },
+  "primaryMeaning": "Copper Statue",
+  "meaningMnemonic": "A <kanji>copper</kanji> <kanji>statue</kanji> is a <vocabulary>copper statue</vocabulary>.",
+  "primaryReading": "どうぞう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Bronze Statue"
+  ],
+  "otherReadings": [],
+  "wkSlug": "銅像",
+  "related": {
+    "radicals": [
+      118,
+      341,
+      75,
+      8823
+    ],
+    "kanjis": [
+      1607,
+      890
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうぞう",
+      "url": "https://files.wanikani.com/fcb3kkrmsna70go5gxb2bz410my4"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 5948,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "源氏物語"
+  },
+  "primaryMeaning": "Tale Of Genji",
+  "meaningMnemonic": "Remember 源氏? He has his own 物語. This is the very first novel ever written (that we know about). This is the <vocabulary>Tale of Genji</vocabulary>.",
+  "primaryReading": "げんじものがたり",
+  "readingMnemonic": "The reading is the combination of 源氏 and 物語 which you have learned before so you should have no problems with this one.",
+  "otherMeanings": [
+    "The Tale Of Genji"
+  ],
+  "otherReadings": [],
+  "wkSlug": "源氏物語",
+  "related": {
+    "radicals": [
+      103,
+      230,
+      147,
+      126,
+      173,
+      117,
+      39,
+      16
+    ],
+    "kanjis": [
+      1568,
+      647,
+      718,
+      764
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんじものがたり",
+      "url": "https://files.wanikani.com/65v0yki3sbegd2hv85vvckk6tnd8"
+    }
+  ]
+}

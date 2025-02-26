@@ -1,0 +1,33 @@
+{
+  "id": 3586,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "感じる"
+  },
+  "primaryMeaning": "To Feel",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>feeling</kanji> so the verb vocab version is <vocabulary>to feel</vocabulary>.",
+  "primaryReading": "かんじる",
+  "readingMnemonic": "Guess what? Even though this would use the vocab kun'yomi reading, usually, the readings for both on'yomi and kun'yomi on this kanji are the same, meaning you can read this word no matter what. Feeling better now?",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "感じる",
+  "related": {
+    "radicals": [
+      5,
+      194,
+      8781,
+      65
+    ],
+    "kanjis": [
+      862
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんじる",
+      "url": "https://files.wanikani.com/eeyiaha8zzhei1y75bm0y2v1xzkj"
+    }
+  ]
+}

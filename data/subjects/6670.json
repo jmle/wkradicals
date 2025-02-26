@@ -1,0 +1,36 @@
+{
+  "id": 6670,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "戸籍"
+  },
+  "primaryMeaning": "Family Register",
+  "meaningMnemonic": "<kanji>Enroll</kanji> your <kanji>door</kanji>... and by door, I mean enroll your family, because each family has one door to their house. Enrolling your family means you are enrolling them into the <vocabulary>family register</vocabulary>. This is actually an interesting topic. Look up \"koseki\" in Google and you're sure to find many fascinating histories.",
+  "primaryReading": "こせき",
+  "readingMnemonic": "The reading for 戸 is an exception. Instead of と it's こ. Just think about how the person who runs this census doesn't care about number of toes. They care about number of <reading>子</reading> (こ).",
+  "otherMeanings": [
+    "Census"
+  ],
+  "otherReadings": [],
+  "wkSlug": "戸籍",
+  "related": {
+    "radicals": [
+      73,
+      85,
+      388,
+      256
+    ],
+    "kanjis": [
+      509,
+      1844
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こせき",
+      "url": "https://files.wanikani.com/m740ixcu76socfgvd4fslz9auqw2"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5233,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "怖い"
+  },
+  "primaryMeaning": "Scary",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>scary</kanji>? It's also <vocabulary>scary</vocabulary>.\n\n怖い is commonly used in everyday language to describe something that's scary on a more immediate or personal level.",
+  "primaryReading": "こわい",
+  "readingMnemonic": "You know what's really <vocabulary>scary</vocabulary>, like double scary (because kanji and vocab both mean scary)? How about your <reading>cowo</reading>rkers (こわ). They are all insane, and you know it. Absolute nutjobs they are.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "怖い",
+  "related": {
+    "radicals": [
+      232,
+      26,
+      102
+    ],
+    "kanjis": [
+      1405
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こわい",
+      "url": "https://files.wanikani.com/vy87l58etqy0qtoo7x0k3qmmvzow"
+    }
+  ]
+}

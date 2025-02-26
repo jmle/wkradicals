@@ -1,0 +1,35 @@
+{
+  "id": 7121,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "水滴"
+  },
+  "primaryMeaning": "Drop Of Water",
+  "meaningMnemonic": "A <kanji>water</kanji> <kanji>drip</kanji> is a <vocabulary>drop of water</vocabulary> or a <vocabulary>water drop</vocabulary>.",
+  "primaryReading": "すいてき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Water Drop"
+  ],
+  "otherReadings": [],
+  "wkSlug": "水滴",
+  "related": {
+    "radicals": [
+      45,
+      103,
+      276
+    ],
+    "kanjis": [
+      479,
+      2003
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいてき",
+      "url": "https://files.wanikani.com/b99nmmfzr9yica154lcjcazpd1sy"
+    }
+  ]
+}

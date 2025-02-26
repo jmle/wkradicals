@@ -1,0 +1,35 @@
+{
+  "id": 6728,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "柔らかい"
+  },
+  "primaryMeaning": "Gentle",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>gentle</kanji>? It's <vocabulary>gentle</vocabulary>... but in this word's case, it's also <vocabulary>flexible</vocabulary>, <vocabulary>soft</vocabulary>, and <vocabulary>tender</vocabulary>.",
+  "primaryReading": "やわらかい",
+  "readingMnemonic": "You find something that is so <vocabulary>gentle</vocabulary> and <vocabulary>soft</vocabulary> to the touch. You touch it. You can't stop. The monkey you're touching tells you to stop. It doesn't like to be touched. But, you won't stop. \"<reading>Yah wha</reading>t (やわ) you gonna do about it, monkey?\" \"<reading>Yah, wha</reading>t can I do, I guess,\" replies the monkey.",
+  "otherMeanings": [
+    "Flexible",
+    "Soft",
+    "Tender"
+  ],
+  "otherReadings": [],
+  "wkSlug": "柔らかい",
+  "related": {
+    "radicals": [
+      148,
+      23
+    ],
+    "kanjis": [
+      1864
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やわらかい",
+      "url": "https://files.wanikani.com/a7dginvobxd4jb7ge8aedbmbd9uq"
+    }
+  ]
+}

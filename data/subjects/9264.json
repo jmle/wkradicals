@@ -1,0 +1,36 @@
+{
+  "id": 9264,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "毛皮"
+  },
+  "primaryMeaning": "Fur",
+  "meaningMnemonic": "This word is pretty straightforward. You have <kanji>fur</kanji> and <kanji>skin</kanji>, making a word meaning <vocabulary>fur</vocabulary> or <vocabulary>pelt</vocabulary>, like the kind that can be used to make garments.",
+  "primaryReading": "けがわ",
+  "readingMnemonic": "This is a special case because both kanji use kun'yomi readings in this word. Luckily, you already know the kun'yomi reading from learning the vocabulary 毛 and 皮 previously. Just be careful with the rendaku on the second kanji, 皮.",
+  "otherMeanings": [
+    "Pelt",
+    "Animal Fur"
+  ],
+  "otherReadings": [],
+  "wkSlug": "毛皮",
+  "related": {
+    "radicals": [
+      67,
+      5,
+      81
+    ],
+    "kanjis": [
+      513,
+      539
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けがわ",
+      "url": "https://files.wanikani.com/w8i7liq0mhyvgqxvi9lg6t3r20dd"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5969,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "遺体"
+  },
+  "primaryMeaning": "Corpse",
+  "meaningMnemonic": "You <kanji>leave behind</kanji> your <kanji>body</kanji> to join the spirit realm. This body remainder is your <vocabulary>corpse</vocabulary> or <vocabulary>remains</vocabulary>.",
+  "primaryReading": "いたい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Remains"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遺体",
+  "related": {
+    "radicals": [
+      114,
+      358,
+      75,
+      50
+    ],
+    "kanjis": [
+      1616,
+      583
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いたい",
+      "url": "https://files.wanikani.com/0hffgr7lazjebdrldw16qv9xtlb0"
+    }
+  ]
+}

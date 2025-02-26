@@ -1,0 +1,39 @@
+{
+  "id": 4239,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "無意識"
+  },
+  "primaryMeaning": "Unconsciousness",
+  "meaningMnemonic": "Know how 意識 is \"consciousness\"? What about when this <kanji>consciousness</kanji> doesn't exist (aka it is <kanji>nothing</kanji>)? That's when it becomes <vocabulary>unconsciousness</vocabulary>.",
+  "primaryReading": "むいしき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know how to read 意識, though.",
+  "otherMeanings": [
+    "Unconsciously",
+    "Involuntary"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無意識",
+  "related": {
+    "radicals": [
+      252,
+      197,
+      65,
+      117,
+      194
+    ],
+    "kanjis": [
+      1008,
+      811,
+      1012
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むいしき",
+      "url": "https://files.wanikani.com/5hxtcqxjr8d9zdixn28ejih87tla"
+    }
+  ]
+}

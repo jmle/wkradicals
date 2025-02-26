@@ -1,0 +1,36 @@
+{
+  "id": 8035,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "苗床"
+  },
+  "primaryMeaning": "Nursery",
+  "meaningMnemonic": "A <kanji>bed</kanji> just for <kanji>seedling</kanji>s is called a <vocabulary>nursery</vocabulary>. It's where all the little seedling grow before they're sold or replanted outside.",
+  "primaryReading": "なえどこ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Seedbed"
+  ],
+  "otherReadings": [],
+  "wkSlug": "苗床",
+  "related": {
+    "radicals": [
+      90,
+      51,
+      62,
+      23
+    ],
+    "kanjis": [
+      2146,
+      1810
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なえどこ",
+      "url": "https://files.wanikani.com/9nrbag97yuseml3vbxq58tp2wmfl"
+    }
+  ]
+}

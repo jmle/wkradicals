@@ -1,0 +1,38 @@
+{
+  "id": 4142,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "落書き"
+  },
+  "primaryMeaning": "Graffiti",
+  "meaningMnemonic": "When <kanji>writing</kanji> just happens to \"<kanji>fall</kanji>\" on the wall (whoops, wasn't me who did that, how strannnnge) it's writing that's not supposed to be where it is. This kind of writing is <vocabulary>graffiti</vocabulary>.",
+  "primaryReading": "らくがき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. 書, however, is kun'yomi in this case and also has rendaku. So just remember that it's read as が for this vocab and you'll be fine.",
+  "otherMeanings": [
+    "Scribble",
+    "Sketch"
+  ],
+  "otherReadings": [],
+  "wkSlug": "落書き",
+  "related": {
+    "radicals": [
+      90,
+      103,
+      180,
+      220,
+      22
+    ],
+    "kanjis": [
+      749,
+      962
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らくがき",
+      "url": "https://files.wanikani.com/8co7yf6i4t6c8s6by6lj90yg5cwv"
+    }
+  ]
+}

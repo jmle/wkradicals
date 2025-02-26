@@ -1,0 +1,33 @@
+{
+  "id": 6219,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "贈る"
+  },
+  "primaryMeaning": "To Give A Present",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>presents</kanji> so if you do presents, you're giving them, making this <vocabulary>to give a present</vocabulary> or <vocabulary>to gift</vocabulary>.",
+  "primaryReading": "おくる",
+  "readingMnemonic": "If you want to give someone a present, maybe you would think about <reading>send</reading>ing/送る (おくる) it to them?",
+  "otherMeanings": [
+    "To Gift"
+  ],
+  "otherReadings": [],
+  "wkSlug": "贈る",
+  "related": {
+    "radicals": [
+      94,
+      259
+    ],
+    "kanjis": [
+      1704
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おくる",
+      "url": "https://files.wanikani.com/bb1j3u93tiei80tf87w8aydlm34w"
+    }
+  ]
+}

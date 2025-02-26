@@ -1,0 +1,40 @@
+{
+  "id": 7086,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "下唇"
+  },
+  "primaryMeaning": "Lower Lip",
+  "meaningMnemonic": "The <kanji>bottom</kanji> <kanji>lip</kanji> is your <vocabulary>lower lip</vocabulary> or <vocabulary>bottom lip</vocabulary>.",
+  "primaryReading": "したくちびる",
+  "readingMnemonic": "したくちびる just combines the kun'yomi vocab reading for 下 and the kun'yomi reading you learned with the kanji for 唇.",
+  "otherMeanings": [
+    "Bottom Lip"
+  ],
+  "otherReadings": [],
+  "wkSlug": "下唇",
+  "related": {
+    "radicals": [
+      1,
+      10,
+      183,
+      16
+    ],
+    "kanjis": [
+      451,
+      1988
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かしん",
+      "url": "https://files.wanikani.com/fra4u0bprmp8l3evpjcgy6y6hvos"
+    },
+    {
+      "reading": "したくちびる",
+      "url": "https://files.wanikani.com/dxyrnvxa5gs3hradmfa5tio8t55n"
+    }
+  ]
+}

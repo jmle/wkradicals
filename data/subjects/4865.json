@@ -1,0 +1,36 @@
+{
+  "id": 4865,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "援助する"
+  },
+  "primaryMeaning": "To Assist",
+  "meaningMnemonic": "You know that 援助 is <kanji>assistance</kanji> or <kanji>aid</kanji>. So the verb vocab version is <vocabulary>to assist</vocabulary> or <vocabulary>to aid</vocabulary>.",
+  "primaryReading": "えんじょする",
+  "readingMnemonic": "The reading is the same as 援助. It is also just the readings you learned with the kanji.",
+  "otherMeanings": [
+    "To Aid"
+  ],
+  "otherReadings": [],
+  "wkSlug": "援助する",
+  "related": {
+    "radicals": [
+      63,
+      286,
+      419,
+      13
+    ],
+    "kanjis": [
+      1182,
+      680
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんじょする",
+      "url": "https://files.wanikani.com/3h36isddwme7z0cmckyfg071dv5t"
+    }
+  ]
+}

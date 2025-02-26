@@ -1,0 +1,33 @@
+{
+  "id": 6771,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "手袋"
+  },
+  "primaryMeaning": "Gloves",
+  "meaningMnemonic": "A <kanji>hand</kanji> <kanji>sack</kanji> is a sack for your hands... better put, these are <vocabulary>gloves</vocabulary>.",
+  "primaryReading": "てぶくろ",
+  "readingMnemonic": "The readings are both the kun'yomi vocab readings, so think of 手 and 袋 as individual words, put together to make hand sacks. Watch out for the rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "手袋",
+  "related": {
+    "radicals": [
+      41,
+      310,
+      320
+    ],
+    "kanjis": [
+      474,
+      1836
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てぶくろ",
+      "url": "https://files.wanikani.com/zqejndk1vhtfdoym7qden8ja4kh4"
+    }
+  ]
+}

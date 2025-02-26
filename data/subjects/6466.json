@@ -1,0 +1,38 @@
+{
+  "id": 6466,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "思い遣り"
+  },
+  "primaryMeaning": "Consideration",
+  "meaningMnemonic": "If you <kanji>dispatch</kanji> what you <kanji>think</kanji> to the other person, you're thinking about them, and you're being nice. You're showing <vocabulary>consideration</vocabulary>, <vocabulary>sympathy</vocabulary>, and <vocabulary>compassion</vocabulary> for the other person.",
+  "primaryReading": "おもいやり",
+  "readingMnemonic": "One reading comes from 思う, so that's all good. 遣り has a weird alternate reading, though (やり). To remember it, just think about how much <vocabulary>consideration</vocabulary> you're always showing. You're always like \"<reading>Yah</reading> (や), yah, no, I totally understand. SOOO sad.\" /end sympathy/",
+  "otherMeanings": [
+    "Compassion",
+    "Sympathy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "思い遣り",
+  "related": {
+    "radicals": [
+      51,
+      65,
+      114,
+      89,
+      8777
+    ],
+    "kanjis": [
+      637,
+      1662
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おもいやり",
+      "url": "https://files.wanikani.com/j1mwk5h87a8du71xlkjdquajsbvt"
+    }
+  ]
+}

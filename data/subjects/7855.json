@@ -1,0 +1,36 @@
+{
+  "id": 7855,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "隅々"
+  },
+  "primaryMeaning": "Nooks",
+  "meaningMnemonic": "<kanji>Corner</kanji> <kanji>corner</kanji>s are still <vocabulary>corners</vocabulary>. Sometimes they're the corners TO corners, so they're the little <vocabulary>nooks</vocabulary> and crannies that are hard to get at.",
+  "primaryReading": "すみずみ",
+  "readingMnemonic": "This word uses the kun'yomi readings of the kanji you learned, twice, with the second one rendaku'd. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Corners"
+  ],
+  "otherReadings": [],
+  "wkSlug": "隅々",
+  "related": {
+    "radicals": [
+      176,
+      410,
+      14,
+      3
+    ],
+    "kanjis": [
+      2136,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すみずみ",
+      "url": "https://files.wanikani.com/scvo1isbo9c4p2t8bp2p1vbfv3ws"
+    }
+  ]
+}

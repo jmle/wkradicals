@@ -1,0 +1,39 @@
+{
+  "id": 6074,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "崩壊"
+  },
+  "primaryMeaning": "Collapse",
+  "meaningMnemonic": "When something begins to <kanji>crumble</kanji> and <kanji>break</kanji>, it will certainly <vocabulary>collapse</vocabulary> at some point. It just can't hold up under the pressure.",
+  "primaryReading": "ほうかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Crumbling",
+    "Breaking Down"
+  ],
+  "otherReadings": [],
+  "wkSlug": "崩壊",
+  "related": {
+    "radicals": [
+      20,
+      43,
+      17,
+      15,
+      163,
+      320
+    ],
+    "kanjis": [
+      1651,
+      1389
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうかい",
+      "url": "https://files.wanikani.com/2crdztzeli29wyybdxhz7fw14qfv"
+    }
+  ]
+}

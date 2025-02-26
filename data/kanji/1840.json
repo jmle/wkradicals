@@ -1,0 +1,45 @@
+{
+  "id": 1840,
+  "type": "kanji",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "襲"
+  },
+  "primaryReading": "しゅう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "しゅう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "おそ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Attack",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Imperial</radical> <radical>clothes</radical> allow you to perform an ancient <kanji>attack</kanji> that cannot be repelled.",
+  "readingMnemonic": "The <kanji>attack</kanji>'s power is concentrated in the <reading>shoe</reading>s (しゅう) in this imperial outfit. You attack with your feet, kicking the enemy with your old, fancy shoes.",
+  "wkSlug": "襲",
+  "related": {
+    "radicals": [
+      389,
+      320
+    ],
+    "vocabularies": [
+      6661,
+      6662,
+      6663,
+      6664,
+      6665,
+      6846
+    ]
+  },
+  "radicalNames": [
+    "Imperial",
+    "Clothes"
+  ]
+}

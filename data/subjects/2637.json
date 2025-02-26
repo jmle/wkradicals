@@ -1,0 +1,35 @@
+{
+  "id": 2637,
+  "type": "vocabulary",
+  "level": 3,
+  "characters": {
+    "type": "text",
+    "value": "シアトル市"
+  },
+  "primaryMeaning": "Seattle",
+  "meaningMnemonic": "The name of the city (シアトル／しあとる) with a <kanji>市</kanji> attached to it means it is \"the city of ____.\" You can do this with any city (try it out on your hometown!). So this word means <vocabulary>Seattle</vocabulary>, or more specifically <vocabulary>City of Seattle</vocabulary>.",
+  "primaryReading": "しあとるし",
+  "readingMnemonic": "This word uses on'yomi reading, which you learned with the kanji.",
+  "otherMeanings": [
+    "City Of Seattle"
+  ],
+  "otherReadings": [
+    "シアトルし"
+  ],
+  "wkSlug": "シアトル市",
+  "related": {
+    "radicals": [
+      8,
+      102
+    ],
+    "kanjis": [
+      522
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しあとるし",
+      "url": "https://files.wanikani.com/a7da73icpdnu1xavjddcf15tye91"
+    }
+  ]
+}

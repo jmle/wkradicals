@@ -1,0 +1,39 @@
+{
+  "id": 8039,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "虐殺"
+  },
+  "primaryMeaning": "Atrocity",
+  "meaningMnemonic": "To <kanji>oppress</kanji> people and then <kanji>kill</kanji> them is an <vocabulary>atrocity</vocabulary>. It's also called a <vocabulary>massive killing</vocabulary> because that's what you're actually doing. And you're awful, why would you ever do that?",
+  "primaryReading": "ぎゃくさつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Massive Killing",
+    "Slaughter",
+    "Massacre"
+  ],
+  "otherReadings": [],
+  "wkSlug": "虐殺",
+  "related": {
+    "radicals": [
+      254,
+      105,
+      31,
+      23,
+      160
+    ],
+    "kanjis": [
+      2208,
+      880
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎゃくさつ",
+      "url": "https://files.wanikani.com/qkvpjlwcmeu9reskeond5zf88woa"
+    }
+  ]
+}

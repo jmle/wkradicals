@@ -1,0 +1,30 @@
+{
+  "id": 5884,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "亀"
+  },
+  "primaryMeaning": "Turtle",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. BURN BURN BURN.",
+  "primaryReading": "かめ",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "亀",
+  "related": {
+    "radicals": [
+      353
+    ],
+    "kanjis": [
+      1590
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かめ",
+      "url": "https://files.wanikani.com/0girx0z9qhn76n8c37i3r2ntila5"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5440,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "幾何学"
+  },
+  "primaryMeaning": "Geometry",
+  "meaningMnemonic": "<kanji>How many</kanji>? <kanji>What</kanji>? In this area of <kanji>study</kanji>, you ask these questions a lot. This area of study is <vocabulary>geometry</vocabulary>, because you have to ask how many sides and how much the area is or something (can you tell I don't remember any maths?).",
+  "primaryReading": "きかがく",
+  "readingMnemonic": "The 学 is read correctly, in terms of what you learned. The 幾 and 何 is weird, though. Just think how when you're asking a question in Japanese, you end the sentence with か. So, it's like, \"何か????\" and that's why it becomes <reading>か</reading>. Then, for 幾 think about how the <reading>key</reading> (き) to answering geometry questions correctly is figuring out \"how many\" sides something has. So, \"do you have the <reading>key</reading>か?\"",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "幾何学",
+  "related": {
+    "radicals": [
+      87,
+      194,
+      9,
+      75,
+      113,
+      8769,
+      34
+    ],
+    "kanjis": [
+      1453,
+      582,
+      599
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きかがく",
+      "url": "https://files.wanikani.com/oxrxvham1vqifg4rer3iz4a14dmy"
+    }
+  ]
+}

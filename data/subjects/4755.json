@@ -1,0 +1,35 @@
+{
+  "id": 4755,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "発展する"
+  },
+  "primaryMeaning": "To Develop",
+  "meaningMnemonic": "Let's <kanji>depart</kanji> from this place and <kanji>expand</kanji> it out. To do that we'll have <vocabulary>to develop</vocabulary> it.",
+  "primaryReading": "はってんする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. The はつ gets shortened to はっ, though.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "発展する",
+  "related": {
+    "radicals": [
+      168,
+      171,
+      37,
+      8775,
+      8770
+    ],
+    "kanjis": [
+      729,
+      1245
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はってんする",
+      "url": "https://files.wanikani.com/usraz8mirpzvrl2os8rm7wsfujrz"
+    }
+  ]
+}

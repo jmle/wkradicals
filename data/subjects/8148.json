@@ -1,0 +1,36 @@
+{
+  "id": 8148,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "実践"
+  },
+  "primaryMeaning": "Practice",
+  "meaningMnemonic": "To tell you the <kanji>truth</kanji>, <kanji>practice</kanji> is <vocabulary>practice</vocabulary>. You can't just substitute something else for it. You'll only make progress with real practice! You can do it!",
+  "primaryReading": "じっせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Put Into Practice"
+  ],
+  "otherReadings": [],
+  "wkSlug": "実践",
+  "related": {
+    "radicals": [
+      78,
+      8779,
+      95,
+      8782
+    ],
+    "kanjis": [
+      715,
+      2241
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じっせん",
+      "url": "https://files.wanikani.com/wqmyv9djvmkf02eppxo0okzueckf"
+    }
+  ]
+}

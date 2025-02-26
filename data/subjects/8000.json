@@ -1,0 +1,38 @@
+{
+  "id": 8000,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "不浄"
+  },
+  "primaryMeaning": "Uncleanliness",
+  "meaningMnemonic": "If you have <kanji>not</kanji> <kanji>cleanse</kanji>d yourself you're going to be covered in <vocabulary>uncleanliness</vocabulary> and <vocabulary>dirtiness</vocabulary>. Eww. ",
+  "primaryReading": "ふじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Dirtiness",
+    "Impurity",
+    "Filthiness",
+    "Defilement"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不浄",
+  "related": {
+    "radicals": [
+      96,
+      103,
+      261
+    ],
+    "kanjis": [
+      563,
+      2192
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふじょう",
+      "url": "https://files.wanikani.com/6dnbju1lki9h664ndwcncqrvv9dx"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5118,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "官僚"
+  },
+  "primaryMeaning": "Bureaucrat",
+  "meaningMnemonic": "A <kanji>government</kanji> <kanji>colleague</kanji> is a <vocabulary>bureaucrat</vocabulary>, or a <vocabulary>government official</vocabulary>. The one who works for and is part of the <vocabulary>bureaucracy</vocabulary>.",
+  "primaryReading": "かんりょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Government Official",
+    "Bureaucracy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "官僚",
+  "related": {
+    "radicals": [
+      78,
+      8777,
+      75,
+      319
+    ],
+    "kanjis": [
+      1018,
+      1392
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんりょう",
+      "url": "https://files.wanikani.com/e2fu8sy4fl1mpue5f7qf8nf137on"
+    }
+  ]
+}

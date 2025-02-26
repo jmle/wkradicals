@@ -1,0 +1,36 @@
+{
+  "id": 7100,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "帽子"
+  },
+  "primaryMeaning": "Hat",
+  "meaningMnemonic": "A <kanji>hat</kanji> <kanji>child</kanji> is a <vocabulary>hat</vocabulary> or <vocabulary>cap</vocabulary>. Sadly, it's not made from children, unless you're crazy.",
+  "primaryReading": "ぼうし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cap"
+  ],
+  "otherReadings": [],
+  "wkSlug": "帽子",
+  "related": {
+    "radicals": [
+      102,
+      22,
+      53,
+      34
+    ],
+    "kanjis": [
+      1994,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうし",
+      "url": "https://files.wanikani.com/e24n541f76nqi5ux18qyo0o027xo"
+    }
+  ]
+}

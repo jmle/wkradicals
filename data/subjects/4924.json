@@ -1,0 +1,34 @@
+{
+  "id": 4924,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "担う"
+  },
+  "primaryMeaning": "To Take Responsibility",
+  "meaningMnemonic": "担ぐ is more like when you're carrying something physical. 担う is when you carry a responsibility, which is why this word means <vocabulary>to assume responsibility</vocabulary>. You can remember this because <reading>YOU</reading> (う) are responsible for this. You assume this responsibility.\n\nNote that 担う is generally used with another word that specifies the responsibility, like 役割を担う (assume a role) or 未来を担う (bear the future).",
+  "primaryReading": "になう",
+  "readingMnemonic": "What is your responsibility? To raise this girl named <reading>Nina</reading> (にな).",
+  "otherMeanings": [
+    "To Assume Responsibility",
+    "To Take On A Burden"
+  ],
+  "otherReadings": [],
+  "wkSlug": "担う",
+  "related": {
+    "radicals": [
+      63,
+      293
+    ],
+    "kanjis": [
+      1217
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "になう",
+      "url": "https://files.wanikani.com/zsjpay0b9se1uzqo76n5c3sa9ayh"
+    }
+  ]
+}

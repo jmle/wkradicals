@@ -1,0 +1,32 @@
+{
+  "id": 9052,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "頁"
+  },
+  "primaryMeaning": "Page",
+  "meaningMnemonic": "The kanji and the vocabulary are exactly the same, so they share meanings as well.\n\nThis word is often written in katakana as ページ, especially in informal writing and online. But you'll also see the kanji version, especially to refer to the pages of printed texts and in more formal writing.",
+  "primaryReading": "ページ",
+  "readingMnemonic": "This word uses the reading you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [
+    "ぺーじ"
+  ],
+  "wkSlug": "頁",
+  "related": {
+    "radicals": [
+      184
+    ],
+    "kanjis": [
+      9051
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ページ",
+      "url": "https://files.wanikani.com/z5y3b100j0d0oon0jhd4cjy725k1"
+    }
+  ]
+}

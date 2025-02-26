@@ -1,0 +1,36 @@
+{
+  "id": 4402,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "手続き"
+  },
+  "primaryMeaning": "Procedure",
+  "meaningMnemonic": "Someone takes your <kanji>hand</kanji> and shows you how to <kanji>continue</kanji>. \"This is the <vocabulary>procedure</vocabulary>,\" they say. Move your hand like this. Verrrryyy goood. Good procedure. Good!",
+  "primaryReading": "てつづき",
+  "readingMnemonic": "The reading is the kun'yomi vocab readings of 手 and 続く put together into one. Darn these body parts making everything kun'yomi.",
+  "otherMeanings": [
+    "Formalities",
+    "Process"
+  ],
+  "otherReadings": [],
+  "wkSlug": "手続き",
+  "related": {
+    "radicals": [
+      41,
+      86,
+      439
+    ],
+    "kanjis": [
+      474,
+      1083
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てつづき",
+      "url": "https://files.wanikani.com/qz2tcotec032il3akr1s1k6mb63x"
+    }
+  ]
+}

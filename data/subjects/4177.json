@@ -1,0 +1,38 @@
+{
+  "id": 4177,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "改善"
+  },
+  "primaryMeaning": "Improvement",
+  "meaningMnemonic": "When you <kanji>renew</kanji> something and it ends up <kanji>morally good</kanji> it's definitely an <vocabulary>improvement</vocabulary>.",
+  "primaryReading": "かいぜん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Betterment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "改善",
+  "related": {
+    "radicals": [
+      228,
+      60,
+      136,
+      8767,
+      1,
+      16
+    ],
+    "kanjis": [
+      1082,
+      1085
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいぜん",
+      "url": "https://files.wanikani.com/1lb5ou65813zmsvlhqzmd5p57op1"
+    }
+  ]
+}

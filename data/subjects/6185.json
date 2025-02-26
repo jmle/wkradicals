@@ -1,0 +1,36 @@
+{
+  "id": 6185,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "却下"
+  },
+  "primaryMeaning": "Rejection",
+  "meaningMnemonic": "It is <kanji>contrary</kanji> to what I think is good. It is <kanji>below</kanji> my standards. Thus, <vocabulary>rejection</vocabulary>.",
+  "primaryReading": "きゃっか",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Dismissal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "却下",
+  "related": {
+    "radicals": [
+      244,
+      145,
+      1,
+      10
+    ],
+    "kanjis": [
+      1688,
+      451
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゃっか",
+      "url": "https://files.wanikani.com/9w9elz7mbx16zq4aeyo6xzl0xubq"
+    }
+  ]
+}

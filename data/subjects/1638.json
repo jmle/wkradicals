@@ -1,0 +1,46 @@
+{
+  "id": 1638,
+  "type": "kanji",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "頼"
+  },
+  "primaryReading": "らい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "らい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たの",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "たよ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Trust",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>bundle</radical> of <radical>geoduck</radical>s is something you can always <kanji>trust</kanji>.",
+  "readingMnemonic": "While you can <kanji>trust</kanji> a bundle of geoducks, never ever trust <reading>rye</reading> (らい) bread.",
+  "wkSlug": "頼",
+  "related": {
+    "radicals": [
+      219,
+      184
+    ],
+    "vocabularies": [
+      6015,
+      6016,
+      6017,
+      6152,
+      6153,
+      6154
+    ]
+  }
+}

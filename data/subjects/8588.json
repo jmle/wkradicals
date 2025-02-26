@@ -1,0 +1,34 @@
+{
+  "id": 8588,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "酪農"
+  },
+  "primaryMeaning": "Dairy Farming",
+  "meaningMnemonic": "<kanji>Dairy</kanji> <kanji>farming</kanji> is <vocabulary>dairy farming</vocabulary>!",
+  "primaryReading": "らくのう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "酪農",
+  "related": {
+    "radicals": [
+      182,
+      180,
+      185,
+      183
+    ],
+    "kanjis": [
+      2428,
+      759
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らくのう",
+      "url": "https://files.wanikani.com/c23afbschrl8a6ak13hw1h9u1u97"
+    }
+  ]
+}

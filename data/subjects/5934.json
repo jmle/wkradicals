@@ -1,0 +1,43 @@
+{
+  "id": 5934,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "明日"
+  },
+  "primaryMeaning": "Tomorrow",
+  "meaningMnemonic": "A <kanji>bright</kanji> <kanji>day</kanji> isn't today (because today was terrible), it's <vocabulary>tomorrow</vocabulary>, because you can always look to tomorrow to be a better, brighter day.",
+  "primaryReading": "あした",
+  "readingMnemonic": "The reading makes no sense at all. You have to learn it straight up, and can't rely on the kanji it's made from. Why is <vocabulary>tomorrow</vocabulary> going to be such a bright and awesome day? Because you're making <reading>ash ta</reading>cos for dinner, and that's your favorite. Imagine imagining tomorrow, full of ash tacos and deliciousness. Maybe you could use some of those Dorito taco shells?\n\nA note about the other two readings あす and みょうにち: あす is used in the news and in weather reports, and みょうにち is really only used in business, so you should really only be using あした for now. But it's good to know that the other two readings exist!",
+  "otherMeanings": [],
+  "otherReadings": [
+    "あす",
+    "みょうにち"
+  ],
+  "wkSlug": "明日",
+  "related": {
+    "radicals": [
+      22,
+      43
+    ],
+    "kanjis": [
+      626,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あした",
+      "url": "https://files.wanikani.com/kn5te4svcs1gf3vsb5w1miymf449"
+    },
+    {
+      "reading": "あす",
+      "url": "https://files.wanikani.com/uwobyadduvzyn61l99kdwywb1wjt"
+    },
+    {
+      "reading": "みょうにち",
+      "url": "https://files.wanikani.com/dpabju6dxoeuslh5ax13lltozxv0"
+    }
+  ]
+}

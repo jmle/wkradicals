@@ -1,0 +1,36 @@
+{
+  "id": 6675,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "露出"
+  },
+  "primaryMeaning": "Exposure",
+  "meaningMnemonic": "When what you <kanji>expose</kanji> is <kanji>exit</kanji>ed out of hiding, exposed for everything to see... that is <vocabulary>exposure</vocabulary>. It can also refer to <vocabulary>photographic exposure</vocabulary> too, in case you were wondering.",
+  "primaryReading": "ろしゅつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Photographic Exposure"
+  ],
+  "otherReadings": [],
+  "wkSlug": "露出",
+  "related": {
+    "radicals": [
+      119,
+      95,
+      180,
+      20
+    ],
+    "kanjis": [
+      1845,
+      483
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろしゅつ",
+      "url": "https://files.wanikani.com/7s07rbdcjb8yrmzsdqj4u1oxa3bo"
+    }
+  ]
+}

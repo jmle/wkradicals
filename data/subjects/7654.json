@@ -1,0 +1,40 @@
+{
+  "id": 7654,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "規則正しい"
+  },
+  "primaryMeaning": "Regular",
+  "meaningMnemonic": "This is a combination of the words 規則 and 正しい, that you learned already. If you follow the rules in the correct order, everything will stay <vocabulary>regular</vocabulary> and <vocabulary>orderly</vocabulary>.\n\nThis word means that something follows a regular pattern or schedule. It’s commonly used to describe disciplined lifestyles, such as with regular sleep, exercise, and healthy eating habits, and implies that the regularity is desirable.",
+  "primaryReading": "きそくただしい",
+  "readingMnemonic": "This is a combination of the words 規則 and 正しい, which you learned already, so you should be able to read this word too.",
+  "otherMeanings": [
+    "Orderly",
+    "Systematic"
+  ],
+  "otherReadings": [],
+  "wkSlug": "規則正しい",
+  "related": {
+    "radicals": [
+      146,
+      91,
+      94,
+      128,
+      1,
+      44
+    ],
+    "kanjis": [
+      1191,
+      1201,
+      488
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きそくただしい",
+      "url": "https://files.wanikani.com/ortnco93nfvqeat2xa1xbwt5h5h9"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2532,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "〜円"
+  },
+  "primaryMeaning": "Yen",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "えん",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Be sure to omit the 〜 in your answer as it is only a placeholder for a number.",
+  "otherMeanings": [
+    "Japanese Yen"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜円",
+  "related": {
+    "radicals": [
+      29,
+      8
+    ],
+    "kanjis": [
+      472
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えん",
+      "url": "https://files.wanikani.com/i745t9nkmtb3q04c5fmukdp8xxdf"
+    }
+  ]
+}

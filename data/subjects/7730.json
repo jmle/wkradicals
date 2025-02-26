@@ -1,0 +1,34 @@
+{
+  "id": 7730,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "外交"
+  },
+  "primaryMeaning": "Diplomacy",
+  "meaningMnemonic": "You want to <kanji>mix</kanji> opinions from <kanji>outside</kanji> your country into the way you handle things. That's called <vocabulary>diplomacy</vocabulary>. If you mix your country with the ones outside of your own, you'll all profit!",
+  "primaryReading": "がいこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "外交",
+  "related": {
+    "radicals": [
+      33,
+      10,
+      8,
+      68
+    ],
+    "kanjis": [
+      521,
+      565
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がいこう",
+      "url": "https://files.wanikani.com/ef7rlfbiyk8ewf80irehlndty5vw"
+    }
+  ]
+}

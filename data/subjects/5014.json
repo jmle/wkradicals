@@ -1,0 +1,34 @@
+{
+  "id": 5014,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "巨人"
+  },
+  "primaryMeaning": "A Giant",
+  "meaningMnemonic": "A <kanji>giant</kanji> <kanji>person</kanji> is <vocabulary>a giant</vocabulary>.",
+  "primaryReading": "きょじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Giant"
+  ],
+  "otherReadings": [],
+  "wkSlug": "巨人",
+  "related": {
+    "radicals": [
+      314,
+      9
+    ],
+    "kanjis": [
+      1347,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょじん",
+      "url": "https://files.wanikani.com/97mgnf6anu7y4yiolhhj12wdeq9o"
+    }
+  ]
+}

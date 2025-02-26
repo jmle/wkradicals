@@ -1,0 +1,41 @@
+{
+  "id": 3914,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "卒業式"
+  },
+  "primaryMeaning": "Graduation Ceremony",
+  "meaningMnemonic": "You know that 卒業 is <kanji>graduation</kanji> so what about when you add <kanji>ceremony</kanji> to it? That makes it a <vocabulary>graduation ceremony</vocabulary>.",
+  "primaryReading": "そつぎょうしき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help if you know how to read 卒業 already as a word, too.",
+  "otherMeanings": [
+    "Graduation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "卒業式",
+  "related": {
+    "radicals": [
+      8,
+      9,
+      15,
+      8768,
+      136,
+      2,
+      79,
+      25
+    ],
+    "kanjis": [
+      897,
+      756,
+      939
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そつぎょうしき",
+      "url": "https://files.wanikani.com/bnre3xmblo73q99c7x3t3i0ptpzq"
+    }
+  ]
+}

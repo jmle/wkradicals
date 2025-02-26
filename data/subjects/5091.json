@@ -1,0 +1,34 @@
+{
+  "id": 5091,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "迷信"
+  },
+  "primaryMeaning": "Superstition",
+  "meaningMnemonic": "Led <kanji>astray</kanji> in what you <kanji>believe</kanji> by all these <vocabulary>superstition</vocabulary>s. These superstitions will lead you astray, don't believe them!",
+  "primaryReading": "めいしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "迷信",
+  "related": {
+    "radicals": [
+      114,
+      98,
+      75,
+      117
+    ],
+    "kanjis": [
+      1325,
+      940
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めいしん",
+      "url": "https://files.wanikani.com/3hiyhjli9equh9s363ytrsbgel9l"
+    }
+  ]
+}

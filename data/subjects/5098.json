@@ -1,0 +1,31 @@
+{
+  "id": 5098,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "靴"
+  },
+  "primaryMeaning": "Shoes",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "くつ",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji. Huzzah!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "靴",
+  "related": {
+    "radicals": [
+      288,
+      311
+    ],
+    "kanjis": [
+      1337
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くつ",
+      "url": "https://files.wanikani.com/55q591osz6lgo2guh53w2535ngxp"
+    }
+  ]
+}

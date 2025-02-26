@@ -1,0 +1,38 @@
+{
+  "id": 7975,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "寛容"
+  },
+  "primaryMeaning": "Tolerance",
+  "meaningMnemonic": "All <kanji>forms</kanji> of <kanji>tolerance</kanji> are still <vocabulary>tolerance</vocabulary>. Usually people like this are really <vocabulary>open minded</vocabulary> and <vocabulary>generous</vocabulary> too.",
+  "primaryReading": "かんよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Open Minded",
+    "Forbearance",
+    "Generous"
+  ],
+  "otherReadings": [],
+  "wkSlug": "寛容",
+  "related": {
+    "radicals": [
+      78,
+      90,
+      91,
+      249
+    ],
+    "kanjis": [
+      2190,
+      1061
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんよう",
+      "url": "https://files.wanikani.com/3iz0hnq6ix3dtyjf6rqbab1am29x"
+    }
+  ]
+}

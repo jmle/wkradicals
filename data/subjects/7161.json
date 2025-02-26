@@ -1,0 +1,39 @@
+{
+  "id": 7161,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "備蓄"
+  },
+  "primaryMeaning": "Emergency Stores",
+  "meaningMnemonic": "I need something to <kanji>provide</kanji> to me in an emergency, so I'm <kanji>amass</kanji>ing <vocabulary>emergency stores</vocabulary>. I'm building up a <vocabulary>stockpile</vocabulary> of <vocabulary>reserves</vocabulary>, just in case.",
+  "primaryReading": "びちく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Stockpile",
+    "Reserves"
+  ],
+  "otherReadings": [],
+  "wkSlug": "備蓄",
+  "related": {
+    "radicals": [
+      75,
+      90,
+      116,
+      71,
+      403,
+      51
+    ],
+    "kanjis": [
+      1202,
+      2026
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "びちく",
+      "url": "https://files.wanikani.com/w3gnz33u743igi5zi6jb5d4cjdps"
+    }
+  ]
+}

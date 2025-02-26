@@ -1,0 +1,30 @@
+{
+  "id": 6540,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "至る"
+  },
+  "primaryMeaning": "To Arrive At",
+  "meaningMnemonic": "The kanji means <kanji>attain</kanji> but the meaning of this verb is <vocabulary>to arrive at</vocabulary>. I suppose that's because if you attain something like enlightenment, you also arrive at that enlightenment as well. Thus, <vocabulary>to arrive at</vocabulary>.",
+  "primaryReading": "いたる",
+  "readingMnemonic": "What’s the key <vocabulary>to arrive at</vocabulary> enlightenment? Being an avid <reading>eater</reading> (いた)! Being an eater of all things delicious will truly let your body and mind arrive at new levels. Give it a shot. Become an eater.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "至る",
+  "related": {
+    "radicals": [
+      274
+    ],
+    "kanjis": [
+      1799
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いたる",
+      "url": "https://files.wanikani.com/xr4lol5bv3naqjtlj301t647kppo"
+    }
+  ]
+}

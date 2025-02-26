@@ -1,0 +1,39 @@
+{
+  "id": 7624,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "水道"
+  },
+  "primaryMeaning": "Water Supply",
+  "meaningMnemonic": "A <kanji>water</kanji> <kanji>road</kanji> carries your <vocabulary>water supply</vocabulary>. In the old days, these were called <vocabulary>aqueduct</vocabulary>s.",
+  "primaryReading": "すいどう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Water Service",
+    "Waterworks",
+    "Aqueduct",
+    "Conduit",
+    "Water Line"
+  ],
+  "otherReadings": [],
+  "wkSlug": "水道",
+  "related": {
+    "radicals": [
+      45,
+      114,
+      156
+    ],
+    "kanjis": [
+      479,
+      700
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいどう",
+      "url": "https://files.wanikani.com/0d22y0kjgecgi8yq0b7a9q7tma42"
+    }
+  ]
+}

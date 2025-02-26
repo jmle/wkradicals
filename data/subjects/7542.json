@@ -1,0 +1,34 @@
+{
+  "id": 7542,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "軍"
+  },
+  "primaryMeaning": "Army",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ぐん",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Troops",
+    "Force"
+  ],
+  "otherReadings": [],
+  "wkSlug": "軍",
+  "related": {
+    "radicals": [
+      76,
+      93
+    ],
+    "kanjis": [
+      954
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぐん",
+      "url": "https://files.wanikani.com/ro4ph4wryvremurl5dunsrl05n7f"
+    }
+  ]
+}

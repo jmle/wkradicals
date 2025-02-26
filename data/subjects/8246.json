@@ -1,0 +1,34 @@
+{
+  "id": 8246,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "鎮める"
+  },
+  "primaryMeaning": "To Appease",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>tranquilize</kanji>, so the verb version is what happens when you've already been able to tranquilize someone. It's <vocabulary>to appease</vocabulary> or <vocabulary>to suppress</vocabulary>.",
+  "primaryReading": "しずめる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou want <vocabulary>to appease</vocabulary> her because <reading>she's</reading> (しず) SUPER mad. She's pissed and she's angry and she's going to beat you up if you don't find out how <vocabulary>to calm</vocabulary> her down!",
+  "otherMeanings": [
+    "To Suppress",
+    "To Calm"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鎮める",
+  "related": {
+    "radicals": [
+      118,
+      413
+    ],
+    "kanjis": [
+      2261
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しずめる",
+      "url": "https://files.wanikani.com/y0jjnlivz3md9p5dyr03ttzg8lpl"
+    }
+  ]
+}

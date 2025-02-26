@@ -1,0 +1,36 @@
+{
+  "id": 7351,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "勘案"
+  },
+  "primaryMeaning": "Taking Into Consideration",
+  "meaningMnemonic": "Using our <kanji>intuition</kanji> we will come up with a <kanji>plan</kanji>. We'll be <vocabulary>taking into consideration</vocabulary> the information we have along with our intuition, so don't worry.",
+  "primaryReading": "かんあん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Giving Consideration"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勘案",
+  "related": {
+    "radicals": [
+      407,
+      13,
+      283,
+      23
+    ],
+    "kanjis": [
+      2081,
+      1163
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんあん",
+      "url": "https://files.wanikani.com/d4buw3rgq4xqea8olthvy6iqwcsn"
+    }
+  ]
+}

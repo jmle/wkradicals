@@ -1,0 +1,34 @@
+{
+  "id": 7854,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "四隅"
+  },
+  "primaryMeaning": "Four Corners",
+  "meaningMnemonic": "<kanji>Four</kanji> <kanji>corner</kanji>s are <vocabulary>four corners</vocabulary>!",
+  "primaryReading": "よすみ",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned them both by now, so you should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "四隅",
+  "related": {
+    "radicals": [
+      16,
+      28,
+      176,
+      410
+    ],
+    "kanjis": [
+      485,
+      2136
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よすみ",
+      "url": "https://files.wanikani.com/gagvrsgcq93zfduj7pj2wwed42k3"
+    }
+  ]
+}

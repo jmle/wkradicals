@@ -1,0 +1,37 @@
+{
+  "id": 3880,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "消化する"
+  },
+  "primaryMeaning": "To Digest",
+  "meaningMnemonic": "You know how 消化 is \"digestion\"? Well, The verb form of that is this word, which is <vocabulary>to digest</vocabulary>.",
+  "primaryReading": "しょうかする",
+  "readingMnemonic": "If you know 消化 you should be able to read this. Also, it uses the readings you learned with the kanji anyways, so no problemo there.",
+  "otherMeanings": [
+    "To Use Up"
+  ],
+  "otherReadings": [],
+  "wkSlug": "消化する",
+  "related": {
+    "radicals": [
+      103,
+      8765,
+      43,
+      75,
+      57
+    ],
+    "kanjis": [
+      819,
+      607
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうかする",
+      "url": "https://files.wanikani.com/gww7oqnbnsae50ly9gh3z1p8u3u0"
+    }
+  ]
+}

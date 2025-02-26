@@ -1,0 +1,38 @@
+{
+  "id": 4586,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "停電"
+  },
+  "primaryMeaning": "Power Outage",
+  "meaningMnemonic": "When you <kanji>halt</kanji> <kanji>electricity</kanji> you experience a <vocabulary>power outage</vocabulary>. Makes sense. When the electricity stops you don't have any more power.",
+  "primaryReading": "ていでん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Cutoff Of Electricity",
+    "Power Cut"
+  ],
+  "otherReadings": [],
+  "wkSlug": "停電",
+  "related": {
+    "radicals": [
+      75,
+      290,
+      119,
+      51,
+      211
+    ],
+    "kanjis": [
+      1187,
+      706
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ていでん",
+      "url": "https://files.wanikani.com/k5ucs8erune8h72dlev0eesl83u0"
+    }
+  ]
+}

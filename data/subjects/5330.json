@@ -1,0 +1,32 @@
+{
+  "id": 5330,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "浮く"
+  },
+  "primaryMeaning": "To Float",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>float</kanji> so the verb vocab version is <vocabulary>to float</vocabulary>.",
+  "primaryReading": "うく",
+  "readingMnemonic": "The reading comes from the reading you learned with the kanji. う!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "浮く",
+  "related": {
+    "radicals": [
+      103,
+      8772,
+      34
+    ],
+    "kanjis": [
+      1433
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うく",
+      "url": "https://files.wanikani.com/wkw4zwjb5vd3w58au9toos3oc2us"
+    }
+  ]
+}

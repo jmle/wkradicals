@@ -1,0 +1,35 @@
+{
+  "id": 4688,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "祝日"
+  },
+  "primaryMeaning": "National Holiday",
+  "meaningMnemonic": "A <kanji>celebrate</kanji> <kanji>day</kanji> is a day you get off to celebrate something awesome. More specifically, this is known as a <vocabulary>national holiday</vocabulary> or a <vocabulary>public holiday</vocabulary>.",
+  "primaryReading": "しゅくじつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Public Holiday"
+  ],
+  "otherReadings": [],
+  "wkSlug": "祝日",
+  "related": {
+    "radicals": [
+      80,
+      191,
+      22
+    ],
+    "kanjis": [
+      1223,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅくじつ",
+      "url": "https://files.wanikani.com/k9ozr5krdfl1kijmkbad7a2yujhf"
+    }
+  ]
+}

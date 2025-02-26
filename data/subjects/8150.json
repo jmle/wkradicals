@@ -1,0 +1,37 @@
+{
+  "id": 8150,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "逸品"
+  },
+  "primaryMeaning": "Gem",
+  "meaningMnemonic": "<kanji>Deviate</kanji> from normal, everyday <kanji>product</kanji>s and buy lots of <vocabulary>gem</vocabulary>s and <vocabulary>treasure</vocabulary>s! Especially if you're buying presents. Normal stuff just isn't going to cut it.",
+  "primaryReading": "いっぴん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Treasure",
+    "Article Of Rare Beauty",
+    "Fine Article"
+  ],
+  "otherReadings": [],
+  "wkSlug": "逸品",
+  "related": {
+    "radicals": [
+      114,
+      208,
+      227
+    ],
+    "kanjis": [
+      2235,
+      967
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いっぴん",
+      "url": "https://files.wanikani.com/imfm17tv7nrta6li2xiqkev83v2k"
+    }
+  ]
+}

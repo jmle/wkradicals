@@ -1,0 +1,34 @@
+{
+  "id": 6516,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "潜水"
+  },
+  "primaryMeaning": "Diving",
+  "meaningMnemonic": "To <kanji>conceal</kanji> yourself in <kanji>water</kanji>, you'd better start <vocabulary>diving</vocabulary> and get under the water where it can conceal you!",
+  "primaryReading": "せんすい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "潜水",
+  "related": {
+    "radicals": [
+      103,
+      146,
+      22,
+      45
+    ],
+    "kanjis": [
+      1791,
+      479
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんすい",
+      "url": "https://files.wanikani.com/mwurmkt72c75h4we1ea57julcdaz"
+    }
+  ]
+}

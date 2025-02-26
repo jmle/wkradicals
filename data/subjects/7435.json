@@ -1,0 +1,32 @@
+{
+  "id": 7435,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "憩い"
+  },
+  "primaryMeaning": "Rest",
+  "meaningMnemonic": "If 憩う is to rest, then this noun version (I know it looks like an adjective, but it's not) would be <vocabulary>rest</vocabulary>.",
+  "primaryReading": "いこい",
+  "readingMnemonic": "The reading comes from 憩う, so if you know that you can rest easy.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "憩い",
+  "related": {
+    "radicals": [
+      174,
+      109,
+      65
+    ],
+    "kanjis": [
+      1998
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いこい",
+      "url": "https://files.wanikani.com/bpsqj600nhb7536kzuep47s2evk5"
+    }
+  ]
+}

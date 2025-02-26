@@ -1,0 +1,38 @@
+{
+  "id": 3103,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "事実"
+  },
+  "primaryMeaning": "Fact",
+  "meaningMnemonic": "The <kanji>occurrence</kanji> of <kanji>truth</kanji> is a <vocabulary>fact</vocabulary>.\n\n事実 is primarily used as a noun, but it can also be used to say something is <vocabulary>factual</vocabulary>. Additionally, in relatively formal writing it can be used as an adverb to mean <vocabulary>in fact</vocabulary>.",
+  "primaryReading": "じじつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Factual",
+    "In Fact"
+  ],
+  "otherReadings": [],
+  "wkSlug": "事実",
+  "related": {
+    "radicals": [
+      15,
+      16,
+      105,
+      78,
+      8779
+    ],
+    "kanjis": [
+      708,
+      715
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じじつ",
+      "url": "https://files.wanikani.com/t65n0q2bpdka2p5scnlmcyui0gxt"
+    }
+  ]
+}

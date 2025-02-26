@@ -1,0 +1,37 @@
+{
+  "id": 4154,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "伝達"
+  },
+  "primaryMeaning": "Transmission",
+  "meaningMnemonic": "When you <kanji>transmit</kanji> something and you <kanji>attain</kanji> it on the other end, you've done a <vocabulary>transmission</vocabulary>.",
+  "primaryReading": "でんたつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Transmit",
+    "Convey"
+  ],
+  "otherReadings": [],
+  "wkSlug": "伝達",
+  "related": {
+    "radicals": [
+      75,
+      159,
+      114,
+      260
+    ],
+    "kanjis": [
+      777,
+      1033
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんたつ",
+      "url": "https://files.wanikani.com/927pe76r4mzdp8b3oyhu6n74ykap"
+    }
+  ]
+}

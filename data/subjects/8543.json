@@ -1,0 +1,38 @@
+{
+  "id": 8543,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "模擬"
+  },
+  "primaryMeaning": "Imitation",
+  "meaningMnemonic": "Food that <kanji>imitate</kanji>s an <kanji>imitation</kanji> of some OTHER food, is an even worse <vocabulary>imitation</vocabulary>. You don't want to eat that. It's a <vocabulary>sham</vocabulary>! It's <vocabulary>mock</vocabulary>ing real food! It's probably made of dust and cardboard!",
+  "primaryReading": "もぎ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sham",
+    "Mock",
+    "Simulation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "模擬",
+  "related": {
+    "radicals": [
+      23,
+      356,
+      63,
+      8832
+    ],
+    "kanjis": [
+      1264,
+      2416
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もぎ",
+      "url": "https://files.wanikani.com/nwgq767t2w77377mde1w0gwa4rir"
+    }
+  ]
+}

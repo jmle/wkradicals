@@ -1,0 +1,36 @@
+{
+  "id": 8549,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "浪費"
+  },
+  "primaryMeaning": "Waste",
+  "meaningMnemonic": "If you <kanji>wander</kanji> around doing nothing at your own <kanji>expense</kanji> it will be a huge <vocabulary>waste</vocabulary> of money. It's not like you were doing or buying anything important, you were just wandering around, after all. ",
+  "primaryReading": "ろうひ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Extravagance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "浪費",
+  "related": {
+    "radicals": [
+      103,
+      8822,
+      284,
+      94
+    ],
+    "kanjis": [
+      2426,
+      1165
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろうひ",
+      "url": "https://files.wanikani.com/nlbj85n0ktht5byjey2y6usd1k86"
+    }
+  ]
+}

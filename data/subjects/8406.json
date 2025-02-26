@@ -1,0 +1,39 @@
+{
+  "id": 8406,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "均衡"
+  },
+  "primaryMeaning": "Equilibrium",
+  "meaningMnemonic": "<kanji>Equal</kanji> out your <kanji>equilibrium</kanji> and you'll have solid <vocabulary>equilibrium</vocabulary>.",
+  "primaryReading": "きんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Balance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "均衡",
+  "related": {
+    "radicals": [
+      17,
+      236,
+      3,
+      111,
+      14,
+      51,
+      18
+    ],
+    "kanjis": [
+      1473,
+      2346
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんこう",
+      "url": "https://files.wanikani.com/gygr6ase5accvwow5qipfb5c5eph"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8118,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "疎外"
+  },
+  "primaryMeaning": "Estrangement",
+  "meaningMnemonic": "<kanji>Neglect</kanji> someone so much that you remove yourself from their inner circle and live <kanji>outside</kanji> of their life and it's called <vocabulary>estrangement</vocabulary>. You might never see them again. But that's okay with you, your relationship is too weird to fix now.",
+  "primaryReading": "そがい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Neglect",
+    "Alienation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "疎外",
+  "related": {
+    "radicals": [
+      420,
+      219,
+      33,
+      10
+    ],
+    "kanjis": [
+      2243,
+      521
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そがい",
+      "url": "https://files.wanikani.com/rrxk4ogvfvemje62005x8dp5p9we"
+    }
+  ]
+}

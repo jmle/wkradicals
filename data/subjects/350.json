@@ -1,0 +1,22 @@
+{
+  "id": 350,
+  "type": "radical",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "爪"
+  },
+  "primaryMeaning": "Claw",
+  "otherMeanings": [],
+  "meaningMnemonic": "This looks like a <radical>claw</radical> of some kind already, making it quite easy!",
+  "wkSlug": "claw",
+  "related": {
+    "kanjis": [
+      1575
+    ],
+    "vocabularies": [
+      5832,
+      5833
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 4386,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "宇宙船"
+  },
+  "primaryMeaning": "Spaceship",
+  "meaningMnemonic": "You know how 宇宙 is <kanji>outer space</kanji> and how 船 is <kanji>ship</kanji>, right? Well, put those together and you have an outer space ship (better known as a <vocabulary>space ship</vocabulary>).",
+  "primaryReading": "うちゅうせん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know the word 宇宙 beforehand as well.",
+  "otherMeanings": [
+    "Space Shuttle",
+    "Starship",
+    "Ufo",
+    "Spacecraft",
+    "Flying Saucer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "宇宙船",
+  "related": {
+    "radicals": [
+      78,
+      61,
+      268,
+      149,
+      2,
+      16
+    ],
+    "kanjis": [
+      1072,
+      1073,
+      671
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うちゅうせん",
+      "url": "https://files.wanikani.com/qs62q6y3q1xer03jpg86ea1txaf5"
+    }
+  ]
+}

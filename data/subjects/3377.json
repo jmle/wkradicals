@@ -1,0 +1,33 @@
+{
+  "id": 3377,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "暑い"
+  },
+  "primaryMeaning": "Hot Weather",
+  "meaningMnemonic": "This is the adjective form of <kanji>hot</kanji>... but we're going to call it <vocabulary>hot weather</vocabulary>. Why? Because there's a difference between something that's hot and the weather or atmosphere being hot. This is that kind of hot, as in...\"Damn, man, it's hot out here!\"",
+  "primaryReading": "あつい",
+  "readingMnemonic": "This uses the same reading as the one you learned with the kanji, so you're good to go here!",
+  "otherMeanings": [
+    "Hot"
+  ],
+  "otherReadings": [],
+  "wkSlug": "暑い",
+  "related": {
+    "radicals": [
+      22,
+      203
+    ],
+    "kanjis": [
+      838
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あつい",
+      "url": "https://files.wanikani.com/5jcm1ghgfdg5c4960vxwdih18zys"
+    }
+  ]
+}

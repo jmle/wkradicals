@@ -1,0 +1,32 @@
+{
+  "id": 2925,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "足首"
+  },
+  "primaryMeaning": "Ankle",
+  "meaningMnemonic": "What is the <kanji>neck</kanji> of your <kanji>leg</kanji>? Think about it. It's your <vocabulary>ankle</vocabulary>.",
+  "primaryReading": "あしくび",
+  "readingMnemonic": "This word uses the kun'yomi readings from both kanji, probably because it includes body parts. You know the kun'yomi reading of 足 from previous vocab and you know the kun'yomi reading of 首 from learning that kanji. So, you should be able to read this kanji so long as you remember that it's all kun'yomi.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "足首",
+  "related": {
+    "radicals": [
+      95,
+      156
+    ],
+    "kanjis": [
+      561,
+      645
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あしくび",
+      "url": "https://files.wanikani.com/khrjwbjhp6h829j1w5evidrfkoe4"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 8616,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "管弦楽団"
+  },
+  "primaryMeaning": "Orchestra",
+  "meaningMnemonic": "Remember how you learned that 管弦楽 means \"orchestral music?\" Well the <kanji>group</kanji> that plays that music is an <vocabulary>orchestra</vocabulary>.",
+  "primaryReading": "かんげんがくだん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "管弦楽団",
+  "related": {
+    "radicals": [
+      85,
+      78,
+      8777,
+      36,
+      403,
+      52,
+      123,
+      23,
+      16,
+      74
+    ],
+    "kanjis": [
+      1236,
+      2312,
+      704,
+      1076
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんげんがくだん",
+      "url": "https://files.wanikani.com/pa7g3ly3zc0yh8era8bz9tuw872d"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 380,
+  "type": "radical",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "保"
+  },
+  "primaryMeaning": "Preserve",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>preserve</radical>.",
+  "wkSlug": "preserve",
+  "related": {
+    "kanjis": [
+      1770
+    ],
+    "vocabularies": [
+      6441,
+      6442,
+      6443
+    ]
+  }
+}

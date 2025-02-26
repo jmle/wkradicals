@@ -1,0 +1,35 @@
+{
+  "id": 4869,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "提案する"
+  },
+  "primaryMeaning": "To Propose",
+  "meaningMnemonic": "You remember 提案, which means <kanji>proposition</kanji>? Make that into a verb and you have <vocabulary>to propose</vocabulary>.",
+  "primaryReading": "ていあんする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "提案する",
+  "related": {
+    "radicals": [
+      63,
+      22,
+      229,
+      283,
+      23
+    ],
+    "kanjis": [
+      1181,
+      1163
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ていあんする",
+      "url": "https://files.wanikani.com/sogpgyk5n5miqp94bb3p890ttvqe"
+    }
+  ]
+}

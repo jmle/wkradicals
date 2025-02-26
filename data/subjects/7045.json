@@ -1,0 +1,38 @@
+{
+  "id": 7045,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "沈黙"
+  },
+  "primaryMeaning": "Silence",
+  "meaningMnemonic": "You <kanji>sink</kanji> down and <kanji>shut up</kanji>. You go into a <vocabulary>silence</vocabulary> and <vocabulary>hush</vocabulary>. This tends to be an awkward silence or hush.",
+  "primaryReading": "ちんもく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Hush",
+    "Awkward Silence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "沈黙",
+  "related": {
+    "radicals": [
+      103,
+      391,
+      125,
+      47,
+      131
+    ],
+    "kanjis": [
+      1865,
+      1973
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちんもく",
+      "url": "https://files.wanikani.com/oq3uf53qswqv3vrp1zcegude81uu"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7219,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "賢明"
+  },
+  "primaryMeaning": "Wise",
+  "meaningMnemonic": "You're <kanji>clever</kanji> and <kanji>bright</kanji> so obviously you're going to make <vocabulary>wise</vocabulary> and <vocabulary>sensible</vocabulary> decisions. In fact, when you go to make these very wise choices and observations, your brain glows brightly.",
+  "primaryReading": "けんめい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sensible"
+  ],
+  "otherReadings": [],
+  "wkSlug": "賢明",
+  "related": {
+    "radicals": [
+      323,
+      30,
+      94,
+      22,
+      43
+    ],
+    "kanjis": [
+      2033,
+      626
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんめい",
+      "url": "https://files.wanikani.com/78ug9je04z7kefixtfz5zgzqllsa"
+    }
+  ]
+}

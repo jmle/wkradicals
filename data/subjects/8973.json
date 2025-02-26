@@ -1,0 +1,37 @@
+{
+  "id": 8973,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "素麺"
+  },
+  "primaryMeaning": "Somen",
+  "meaningMnemonic": "If you can read this word, you may well know what it means. It's everybody's second favorite noodle dish, <vocabulary>somen</vocabulary>, or <vocabulary>somen noodles</vocabulary>, which are <vocabulary>fine white noodles</vocabulary>.",
+  "primaryReading": "そうめん",
+  "readingMnemonic": "The first kanji has a slightly irregular reading because it's prolonged. That's because <vocabulary>somen</vocabulary> are your <reading>sou</reading>l (そう) food.",
+  "otherMeanings": [
+    "Somen Noodles",
+    "Fine White Noodles"
+  ],
+  "otherReadings": [],
+  "wkSlug": "素麺",
+  "related": {
+    "radicals": [
+      210,
+      86,
+      8907,
+      250
+    ],
+    "kanjis": [
+      1138,
+      8955
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうめん",
+      "url": "https://files.wanikani.com/sbe0vb1mebx4jmkg6t3cmglbk6si"
+    }
+  ]
+}

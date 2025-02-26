@@ -1,0 +1,43 @@
+{
+  "id": 3517,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "鳴き声"
+  },
+  "primaryMeaning": "Animal Cry",
+  "meaningMnemonic": "The <kanji>chirp</kanji> <kanji>voice</kanji> is a sound an animal makes. Sure, it works for birds (which chirp), but it also works with most other animals as well. So, we call this an <vocabulary>animal cry</vocabulary>.",
+  "primaryReading": "なきごえ",
+  "readingMnemonic": "The readings are those that you learned with the kanji. 声 gets changed to ごえ, though, so take note of that in your head. Perhaps you can imagine an animal that does a \"GOEEEEE\" cry.",
+  "otherMeanings": [
+    "Animal Sound",
+    "Animal Noise",
+    "Chirp",
+    "Tweet",
+    "Roar",
+    "Bark",
+    "Meow"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鳴き声",
+  "related": {
+    "radicals": [
+      16,
+      151,
+      97,
+      37,
+      8761
+    ],
+    "kanjis": [
+      766,
+      586
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なきごえ",
+      "url": "https://files.wanikani.com/kc37ax3d91pzre57pait0mz3aqcu"
+    }
+  ]
+}

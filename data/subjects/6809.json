@@ -1,0 +1,33 @@
+{
+  "id": 6809,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "〜匹"
+  },
+  "primaryMeaning": "Small Animal Counter",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ひき",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji.",
+  "otherMeanings": [
+    "Counter For Small Animals"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜匹",
+  "related": {
+    "radicals": [
+      217,
+      28
+    ],
+    "kanjis": [
+      1891
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひき",
+      "url": "https://files.wanikani.com/6bp756ybaplgs9vnratcq2dxbvgk"
+    }
+  ]
+}

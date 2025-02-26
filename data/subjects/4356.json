@@ -1,0 +1,35 @@
+{
+  "id": 4356,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "胸焼け"
+  },
+  "primaryMeaning": "Heartburn",
+  "meaningMnemonic": "When your <kanji>chest</kanji> is <kanji>burn</kanji>ing, you have what's known as <vocabulary>heartburn</vocabulary>.",
+  "primaryReading": "むねやけ",
+  "readingMnemonic": "The readings are the kun'yomi vocab readings (hint is that there's hiragana sticking out there). So, just make sure you know the word 胸 and 焼く. If you do, you can combine that knowledge into this word, and hopefully not get any heartburn in the process.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "胸焼け",
+  "related": {
+    "radicals": [
+      43,
+      14,
+      262,
+      46,
+      257
+    ],
+    "kanjis": [
+      1044,
+      1040
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むねやけ",
+      "url": "https://files.wanikani.com/v1g57xzlfvmu8ajryfrz4gltjq1r"
+    }
+  ]
+}

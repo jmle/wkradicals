@@ -1,0 +1,36 @@
+{
+  "id": 3504,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "勝ち"
+  },
+  "primaryMeaning": "Victory",
+  "meaningMnemonic": "You've hopefully seen 勝つ by now, which means \"to win.\" This is a nouny version of that. So, what's the noun version of \"to win?\" It's <vocabulary>a win</vocabulary> or a <vocabulary>victory</vocabulary>.",
+  "primaryReading": "かち",
+  "readingMnemonic": "The reading comes from 勝つ. So as long as you have some understanding of that reading, you should be able to read this one as well. ",
+  "otherMeanings": [
+    "Win",
+    "A Victory",
+    "A Win"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勝ち",
+  "related": {
+    "radicals": [
+      43,
+      8819,
+      13
+    ],
+    "kanjis": [
+      738
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かち",
+      "url": "https://files.wanikani.com/6uq5vkmg8zyhu742bybuz0pfio8r"
+    }
+  ]
+}

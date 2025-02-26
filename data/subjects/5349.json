@@ -1,0 +1,38 @@
+{
+  "id": 5349,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "精一杯"
+  },
+  "primaryMeaning": "With All One's Might",
+  "meaningMnemonic": "You put <kanji>one cup of liquid</kanji>... no, one full cup of liquid <kanji>spirit</kanji> into what you're doing. None of this half-cup garbage. A full one. That means you're going at it <vocabulary>with all one's might</vocabulary>.",
+  "primaryReading": "せいいっぱい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Will help if you've seen 一杯 before.",
+  "otherMeanings": [
+    "With All Your Might"
+  ],
+  "otherReadings": [],
+  "wkSlug": "精一杯",
+  "related": {
+    "radicals": [
+      98,
+      120,
+      1,
+      23,
+      96
+    ],
+    "kanjis": [
+      1370,
+      440,
+      1380
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せいいっぱい",
+      "url": "https://files.wanikani.com/rnatgg5styfpm0yhv8vl67oc5u0q"
+    }
+  ]
+}

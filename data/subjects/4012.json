@@ -1,0 +1,33 @@
+{
+  "id": 4012,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "栄える"
+  },
+  "primaryMeaning": "To Flourish",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>flourish</kanji> or <kanji>prosper</kanji>, so the verb vocab versions of these would be <vocabulary>to flourish</vocabulary> or <vocabulary>to prosper</vocabulary>.",
+  "primaryReading": "さかえる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: What do you flourish at? You're an amazing <reading>soccer</reading> (さか) player who flourishes and prospers no matter where you go to play this wonderful (but not as good as baseball) sport.",
+  "otherMeanings": [
+    "To Prosper"
+  ],
+  "otherReadings": [],
+  "wkSlug": "栄える",
+  "related": {
+    "radicals": [
+      8769,
+      23
+    ],
+    "kanjis": [
+      1006
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さかえる",
+      "url": "https://files.wanikani.com/zmpt98xa7zrhb2s5esf0ops192zp"
+    }
+  ]
+}

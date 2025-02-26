@@ -1,0 +1,35 @@
+{
+  "id": 7068,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "霧"
+  },
+  "primaryMeaning": "Fog",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "きり",
+  "readingMnemonic": "The reading of the vocab is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Mist"
+  ],
+  "otherReadings": [],
+  "wkSlug": "霧",
+  "related": {
+    "radicals": [
+      119,
+      148,
+      60,
+      13
+    ],
+    "kanjis": [
+      1982
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きり",
+      "url": "https://files.wanikani.com/ojpltcgoomjlm94fk0k1vhnoiry8"
+    }
+  ]
+}

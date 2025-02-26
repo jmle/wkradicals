@@ -1,0 +1,41 @@
+{
+  "id": 9314,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "選択肢"
+  },
+  "primaryMeaning": "Choices",
+  "meaningMnemonic": "You're free to <kanji>choose</kanji> and <kanji>select</kanji> any of these <kanji>limb</kanji>s, leaving you many <vocabulary>choices</vocabulary>. With all these <vocabulary>options</vocabulary> and <vocabulary>alternatives</vocabulary>, which one will you go for?",
+  "primaryReading": "せんたくし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Options",
+    "Alternatives"
+  ],
+  "otherReadings": [],
+  "wkSlug": "選択肢",
+  "related": {
+    "radicals": [
+      114,
+      228,
+      269,
+      63,
+      215,
+      43,
+      81
+    ],
+    "kanjis": [
+      886,
+      1695,
+      9312
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんたくし",
+      "url": "https://files.wanikani.com/39j3j1cky1ytwctee23qye412q72"
+    }
+  ]
+}

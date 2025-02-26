@@ -1,0 +1,36 @@
+{
+  "id": 3327,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "旅行"
+  },
+  "primaryMeaning": "Trip",
+  "meaningMnemonic": "When you <kanji>go</kanji> on a <kanji>trip</kanji> you're taking a <vocabulary>trip</vocabulary>. This is <vocabulary>travel</vocabulary>. You should try to do this occasionally! Perhaps a nice 旅行 to Japan?",
+  "primaryReading": "りょこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Travel"
+  ],
+  "otherReadings": [],
+  "wkSlug": "旅行",
+  "related": {
+    "radicals": [
+      66,
+      8762,
+      8778,
+      111
+    ],
+    "kanjis": [
+      816,
+      580
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょこう",
+      "url": "https://files.wanikani.com/hc1udli8ipdz38ucploe3eb1ag2n"
+    }
+  ]
+}

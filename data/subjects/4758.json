@@ -1,0 +1,38 @@
+{
+  "id": 4758,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "販売"
+  },
+  "primaryMeaning": "Sales",
+  "meaningMnemonic": "<kanji>Sell</kanji>, <kanji>sell</kanji>, sell. This is the attitude you need if you want to work in <vocabulary>sales</vocabulary> or do <vocabulary>sales</vocabulary>. You have to work on your <vocabulary>selling</vocabulary>.",
+  "primaryReading": "はんばい",
+  "readingMnemonic": "This is a jukugo word, which means you need to know the on'yomi readings of the kanji. You know them both, hurray!",
+  "otherMeanings": [
+    "Selling",
+    "Marketing"
+  ],
+  "otherReadings": [],
+  "wkSlug": "販売",
+  "related": {
+    "radicals": [
+      94,
+      218,
+      97,
+      76,
+      28
+    ],
+    "kanjis": [
+      1246,
+      587
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はんばい",
+      "url": "https://files.wanikani.com/lgfflwjpvxn2dmzo5kxk4kx4ylm6"
+    }
+  ]
+}

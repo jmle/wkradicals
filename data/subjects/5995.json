@@ -1,0 +1,35 @@
+{
+  "id": 5995,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "津波"
+  },
+  "primaryMeaning": "Tsunami",
+  "meaningMnemonic": "A <kanji>harbor</kanji> <kanji>wave</kanji> is a wave big enough, it could easily submerge an entire harbor. What could you call such a wave? Perhaps a <vocabulary>tsunami</vocabulary>, or a <vocabulary>tidal wave</vocabulary>.",
+  "primaryReading": "つなみ",
+  "readingMnemonic": "The reading is the 津 and 波 kun'yomi readings, combined together.",
+  "otherMeanings": [
+    "Tidal Wave"
+  ],
+  "otherReadings": [],
+  "wkSlug": "津波",
+  "related": {
+    "radicals": [
+      103,
+      220,
+      195
+    ],
+    "kanjis": [
+      1629,
+      793
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つなみ",
+      "url": "https://files.wanikani.com/34wluy8fw0uhmypm966ntz6uq1cd"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2695,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "花火"
+  },
+  "primaryMeaning": "Fireworks",
+  "meaningMnemonic": "The <kanji>flower</kanji> <kanji>fire</kanji>... what looks like flowers on fire? That would be <vocabulary>fireworks</vocabulary>. Totally makes sense, right?",
+  "primaryReading": "はなび",
+  "readingMnemonic": "The readings for the kanji that make this word are the kun'yomi readings, where fire's ひ changes to び. You already learned the kun'yomi reading for 花 when you learned the kanji, so it's only a matter of remembering to use the kun'yomi for 火. If you do, you should be able to read this word.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "花火",
+  "related": {
+    "radicals": [
+      90,
+      75,
+      57,
+      46
+    ],
+    "kanjis": [
+      557,
+      480
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はなび",
+      "url": "https://files.wanikani.com/s4f3sz8aa5rnibcx0q04kfw46wn8"
+    }
+  ]
+}

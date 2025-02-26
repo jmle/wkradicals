@@ -1,0 +1,36 @@
+{
+  "id": 8011,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "稿料"
+  },
+  "primaryMeaning": "Advance For Manuscript",
+  "meaningMnemonic": "The <kanji>fee</kanji> you charge to produce your <kanji>draft</kanji> is called an <vocabulary>advance for manuscript</vocabulary>. Also known as <vocabulary>copy money</vocabulary>. ",
+  "primaryReading": "こうりょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Copy Money"
+  ],
+  "otherReadings": [],
+  "wkSlug": "稿料",
+  "related": {
+    "radicals": [
+      135,
+      438,
+      98,
+      129
+    ],
+    "kanjis": [
+      2194,
+      878
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうりょう",
+      "url": "https://files.wanikani.com/fyp2npxkodfl8ie6h4ma9623rvld"
+    }
+  ]
+}

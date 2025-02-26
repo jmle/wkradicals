@@ -1,0 +1,34 @@
+{
+  "id": 6447,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "隣家"
+  },
+  "primaryMeaning": "Neighboring House",
+  "meaningMnemonic": "A <kanji>neighbor</kanji> <kanji>house</kanji> is a <vocabulary>neighboring house</vocabulary>. That house is right next to ours!",
+  "primaryReading": "りんか",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "隣家",
+  "related": {
+    "radicals": [
+      176,
+      98,
+      429,
+      398
+    ],
+    "kanjis": [
+      1772,
+      660
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りんか",
+      "url": "https://files.wanikani.com/4ke46ybr13nc0m154v2b74g3sgcv"
+    }
+  ]
+}

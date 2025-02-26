@@ -1,0 +1,35 @@
+{
+  "id": 3798,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "落ち着く"
+  },
+  "primaryMeaning": "To Calm Down",
+  "meaningMnemonic": "Hey. <kanji>Drop</kanji> yourself down and <kanji>arrive</kanji> back to me. You're going nuts over there. Lower down. Come back. Arrive. You need to do these things <vocabulary>to calm down</vocabulary>.",
+  "primaryReading": "おちつく",
+  "readingMnemonic": "The readings come from 落ちる and 着く. Hopefully you know these words so you can read this word as well! If you don't, just 落ち着く and everything will be okay.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "落ち着く",
+  "related": {
+    "radicals": [
+      90,
+      103,
+      180,
+      136,
+      53
+    ],
+    "kanjis": [
+      749,
+      846
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おちつく",
+      "url": "https://files.wanikani.com/epd90fp1buu4gaujpraadfb1q5sy"
+    }
+  ]
+}

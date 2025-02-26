@@ -1,0 +1,37 @@
+{
+  "id": 8070,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "叙勲"
+  },
+  "primaryMeaning": "Conferring Of Decorations",
+  "meaningMnemonic": "<kanji>Describe</kanji> someone's <kanji>merit</kanji> at a ceremony for the <vocabulary>conferring of decorations</vocabulary>. That's when medals are given out to people who deserve them. Usually in the military or something.",
+  "primaryReading": "じょくん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Decorate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "叙勲",
+  "related": {
+    "radicals": [
+      313,
+      30,
+      188,
+      13,
+      131
+    ],
+    "kanjis": [
+      2248,
+      2230
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょくん",
+      "url": "https://files.wanikani.com/fga8wmzk5bv0jl6h24wsfn06wrnx"
+    }
+  ]
+}

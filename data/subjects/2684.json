@@ -1,0 +1,34 @@
+{
+  "id": 2684,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "竹の子"
+  },
+  "primaryMeaning": "Bamboo Shoot",
+  "meaningMnemonic": "What is <kanji>bamboo</kanji>’s <kanji>child</kanji>? That would be a baby bamboo. Because \"baby bamboo\" doesn't really make sense, we'll instead call this word <vocabulary>bamboo shoot</vocabulary>s. \n\nWhen this is written as 竹の子, the bamboo shoots are probably still growing in the ground. If they’re picked and cooked and ready to eat, the pronunciation is the same, but it’s usually written in other forms, such as タケノコ.",
+  "primaryReading": "たけのこ",
+  "readingMnemonic": "If you know the readings of the kanji for 竹 and the vocabulary for 子 you should be able to read this word as well.",
+  "otherMeanings": [
+    "Bamboo Sprout"
+  ],
+  "otherReadings": [],
+  "wkSlug": "竹の子",
+  "related": {
+    "radicals": [
+      85,
+      34
+    ],
+    "kanjis": [
+      550,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たけのこ",
+      "url": "https://files.wanikani.com/p5pqvl4nrk1qjtmw52kljw9j9kwd"
+    }
+  ]
+}

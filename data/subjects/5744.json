@@ -1,0 +1,34 @@
+{
+  "id": 5744,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "誤字"
+  },
+  "primaryMeaning": "Typo",
+  "meaningMnemonic": "A <kanji>mistake</kanji> in <kanji>letter</kanji>s is a <vocabulary>typo</vocabulary>.",
+  "primaryReading": "ごじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "誤字",
+  "related": {
+    "radicals": [
+      117,
+      348,
+      78,
+      34
+    ],
+    "kanjis": [
+      1545,
+      545
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ごじ",
+      "url": "https://files.wanikani.com/hpqvmh0jg5k2eia3onlv88mc6t83"
+    }
+  ]
+}

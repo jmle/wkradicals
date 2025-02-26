@@ -1,0 +1,35 @@
+{
+  "id": 7804,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "渦中"
+  },
+  "primaryMeaning": "Vortex",
+  "meaningMnemonic": "In the <kanji>middle</kanji> of a <kanji>whirlpool</kanji> you'll find a spinning <vocabulary>vortex</vocabulary> of water. You really don't want to get sucked in there.",
+  "primaryReading": "かちゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Maelstrom"
+  ],
+  "otherReadings": [],
+  "wkSlug": "渦中",
+  "related": {
+    "radicals": [
+      103,
+      121,
+      49
+    ],
+    "kanjis": [
+      2147,
+      469
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かちゅう",
+      "url": "https://files.wanikani.com/woz4h8rjtpta33fnchmyw86b1rp7"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6092,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "爆発"
+  },
+  "primaryMeaning": "Explosion",
+  "meaningMnemonic": "<kanji>Explode</kanji> <kanji>departure</kanji> is when an explode departures from a certain point, causing an <vocabulary>explosion</vocabulary>.",
+  "primaryReading": "ばくはつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "爆発",
+  "related": {
+    "radicals": [
+      46,
+      366,
+      168,
+      171
+    ],
+    "kanjis": [
+      1658,
+      729
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばくはつ",
+      "url": "https://files.wanikani.com/4mmlvb2bfssxxjuj28353c90yewn"
+    }
+  ]
+}

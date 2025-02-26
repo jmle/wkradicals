@@ -1,0 +1,34 @@
+{
+  "id": 6093,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "爆弾"
+  },
+  "primaryMeaning": "Bomb",
+  "meaningMnemonic": "An <kanji>explode</kanji> <kanji>bullet</kanji> is when an explode shoots out of something like a bullet, but much bigger, like from a <vocabulary>bomb</vocabulary>.",
+  "primaryReading": "ばくだん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "爆弾",
+  "related": {
+    "radicals": [
+      46,
+      366,
+      36,
+      199
+    ],
+    "kanjis": [
+      1658,
+      1659
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばくだん",
+      "url": "https://files.wanikani.com/jf9r1f0jqnte9h5fvf4yns0qwb68"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6555,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "侵害"
+  },
+  "primaryMeaning": "Infringement",
+  "meaningMnemonic": "You <kanji>invade</kanji>d and <kanji>damage</kanji>d me. You are doing <vocabulary>infringement</vocabulary> on my territory. This is a <vocabulary>violation</vocabulary> of me.",
+  "primaryReading": "しんがい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Violation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "侵害",
+  "related": {
+    "radicals": [
+      75,
+      105,
+      76,
+      30,
+      78,
+      210,
+      16
+    ],
+    "kanjis": [
+      1802,
+      1093
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんがい",
+      "url": "https://files.wanikani.com/gb697n9vlkwcelpap8y01vko2mnp"
+    }
+  ]
+}

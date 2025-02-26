@@ -1,0 +1,36 @@
+{
+  "id": 2568,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "左手"
+  },
+  "primaryMeaning": "Left Hand",
+  "meaningMnemonic": "Your <kanji>left</kanji> <kanji>hand</kanji> is your <vocabulary>left hand</vocabulary>! This word can also be used to mean <vocabulary>left arm</vocabulary>, and <vocabulary>left-hand side</vocabulary>.",
+  "primaryReading": "ひだりて",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. This word, however, uses the kun'yomi readings. This is possibly because of 手, because body parts often use kun'yomi. You learned both readings with the individual words, so you should be able to read this.",
+  "otherMeanings": [
+    "Left Arm",
+    "Left-Hand Side"
+  ],
+  "otherReadings": [],
+  "wkSlug": "左手",
+  "related": {
+    "radicals": [
+      26,
+      25,
+      41
+    ],
+    "kanjis": [
+      486,
+      474
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひだりて",
+      "url": "https://files.wanikani.com/nbvsj448mgrylcbhnm80314ws2ql"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 7187,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "畜産"
+  },
+  "primaryMeaning": "Animal Husbandry",
+  "meaningMnemonic": "<kanji>Livestock</kanji> will <kanji>give birth</kanji> to more livestock. You're in the biz of raising livestock, that's why. This is <vocabulary>animal husbandry</vocabulary>.",
+  "primaryReading": "ちくさん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "畜産",
+  "related": {
+    "radicals": [
+      403,
+      51,
+      55,
+      116,
+      210
+    ],
+    "kanjis": [
+      2023,
+      1109
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちくさん",
+      "url": "https://files.wanikani.com/q3ama6arr57gd8b4voav5isn3xvv"
+    }
+  ]
+}

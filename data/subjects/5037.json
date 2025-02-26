@@ -1,0 +1,36 @@
+{
+  "id": 5037,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "着替え"
+  },
+  "primaryMeaning": "Change Of Clothes",
+  "meaningMnemonic": "You know how 替える is \"to replace\"? Well, you're replacing what you <kanji>wear</kanji>. That's a <vocabulary>change of clothes</vocabulary>, or <vocabulary>spare clothes</vocabulary>.",
+  "primaryReading": "きがえ",
+  "readingMnemonic": "The reading is 着る and 替える put together. The か goes to が.",
+  "otherMeanings": [
+    "Spare Clothes"
+  ],
+  "otherReadings": [],
+  "wkSlug": "着替え",
+  "related": {
+    "radicals": [
+      136,
+      53,
+      146,
+      22
+    ],
+    "kanjis": [
+      846,
+      1279
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きがえ",
+      "url": "https://files.wanikani.com/st7kkfylbt0sqx8dsa6890wl5n75"
+    }
+  ]
+}

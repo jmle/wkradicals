@@ -1,0 +1,37 @@
+{
+  "id": 7609,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "大幅"
+  },
+  "primaryMeaning": "Large",
+  "meaningMnemonic": "Something <kanji>big</kanji> in <kanji>width</kanji> is <vocabulary>large</vocabulary>. In fact, it's of a pretty <vocabulary>substantial</vocabulary> size. This word is used to describe a large magnitude or degree of change, increase, decrease, or difference in a given situation.",
+  "primaryReading": "おおはば",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Substantial",
+    "Drastic",
+    "Major"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大幅",
+  "related": {
+    "radicals": [
+      18,
+      102,
+      8824
+    ],
+    "kanjis": [
+      453,
+      1621
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おおはば",
+      "url": "https://files.wanikani.com/xqy1t45k4irk3f68opbuvtnti2zc"
+    }
+  ]
+}

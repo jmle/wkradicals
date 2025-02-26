@@ -1,0 +1,35 @@
+{
+  "id": 6898,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "賭け"
+  },
+  "primaryMeaning": "Betting",
+  "meaningMnemonic": "The noun version of <kanji>gamble</kanji> is <vocabulary>gambling</vocabulary> or <vocabulary>betting</vocabulary> or <vocabulary>a gamble</vocabulary> or <vocabulary>a bet</vocabulary>. Whatever you do, put it all on black 13. Trust me.",
+  "primaryReading": "かけ",
+  "readingMnemonic": "The reading comes from the reading you learned with the kanji.",
+  "otherMeanings": [
+    "Gambling",
+    "A Gamble",
+    "A Bet"
+  ],
+  "otherReadings": [],
+  "wkSlug": "賭け",
+  "related": {
+    "radicals": [
+      94,
+      203
+    ],
+    "kanjis": [
+      1925
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かけ",
+      "url": "https://files.wanikani.com/c2yx6oes8ocfqh30v5srhxfbkweq"
+    }
+  ]
+}

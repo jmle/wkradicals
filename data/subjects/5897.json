@@ -1,0 +1,33 @@
+{
+  "id": 5897,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "彼氏"
+  },
+  "primaryMeaning": "Boyfriend",
+  "meaningMnemonic": "A <kanji>he</kanji> <kanji>mister</kanji> is not just he, it's \"mister he,\" and mister he is your he, your <vocabulary>boyfriend</vocabulary>.",
+  "primaryReading": "かれし",
+  "readingMnemonic": "The readings are the ones you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "彼氏",
+  "related": {
+    "radicals": [
+      99,
+      195,
+      147
+    ],
+    "kanjis": [
+      1594,
+      647
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かれし",
+      "url": "https://files.wanikani.com/tv8cf5er1ddgafq5s3gcmty65mg7"
+    }
+  ]
+}

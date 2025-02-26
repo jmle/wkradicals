@@ -1,0 +1,36 @@
+{
+  "id": 4185,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "内容"
+  },
+  "primaryMeaning": "Contents",
+  "meaningMnemonic": "<kanji>Inside</kanji> that <kanji>form</kanji>... there is something inside there. What are the <vocabulary>contents</vocabulary>?",
+  "primaryReading": "ないよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Substance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "内容",
+  "related": {
+    "radicals": [
+      29,
+      9,
+      78,
+      249
+    ],
+    "kanjis": [
+      500,
+      1061
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ないよう",
+      "url": "https://files.wanikani.com/6qvr9m7v72gv15bber9tbtqfuwk3"
+    }
+  ]
+}

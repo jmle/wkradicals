@@ -1,0 +1,37 @@
+{
+  "id": 8212,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "抹消"
+  },
+  "primaryMeaning": "Erase",
+  "meaningMnemonic": "If you want to <kanji>erase</kanji> and <kanji>extinguish</kanji> every lamp and every picture of a lamp in the world, just <vocabulary>erase</vocabulary> them all. Simple as that.",
+  "primaryReading": "まっしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Delete"
+  ],
+  "otherReadings": [],
+  "wkSlug": "抹消",
+  "related": {
+    "radicals": [
+      63,
+      134,
+      103,
+      8765,
+      43
+    ],
+    "kanjis": [
+      2288,
+      819
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まっしょう",
+      "url": "https://files.wanikani.com/8juafxmgr6qnosw2goi953cw6ols"
+    }
+  ]
+}

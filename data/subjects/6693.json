@@ -1,0 +1,33 @@
+{
+  "id": 6693,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "即日"
+  },
+  "primaryMeaning": "Same Day",
+  "meaningMnemonic": "The <kanji>instant</kanji> <kanji>day</kanji> is the day that's going on this instant. It's the <vocabulary>same day</vocabulary> as now.",
+  "primaryReading": "そくじつ",
+  "readingMnemonic": "The reading for 即 is the normal one. For 日 you're going to want to use the じつ reading, because, the <reading>truth</reading> (じつ) is that it's the same day today.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "即日",
+  "related": {
+    "radicals": [
+      196,
+      145,
+      22
+    ],
+    "kanjis": [
+      1850,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そくじつ",
+      "url": "https://files.wanikani.com/1u8hiekmtbart77wi25rcjvahw1l"
+    }
+  ]
+}

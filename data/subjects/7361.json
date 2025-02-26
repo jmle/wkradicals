@@ -1,0 +1,33 @@
+{
+  "id": 7361,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "蟹"
+  },
+  "primaryMeaning": "Crab",
+  "meaningMnemonic": "The meaning is the same as the kanji's meaning, <kanji>crab</kanji>. If you know this word, and you know the word 鰐 as well... then, well, you know something, though I'm not sure what that something is.",
+  "primaryReading": "かに",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. But you knew that already, didn't you?",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "蟹",
+  "related": {
+    "radicals": [
+      281,
+      24,
+      126,
+      89
+    ],
+    "kanjis": [
+      2092
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かに",
+      "url": "https://files.wanikani.com/hrzwm9tp568pudnp2hnkf5b9rznv"
+    }
+  ]
+}

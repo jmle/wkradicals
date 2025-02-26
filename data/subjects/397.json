@@ -1,0 +1,23 @@
+{
+  "id": 397,
+  "type": "radical",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "更"
+  },
+  "primaryMeaning": "Renew",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>renew</radical>.\n",
+  "wkSlug": "renew",
+  "related": {
+    "kanjis": [
+      1934
+    ],
+    "vocabularies": [
+      6853,
+      6854,
+      9058
+    ]
+  }
+}

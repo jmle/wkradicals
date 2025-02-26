@@ -1,0 +1,37 @@
+{
+  "id": 8397,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "胎盤"
+  },
+  "primaryMeaning": "Placenta",
+  "meaningMnemonic": "Something comes out of a <kanji>womb</kanji> and is then put on a <kanji>tray</kanji>. It's the <vocabulary>afterbirth</vocabulary>. Yeah, yeah, eww. Grow up, it's a word you should know.",
+  "primaryReading": "たいばん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Afterbirth"
+  ],
+  "otherReadings": [],
+  "wkSlug": "胎盤",
+  "related": {
+    "radicals": [
+      43,
+      417,
+      149,
+      160,
+      84
+    ],
+    "kanjis": [
+      2353,
+      1697
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいばん",
+      "url": "https://files.wanikani.com/2cv3f6n8k1iquxp2j5j9o110r29w"
+    }
+  ]
+}

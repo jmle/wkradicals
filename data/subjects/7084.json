@@ -1,0 +1,38 @@
+{
+  "id": 7084,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "悲哀"
+  },
+  "primaryMeaning": "Sorrow",
+  "meaningMnemonic": "I am <kanji>sad</kanji> and <kanji>pathetic</kanji> in how I feel. Such a deep <vocabulary>sorrow</vocabulary>! Such <vocabulary>grief</vocabulary> from my sad pathetic feelings. ",
+  "primaryReading": "ひあい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Grief",
+    "Sadness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悲哀",
+  "related": {
+    "radicals": [
+      209,
+      65,
+      8,
+      16,
+      8770
+    ],
+    "kanjis": [
+      837,
+      1987
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひあい",
+      "url": "https://files.wanikani.com/rq2zj7i35a5us3uj0owjb1mcg11p"
+    }
+  ]
+}

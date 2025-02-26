@@ -1,0 +1,44 @@
+{
+  "id": 8024,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "同胞"
+  },
+  "primaryMeaning": "Brethren",
+  "meaningMnemonic": "People who have the <kanji>same</kanji> <kanji>cell</kanji>s as you are your <vocabulary>brethren</vocabulary>, they're your <vocabulary>brothers</vocabulary>!  ",
+  "primaryReading": "どうほう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Brothers",
+    "Fellow Countrymen",
+    "Compatriot"
+  ],
+  "otherReadings": [
+    "どうぼう"
+  ],
+  "wkSlug": "同胞",
+  "related": {
+    "radicals": [
+      121,
+      1,
+      43,
+      395
+    ],
+    "kanjis": [
+      568,
+      2191
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうぼう",
+      "url": "https://files.wanikani.com/upmanxc5kmiky8vgzddocdutdfna"
+    },
+    {
+      "reading": "どうほう",
+      "url": "https://files.wanikani.com/x47sr66sxv6y76fa6hiryop9zn7r"
+    }
+  ]
+}

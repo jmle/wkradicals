@@ -1,0 +1,39 @@
+{
+  "id": 7255,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "後ろ盾"
+  },
+  "primaryMeaning": "Backing",
+  "meaningMnemonic": "The <kanji>rear</kanji> <kanji>shield</kanji> is the shield that protects your back. This is your <vocabulary>backing</vocabulary> or <vocabulary>support</vocabulary>. So, not a literal shield, but the kind of protection that you want to have anyways.",
+  "primaryReading": "うしろだて",
+  "readingMnemonic": "The reading comes from 後ろ and 盾 put together. Watch out for the rendaku.",
+  "otherMeanings": [
+    "Support",
+    "Backer",
+    "Supporter"
+  ],
+  "otherReadings": [],
+  "wkSlug": "後ろ盾",
+  "related": {
+    "radicals": [
+      99,
+      87,
+      60,
+      116,
+      8773
+    ],
+    "kanjis": [
+      636,
+      2047
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うしろだて",
+      "url": "https://files.wanikani.com/at6bec9zjnuanzyftoqlzwy8rtl9"
+    }
+  ]
+}

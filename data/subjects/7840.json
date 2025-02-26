@@ -1,0 +1,35 @@
+{
+  "id": 7840,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "私邸"
+  },
+  "primaryMeaning": "Private Residence",
+  "meaningMnemonic": "A <kanji>private</kanji> <kanji>residence</kanji> is a <vocabulary>private residence</vocabulary>!",
+  "primaryReading": "してい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "私邸",
+  "related": {
+    "radicals": [
+      135,
+      140,
+      147,
+      1,
+      176
+    ],
+    "kanjis": [
+      923,
+      2138
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "してい",
+      "url": "https://files.wanikani.com/ekx7hu44ulwe3sk7q7koy7x9basu"
+    }
+  ]
+}

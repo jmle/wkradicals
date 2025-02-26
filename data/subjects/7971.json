@@ -1,0 +1,39 @@
+{
+  "id": 7971,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "啓蒙"
+  },
+  "primaryMeaning": "Enlightenment",
+  "meaningMnemonic": "<kanji>Enlighten</kanji> the <kanji>darkness</kanji> of people's minds with <vocabulary>instruction</vocabulary> and they'll reach <vocabulary>enlightenment</vocabulary> like you did!",
+  "primaryReading": "けいもう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Instruction"
+  ],
+  "otherReadings": [],
+  "wkSlug": "啓蒙",
+  "related": {
+    "radicals": [
+      73,
+      60,
+      16,
+      90,
+      76,
+      1,
+      233
+    ],
+    "kanjis": [
+      2220,
+      2212
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいもう",
+      "url": "https://files.wanikani.com/5bkv3zmgey0oao2w2qb3l7dragjx"
+    }
+  ]
+}

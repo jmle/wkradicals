@@ -1,0 +1,37 @@
+{
+  "id": 8155,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "応酬"
+  },
+  "primaryMeaning": "Exchange",
+  "meaningMnemonic": "<kanji>Repay</kanji> what someone lent you in <kanji>response</kanji> to them already lending YOU money, and the two of you will have <vocabulary>exchange</vocabulary>d money. ",
+  "primaryReading": "おうしゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Reciprocation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "応酬",
+  "related": {
+    "radicals": [
+      62,
+      65,
+      182,
+      3,
+      21
+    ],
+    "kanjis": [
+      1180,
+      2231
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おうしゅう",
+      "url": "https://files.wanikani.com/x8en7vwm1nd4a7axdd4e7iqfx8qe"
+    }
+  ]
+}

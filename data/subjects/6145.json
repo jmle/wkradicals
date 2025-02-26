@@ -1,0 +1,34 @@
+{
+  "id": 6145,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "沖縄"
+  },
+  "primaryMeaning": "Okinawa",
+  "meaningMnemonic": "The <kanji>open sea</kanji> <kanji>rope</kanji> is the rope that attaches <vocabulary>Okinawa</vocabulary> to the mainland.",
+  "primaryReading": "おきなわ",
+  "readingMnemonic": "The readings are the kun'yomi readings of the kanji, put together.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "沖縄",
+  "related": {
+    "radicals": [
+      103,
+      49,
+      86,
+      353
+    ],
+    "kanjis": [
+      1627,
+      1628
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おきなわ",
+      "url": "https://files.wanikani.com/vc4o5w87rxj7b5n0lob6n6maz93z"
+    }
+  ]
+}

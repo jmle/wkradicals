@@ -1,0 +1,32 @@
+{
+  "id": 800,
+  "type": "kanji",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "秒"
+  },
+  "primaryReading": "びょう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "びょう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Second",
+  "otherMeanings": [],
+  "meaningMnemonic": "<radical>Grain</radical>s are <radical>few</radical>. Imagine the last few grains trickling down the hourglass. You only have a <kanji>second</kanji> left.",
+  "readingMnemonic": "After the final <kanji>second</kanji>s go by, your awful <reading>B.O.</reading> (びょう) appears.",
+  "wkSlug": "秒",
+  "related": {
+    "radicals": [
+      135,
+      198
+    ],
+    "vocabularies": [
+      3300,
+      4990
+    ]
+  }
+}

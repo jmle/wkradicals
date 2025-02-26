@@ -1,0 +1,35 @@
+{
+  "id": 6457,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "埋め合わせる"
+  },
+  "primaryMeaning": "To Compensate For",
+  "meaningMnemonic": "埋める is \"to bury.\" 合わせる is \"to unify together.\" If you bury somebody in order to unify them with you, you're almost certainly trying <vocabulary>to compensate for</vocabulary> something.",
+  "primaryReading": "うめあわせる",
+  "readingMnemonic": "The readings come from 埋める and 合わせる. Combine them into one big happy word.",
+  "otherMeanings": [
+    "To Make Up For"
+  ],
+  "otherReadings": [],
+  "wkSlug": "埋め合わせる",
+  "related": {
+    "radicals": [
+      17,
+      125,
+      216
+    ],
+    "kanjis": [
+      1725,
+      852
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うめあわせる",
+      "url": "https://files.wanikani.com/adb886t2a0yhc5ibm4jsuphfjr2r"
+    }
+  ]
+}

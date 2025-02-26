@@ -1,0 +1,33 @@
+{
+  "id": 8958,
+  "type": "vocabulary",
+  "level": 1,
+  "characters": {
+    "type": "text",
+    "value": "力いっぱい"
+  },
+  "primaryMeaning": "With All One's Strength",
+  "meaningMnemonic": "You've hopefully already learned that 力 means \"power.\" You might have also heard the word いっぱい, because it's used a lot in conversation. It has a few meanings (you'll learn more of them later) but the important one here is \"full\" or \"a lot.\" Put these two words together and you have <vocabulary>full power</vocabulary>, <vocabulary>with all one's strength</vocabulary>, and <vocabulary>as hard as one can</vocabulary>. Remember this one with all your strength!\n\nJust a side note: いっぱい can also be written in kanji, which you'll learn later on! However, in simple words like this one it's usually written in kana.",
+  "primaryReading": "ちからいっぱい",
+  "readingMnemonic": "力 uses the same reading as you learned with the vocabulary. That's because this is basically two separate words stuck together.",
+  "otherMeanings": [
+    "Full Power",
+    "As Hard As One Can"
+  ],
+  "otherReadings": [],
+  "wkSlug": "力いっぱい",
+  "related": {
+    "radicals": [
+      13
+    ],
+    "kanjis": [
+      447
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちからいっぱい",
+      "url": "https://files.wanikani.com/qtu86f2aaqhrf2tszs94wwzxf014"
+    }
+  ]
+}

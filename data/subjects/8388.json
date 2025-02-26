@@ -1,0 +1,44 @@
+{
+  "id": 8388,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "粗塩"
+  },
+  "primaryMeaning": "Sea Salt",
+  "meaningMnemonic": "If you want to find some <kanji>coarse</kanji> <kanji>salt</kanji> just dive in the sea and collect <vocabulary>sea salt</vocabulary>! The pieces are nice and big and lumpy, so you really taste it when you're cooking.",
+  "primaryReading": "あらじお",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "Coarse Salt"
+  ],
+  "otherReadings": [
+    "あらしお"
+  ],
+  "wkSlug": "粗塩",
+  "related": {
+    "radicals": [
+      98,
+      419,
+      17,
+      8762,
+      16,
+      84
+    ],
+    "kanjis": [
+      2281,
+      1002
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あらじお",
+      "url": "https://files.wanikani.com/prso7nyz2nmzqghzfnqutyi94iax"
+    },
+    {
+      "reading": "あらしお",
+      "url": "https://files.wanikani.com/wbfxyjlcufe3vkvw966aupsylhv9"
+    }
+  ]
+}

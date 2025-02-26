@@ -1,0 +1,34 @@
+{
+  "id": 2826,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "来年"
+  },
+  "primaryMeaning": "Next Year",
+  "meaningMnemonic": "The <kanji>next</kanji> <kanji>year</kanji> is <vocabulary>next year</vocabulary>! It isn't last year or this year, it's the next one!",
+  "primaryReading": "らいねん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "来年",
+  "related": {
+    "radicals": [
+      1,
+      98,
+      8762,
+      126
+    ],
+    "kanjis": [
+      590,
+      546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らいねん",
+      "url": "https://files.wanikani.com/ynkmhork5y07cfko7jjrskjcerxh"
+    }
+  ]
+}

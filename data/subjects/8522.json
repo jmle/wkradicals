@@ -1,0 +1,37 @@
+{
+  "id": 8522,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "卑屈"
+  },
+  "primaryMeaning": "Subservient",
+  "meaningMnemonic": "A <kanji>lowly</kanji> person who <kanji>yield</kanji>s to everyone is really <vocabulary>subservient</vocabulary>. They'll do everything people tell them because they don't have the nerves to speak up and just say no.",
+  "primaryReading": "ひくつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Abject"
+  ],
+  "otherReadings": [],
+  "wkSlug": "卑屈",
+  "related": {
+    "radicals": [
+      3,
+      51,
+      15,
+      37,
+      332
+    ],
+    "kanjis": [
+      2421,
+      1320
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひくつ",
+      "url": "https://files.wanikani.com/73h0hi4l5kolu2w3v6jncc7en0ym"
+    }
+  ]
+}

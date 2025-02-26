@@ -1,0 +1,35 @@
+{
+  "id": 7579,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "用意"
+  },
+  "primaryMeaning": "Preparation",
+  "meaningMnemonic": "When you have an <kanji>idea</kanji> for a <kanji>task</kanji> you are in <vocabulary>preparation</vocabulary> for actually doing it. Because it's still just an idea you're still <vocabulary>getting ready</vocabulary>.",
+  "primaryReading": "ようい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Getting Ready"
+  ],
+  "otherReadings": [],
+  "wkSlug": "用意",
+  "related": {
+    "radicals": [
+      71,
+      197,
+      65
+    ],
+    "kanjis": [
+      525,
+      811
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようい",
+      "url": "https://files.wanikani.com/m5zgjr0gqp0qc825ekicp4h3ydmk"
+    }
+  ]
+}

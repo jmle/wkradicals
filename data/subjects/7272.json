@@ -1,0 +1,33 @@
+{
+  "id": 7272,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "抽象"
+  },
+  "primaryMeaning": "Abstraction",
+  "meaningMnemonic": "The thing you <kanji>extract</kanji> from a <kanji>phenomenon</kanji> is an <vocabulary>abstraction</vocabulary>. Extracting abstraction out of a phenomenon may not sound like a very concrete or vivid mnemonic, but I guess that makes it an appropriate abstraction…",
+  "primaryReading": "ちゅうしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "抽象",
+  "related": {
+    "radicals": [
+      63,
+      268,
+      8823
+    ],
+    "kanjis": [
+      2052,
+      1237
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうしょう",
+      "url": "https://files.wanikani.com/zxse6ufq253foaax3ncr1a0lt2ky"
+    }
+  ]
+}

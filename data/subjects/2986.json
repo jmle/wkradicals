@@ -1,0 +1,32 @@
+{
+  "id": 2986,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "白鳥"
+  },
+  "primaryMeaning": "Swan",
+  "meaningMnemonic": "There are many <kanji>white</kanji> <kanji>bird</kanji>s out there, for sure, but one really stands out if you ask me. That bird is the <vocabulary>swan</vocabulary>. It's big, it's white, and it's majestic.",
+  "primaryReading": "はくちょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "白鳥",
+  "related": {
+    "radicals": [
+      52,
+      151
+    ],
+    "kanjis": [
+      491,
+      675
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はくちょう",
+      "url": "https://files.wanikani.com/ah254aist98q7jnur9n1cal2k7yo"
+    }
+  ]
+}

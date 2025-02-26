@@ -1,0 +1,32 @@
+{
+  "id": 5829,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "腐る"
+  },
+  "primaryMeaning": "To Rot",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>rot</kanji> so the verb vocab version is <vocabulary>to rot</vocabulary>.",
+  "primaryReading": "くさる",
+  "readingMnemonic": "Remember the word 臭い, which means \"stinky\"? When something rots, it becomes stinky, and all <reading>くさ</reading>い.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "腐る",
+  "related": {
+    "radicals": [
+      62,
+      248,
+      108
+    ],
+    "kanjis": [
+      1578
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くさる",
+      "url": "https://files.wanikani.com/4tl315l0o5edjn6k1isq2axj9qu5"
+    }
+  ]
+}

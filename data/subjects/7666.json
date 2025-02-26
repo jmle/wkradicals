@@ -1,0 +1,39 @@
+{
+  "id": 7666,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "落雷"
+  },
+  "primaryMeaning": "Thunderbolt",
+  "meaningMnemonic": "<kanji>Thunder</kanji> that <kanji>fall</kanji>s from the sky is a <vocabulary>thunderbolt</vocabulary>.",
+  "primaryReading": "らくらい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Lightning",
+    "Bolt Of Lightning",
+    "Lightning Strike"
+  ],
+  "otherReadings": [],
+  "wkSlug": "落雷",
+  "related": {
+    "radicals": [
+      90,
+      103,
+      180,
+      119,
+      51
+    ],
+    "kanjis": [
+      749,
+      1903
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らくらい",
+      "url": "https://files.wanikani.com/f99prf426v6gbk9b0ypxvwpiedl7"
+    }
+  ]
+}

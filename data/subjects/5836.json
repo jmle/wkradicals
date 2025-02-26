@@ -1,0 +1,38 @@
+{
+  "id": 5836,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "深刻"
+  },
+  "primaryMeaning": "Serious",
+  "meaningMnemonic": "A <kanji>deep</kanji> <kanji>carve</kanji> is very <vocabulary>serious</vocabulary> and <vocabulary>grave</vocabulary>. Just imagine getting cut with a sword. If the carve is deep, well, that's serious.",
+  "primaryReading": "しんこく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Grave"
+  ],
+  "otherReadings": [],
+  "wkSlug": "深刻",
+  "related": {
+    "radicals": [
+      103,
+      76,
+      28,
+      23,
+      351,
+      128
+    ],
+    "kanjis": [
+      831,
+      1577
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんこく",
+      "url": "https://files.wanikani.com/kvh5vn0ae43z9ilsjlfsulsas5nr"
+    }
+  ]
+}

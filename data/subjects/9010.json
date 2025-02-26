@@ -1,0 +1,33 @@
+{
+  "id": 9010,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "火星"
+  },
+  "primaryMeaning": "Mars",
+  "meaningMnemonic": "The <kanji>fire</kanji> <kanji>star</kanji> is <vocabulary>Mars</vocabulary>. This should be easy to remember, because Mars is the only planet in our solar system that's the color of fire.",
+  "primaryReading": "かせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "火星",
+  "related": {
+    "radicals": [
+      46,
+      22,
+      210
+    ],
+    "kanjis": [
+      480,
+      638
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かせい",
+      "url": "https://files.wanikani.com/lb5lz3twoy0s67dyxnudcffk05i1"
+    }
+  ]
+}

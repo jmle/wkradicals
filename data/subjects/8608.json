@@ -1,0 +1,35 @@
+{
+  "id": 8608,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "婿"
+  },
+  "primaryMeaning": "Husband",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "むこ",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Groom",
+    "Son In Law"
+  ],
+  "otherReadings": [],
+  "wkSlug": "婿",
+  "related": {
+    "radicals": [
+      19,
+      420,
+      43
+    ],
+    "kanjis": [
+      2454
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むこ",
+      "url": "https://files.wanikani.com/0do4r85rynkeigd63ofcplrmwjxo"
+    }
+  ]
+}

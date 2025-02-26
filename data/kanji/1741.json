@@ -1,0 +1,42 @@
+{
+  "id": 1741,
+  "type": "kanji",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "鋼"
+  },
+  "primaryReading": "こう",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こう",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "はがね",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Steel",
+  "otherMeanings": [],
+  "meaningMnemonic": "You come across a <radical>gold</radical> <radical>hill</radical>. You think you hit it big! You start digging, only to find out that it is merely a paper-thin layer of gold covering a hill of <kanji>steel</kanji>.",
+  "readingMnemonic": "You report your findings about the <kanji>steel</kanji> you found to Emperor <reading>こう</reading>いち. He is displeased that it is a hill of steel.",
+  "wkSlug": "鋼",
+  "related": {
+    "radicals": [
+      118,
+      376
+    ],
+    "vocabularies": [
+      6335,
+      6336,
+      6337
+    ]
+  },
+  "radicalNames": [
+    "Gold",
+    "Hill"
+  ]
+}

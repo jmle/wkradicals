@@ -1,0 +1,40 @@
+{
+  "id": 3170,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "最終"
+  },
+  "primaryMeaning": "Last",
+  "meaningMnemonic": "The <kanji>most</kanji> <kanji>end</kanji> thing is the <vocabulary>last</vocabulary> thing. It is mainly used to refer to the <vocabulary>last</vocabulary> of an ordered sequence.",
+  "primaryReading": "さいしゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Final",
+    "The Last",
+    "The Final"
+  ],
+  "otherReadings": [],
+  "wkSlug": "最終",
+  "related": {
+    "radicals": [
+      22,
+      88,
+      30,
+      86,
+      60,
+      123
+    ],
+    "kanjis": [
+      774,
+      745
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいしゅう",
+      "url": "https://files.wanikani.com/etbmju6s6tyej2grpfw4waj2eocc"
+    }
+  ]
+}

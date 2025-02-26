@@ -1,0 +1,34 @@
+{
+  "id": 8817,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "着々"
+  },
+  "primaryMeaning": "Steadily",
+  "meaningMnemonic": "Something you <kanji>wear</kanji>, and <kanji>wear</kanji> again, is something you <vocabulary>steadily</vocabulary> wear. You do it so often, it's reliable. Also, if you wear something this much it's steadily wearing away too.",
+  "primaryReading": "ちゃくちゃく",
+  "readingMnemonic": "This word uses on'yomi readings of the kanji you learned, twice. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "着々",
+  "related": {
+    "radicals": [
+      136,
+      53,
+      14,
+      3
+    ],
+    "kanjis": [
+      846,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゃくちゃく",
+      "url": "https://files.wanikani.com/rw8826aggpq8xvfb3yr6jpjyac9n"
+    }
+  ]
+}

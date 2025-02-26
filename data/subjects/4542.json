@@ -1,0 +1,35 @@
+{
+  "id": 4542,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "策"
+  },
+  "primaryMeaning": "A Plan",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "さく",
+  "readingMnemonic": "Lucky for you, even though this word is a single kanji, it uses the same reading you learned, meaning you know how to read it already. Time to plan and scheme for your next vocab/kanji.",
+  "otherMeanings": [
+    "Plan",
+    "Scheme"
+  ],
+  "otherReadings": [],
+  "wkSlug": "策",
+  "related": {
+    "radicals": [
+      85,
+      23,
+      29
+    ],
+    "kanjis": [
+      1172
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さく",
+      "url": "https://files.wanikani.com/y4zxrqugxjmow1dgb5ywmx5fe7hj"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2861,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "不安"
+  },
+  "primaryMeaning": "Uneasiness",
+  "meaningMnemonic": "When you're <kanji>not</kanji> <kanji>relax</kanji>ed, what do you feel? <vocabulary>Uneasiness</vocabulary> is what you'd feel.",
+  "primaryReading": "ふあん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Anxiety",
+    "Unease"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不安",
+  "related": {
+    "radicals": [
+      96,
+      78,
+      19
+    ],
+    "kanjis": [
+      563,
+      612
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふあん",
+      "url": "https://files.wanikani.com/e0uchjtuyg64pzyf0te71pvfe17g"
+    }
+  ]
+}

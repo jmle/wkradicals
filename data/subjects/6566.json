@@ -1,0 +1,41 @@
+{
+  "id": 6566,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "最新鋭"
+  },
+  "primaryMeaning": "State Of The Art",
+  "meaningMnemonic": "最新 is, as you can probably guess, \"the newest.\" So, the newest <kanji>sharp</kanji> thing, is the <vocabulary>cutting edge</vocabulary>. It is <vocabulary>state of the art</vocabulary>.",
+  "primaryReading": "さいしんえい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Cutting Edge"
+  ],
+  "otherReadings": [],
+  "wkSlug": "最新鋭",
+  "related": {
+    "radicals": [
+      22,
+      88,
+      30,
+      55,
+      23,
+      115,
+      118,
+      422
+    ],
+    "kanjis": [
+      774,
+      857,
+      1758
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいしんえい",
+      "url": "https://files.wanikani.com/x8t3kbrhqo2hrhu1amcuzrrhe90v"
+    }
+  ]
+}

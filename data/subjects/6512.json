@@ -1,0 +1,37 @@
+{
+  "id": 6512,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "潜水艦"
+  },
+  "primaryMeaning": "Submarine",
+  "meaningMnemonic": "A <kanji>conceal</kanji> in the <kanji>water</kanji> <kanji>warship</kanji> is a <vocabulary>submarine</vocabulary>.",
+  "primaryReading": "せんすいかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "潜水艦",
+  "related": {
+    "radicals": [
+      103,
+      146,
+      22,
+      45,
+      149,
+      328
+    ],
+    "kanjis": [
+      1791,
+      479,
+      1790
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんすいかん",
+      "url": "https://files.wanikani.com/51g9n7brcvts75oq6x5oecjmwdbs"
+    }
+  ]
+}

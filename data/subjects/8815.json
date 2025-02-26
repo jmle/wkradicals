@@ -1,0 +1,36 @@
+{
+  "id": 8815,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "伝記"
+  },
+  "primaryMeaning": "Biography",
+  "meaningMnemonic": "If you want to <kanji>transmit</kanji> the story of someone's life, you have to <kanji>write down</kanji> all of it in a <vocabulary>biography</vocabulary>.",
+  "primaryReading": "でんき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Life Story"
+  ],
+  "otherReadings": [],
+  "wkSlug": "伝記",
+  "related": {
+    "radicals": [
+      75,
+      159,
+      117,
+      228
+    ],
+    "kanjis": [
+      777,
+      664
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんき",
+      "url": "https://files.wanikani.com/r9kict4kpx1jlezs2zimzycxvqkh"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6230,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "及ぼす"
+  },
+  "primaryMeaning": "To Exert",
+  "meaningMnemonic": "If you have <kanji>reach</kanji>, that means you're able <vocabulary>to exert</vocabulary> a great influence on people. Watch out, though, because it also means you're able <vocabulary>to cause</vocabulary> great harm.",
+  "primaryReading": "およぼす",
+  "readingMnemonic": "The reading comes from 及ぶ, so if you know that, you'll be able to read this one too.",
+  "otherMeanings": [
+    "To Cause"
+  ],
+  "otherReadings": [],
+  "wkSlug": "及ぼす",
+  "related": {
+    "radicals": [
+      193
+    ],
+    "kanjis": [
+      1619
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "およぼす",
+      "url": "https://files.wanikani.com/grel3x9nq3w6huu60sgtvbw7b2yt"
+    }
+  ]
+}

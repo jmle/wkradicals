@@ -1,0 +1,37 @@
+{
+  "id": 3949,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "気持ちいい"
+  },
+  "primaryMeaning": "Good Feeling",
+  "meaningMnemonic": "When you have a \"feeling\" (気持ち) that is いい (that means \"good\" by the way), you have a <vocabulary>good feeling</vocabulary>.",
+  "primaryReading": "きもちいい",
+  "readingMnemonic": "The reading comes from the vocab word 気持ち, so if you know that (or the vocab words 気 and 持ち) you should be A-okay on this one. Maybe even <vocabulary>feeling good</vocabulary> about it?",
+  "otherMeanings": [
+    "Feeling Good",
+    "Feels Good"
+  ],
+  "otherReadings": [],
+  "wkSlug": "気持ちいい",
+  "related": {
+    "radicals": [
+      82,
+      31,
+      63,
+      192
+    ],
+    "kanjis": [
+      548,
+      727
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きもちいい",
+      "url": "https://files.wanikani.com/mpge6gwb6q5btai5s2ij51sax02h"
+    }
+  ]
+}

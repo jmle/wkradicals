@@ -1,0 +1,37 @@
+{
+  "id": 6848,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "近距離"
+  },
+  "primaryMeaning": "Short Distance",
+  "meaningMnemonic": "A 距離 is a <kanji>distance</kanji> and 近 is <kanji>near</kanji>. A near distance is a <vocabulary>short distance</vocabulary>.",
+  "primaryReading": "きんきょり",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "近距離",
+  "related": {
+    "radicals": [
+      114,
+      115,
+      95,
+      314,
+      337,
+      240
+    ],
+    "kanjis": [
+      596,
+      1843,
+      1443
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんきょり",
+      "url": "https://files.wanikani.com/cz4phurqwk9c4npveyly12r9ehg0"
+    }
+  ]
+}

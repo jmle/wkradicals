@@ -1,0 +1,36 @@
+{
+  "id": 4248,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "順番"
+  },
+  "primaryMeaning": "Order",
+  "meaningMnemonic": "When you go in <kanji>order</kanji> of <kanji>turn</kanji>s that's the <vocabulary>order</vocabulary>. It also represents <vocabulary>one's turn</vocabulary> in said order as well.",
+  "primaryReading": "じゅんばん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "One's Turn"
+  ],
+  "otherReadings": [],
+  "wkSlug": "順番",
+  "related": {
+    "radicals": [
+      21,
+      184,
+      164,
+      51
+    ],
+    "kanjis": [
+      1060,
+      696
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅんばん",
+      "url": "https://files.wanikani.com/xx6dr6nifxb7y8wd21i7xs862g4c"
+    }
+  ]
+}

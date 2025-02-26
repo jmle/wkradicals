@@ -1,0 +1,36 @@
+{
+  "id": 6543,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "必至"
+  },
+  "primaryMeaning": "Inevitable",
+  "meaningMnemonic": "If it's <kanji>certain</kanji> that you will <kanji>attain</kanji> it, then it is <vocabulary>inevitable</vocabulary>. It is a <vocabulary>foregone</vocabulary> conclusion.",
+  "primaryReading": "ひっし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Necessary",
+    "Foregone"
+  ],
+  "otherReadings": [],
+  "wkSlug": "必至",
+  "related": {
+    "radicals": [
+      65,
+      5,
+      274
+    ],
+    "kanjis": [
+      655,
+      1799
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひっし",
+      "url": "https://files.wanikani.com/2nnb504egpkgeqlqjialcjwaq0kb"
+    }
+  ]
+}

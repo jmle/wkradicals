@@ -1,0 +1,39 @@
+{
+  "id": 7508,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "演芸"
+  },
+  "primaryMeaning": "Performing Arts",
+  "meaningMnemonic": "When you turn <kanji>acting</kanji> into <kanji>art</kanji> you get the <vocabulary>performing arts</vocabulary>. It is <vocabulary>popular entertainment</vocabulary>! Lights, action! Welcome to Broadway!\n\nThis word is more traditional and isn't used very much these days.",
+  "primaryReading": "えんげい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Popular Entertainment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "演芸",
+  "related": {
+    "radicals": [
+      103,
+      78,
+      27,
+      51,
+      2,
+      90,
+      159
+    ],
+    "kanjis": [
+      1196,
+      916
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんげい",
+      "url": "https://files.wanikani.com/up13y5zfv6bl2a6m8l1pv0y6e3zf"
+    }
+  ]
+}

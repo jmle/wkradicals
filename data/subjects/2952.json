@@ -1,0 +1,32 @@
+{
+  "id": 2952,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "夏"
+  },
+  "primaryMeaning": "Summer",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "なつ",
+  "readingMnemonic": "The reading you learned with the kanji is the same as the reading for the vocab.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "夏",
+  "related": {
+    "radicals": [
+      8763,
+      53,
+      60
+    ],
+    "kanjis": [
+      659
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なつ",
+      "url": "https://files.wanikani.com/wmpqxqfek2x3y6142v3y29vsuzvg"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7440,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "悔やむ"
+  },
+  "primaryMeaning": "To Regret",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>regret</kanji> and the verb vocab version is <vocabulary>to regret</vocabulary> or <vocabulary>to mourn</vocabulary>.",
+  "primaryReading": "くやむ",
+  "readingMnemonic": "The reading comes from 悔しい.",
+  "otherMeanings": [
+    "To Mourn",
+    "To Lament"
+  ],
+  "otherReadings": [],
+  "wkSlug": "悔やむ",
+  "related": {
+    "radicals": [
+      232,
+      379
+    ],
+    "kanjis": [
+      2040
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くやむ",
+      "url": "https://files.wanikani.com/avdh672daastq1v4fdrk1z6x0bsn"
+    }
+  ]
+}

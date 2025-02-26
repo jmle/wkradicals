@@ -1,0 +1,32 @@
+{
+  "id": 2839,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "谷"
+  },
+  "primaryMeaning": "Valley",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たに",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. This happens to be the reading you learned with the kanji, too, so don't feel like you're stuck in a valley of despair or anything. Rejoice!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "谷",
+  "related": {
+    "radicals": [
+      2,
+      8764,
+      16
+    ],
+    "kanjis": [
+      594
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たに",
+      "url": "https://files.wanikani.com/f7rig4hh7zeva53o0emjgslebb9b"
+    }
+  ]
+}

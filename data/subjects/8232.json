@@ -1,0 +1,40 @@
+{
+  "id": 8232,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "老舗"
+  },
+  "primaryMeaning": "Old Shop",
+  "meaningMnemonic": "An <kanji>elderly</kanji> <kanji>shop</kanji> is an <vocabulary>old shop</vocabulary>.",
+  "primaryReading": "しにせ",
+  "readingMnemonic": "This reading is an exception, so here's a mnemonic:\n\nYou go to an <vocabulary>old shop</vocabulary> and come across a <reading>shee</reading>p <reading>knee</reading> <reading>sa</reading>le (しにせ). When you ask what a sheep knee sale is, the clerk tells you quite matter-of-factly that it's a sale on all the sheep knees. You've never seen this in newer shops, so it must be a pretty old practice to buy and sell sheep knees.",
+  "otherMeanings": [
+    "Old Store"
+  ],
+  "otherReadings": [],
+  "wkSlug": "老舗",
+  "related": {
+    "radicals": [
+      104,
+      57,
+      433,
+      300
+    ],
+    "kanjis": [
+      781,
+      2197
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろうほ",
+      "url": "https://files.wanikani.com/12617ruk4sktzr1znbby6heuifaa"
+    },
+    {
+      "reading": "しにせ",
+      "url": "https://files.wanikani.com/oasm8kh7isecdswtg4qvm1vxvekr"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4256,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "残余"
+  },
+  "primaryMeaning": "Remainder",
+  "meaningMnemonic": "The <kanji>remaining</kanji> <kanji>surplus</kanji> is the <vocabulary>remainder</vocabulary> or <vocabulary>residual</vocabulary> left over.\n\nJust bear in mind that this is a technical word that you'll mostly see in legal and financial contexts.",
+  "primaryReading": "ざんよ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Residual"
+  ],
+  "otherReadings": [],
+  "wkSlug": "残余",
+  "related": {
+    "radicals": [
+      132,
+      8782,
+      8764,
+      207
+    ],
+    "kanjis": [
+      912,
+      1094
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ざんよ",
+      "url": "https://files.wanikani.com/5flmhr9vafs67812p26h19jqv5gn"
+    }
+  ]
+}

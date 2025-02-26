@@ -1,0 +1,31 @@
+{
+  "id": 5079,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "訪ねる"
+  },
+  "primaryMeaning": "To Visit",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>visit</kanji> so the verb vocab version is <vocabulary>to visit</vocabulary>.",
+  "primaryReading": "たずねる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: You want <vocabulary>to visit</vocabulary> your friend <reading>Taz</reading> (たず) the Tasmanian Devil. He's your best bro, so imagine visiting him and having a good time and saying you're going to visit him again.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "訪ねる",
+  "related": {
+    "radicals": [
+      117,
+      66
+    ],
+    "kanjis": [
+      1329
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たずねる",
+      "url": "https://files.wanikani.com/5scd7h8njq3nm9el8unmc6b42wxl"
+    }
+  ]
+}

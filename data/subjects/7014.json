@@ -1,0 +1,33 @@
+{
+  "id": 7014,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "泡"
+  },
+  "primaryMeaning": "Bubble",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あわ",
+  "readingMnemonic": "It's a <vocabulary>bubble</vocabulary>!\n\n<reading>A Wha---</reading>? (あわ)\n\nA BUBBLE.\n\nA WHA???",
+  "otherMeanings": [
+    "Foam"
+  ],
+  "otherReadings": [],
+  "wkSlug": "泡",
+  "related": {
+    "radicals": [
+      103,
+      395
+    ],
+    "kanjis": [
+      1962
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あわ",
+      "url": "https://files.wanikani.com/08jxx3tmrz5azo1q32ety9uo5xwn"
+    }
+  ]
+}

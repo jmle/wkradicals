@@ -1,0 +1,34 @@
+{
+  "id": 8386,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "盲目"
+  },
+  "primaryMeaning": "Blindness",
+  "meaningMnemonic": "<kanji>Blind</kanji> <kanji>eye</kanji>s will mean you suffer from <vocabulary>blindness</vocabulary>.",
+  "primaryReading": "もうもく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Blind"
+  ],
+  "otherReadings": [],
+  "wkSlug": "盲目",
+  "related": {
+    "radicals": [
+      212,
+      53
+    ],
+    "kanjis": [
+      2352,
+      492
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もうもく",
+      "url": "https://files.wanikani.com/8lsdm34i7ln1pm16kgck29x8pc20"
+    }
+  ]
+}

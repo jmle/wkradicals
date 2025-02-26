@@ -1,0 +1,38 @@
+{
+  "id": 8564,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "岩礁"
+  },
+  "primaryMeaning": "Reef",
+  "meaningMnemonic": "A <kanji>reef</kanji> made of <kanji>boulder</kanji>s is still a <vocabulary>reef</vocabulary>, but it's made of <vocabulary>sunken rocks</vocabulary>.",
+  "primaryReading": "がんしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sunken Rocks",
+    "Shore Reef",
+    "Rock Reef"
+  ],
+  "otherReadings": [],
+  "wkSlug": "岩礁",
+  "related": {
+    "radicals": [
+      20,
+      54,
+      240,
+      131
+    ],
+    "kanjis": [
+      929,
+      2413
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がんしょう",
+      "url": "https://files.wanikani.com/rh3sxp0b09p1y3qhg2g94hgbqnmy"
+    }
+  ]
+}

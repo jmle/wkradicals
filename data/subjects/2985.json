@@ -1,0 +1,30 @@
+{
+  "id": 2985,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "鳥"
+  },
+  "primaryMeaning": "Bird",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "とり",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. When learning the kanji, you didn't learn that reading, so here's a mnemonic to help you with this word: \n\nWhen you think about birds, what is the most common bird you can think of? What bird do you hate the most or like eating the most? Either one will work. Now, imagine yourself going up to that bird. You did something terrible. You <reading>tore</reading> (とり) off its wing and started eating it (pretend it's cooked first, if that makes you less nauseous).",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鳥",
+  "related": {
+    "radicals": [
+      151
+    ],
+    "kanjis": [
+      675
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とり",
+      "url": "https://files.wanikani.com/zhckgy7h7pe2f5qkf4lbal4ec0c9"
+    }
+  ]
+}

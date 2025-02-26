@@ -1,0 +1,35 @@
+{
+  "id": 3149,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "放送する"
+  },
+  "primaryMeaning": "To Broadcast Something",
+  "meaningMnemonic": "You are going to <kanji>release</kanji> and <kanji>send</kanji> something out. Imagine this message going out through the sky to everyone around you. You are going <vocabulary>to broadcast something</vocabulary> to the world! \n\nThe する is on there to make this noun a verb. Without the する it would be the noun \"broadcast.\"",
+  "primaryReading": "ほうそうする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "放送する",
+  "related": {
+    "radicals": [
+      66,
+      60,
+      114,
+      8767,
+      40
+    ],
+    "kanjis": [
+      791,
+      734
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうそうする",
+      "url": "https://files.wanikani.com/y363fcx1wxmi3263a6mgfktflxda"
+    }
+  ]
+}

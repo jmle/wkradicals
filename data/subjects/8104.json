@@ -1,0 +1,31 @@
+{
+  "id": 8104,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "栞"
+  },
+  "primaryMeaning": "Bookmark",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しおり",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "栞",
+  "related": {
+    "radicals": [
+      61,
+      23
+    ],
+    "kanjis": [
+      2259
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しおり",
+      "url": "https://files.wanikani.com/q5tmkv4kcqn3c2a78wb0km6iz4pm"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4685,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "輸血"
+  },
+  "primaryMeaning": "Blood Transfusion",
+  "meaningMnemonic": "<kanji>Transport</kanji> of <kanji>blood</kanji>. Only time you do this is during a <vocabulary>blood transfusion</vocabulary>.",
+  "primaryReading": "ゆけつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "輸血",
+  "related": {
+    "radicals": [
+      93,
+      8790,
+      137
+    ],
+    "kanjis": [
+      1221,
+      619
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆけつ",
+      "url": "https://files.wanikani.com/nk4s88wg9gjcujszy1toneo5bxbi"
+    }
+  ]
+}

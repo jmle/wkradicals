@@ -1,0 +1,34 @@
+{
+  "id": 4269,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "存在"
+  },
+  "primaryMeaning": "Existence",
+  "meaningMnemonic": "I <kanji>exist</kanji>, I <kanji>suppose</kanji>... this is the kind of <vocabulary>existence</vocabulary> I have. I'm not really sure either way, and I don't care. Existence is futile, I suppose.",
+  "primaryReading": "そんざい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "存在",
+  "related": {
+    "radicals": [
+      26,
+      8761,
+      34,
+      17
+    ],
+    "kanjis": [
+      990,
+      1107
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そんざい",
+      "url": "https://files.wanikani.com/yefojien64i1vwpwdjtzhfiwb6yd"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5759,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "奴隷"
+  },
+  "primaryMeaning": "Slave",
+  "meaningMnemonic": "Some <kanji>dude</kanji> who is a <kanji>slave</kanji> is just a <vocabulary>slave</vocabulary>.",
+  "primaryReading": "どれい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "奴隷",
+  "related": {
+    "radicals": [
+      19,
+      30,
+      97,
+      207,
+      220,
+      45
+    ],
+    "kanjis": [
+      1551,
+      1552
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どれい",
+      "url": "https://files.wanikani.com/u52bi1gljk03cdpkml93i72fkvkm"
+    }
+  ]
+}

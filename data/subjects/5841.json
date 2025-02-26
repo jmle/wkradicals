@@ -1,0 +1,38 @@
+{
+  "id": 5841,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "盛り上げる"
+  },
+  "primaryMeaning": "To Heap Up",
+  "meaningMnemonic": "盛る is \"to heap up.\" If you \"raise\" (上げる) what you heap up, well, that comes with heaping something up, making this word <vocabulary>to heap up</vocabulary> or <vocabulary>to pile up</vocabulary>. This word is also used when you want <vocabulary>to liven up</vocabulary> some things. Heap up that energy and stir things up!",
+  "primaryReading": "もりあげる",
+  "readingMnemonic": "The reading comes from 盛る and 上げる. Know those words and you'll be able to read this one too.",
+  "otherMeanings": [
+    "To Pile Up",
+    "To Liven Up",
+    "To Stir Up"
+  ],
+  "otherReadings": [],
+  "wkSlug": "盛り上げる",
+  "related": {
+    "radicals": [
+      263,
+      84,
+      10,
+      1
+    ],
+    "kanjis": [
+      1532,
+      450
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もりあげる",
+      "url": "https://files.wanikani.com/p5njc9uql6pvqquqq0amdnns8rxg"
+    }
+  ]
+}

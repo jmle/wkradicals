@@ -1,0 +1,35 @@
+{
+  "id": 6283,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "仙人"
+  },
+  "primaryMeaning": "Hermit",
+  "meaningMnemonic": "A <kanji>hermit</kanji> <kanji>person</kanji> is a <vocabulary>hermit</vocabulary> or <vocabulary>mountain man</vocabulary>.",
+  "primaryReading": "せんにん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Mountain Man"
+  ],
+  "otherReadings": [],
+  "wkSlug": "仙人",
+  "related": {
+    "radicals": [
+      75,
+      20,
+      9
+    ],
+    "kanjis": [
+      1720,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんにん",
+      "url": "https://files.wanikani.com/zts11wk0uhxf8bqx7ynvtuvphoxw"
+    }
+  ]
+}

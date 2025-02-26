@@ -1,0 +1,36 @@
+{
+  "id": 3493,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "投げ付ける"
+  },
+  "primaryMeaning": "To Throw Against",
+  "meaningMnemonic": "You know that you're <kanji>throw</kanji>ing something that is <kanji>attach</kanji>ing to something else. How else can you say that? The best way would be to say <vocabulary>to throw against</vocabulary> or <vocabulary>to throw at</vocabulary>.",
+  "primaryReading": "なげつける",
+  "readingMnemonic": "The readings just come from two vocab words you've hopefully seen already: 投げる and 付ける. So long as you know the readings for those words, the reading for this word should be no problem for you.",
+  "otherMeanings": [
+    "To Throw At"
+  ],
+  "otherReadings": [],
+  "wkSlug": "投げ付ける",
+  "related": {
+    "radicals": [
+      63,
+      160,
+      75,
+      74
+    ],
+    "kanjis": [
+      686,
+      652
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なげつける",
+      "url": "https://files.wanikani.com/h5xlx34hxaweajbb6cggh9emyjlj"
+    }
+  ]
+}

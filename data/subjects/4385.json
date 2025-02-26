@@ -1,0 +1,35 @@
+{
+  "id": 4385,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "宇宙人"
+  },
+  "primaryMeaning": "Alien",
+  "meaningMnemonic": "You know how 宇宙 is <kanji>space</kanji>? Well, a <kanji>person</kanji> from space is an <vocabulary>alien</vocabulary>.",
+  "primaryReading": "うちゅうじん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will also help to know how to read the word 宇宙 on its own, too.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "宇宙人",
+  "related": {
+    "radicals": [
+      78,
+      61,
+      268,
+      9
+    ],
+    "kanjis": [
+      1072,
+      1073,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うちゅうじん",
+      "url": "https://files.wanikani.com/ovisko1ko2apvqo6uypig6w7ct8i"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 4018,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "無力"
+  },
+  "primaryMeaning": "Powerless",
+  "meaningMnemonic": "When your <kanji>power</kanji> is <kanji>nothing</kanji> you are <vocabulary>powerless</vocabulary>.",
+  "primaryReading": "むりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. You also can know that 力 uses its りょく reading because when you tried to pick up a tiny <reading>rock</reading> (りょく) you couldn't, because you were powerless.",
+  "otherMeanings": [
+    "Powerlessness",
+    "Helplessness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "無力",
+  "related": {
+    "radicals": [
+      252,
+      13
+    ],
+    "kanjis": [
+      1008,
+      447
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むりょく",
+      "url": "https://files.wanikani.com/h7eg5ewzdr0p52xubwavcfpxr3ph"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7495,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "別れる"
+  },
+  "primaryMeaning": "To Separate",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>separate</kanji>, so you can guess the meaning is <vocabulary>to separate</vocabulary> or <vocabulary>to be divided</vocabulary>.",
+  "primaryReading": "わかれる",
+  "readingMnemonic": "Remember the word 分ける? That word means \"to separate\" too. The reading is similar, though not the same, but we can at least use it as a jumping off point. We go from わける to わかれる. It's like we've \"separated\" the け and the る and combined them in the middle. け, making a かれ, which gets you to <reading>わか</reading>れる.",
+  "otherMeanings": [
+    "To Be Divided",
+    "To Part From",
+    "To Break Up"
+  ],
+  "otherReadings": [],
+  "wkSlug": "別れる",
+  "related": {
+    "radicals": [
+      16,
+      24,
+      128
+    ],
+    "kanjis": [
+      785
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わかれる",
+      "url": "https://files.wanikani.com/6zvb1kqj0t3kt9mq66hsoorhnhx2"
+    }
+  ]
+}

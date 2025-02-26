@@ -1,0 +1,38 @@
+{
+  "id": 6437,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "衝撃"
+  },
+  "primaryMeaning": "Shock",
+  "meaningMnemonic": "If you <kanji>collide</kanji> and <kanji>attack</kanji> what you're colliding into, you're going to not only cause a large <vocabulary>shock</vocabulary> but also <vocabulary>crash</vocabulary> and <vocabulary>impact</vocabulary> into them. Blamo!",
+  "primaryReading": "しょうげき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Crash",
+    "Impact"
+  ],
+  "otherReadings": [],
+  "wkSlug": "衝撃",
+  "related": {
+    "radicals": [
+      111,
+      188,
+      93,
+      160,
+      41
+    ],
+    "kanjis": [
+      1768,
+      1377
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうげき",
+      "url": "https://files.wanikani.com/oz1k5azj392gzckf64vc507k4ut8"
+    }
+  ]
+}

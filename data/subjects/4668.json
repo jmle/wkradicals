@@ -1,0 +1,33 @@
+{
+  "id": 4668,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "担ぐ"
+  },
+  "primaryMeaning": "To Carry",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>carry</kanji> so the verb vocab version is <vocabulary>to carry</vocabulary>. This has to do with carrying something literal, unlike 担う which is not necessarily literal (you'll learn it later). And in this case, you carry it on your shoulder(s). You can remember that it's literal from the reading mnemonic, which has you carrying literal cats on your shoulders.",
+  "primaryReading": "かつぐ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nYou love <vocabulary>to carry</vocabulary> things, especially <reading>cats</reading> (かつ). You hoist them up onto your shoulders and carry them all around town.",
+  "otherMeanings": [
+    "To Shoulder"
+  ],
+  "otherReadings": [],
+  "wkSlug": "担ぐ",
+  "related": {
+    "radicals": [
+      63,
+      293
+    ],
+    "kanjis": [
+      1217
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かつぐ",
+      "url": "https://files.wanikani.com/idbxgquogm0ksg3lyttipo4vri4y"
+    }
+  ]
+}

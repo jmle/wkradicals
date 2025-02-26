@@ -1,0 +1,35 @@
+{
+  "id": 4845,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "確かめる"
+  },
+  "primaryMeaning": "To Make Sure Of",
+  "meaningMnemonic": "Like with 確か, which means <kanji>certain</kanji>, this is the verb version of that. So when you \"do certain\" you are going <vocabulary>to make sure of</vocabulary> something or you're going <vocabulary>to verify</vocabulary> something.",
+  "primaryReading": "たしかめる",
+  "readingMnemonic": "This one is kun'yomi followed by okurigana. If you remember the reading you learned with 確かに, you should know this one!",
+  "otherMeanings": [
+    "To Verify",
+    "To Confirm"
+  ],
+  "otherReadings": [],
+  "wkSlug": "確かめる",
+  "related": {
+    "radicals": [
+      54,
+      76,
+      240
+    ],
+    "kanjis": [
+      1103
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たしかめる",
+      "url": "https://files.wanikani.com/17gh62e0oh1tcoqnc1mwrjwpuybi"
+    }
+  ]
+}

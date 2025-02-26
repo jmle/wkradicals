@@ -1,0 +1,33 @@
+{
+  "id": 3391,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "登る"
+  },
+  "primaryMeaning": "To Climb",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>climb</kanji> so the verb vocab version would be <vocabulary>to climb</vocabulary> (or <vocabulary>to ascend</vocabulary>), if that's the kind of thing you're into.",
+  "primaryReading": "のぼる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. This has the same reading as 上る which you learned all that time ago in Level 1. If you can remember that, you can remember this one!",
+  "otherMeanings": [
+    "To Ascend"
+  ],
+  "otherReadings": [],
+  "wkSlug": "登る",
+  "related": {
+    "radicals": [
+      168,
+      181
+    ],
+    "kanjis": [
+      845
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のぼる",
+      "url": "https://files.wanikani.com/1dbnsy7nuxbwsbnzq85mi6qpsaud"
+    }
+  ]
+}

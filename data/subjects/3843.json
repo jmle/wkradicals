@@ -1,0 +1,31 @@
+{
+  "id": 3843,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "書く"
+  },
+  "primaryMeaning": "To Write",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>write</kanji> so the verb version means <vocabulary>to write</vocabulary>.",
+  "primaryReading": "かく",
+  "readingMnemonic": "The reading you learned with the kanji is the on'yomi one, but this word is read with the kun'yomi, か. So just be sure to remember the kun'yomi reading to read this word in the <reading>ca</reading>r (か) ... or <vocabulary>to write</vocabulary> it, or whatever.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "書く",
+  "related": {
+    "radicals": [
+      220,
+      22
+    ],
+    "kanjis": [
+      962
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かく",
+      "url": "https://files.wanikani.com/vcgewvjqwdc5mvqwnfoqmu2zc356"
+    }
+  ]
+}

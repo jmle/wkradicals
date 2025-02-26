@@ -1,0 +1,31 @@
+{
+  "id": 6270,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "壁"
+  },
+  "primaryMeaning": "Wall",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かべ",
+  "readingMnemonic": "The reading is the one you learned with the kanji!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "壁",
+  "related": {
+    "radicals": [
+      17,
+      367
+    ],
+    "kanjis": [
+      1715
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かべ",
+      "url": "https://files.wanikani.com/cyvhe2deu5ie9h3ylcrbo57q0kxo"
+    }
+  ]
+}

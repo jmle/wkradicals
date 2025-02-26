@@ -1,0 +1,36 @@
+{
+  "id": 6080,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "対向する"
+  },
+  "primaryMeaning": "To Be Oncoming",
+  "meaningMnemonic": "Being in the <kanji>versus</kanji> <kanji>yonder</kanji> (the opposite side) means you are in one yonder and someone is in the other yonder, and you are coming towards each other. So this means <vocabulary>to be oncoming</vocabulary> or <vocabulary>to come towards</vocabulary>.",
+  "primaryReading": "たいこうする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "To Come Towards"
+  ],
+  "otherReadings": [],
+  "wkSlug": "対向する",
+  "related": {
+    "radicals": [
+      42,
+      74,
+      3,
+      121
+    ],
+    "kanjis": [
+      683,
+      611
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいこうする",
+      "url": "https://files.wanikani.com/wyg7i31kyy5z41ihogl8ylj55ewy"
+    }
+  ]
+}

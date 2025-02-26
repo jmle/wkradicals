@@ -1,0 +1,33 @@
+{
+  "id": 7956,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "颯と"
+  },
+  "primaryMeaning": "Quickly",
+  "meaningMnemonic": "This is the adverb version of the kanji <kanji>quick</kanji>, so it means <vocabulary>quickly</vocabulary>.",
+  "primaryReading": "さっと",
+  "readingMnemonic": "This actually uses the kun'yomi reading, but it's almost the same as the one you learned when you learned the kanji. It's just さっ instead of さつ. If you can remember that さつ gets shortened here, you'll know how to read this!",
+  "otherMeanings": [
+    "Suddenly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "颯と",
+  "related": {
+    "radicals": [
+      55,
+      416
+    ],
+    "kanjis": [
+      2187
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さっと",
+      "url": "https://files.wanikani.com/tdmbs692efdk6ajjdgge3fmht7or"
+    }
+  ]
+}

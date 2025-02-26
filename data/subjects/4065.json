@@ -1,0 +1,31 @@
+{
+  "id": 4065,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "借りる"
+  },
+  "primaryMeaning": "To Borrow",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>borrow</kanji> so the verb vocab version is <vocabulary>to borrow</vocabulary>.",
+  "primaryReading": "かりる",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: Dude, can I borrow your <reading>ca</reading>r (か)? Please?",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "借りる",
+  "related": {
+    "radicals": [
+      75,
+      256
+    ],
+    "kanjis": [
+      1039
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かりる",
+      "url": "https://files.wanikani.com/5y6ch0rgki4i7272wzjy1vqbsf9d"
+    }
+  ]
+}

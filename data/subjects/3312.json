@@ -1,0 +1,36 @@
+{
+  "id": 3312,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "仲良く"
+  },
+  "primaryMeaning": "Friendly",
+  "meaningMnemonic": "When the <kanji>relationship</kanji> is <kanji>good</kanji>, that means you're <vocabulary>friendly</vocabulary> with that person. You're also on <vocabulary>good terms</vocabulary>.",
+  "primaryReading": "なかよく",
+  "readingMnemonic": "The readings are kun'yomi, but those are the readings you learned already, so hopefully we can stay on good terms, right?",
+  "otherMeanings": [
+    "Good Terms"
+  ],
+  "otherReadings": [],
+  "wkSlug": "仲良く",
+  "related": {
+    "radicals": [
+      75,
+      49,
+      3,
+      196
+    ],
+    "kanjis": [
+      776,
+      805
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なかよく",
+      "url": "https://files.wanikani.com/7xjmnataj38vjgirz6ngxcl9udur"
+    }
+  ]
+}

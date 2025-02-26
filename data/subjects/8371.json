@@ -1,0 +1,38 @@
+{
+  "id": 8371,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "旋回"
+  },
+  "primaryMeaning": "Revolution",
+  "meaningMnemonic": "It doesn't matter how many <kanji>times</kanji> a <kanji>rotation</kanji> goes around, it's still a <vocabulary>rotation</vocabulary>.",
+  "primaryReading": "せんかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Rotation",
+    "Turning",
+    "Circling"
+  ],
+  "otherReadings": [],
+  "wkSlug": "旋回",
+  "related": {
+    "radicals": [
+      66,
+      8762,
+      420,
+      16
+    ],
+    "kanjis": [
+      2332,
+      569
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんかい",
+      "url": "https://files.wanikani.com/b81xgi7x788qh93nd02g319n09r2"
+    }
+  ]
+}

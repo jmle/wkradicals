@@ -1,0 +1,39 @@
+{
+  "id": 7401,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "興奮"
+  },
+  "primaryMeaning": "Excitement",
+  "meaningMnemonic": "My <kanji>interest</kanji> is <kanji>stirred up</kanji>! I'm feeling <vocabulary>excitement</vocabulary> and <vocabulary>stimulation</vocabulary> from all this stirring up, in fact!",
+  "primaryReading": "こうふん",
+  "readingMnemonic": "The reading for 興奮 is one you didn't learn with the kanji, though it's similar. Instead of きょう it's こう, so just think of how whenever you feel excitement, it's thanks to <reading>こう</reading>いち. So just think of こういち exciting you in some way to remember this vocab's reading.",
+  "otherMeanings": [
+    "Stimulation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "興奮",
+  "related": {
+    "radicals": [
+      8792,
+      341,
+      1,
+      2,
+      18,
+      240,
+      51
+    ],
+    "kanjis": [
+      1491,
+      2105
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうふん",
+      "url": "https://files.wanikani.com/vknpogi8ubqt15r25jsgjisp7nvz"
+    }
+  ]
+}

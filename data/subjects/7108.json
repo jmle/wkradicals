@@ -1,0 +1,39 @@
+{
+  "id": 7108,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "休憩"
+  },
+  "primaryMeaning": "Rest",
+  "meaningMnemonic": "A <kanji>rest</kanji> <kanji>rest</kanji> is a <vocabulary>rest</vocabulary>. A <vocabulary>break</vocabulary>. A <vocabulary>recess</vocabulary>.",
+  "primaryReading": "きゅうけい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Break",
+    "Recess",
+    "Intermission"
+  ],
+  "otherReadings": [],
+  "wkSlug": "休憩",
+  "related": {
+    "radicals": [
+      75,
+      23,
+      174,
+      109,
+      65
+    ],
+    "kanjis": [
+      542,
+      1998
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうけい",
+      "url": "https://files.wanikani.com/n4589lm2t4nctl4nui5z6h1strby"
+    }
+  ]
+}

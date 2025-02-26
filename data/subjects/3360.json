@@ -1,0 +1,37 @@
+{
+  "id": 3360,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "最悪"
+  },
+  "primaryMeaning": "The Worst",
+  "meaningMnemonic": "The <kanji>most</kanji> <kanji>bad</kanji> is <vocabulary>the worst</vocabulary>. At least it can’t get any worse…",
+  "primaryReading": "さいあく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Worst"
+  ],
+  "otherReadings": [],
+  "wkSlug": "最悪",
+  "related": {
+    "radicals": [
+      22,
+      88,
+      30,
+      204,
+      65
+    ],
+    "kanjis": [
+      774,
+      829
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいあく",
+      "url": "https://files.wanikani.com/80x2wmzast8zvhxzo2jvlhsjoytq"
+    }
+  ]
+}

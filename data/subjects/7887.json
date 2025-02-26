@@ -1,0 +1,39 @@
+{
+  "id": 7887,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "怠慢"
+  },
+  "primaryMeaning": "Negligence",
+  "meaningMnemonic": "You ignore everything around you because you are <kanji>lazy</kanji> with <kanji>laziness</kanji>. That's too much lazy for one person so you're prone to <vocabulary>negligence</vocabulary> and <vocabulary>procrastination</vocabulary>. You definitely can't manage to take care of things when you're this lazy.",
+  "primaryReading": "たいまん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Procrastination",
+    "Carelessness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "怠慢",
+  "related": {
+    "radicals": [
+      417,
+      65,
+      232,
+      22,
+      163,
+      30
+    ],
+    "kanjis": [
+      2181,
+      2179
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいまん",
+      "url": "https://files.wanikani.com/12egiqf4e32rrgxwrx7nqrjkzod2"
+    }
+  ]
+}

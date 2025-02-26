@@ -1,0 +1,37 @@
+{
+  "id": 7063,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "化粧"
+  },
+  "primaryMeaning": "Makeup",
+  "meaningMnemonic": "<kanji>Change</kanji> your face with <kanji>cosmetics</kanji>! This is via <vocabulary>makeup</vocabulary> or, of course, <vocabulary>cosmetics</vocabulary>.",
+  "primaryReading": "けしょう",
+  "readingMnemonic": "The reading for 化 is a new reading, け. To remember this, think about someone putting on <vocabulary>makeup</vocabulary>. They finish putting it on, and then you say \"<reading>K, show</reading> (けしょう) me!\"",
+  "otherMeanings": [
+    "Cosmetics"
+  ],
+  "otherReadings": [],
+  "wkSlug": "化粧",
+  "related": {
+    "radicals": [
+      75,
+      57,
+      98,
+      62,
+      17
+    ],
+    "kanjis": [
+      607,
+      1979
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けしょう",
+      "url": "https://files.wanikani.com/wlu3wk4yxxi2zwxlr6lnhema9dlu"
+    }
+  ]
+}

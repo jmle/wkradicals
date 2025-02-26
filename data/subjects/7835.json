@@ -1,0 +1,35 @@
+{
+  "id": 7835,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "不貞"
+  },
+  "primaryMeaning": "Unfaithful",
+  "meaningMnemonic": "When you do <kanji>not</kanji> have <kanji>chastity</kanji>, it's probably because you were <vocabulary>unfaithful</vocabulary> to your promise to whoever you told you'd stay chaste to.",
+  "primaryReading": "ふてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Infidelity"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不貞",
+  "related": {
+    "radicals": [
+      96,
+      10,
+      94
+    ],
+    "kanjis": [
+      563,
+      2144
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふてい",
+      "url": "https://files.wanikani.com/xuxy5f4i77z9adi5wjujwsmnibxd"
+    }
+  ]
+}

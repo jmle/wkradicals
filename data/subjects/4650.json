@@ -1,0 +1,36 @@
+{
+  "id": 4650,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "俳優"
+  },
+  "primaryMeaning": "Actor",
+  "meaningMnemonic": "A <kanji>superior</kanji> <kanji>haiku</kanji> requires someone really famous and well known to read it... it's just on that level. Who is super well known and who deserves to read this superior haiku? A great <vocabulary>actor</vocabulary>, perhaps?",
+  "primaryReading": "はいゆう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "俳優",
+  "related": {
+    "radicals": [
+      75,
+      209,
+      239,
+      76,
+      65,
+      60
+    ],
+    "kanjis": [
+      1215,
+      1206
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいゆう",
+      "url": "https://files.wanikani.com/mfac9drxpuk4k1ntrwaxm5gp5qbl"
+    }
+  ]
+}

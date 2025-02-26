@@ -1,0 +1,36 @@
+{
+  "id": 6158,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "年齢"
+  },
+  "primaryMeaning": "Years Old",
+  "meaningMnemonic": "Your <kanji>year</kanji> <kanji>age</kanji> is the number of <vocabulary>years old</vocabulary> you are.",
+  "primaryReading": "ねんれい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Age"
+  ],
+  "otherReadings": [],
+  "wkSlug": "年齢",
+  "related": {
+    "radicals": [
+      8762,
+      126,
+      372,
+      189
+    ],
+    "kanjis": [
+      546,
+      1676
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねんれい",
+      "url": "https://files.wanikani.com/ysbsciley242pomasi4p61phzeu1"
+    }
+  ]
+}

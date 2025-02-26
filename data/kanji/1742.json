@@ -1,0 +1,42 @@
+{
+  "id": 1742,
+  "type": "kanji",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "顧"
+  },
+  "primaryReading": "こ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "こ",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "かえり",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Review",
+  "otherMeanings": [],
+  "meaningMnemonic": "You <radical>employ</radical> a <radical>geoduck</radical> to <kanji>review</kanji> all your work. ",
+  "readingMnemonic": "As the geoduck <kanji>review</kanji>s your paperwork, it notices something surprising. You have a <reading>子</reading> (こ)!",
+  "wkSlug": "顧",
+  "related": {
+    "radicals": [
+      378,
+      184
+    ],
+    "vocabularies": [
+      6359,
+      6360,
+      6361
+    ]
+  },
+  "radicalNames": [
+    "Employ",
+    "Geoduck"
+  ]
+}

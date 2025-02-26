@@ -1,0 +1,38 @@
+{
+  "id": 4242,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "連続"
+  },
+  "primaryMeaning": "Serial",
+  "meaningMnemonic": "If you <kanji>take along</kanji> and <kanji>continue</kanji> something, you are creating a <vocabulary>serial</vocabulary> version of it. Come along now. Okay, continue! Come along now. Okay, continue! This is how Lord of the Rings was made, probably. Come along now.",
+  "primaryReading": "れんぞく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Consecutive",
+    "Successive",
+    "Series"
+  ],
+  "otherReadings": [],
+  "wkSlug": "連続",
+  "related": {
+    "radicals": [
+      114,
+      93,
+      86,
+      439
+    ],
+    "kanjis": [
+      1084,
+      1083
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "れんぞく",
+      "url": "https://files.wanikani.com/hmwmaobrgdsi1g9e5349vmh11kp7"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 3355,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "商売"
+  },
+  "primaryMeaning": "Business",
+  "meaningMnemonic": "<kanji>Sell</kanji>ing <kanji>merchandise</kanji> is <vocabulary>business</vocabulary>, <vocabulary>commerce</vocabulary>, or <vocabulary>trade</vocabulary>.",
+  "primaryReading": "しょうばい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. You've learned them both already!",
+  "otherMeanings": [
+    "Commerce",
+    "Trade"
+  ],
+  "otherReadings": [],
+  "wkSlug": "商売",
+  "related": {
+    "radicals": [
+      55,
+      121,
+      28,
+      97,
+      76
+    ],
+    "kanjis": [
+      828,
+      587
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうばい",
+      "url": "https://files.wanikani.com/5k4p6uyot68xf2io4c118yfxwit5"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4462,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "税金"
+  },
+  "primaryMeaning": "Tax",
+  "meaningMnemonic": "The <kanji>tax</kanji> <kanji>gold</kanji> is what you have to pay when you have to pay a <vocabulary>tax</vocabulary>.",
+  "primaryReading": "ぜいきん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "税金",
+  "related": {
+    "radicals": [
+      135,
+      422,
+      118
+    ],
+    "kanjis": [
+      1149,
+      602
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜいきん",
+      "url": "https://files.wanikani.com/5cqkgo4t42ufnyotp7f2tm1g89dw"
+    }
+  ]
+}

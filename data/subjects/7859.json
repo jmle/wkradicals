@@ -1,0 +1,35 @@
+{
+  "id": 7859,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "襟"
+  },
+  "primaryMeaning": "Collar",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "えり",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Lapel",
+    "Neck"
+  ],
+  "otherReadings": [],
+  "wkSlug": "襟",
+  "related": {
+    "radicals": [
+      80,
+      23,
+      207
+    ],
+    "kanjis": [
+      2149
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えり",
+      "url": "https://files.wanikani.com/xbon9drxy8ad9yo0k5fp6o5w9auf"
+    }
+  ]
+}

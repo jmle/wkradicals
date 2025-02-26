@@ -1,0 +1,39 @@
+{
+  "id": 8360,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "悪循環"
+  },
+  "primaryMeaning": "Vicious Cycle",
+  "meaningMnemonic": "You already know that 循環 means \"circulation\" or \"cycle,\" so adding <kanji>bad</kanji> to that makes it a <vocabulary>vicious cycle</vocabulary>.",
+  "primaryReading": "あくじゅんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "悪循環",
+  "related": {
+    "radicals": [
+      204,
+      65,
+      99,
+      116,
+      8773,
+      48,
+      163,
+      8784
+    ],
+    "kanjis": [
+      829,
+      2282,
+      1240
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あくじゅんかん",
+      "url": "https://files.wanikani.com/w5c33m63w8rd0y6hesspfsq3umuo"
+    }
+  ]
+}

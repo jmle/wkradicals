@@ -1,0 +1,30 @@
+{
+  "id": 4721,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "象"
+  },
+  "primaryMeaning": "Elephant",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ぞう",
+  "readingMnemonic": "The reading is the ぞう reading of the kanji. You're at the ぞう show. How exciting.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "象",
+  "related": {
+    "radicals": [
+      8823
+    ],
+    "kanjis": [
+      1237
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぞう",
+      "url": "https://files.wanikani.com/8lr8evz1kw1qzarhsnjrp82ler64"
+    }
+  ]
+}

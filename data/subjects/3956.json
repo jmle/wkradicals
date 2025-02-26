@@ -1,0 +1,38 @@
+{
+  "id": 3956,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "外側"
+  },
+  "primaryMeaning": "Outside",
+  "meaningMnemonic": "The <kanji>outside</kanji> <kanji>side</kanji> is the <vocabulary>outside</vocabulary>.",
+  "primaryReading": "そとがわ",
+  "readingMnemonic": "This word uses the kun'yomi readings from the kanji. Since you learned the kun'yomi reading for 外 with the vocabulary, you should be just fine here.",
+  "otherMeanings": [
+    "Outer Side",
+    "Exterior"
+  ],
+  "otherReadings": [],
+  "wkSlug": "外側",
+  "related": {
+    "radicals": [
+      33,
+      10,
+      75,
+      94,
+      128
+    ],
+    "kanjis": [
+      521,
+      999
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そとがわ",
+      "url": "https://files.wanikani.com/uo6mcyug33qn2kn6rze7hfqik566"
+    }
+  ]
+}

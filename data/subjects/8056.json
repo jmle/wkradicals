@@ -1,0 +1,38 @@
+{
+  "id": 8056,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "高騰"
+  },
+  "primaryMeaning": "Sudden Price Jump",
+  "meaningMnemonic": "<kanji>Tall</kanji> <kanji>inflation</kanji> of prices means that there was a <vocabulary>sudden price jump</vocabulary> and it's waaaay more expensive than it used to be.",
+  "primaryReading": "こうとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Steep Price Rise"
+  ],
+  "otherReadings": [],
+  "wkSlug": "高騰",
+  "related": {
+    "radicals": [
+      8,
+      16,
+      121,
+      43,
+      8819,
+      165
+    ],
+    "kanjis": [
+      666,
+      2198
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうとう",
+      "url": "https://files.wanikani.com/kneuwx58o60bgwc6phu5kf6a2bcw"
+    }
+  ]
+}

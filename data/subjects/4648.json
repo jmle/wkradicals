@@ -1,0 +1,33 @@
+{
+  "id": 4648,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "呼ぶ"
+  },
+  "primaryMeaning": "To Call",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>call</kanji> so the verb vocab version is <vocabulary>to call</vocabulary> or <vocabulary>to call out</vocabulary>. As in \"HEY, YOU!\"",
+  "primaryReading": "よぶ",
+  "readingMnemonic": "The reading is the same as the kanji, so you should be good here. Just imagine yourself  calling out to someone: \"<reading>YO</reading> (よ)! You!\"",
+  "otherMeanings": [
+    "To Call Out"
+  ],
+  "otherReadings": [],
+  "wkSlug": "呼ぶ",
+  "related": {
+    "radicals": [
+      16,
+      279
+    ],
+    "kanjis": [
+      1213
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よぶ",
+      "url": "https://files.wanikani.com/39hgv2xl52e8thw6sybrzqbbp631"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6309,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "拒否"
+  },
+  "primaryMeaning": "Refusal",
+  "meaningMnemonic": "I <kanji>refuse</kanji>. I am saying \"<kanji>no</kanji>.\" That is my <vocabulary>refusal</vocabulary>.",
+  "primaryReading": "きょひ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Rejection"
+  ],
+  "otherReadings": [],
+  "wkSlug": "拒否",
+  "related": {
+    "radicals": [
+      63,
+      314,
+      96,
+      16
+    ],
+    "kanjis": [
+      1730,
+      1517
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょひ",
+      "url": "https://files.wanikani.com/ia21h48d6qh6l53ht3giuheqmcba"
+    }
+  ]
+}

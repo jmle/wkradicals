@@ -1,0 +1,37 @@
+{
+  "id": 5708,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "似合う"
+  },
+  "primaryMeaning": "To Suit",
+  "meaningMnemonic": "It <kanji>resemble</kanji>s you! It <kanji>suit</kanji>s you! Wow, your good looks really cause this scarf <vocabulary>to suit</vocabulary> you, you know?",
+  "primaryReading": "にあう",
+  "readingMnemonic": "The reading is from 似る and 合う, put together.",
+  "otherMeanings": [
+    "To Match"
+  ],
+  "otherReadings": [],
+  "wkSlug": "似合う",
+  "related": {
+    "radicals": [
+      75,
+      56,
+      3,
+      9,
+      216
+    ],
+    "kanjis": [
+      1472,
+      852
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にあう",
+      "url": "https://files.wanikani.com/zdb7nh0x6ht76ao5f7pqrk54m0l3"
+    }
+  ]
+}

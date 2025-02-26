@@ -1,0 +1,33 @@
+{
+  "id": 3740,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "区"
+  },
+  "primaryMeaning": "District",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "く",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji!",
+  "otherMeanings": [
+    "Ward"
+  ],
+  "otherReadings": [],
+  "wkSlug": "区",
+  "related": {
+    "radicals": [
+      217,
+      31
+    ],
+    "kanjis": [
+      937
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "く",
+      "url": "https://files.wanikani.com/339t6d0al0zei8bpg9z4wp5x0q1d"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 9102,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "大輔"
+  },
+  "primaryMeaning": "Daisuke",
+  "meaningMnemonic": "Who's a <kanji>big</kanji> <kanji>help</kanji>? That'll be <vocabulary>Daisuke</vocabulary>!\n\nFamous Daisukes include film director and screenwriter Itō Daisuke (伊藤 大輔), figure skater Takahashi Daisuke (髙橋 大輔), and actor and singer Namikawa Daisuke (浪川 大輔).",
+  "primaryReading": "だいすけ",
+  "readingMnemonic": "This name uses the on'yomi for 大 and the nanori for 輔. You learned both of these with the kanji, so that should be a big help.\n\nNote: Historically, this name can be read たいふ or おおすけ, as is the case for Heian period poet 伊勢大輔, whose name can be read either いせのたいふ or いせのおおすけ. In modern contexts, you'll only need to know だいすけ though, not to worry!",
+  "otherMeanings": [
+    "Taifu",
+    "Osuke"
+  ],
+  "otherReadings": [
+    "たいふ",
+    "おおすけ"
+  ],
+  "wkSlug": "大輔",
+  "related": {
+    "radicals": [
+      18,
+      93,
+      300
+    ],
+    "kanjis": [
+      453,
+      2189
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいふ",
+      "url": "https://files.wanikani.com/slgzx1ecazttlmomz5ysx9mv2vhi"
+    },
+    {
+      "reading": "おおすけ",
+      "url": "https://files.wanikani.com/b2avqh97z8zdmgfkj1yzdd2ai7zy"
+    },
+    {
+      "reading": "だいすけ",
+      "url": "https://files.wanikani.com/uf6eyly3cyvxqn9c5rd2710q1u0b"
+    }
+  ]
+}

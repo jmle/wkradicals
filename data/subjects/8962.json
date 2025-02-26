@@ -1,0 +1,42 @@
+{
+  "id": 8962,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "山道"
+  },
+  "primaryMeaning": "Mountain Road",
+  "meaningMnemonic": "A <kanji>mountain</kanji> <kanji>road</kanji> is a <vocabulary>mountain road</vocabulary>! Or a <vocabulary>mountain trail</vocabulary>, or a <vocabulary>mountain path</vocabulary>.",
+  "primaryReading": "やまみち",
+  "readingMnemonic": "Both the kanji in this word use the kun'yomi, which you learned when you learned the vocabulary. When it uses this reading, it sounds casual, and is common in conversation. It can also be read using the on'yomi, though, in which case it has a more formal feel to it. That's typical of on'yomi, which tends to add formality to a word!",
+  "otherMeanings": [
+    "Mountain Trail",
+    "Mountain Path"
+  ],
+  "otherReadings": [
+    "さんどう"
+  ],
+  "wkSlug": "山道",
+  "related": {
+    "radicals": [
+      20,
+      114,
+      156
+    ],
+    "kanjis": [
+      455,
+      700
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さんどう",
+      "url": "https://files.wanikani.com/qo2or4cc2t9m9x7nkxj6uvj4lkdm"
+    },
+    {
+      "reading": "やまみち",
+      "url": "https://files.wanikani.com/ephg3l04ii2chpxklz8qdxq1qvo3"
+    }
+  ]
+}

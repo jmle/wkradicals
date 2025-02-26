@@ -1,0 +1,40 @@
+{
+  "id": 4424,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "総体的"
+  },
+  "primaryMeaning": "As A Whole",
+  "meaningMnemonic": "With the <kanji>whole</kanji> <kanji>body</kanji>. Do it <vocabulary>as a whole</vocabulary> instead of as a part, or something.",
+  "primaryReading": "そうたいてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Overall"
+  ],
+  "otherReadings": [],
+  "wkSlug": "総体的",
+  "related": {
+    "radicals": [
+      86,
+      237,
+      65,
+      75,
+      50,
+      52,
+      236
+    ],
+    "kanjis": [
+      1131,
+      583,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうたいてき",
+      "url": "https://files.wanikani.com/olk67ers8obnvawxnvvr9j2x5ael"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3388,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "空港"
+  },
+  "primaryMeaning": "Airport",
+  "meaningMnemonic": "Put aside your steampunk blimp fantasies for a moment. A <kanji>sky</kanji> <kanji>harbor</kanji> is an <vocabulary>airport</vocabulary>, nothing more.",
+  "primaryReading": "くうこう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "空港",
+  "related": {
+    "radicals": [
+      170,
+      25,
+      103,
+      269,
+      228
+    ],
+    "kanjis": [
+      601,
+      843
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くうこう",
+      "url": "https://files.wanikani.com/ucpxkzfxnvw0o5p0idi4n353k0lz"
+    }
+  ]
+}

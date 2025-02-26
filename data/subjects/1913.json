@@ -1,0 +1,39 @@
+{
+  "id": 1913,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "狩"
+  },
+  "primaryReading": "か",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "か",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゅ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Hunt",
+  "otherMeanings": [],
+  "meaningMnemonic": "I <radical>protect</radical> my own <radical>animal</radical>s by going to <kanji>hunt</kanji> other animals... like wolves and cougars and such. ",
+  "readingMnemonic": "I also do all my <kanji>hunt</kanji>s using a <reading>ca</reading>r (か). I just run those animals down with my car. Kind of cheating, but vroom vroom anyways.",
+  "wkSlug": "狩",
+  "related": {
+    "radicals": [
+      144,
+      396
+    ],
+    "vocabularies": [
+      6869,
+      6870,
+      7142,
+      7909
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6400,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "排他"
+  },
+  "primaryMeaning": "Exclusion",
+  "meaningMnemonic": "When you <kanji>expel</kanji> <kanji>other</kanji>s, you're doing <vocabulary>exclusion</vocabulary>.",
+  "primaryReading": "はいた",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "排他",
+  "related": {
+    "radicals": [
+      63,
+      209,
+      75,
+      77
+    ],
+    "kanjis": [
+      1755,
+      529
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいた",
+      "url": "https://files.wanikani.com/rmjub2nuoymjpgqshilp92mwcd4z"
+    }
+  ]
+}

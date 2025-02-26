@@ -1,0 +1,37 @@
+{
+  "id": 4848,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "前回"
+  },
+  "primaryMeaning": "Last Time",
+  "meaningMnemonic": "The <kanji>before</kanji> <kanji>time</kanji> was <vocabulary>last time</vocabulary> or the <vocabulary>previous time</vocabulary>",
+  "primaryReading": "ぜんかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Previous Time"
+  ],
+  "otherReadings": [],
+  "wkSlug": "前回",
+  "related": {
+    "radicals": [
+      8767,
+      1,
+      43,
+      128,
+      16
+    ],
+    "kanjis": [
+      633,
+      569
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんかい",
+      "url": "https://files.wanikani.com/0tafktrgmbidsxxarev01d5xljvt"
+    }
+  ]
+}

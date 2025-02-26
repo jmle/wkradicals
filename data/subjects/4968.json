@@ -1,0 +1,37 @@
+{
+  "id": 4968,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "討論"
+  },
+  "primaryMeaning": "Debate",
+  "meaningMnemonic": "I'm going to <kanji> chastise</kanji> you about this <kanji>theory</kanji>. When I do this, this is a <vocabulary>debate</vocabulary>. Doesn't it feel like you're being chastised when people are debating with you sometimes, especially with your own theories? I think so.",
+  "primaryReading": "とうろん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Discussion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "討論",
+  "related": {
+    "radicals": [
+      117,
+      74,
+      8764,
+      1,
+      226
+    ],
+    "kanjis": [
+      1298,
+      1119
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうろん",
+      "url": "https://files.wanikani.com/tu3blnnuipvg6dc1boxl5j0dfy6f"
+    }
+  ]
+}

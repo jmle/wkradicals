@@ -1,0 +1,36 @@
+{
+  "id": 7066,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "詐取"
+  },
+  "primaryMeaning": "Swindle",
+  "meaningMnemonic": "You use your <kanji>lie</kanji> to <kanji>take</kanji> what you want. That's when you <vocabulary>swindle</vocabulary> or <vocabulary>defraud</vocabulary> someone to get their stuff. How dare you!\n\n詐取 refers to the act of fraudulently obtaining something, typically money or property, through deceptive practices. This term is formal and often used in legal contexts.",
+  "primaryReading": "さしゅ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Defraud"
+  ],
+  "otherReadings": [],
+  "wkSlug": "詐取",
+  "related": {
+    "radicals": [
+      117,
+      122,
+      88,
+      30
+    ],
+    "kanjis": [
+      1981,
+      966
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さしゅ",
+      "url": "https://files.wanikani.com/e8uwsoz1xeniedzhu35cudqgth9j"
+    }
+  ]
+}

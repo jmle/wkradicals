@@ -1,0 +1,32 @@
+{
+  "id": 6808,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "梨"
+  },
+  "primaryMeaning": "Pear",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "なし",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "梨",
+  "related": {
+    "radicals": [
+      135,
+      128,
+      23
+    ],
+    "kanjis": [
+      1889
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なし",
+      "url": "https://files.wanikani.com/vk39xpjv08aa3hkpzw617fgaxt54"
+    }
+  ]
+}

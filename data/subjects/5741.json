@@ -1,0 +1,38 @@
+{
+  "id": 5741,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "興味がない"
+  },
+  "primaryMeaning": "No Interest",
+  "meaningMnemonic": "興味 is <kanji>interest</kanji> in something. If you do not have (がない) that interest, then you have <vocabulary>no interest</vocabulary> or you're <vocabulary>not interested</vocabulary>.",
+  "primaryReading": "きょうみがない",
+  "readingMnemonic": "You learned that the word 興味 uses the on'yomi readings for both kanji, so all you have to do is add が + ない and you've got a new expression!",
+  "otherMeanings": [
+    "Not Interested"
+  ],
+  "otherReadings": [],
+  "wkSlug": "興味がない",
+  "related": {
+    "radicals": [
+      8792,
+      341,
+      1,
+      2,
+      16,
+      134
+    ],
+    "kanjis": [
+      1491,
+      812
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうみがない",
+      "url": "https://files.wanikani.com/gl7vhflewj4wbs8ssi74b6zdeiyy"
+    }
+  ]
+}

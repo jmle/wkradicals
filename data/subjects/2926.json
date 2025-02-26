@@ -1,0 +1,32 @@
+{
+  "id": 2926,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "首になる"
+  },
+  "primaryMeaning": "To Get Fired",
+  "meaningMnemonic": "The になる part means \"to become,\" so literally this means \"to become neck.\" If you think about it, when something becomes neck, it has to do with you getting your head cut off (at the neck). But, in today's modern society we don't do that too often. Instead, this means you lose your job, aka <vocabulary>to get fired</vocabulary>.",
+  "primaryReading": "くびになる",
+  "readingMnemonic": "This word contains the reading you learned with the kanji. Everything else is hiragana.",
+  "otherMeanings": [
+    "To Get Sacked"
+  ],
+  "otherReadings": [],
+  "wkSlug": "首になる",
+  "related": {
+    "radicals": [
+      156
+    ],
+    "kanjis": [
+      645
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くびになる",
+      "url": "https://files.wanikani.com/06oj35s8yevafdff2n9ba6m4zees"
+    }
+  ]
+}

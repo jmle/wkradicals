@@ -1,0 +1,37 @@
+{
+  "id": 4297,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "危機"
+  },
+  "primaryMeaning": "Crisis",
+  "meaningMnemonic": "A <kanji>dangerous</kanji> <kanji>machine</kanji> is walking through your town, destroying everything. This is a huge <vocabulary>crisis</vocabulary>!",
+  "primaryReading": "きき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "危機",
+  "related": {
+    "radicals": [
+      14,
+      116,
+      158,
+      23,
+      87,
+      194,
+      9
+    ],
+    "kanjis": [
+      989,
+      1090
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きき",
+      "url": "https://files.wanikani.com/23cr614ivqc7s977zdk82bmdmb9e"
+    }
+  ]
+}

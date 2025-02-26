@@ -1,0 +1,38 @@
+{
+  "id": 7706,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "議員"
+  },
+  "primaryMeaning": "Member Of The Diet",
+  "meaningMnemonic": "A <kanji>discussion</kanji> <kanji>member</kanji> talks about all the really important things that need to be discussed for the sake of the country. They are a <vocabulary>member of the Diet</vocabulary>. The Diet is Japan's version of congress. <vocabulary>Diet members</vocabulary> discuss really important matters.",
+  "primaryReading": "ぎいん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Diet Member",
+    "Legislator",
+    "Assembly Member"
+  ],
+  "otherReadings": [],
+  "wkSlug": "議員",
+  "related": {
+    "radicals": [
+      117,
+      383,
+      16,
+      94
+    ],
+    "kanjis": [
+      1114,
+      821
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎいん",
+      "url": "https://files.wanikani.com/71t8deuoi7ys6fuwieffxeqdidyr"
+    }
+  ]
+}

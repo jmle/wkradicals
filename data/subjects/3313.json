@@ -1,0 +1,33 @@
+{
+  "id": 3313,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "特に"
+  },
+  "primaryMeaning": "Especially",
+  "meaningMnemonic": "Something is towards (に) <kanji>special</kanji>. That thing is <vocabulary>especially</vocabulary> special, wouldn't you say?",
+  "primaryReading": "とくに",
+  "readingMnemonic": "The reading is the same reading you learned for this kanji.",
+  "otherMeanings": [
+    "Particularly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "特に",
+  "related": {
+    "radicals": [
+      126,
+      192
+    ],
+    "kanjis": [
+      807
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とくに",
+      "url": "https://files.wanikani.com/brjisny21nkvwx1rbrwneovokudf"
+    }
+  ]
+}

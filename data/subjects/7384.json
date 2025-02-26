@@ -1,0 +1,36 @@
+{
+  "id": 7384,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "諮問"
+  },
+  "primaryMeaning": "Question",
+  "meaningMnemonic": "I need to <kanji>consult</kanji> you on this <kanji>problem</kanji>, if I could. I have a <vocabulary>question</vocabulary> / <vocabulary>enquiry</vocabulary> I'd like to ask you.",
+  "primaryReading": "しもん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Enquiry"
+  ],
+  "otherReadings": [],
+  "wkSlug": "諮問",
+  "related": {
+    "radicals": [
+      117,
+      278,
+      16,
+      214
+    ],
+    "kanjis": [
+      2097,
+      859
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しもん",
+      "url": "https://files.wanikani.com/32jq3w7bvwmey4zsmy4at633jmrq"
+    }
+  ]
+}

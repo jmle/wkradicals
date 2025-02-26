@@ -1,0 +1,36 @@
+{
+  "id": 6373,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "歌唱"
+  },
+  "primaryMeaning": "Singing",
+  "meaningMnemonic": "You're <kanji>sing</kanji>ing and you're <kanji>chant</kanji>ing. It's a gay ol' time. You're <vocabulary>singing</vocabulary> and singing and singing!",
+  "primaryReading": "かしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Song"
+  ],
+  "otherReadings": [],
+  "wkSlug": "歌唱",
+  "related": {
+    "radicals": [
+      113,
+      142,
+      16,
+      22
+    ],
+    "kanjis": [
+      761,
+      1746
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かしょう",
+      "url": "https://files.wanikani.com/rk9l2kt67cvrb3po4ligxnsv7vyl"
+    }
+  ]
+}

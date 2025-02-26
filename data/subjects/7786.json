@@ -1,0 +1,40 @@
+{
+  "id": 7786,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "勘定"
+  },
+  "primaryMeaning": "Calculation",
+  "meaningMnemonic": "When you use your <kanji>intuition</kanji> to <kanji>determine</kanji> the amount of something, you'll end up doing the <vocabulary>calculations</vocabulary> in your head. You do the same thing when it's time to pay your <vocabulary>bill</vocabulary> at dinner too: just determine the amount in your head, go with your intuition, and all should be good.",
+  "primaryReading": "かんじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. However, 定 uses a reading you didn’t learn, so here's a mnemonic to help you:\n\nIf you're having trouble with the <vocabulary>calculation</vocabulary> of your <vocabulary>bill</vocabulary>, just call <reading>Joe</reading> (じょう)! He’s surprisingly good with numbers, so whenever you’re lost at the restaurant table, just give him a quick call.",
+  "otherMeanings": [
+    "Counting",
+    "Allowance",
+    "Payment",
+    "Bill",
+    "Check"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勘定",
+  "related": {
+    "radicals": [
+      407,
+      13,
+      78,
+      229
+    ],
+    "kanjis": [
+      2081,
+      714
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんじょう",
+      "url": "https://files.wanikani.com/9w5ktplxcjpklb9bm4zyclwdifdg"
+    }
+  ]
+}

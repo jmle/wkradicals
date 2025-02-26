@@ -1,0 +1,38 @@
+{
+  "id": 7942,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "鎖国"
+  },
+  "primaryMeaning": "National Isolation",
+  "meaningMnemonic": "A <kanji>country</kanji> in <kanji>chain</kanji>s is under a <vocabulary>national isolation</vocabulary> policy. They're bound and they can't visit anywhere else.",
+  "primaryReading": "さこく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Exclusion Of Foreigners"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鎖国",
+  "related": {
+    "radicals": [
+      118,
+      8765,
+      94,
+      16,
+      48,
+      3
+    ],
+    "kanjis": [
+      2163,
+      621
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さこく",
+      "url": "https://files.wanikani.com/8ng9pyd5tkwac13aimu0dqbchh2s"
+    }
+  ]
+}

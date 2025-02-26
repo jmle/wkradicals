@@ -1,0 +1,34 @@
+{
+  "id": 7107,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "憩う"
+  },
+  "primaryMeaning": "To Rest",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>rest</kanji> and the verb vocab version is <vocabulary>to rest</vocabulary> or <vocabulary>to relax</vocabulary>.",
+  "primaryReading": "いこう",
+  "readingMnemonic": "I'm going <vocabulary>to rest</vocabulary> and play some <reading>Ico</reading> (いこ) on the ol' PlayStation.",
+  "otherMeanings": [
+    "To Relax"
+  ],
+  "otherReadings": [],
+  "wkSlug": "憩う",
+  "related": {
+    "radicals": [
+      174,
+      109,
+      65
+    ],
+    "kanjis": [
+      1998
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いこう",
+      "url": "https://files.wanikani.com/hgs1hj9d7kaj6l6vlsw156ihxlbf"
+    }
+  ]
+}

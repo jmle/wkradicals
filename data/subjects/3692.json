@@ -1,0 +1,34 @@
+{
+  "id": 3692,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "木材"
+  },
+  "primaryMeaning": "Wood",
+  "meaningMnemonic": "<kanji>Wood</kanji> that is <kanji>lumber</kanji> is <vocabulary>lumber</vocabulary> <vocabulary>wood</vocabulary>.\n\nTechnically speaking, 木材 is used more for lumber or wood that hasn't been processed yet — less like planks, more like freshly cut lumber still lying on the forest floor. But it's not a hard rule or anything, so don't worry too much about the nuances.",
+  "primaryReading": "もくざい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Lumber"
+  ],
+  "otherReadings": [],
+  "wkSlug": "木材",
+  "related": {
+    "radicals": [
+      23,
+      264
+    ],
+    "kanjis": [
+      478,
+      909
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もくざい",
+      "url": "https://files.wanikani.com/727iyejftr0oelwyyj4mb75ewmqh"
+    }
+  ]
+}

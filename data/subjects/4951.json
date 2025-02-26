@@ -1,0 +1,36 @@
+{
+  "id": 4951,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "独身"
+  },
+  "primaryMeaning": "Single",
+  "meaningMnemonic": "<kanji>Somebody</kanji> who is <kanji>alone</kanji> is <vocabulary>single</vocabulary> or <vocabulary>unmarried</vocabulary>.",
+  "primaryReading": "どくしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Unmarried"
+  ],
+  "otherReadings": [],
+  "wkSlug": "独身",
+  "related": {
+    "radicals": [
+      144,
+      89,
+      109,
+      5
+    ],
+    "kanjis": [
+      1312,
+      689
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どくしん",
+      "url": "https://files.wanikani.com/werevz8sjdncgv70b4h87cw7scxo"
+    }
+  ]
+}

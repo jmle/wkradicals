@@ -1,0 +1,32 @@
+{
+  "id": 7287,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "鶴"
+  },
+  "primaryMeaning": "Crane",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "つる",
+  "readingMnemonic": "The reading for this word is the same as the one you learned with the vocab.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鶴",
+  "related": {
+    "radicals": [
+      78,
+      240,
+      151
+    ],
+    "kanjis": [
+      2058
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つる",
+      "url": "https://files.wanikani.com/sgb41gx4e60ciwv2zl84pqmln55e"
+    }
+  ]
+}

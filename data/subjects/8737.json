@@ -1,0 +1,32 @@
+{
+  "id": 8737,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "手首"
+  },
+  "primaryMeaning": "Wrist",
+  "meaningMnemonic": "Your <kanji>hand</kanji>'s <kanji>neck</kanji> is your <vocabulary>wrist</vocabulary>!",
+  "primaryReading": "てくび",
+  "readingMnemonic": "This word uses the kun'yomi readings from both kanji, probably because it includes body parts. You know them both already, so now you know this too!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "手首",
+  "related": {
+    "radicals": [
+      41,
+      156
+    ],
+    "kanjis": [
+      474,
+      645
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てくび",
+      "url": "https://files.wanikani.com/xetx2jrvikhca16zxf15cxvf63w5"
+    }
+  ]
+}

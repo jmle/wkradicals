@@ -1,0 +1,36 @@
+{
+  "id": 4620,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "川崎"
+  },
+  "primaryMeaning": "Kawasaki",
+  "meaningMnemonic": "This is one of those words that's easier to know if you jump to the reading first. Why? Because it's the name of a city. It's <vocabulary>Kawasaki</vocabulary>.",
+  "primaryReading": "かわさき",
+  "readingMnemonic": "The readings are the ones you learned with the kanji, making it <reading>Kawasaki</reading>.",
+  "otherMeanings": [
+    "Kawasaki City"
+  ],
+  "otherReadings": [],
+  "wkSlug": "川崎",
+  "related": {
+    "radicals": [
+      21,
+      20,
+      18,
+      113
+    ],
+    "kanjis": [
+      456,
+      1195
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かわさき",
+      "url": "https://files.wanikani.com/ddwefzzhg130n57oq4nbcwzewc0h"
+    }
+  ]
+}

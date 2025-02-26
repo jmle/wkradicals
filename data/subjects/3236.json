@@ -1,0 +1,39 @@
+{
+  "id": 3236,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "最近"
+  },
+  "primaryMeaning": "Recent",
+  "meaningMnemonic": "The <kanji>most</kanji> <kanji>nearby</kanji> is something that happened close to now. It happened <vocabulary>recently</vocabulary>.",
+  "primaryReading": "さいきん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Latest",
+    "Lately",
+    "Recently"
+  ],
+  "otherReadings": [],
+  "wkSlug": "最近",
+  "related": {
+    "radicals": [
+      22,
+      88,
+      30,
+      114,
+      115
+    ],
+    "kanjis": [
+      774,
+      596
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいきん",
+      "url": "https://files.wanikani.com/e06ln5jvsmivm0nn3eaksxu0d1j1"
+    }
+  ]
+}

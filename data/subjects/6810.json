@@ -1,0 +1,33 @@
+{
+  "id": 6810,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "四匹"
+  },
+  "primaryMeaning": "Four Small Animals",
+  "meaningMnemonic": "<kanji>Four</kanji> <kanji>small animal</kanji>s is <vocabulary>four small animals</vocabulary>. Use this to count four dogs, or cats, or whatever else.",
+  "primaryReading": "よんひき",
+  "readingMnemonic": "This is a jukugo word that uses the kun'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "四匹",
+  "related": {
+    "radicals": [
+      16,
+      28,
+      217
+    ],
+    "kanjis": [
+      485,
+      1891
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よんひき",
+      "url": "https://files.wanikani.com/wptxxaylj5n5327m3mf6fse4m60b"
+    }
+  ]
+}

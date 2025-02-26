@@ -1,0 +1,31 @@
+{
+  "id": 6280,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "群れ"
+  },
+  "primaryMeaning": "Flock",
+  "meaningMnemonic": "This is the noun version of the kanji, making it <vocabulary>flock</vocabulary>.",
+  "primaryReading": "むれ",
+  "readingMnemonic": "A <vocabulary>flock</vocabulary>? A flock of <reading>cows</reading> (む)! Imagine a flock of cows, probably flying like birds, because flocks usually have something to do with birds.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "群れ",
+  "related": {
+    "radicals": [
+      373,
+      136
+    ],
+    "kanjis": [
+      1719
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むれ",
+      "url": "https://files.wanikani.com/tnu7qbdmtl42pnd0vy20cckx28ri"
+    }
+  ]
+}

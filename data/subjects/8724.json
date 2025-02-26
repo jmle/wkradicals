@@ -1,0 +1,38 @@
+{
+  "id": 8724,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "異常"
+  },
+  "primaryMeaning": "Abnormal",
+  "meaningMnemonic": "When something <kanji>differ</kanji>s from <kanji>normal</kanji> it's called <vocabulary>abnormal</vocabulary> or <vocabulary>strange</vocabulary>.",
+  "primaryReading": "いじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Strange",
+    "Disorder"
+  ],
+  "otherReadings": [],
+  "wkSlug": "異常",
+  "related": {
+    "radicals": [
+      51,
+      269,
+      8769,
+      16,
+      102
+    ],
+    "kanjis": [
+      1530,
+      1011
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いじょう",
+      "url": "https://files.wanikani.com/wv7d7fbzrjik8wsg5hexfgy4pzb9"
+    }
+  ]
+}

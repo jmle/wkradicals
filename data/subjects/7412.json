@@ -1,0 +1,39 @@
+{
+  "id": 7412,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "配偶者"
+  },
+  "primaryMeaning": "Spouse",
+  "meaningMnemonic": "<kanji>Distribute</kanji> yourself <kanji>accidentally</kanji> to <kanji>someone</kanji>. That person ended up becoming your <vocabulary>spouse</vocabulary>. You distributed yourself to one person a little too much, it seems.",
+  "primaryReading": "はいぐうしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Partner"
+  ],
+  "otherReadings": [],
+  "wkSlug": "配偶者",
+  "related": {
+    "radicals": [
+      182,
+      228,
+      75,
+      410,
+      104,
+      22
+    ],
+    "kanjis": [
+      742,
+      2109,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいぐうしゃ",
+      "url": "https://files.wanikani.com/0nnlfx1aonp2q9grbmohmcq49tvm"
+    }
+  ]
+}

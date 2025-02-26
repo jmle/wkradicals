@@ -1,0 +1,38 @@
+{
+  "id": 5838,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "一筋"
+  },
+  "primaryMeaning": "Single Mindedly",
+  "meaningMnemonic": "You have <kanji>one</kanji> <kanji>muscle</kanji>, therefore it only does one thing. That's it. It is <vocabulary>single mindedly</vocabulary> doing that one thing. It is <vocabulary>intently</vocabulary> and <vocabulary>earnestly</vocabulary> doing that one thing.",
+  "primaryReading": "ひとすじ",
+  "readingMnemonic": "The reading is a bit weird. It's the kun'yomi readings, where 一 is ひと and 筋 is すじ. Look back on the vocab words that use these readings to remember this one.",
+  "otherMeanings": [
+    "Intently",
+    "Earnestly",
+    "A Line"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一筋",
+  "related": {
+    "radicals": [
+      1,
+      85,
+      43,
+      13
+    ],
+    "kanjis": [
+      440,
+      1518
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひとすじ",
+      "url": "https://files.wanikani.com/zy4gy6r407o9tj9y4ql7kme40adw"
+    }
+  ]
+}

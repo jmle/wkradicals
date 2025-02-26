@@ -1,0 +1,36 @@
+{
+  "id": 4013,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "光栄"
+  },
+  "primaryMeaning": "Honor",
+  "meaningMnemonic": "When a <kanji>light</kanji> shines on how much you've <kanji>prosper</kanji>ed, it's a great <vocabulary>honor</vocabulary>. You don't feel like you did anything so special, but it's really a privilege for the light to come down on you like this.",
+  "primaryReading": "こうえい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Privilege"
+  ],
+  "otherReadings": [],
+  "wkSlug": "光栄",
+  "related": {
+    "radicals": [
+      8765,
+      101,
+      8769,
+      23
+    ],
+    "kanjis": [
+      567,
+      1006
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうえい",
+      "url": "https://files.wanikani.com/854g975q7hwwz5hefybh29ski2df"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 7353,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "割り勘"
+  },
+  "primaryMeaning": "Splitting The Cost",
+  "meaningMnemonic": "I will <kanji>divide</kanji> the <kanji>intuition</kanji> up. For some reason when I say \"intuition\" I mean \"money\" because this is referring to <vocabulary>splitting the cost</vocabulary>, like when you're at a restaurant.",
+  "primaryReading": "わりかん",
+  "readingMnemonic": "The reading is 割る and 勘, put together.",
+  "otherMeanings": [
+    "Splitting The Bill"
+  ],
+  "otherReadings": [],
+  "wkSlug": "割り勘",
+  "related": {
+    "radicals": [
+      78,
+      210,
+      16,
+      128,
+      407,
+      13
+    ],
+    "kanjis": [
+      1193,
+      2081
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わりかん",
+      "url": "https://files.wanikani.com/9tmc0o3hjsoicp3hw23jvmgy5u91"
+    }
+  ]
+}

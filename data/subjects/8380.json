@@ -1,0 +1,37 @@
+{
+  "id": 8380,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "借款"
+  },
+  "primaryMeaning": "Loan",
+  "meaningMnemonic": "An <kanji>article</kanji> that proves that you're only <kanji>borrow</kanji>ing money or stuffed animals is called a <vocabulary>loan</vocabulary>. You have to pay that person back for those fluffy critters.",
+  "primaryReading": "しゃっかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "International Loan"
+  ],
+  "otherReadings": [],
+  "wkSlug": "借款-8380",
+  "related": {
+    "radicals": [
+      75,
+      256,
+      97,
+      207,
+      142
+    ],
+    "kanjis": [
+      1039,
+      2347
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃっかん",
+      "url": "https://files.wanikani.com/b1d17alncofi7ci4ooaiqvfhwfrb"
+    }
+  ]
+}

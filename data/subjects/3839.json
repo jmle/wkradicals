@@ -1,0 +1,35 @@
+{
+  "id": 3839,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "急に"
+  },
+  "primaryMeaning": "Suddenly",
+  "meaningMnemonic": "Something that happens in a <kanji>sudden</kanji> way happens <vocabulary>suddenly</vocabulary>, <vocabulary>immediately</vocabulary>, or <vocabulary>abruptly</vocabulary>.",
+  "primaryReading": "きゅうに",
+  "readingMnemonic": "The reading is the same as what you learned with the kanji. <vocabulary>Suddenly</vocabulary> you can read a new word!",
+  "otherMeanings": [
+    "Immediately",
+    "Abruptly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "急に",
+  "related": {
+    "radicals": [
+      14,
+      105,
+      65
+    ],
+    "kanjis": [
+      970
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゅうに",
+      "url": "https://files.wanikani.com/rqt57cvccwu93utajafsr4icmrk1"
+    }
+  ]
+}

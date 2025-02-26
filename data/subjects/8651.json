@@ -1,0 +1,44 @@
+{
+  "id": 8651,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "謹賀新年"
+  },
+  "primaryMeaning": "Happy New Year",
+  "meaningMnemonic": "Remember how you learned that 新年 means \"New Year?\" Well when you say <kanji>humble</kanji> <kanji>congratulations</kanji> on the new year, you're really saying <vocabulary>Happy New Year!</vocabulary>",
+  "primaryReading": "きんがしんねん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Happy New Year!"
+  ],
+  "otherReadings": [],
+  "wkSlug": "謹賀新年",
+  "related": {
+    "radicals": [
+      117,
+      428,
+      13,
+      16,
+      94,
+      55,
+      23,
+      115,
+      8762,
+      126
+    ],
+    "kanjis": [
+      2446,
+      1185,
+      857,
+      546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんがしんねん",
+      "url": "https://files.wanikani.com/flq9yfc9mxl0hlgt34mrqulyvru8"
+    }
+  ]
+}

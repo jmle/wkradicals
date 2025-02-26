@@ -1,0 +1,37 @@
+{
+  "id": 7991,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "搭乗"
+  },
+  "primaryMeaning": "Boarding",
+  "meaningMnemonic": "When you <kanji>board</kanji> a plane or a car to take a <kanji>ride</kanji> it's called <vocabulary>boarding</vocabulary> or <vocabulary>embarkation</vocabulary>. You have to get on the right way or you can't ride.",
+  "primaryReading": "とうじょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should know those readings for both of these kanji by now, so you should be good to go.",
+  "otherMeanings": [
+    "Embarkation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "搭乗",
+  "related": {
+    "radicals": [
+      63,
+      90,
+      216,
+      135,
+      16
+    ],
+    "kanjis": [
+      2211,
+      722
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうじょう",
+      "url": "https://files.wanikani.com/y2256y0vriwsz9v1agpatj1rel55"
+    }
+  ]
+}

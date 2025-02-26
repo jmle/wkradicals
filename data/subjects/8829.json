@@ -1,0 +1,26 @@
+{
+  "id": 8829,
+  "type": "radical",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "郎"
+  },
+  "primaryMeaning": "Guy",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>guy</radical>.",
+  "wkSlug": "guy",
+  "related": {
+    "kanjis": [
+      1454,
+      1801
+    ],
+    "vocabularies": [
+      5441,
+      5442,
+      6549,
+      6550,
+      6551
+    ]
+  }
+}

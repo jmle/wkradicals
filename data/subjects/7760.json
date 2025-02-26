@@ -1,0 +1,36 @@
+{
+  "id": 7760,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "対等"
+  },
+  "primaryMeaning": "Equality",
+  "meaningMnemonic": "It doesn't matter what you say <kanji>versus</kanji> <kanji>equal</kanji> rights. If you really want things to be <vocabulary>equal</vocabulary>, you have to support <vocabulary>equality</vocabulary>.",
+  "primaryReading": "たいとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Equal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "対等",
+  "related": {
+    "radicals": [
+      42,
+      74,
+      85,
+      192
+    ],
+    "kanjis": [
+      683,
+      1037
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいとう",
+      "url": "https://files.wanikani.com/fspc4duwqglxg73glkxn5ztf506j"
+    }
+  ]
+}

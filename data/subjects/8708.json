@@ -1,0 +1,37 @@
+{
+  "id": 8708,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "治安"
+  },
+  "primaryMeaning": "Public Order",
+  "meaningMnemonic": "If your people can <kanji>relax</kanji> because you <kanji>rule</kanji> over them so well, there is <vocabulary>public order</vocabulary>. You don't want the people you rule being upset or stressed out, you want <vocabulary>public safety</vocabulary> and <vocabulary>public peace</vocabulary> for all!",
+  "primaryReading": "ちあん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Public Safety",
+    "Public Peace"
+  ],
+  "otherReadings": [],
+  "wkSlug": "治安",
+  "related": {
+    "radicals": [
+      103,
+      417,
+      78,
+      19
+    ],
+    "kanjis": [
+      978,
+      612
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちあん",
+      "url": "https://files.wanikani.com/a94xivvlgk7uxlvwydkv470hien9"
+    }
+  ]
+}

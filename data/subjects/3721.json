@@ -1,0 +1,36 @@
+{
+  "id": 3721,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "才能"
+  },
+  "primaryMeaning": "Talent",
+  "meaningMnemonic": "A person who has great <kanji>talent</kanji> and <kanji>ability</kanji> has quite the <vocabulary>talent</vocabulary>.",
+  "primaryReading": "さいのう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "才能",
+  "related": {
+    "radicals": [
+      1,
+      6,
+      5,
+      140,
+      43,
+      57
+    ],
+    "kanjis": [
+      468,
+      921
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいのう",
+      "url": "https://files.wanikani.com/ql9b6fvuxotoex4fm95aoyd9dr63"
+    }
+  ]
+}

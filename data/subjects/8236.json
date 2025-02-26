@@ -1,0 +1,38 @@
+{
+  "id": 8236,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "該当"
+  },
+  "primaryMeaning": "Correspond",
+  "meaningMnemonic": "If <kanji>the above</kanji> is <kanji>correct</kanji> then please sign the <vocabulary>correspond</vocabulary>ing line to agree with it. And make sure you correspond in a timely manner.",
+  "primaryReading": "がいとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Fulfilling",
+    "Applicable To",
+    "Qualifying As"
+  ],
+  "otherReadings": [],
+  "wkSlug": "該当",
+  "related": {
+    "radicals": [
+      117,
+      351,
+      8765,
+      105
+    ],
+    "kanjis": [
+      2269,
+      571
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がいとう",
+      "url": "https://files.wanikani.com/v3w9door4fw1jmqinhq7e2bewy6t"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5784,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "発射する"
+  },
+  "primaryMeaning": "To Launch",
+  "meaningMnemonic": "<kanji>Departure</kanji> and <kanji>shoot</kanji> something off. If you do that to something, you are going <vocabulary>to launch</vocabulary> it.",
+  "primaryReading": "はっしゃする",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "To Fire"
+  ],
+  "otherReadings": [],
+  "wkSlug": "発射する",
+  "related": {
+    "radicals": [
+      168,
+      171,
+      234,
+      74
+    ],
+    "kanjis": [
+      729,
+      1561
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はっしゃする",
+      "url": "https://files.wanikani.com/euz0cou99rodkua32toifmz4mbzl"
+    }
+  ]
+}

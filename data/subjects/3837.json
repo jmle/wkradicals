@@ -1,0 +1,31 @@
+{
+  "id": 3837,
+  "type": "vocabulary",
+  "level": 16,
+  "characters": {
+    "type": "text",
+    "value": "〜弁"
+  },
+  "primaryMeaning": "Dialect",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well. The 〜 is there to show this attaches onto things, like 東京弁, meaning \"Tokyo Dialect.\"",
+  "primaryReading": "べん",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. Because it's normally attached to other words it uses the on'yomi reading like a jukugo word normally would.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "〜弁",
+  "related": {
+    "radicals": [
+      140,
+      106
+    ],
+    "kanjis": [
+      984
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "べん",
+      "url": "https://files.wanikani.com/z11uxn9rpg2wyc0qlxrrj0f9xcg6"
+    }
+  ]
+}

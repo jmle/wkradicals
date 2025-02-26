@@ -1,0 +1,36 @@
+{
+  "id": 7298,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "尼僧"
+  },
+  "primaryMeaning": "Nun",
+  "meaningMnemonic": "A <kanji>nun</kanji> <kanji>priest</kanji> is a <vocabulary>nun</vocabulary> or <vocabulary>priestess</vocabulary>.",
+  "primaryReading": "にそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Priestess"
+  ],
+  "otherReadings": [],
+  "wkSlug": "尼僧",
+  "related": {
+    "radicals": [
+      37,
+      57,
+      75,
+      259
+    ],
+    "kanjis": [
+      2063,
+      1046
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にそう",
+      "url": "https://files.wanikani.com/h1g5xsdv8cjcukhbczm6cgq5d90t"
+    }
+  ]
+}

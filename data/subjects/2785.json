@@ -1,0 +1,36 @@
+{
+  "id": 2785,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "何年"
+  },
+  "primaryMeaning": "What Year",
+  "meaningMnemonic": "You have the kanji <kanji>what</kanji> and <kanji>year</kanji>, as in: \"<vocabulary>what year</vocabulary> is it?\" \n\nThis also means <vocabulary>how many years</vocabulary> too, depending on the context. As in: \"<vocabulary>How many years</vocabulary> did you play soccer?\"",
+  "primaryReading": "なんねん",
+  "readingMnemonic": "The readings are both the readings you learned with the separate kanji, meaning you should know them. How many years have you been studying kanji now? You should be able to read this one.",
+  "otherMeanings": [
+    "How Many Years"
+  ],
+  "otherReadings": [],
+  "wkSlug": "何年",
+  "related": {
+    "radicals": [
+      75,
+      113,
+      8762,
+      126
+    ],
+    "kanjis": [
+      582,
+      546
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なんねん",
+      "url": "https://files.wanikani.com/05r133aejs64isc1vk47he1ahwkc"
+    }
+  ]
+}

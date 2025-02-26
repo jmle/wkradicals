@@ -1,0 +1,32 @@
+{
+  "id": 2543,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "十月"
+  },
+  "primaryMeaning": "October",
+  "meaningMnemonic": "The kanji for \"moon\" and \"month\" are the same, probably because a moon cycle takes approximately a month to occur. So, what is the tenth moon cycle of the year? That would be the awesome month <vocabulary>October</vocabulary>!",
+  "primaryReading": "じゅうがつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\n<vocabulary>October</vocabulary> gives you <reading>jew</reading>el <reading>guts</reading> (じゅうがつ). In October, your guts magically produce jewels, which you collect to make some pretty awesome Halloween costumes.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "十月",
+  "related": {
+    "radicals": [
+      15,
+      43
+    ],
+    "kanjis": [
+      448,
+      477
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうがつ",
+      "url": "https://files.wanikani.com/oa2hgez8o2sil7dfqj05k60p4rl3"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6756,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "挑戦者"
+  },
+  "primaryMeaning": "A Challenger",
+  "meaningMnemonic": "A <kanji>challenge</kanji> (挑戦) <kanji>someone</kanji> is someone who is going to challenge you. They are <vocabulary>a challenger</vocabulary>.",
+  "primaryReading": "ちょうせんしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Challenger"
+  ],
+  "otherReadings": [],
+  "wkSlug": "挑戦者",
+  "related": {
+    "radicals": [
+      63,
+      363,
+      199,
+      194,
+      104,
+      22
+    ],
+    "kanjis": [
+      1813,
+      803,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょうせんしゃ",
+      "url": "https://files.wanikani.com/c449xbj2w5hs6ci5ftl4escq253b"
+    }
+  ]
+}

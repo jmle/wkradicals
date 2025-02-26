@@ -1,0 +1,33 @@
+{
+  "id": 6095,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "自爆"
+  },
+  "primaryMeaning": "Suicide Bomb",
+  "meaningMnemonic": "If you <kanji>self</kanji> <kanji>explode</kanji>, it means you're blowing up yourself, and probably taking others with you. This is a <vocabulary>suicide bomb</vocabulary>.",
+  "primaryReading": "じばく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "自爆",
+  "related": {
+    "radicals": [
+      109,
+      46,
+      366
+    ],
+    "kanjis": [
+      578,
+      1658
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じばく",
+      "url": "https://files.wanikani.com/od4ufvawzw8ebqrv9r6fzhrb93vc"
+    }
+  ]
+}

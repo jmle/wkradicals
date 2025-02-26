@@ -1,0 +1,37 @@
+{
+  "id": 5645,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "操作"
+  },
+  "primaryMeaning": "Operation",
+  "meaningMnemonic": "If you <kanji>manipulate</kanji> the things you <kanji>make</kanji>, you are in <vocabulary>operation</vocabulary> of said things.\n\nThis can not only refer to the operation of devices and machinery, but also the <vocabulary>manipulation</vocabulary> of various elements, such as markets, stock prices, and more, with the intention of furthering one's own interests.",
+  "primaryReading": "そうさ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Handling",
+    "Manipulation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "操作",
+  "related": {
+    "radicals": [
+      63,
+      8830,
+      75,
+      122
+    ],
+    "kanjis": [
+      1525,
+      584
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そうさ",
+      "url": "https://files.wanikani.com/g5j9810rjxg5vf0y8yrir1axg7ay"
+    }
+  ]
+}

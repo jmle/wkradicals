@@ -1,0 +1,34 @@
+{
+  "id": 5262,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "痛む"
+  },
+  "primaryMeaning": "To Be Painful",
+  "meaningMnemonic": "痛い is \"painful.\" The verb version of that is <vocabulary>to hurt</vocabulary> or <vocabulary>to be painful</vocabulary>.\n\nIt's an intransitive verb, so it happens without you trying to cause it. It describes the sensation of feeling pain 🤕",
+  "primaryReading": "いたむ",
+  "readingMnemonic": "This word uses the kun'yomi reading, which you learned already!",
+  "otherMeanings": [
+    "To Hurt"
+  ],
+  "otherReadings": [],
+  "wkSlug": "痛む",
+  "related": {
+    "radicals": [
+      187,
+      141,
+      71
+    ],
+    "kanjis": [
+      1318
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いたむ",
+      "url": "https://files.wanikani.com/ze1yw6djgzfb8y8h5zta5gxwda8z"
+    }
+  ]
+}

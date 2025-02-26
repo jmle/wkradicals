@@ -1,0 +1,37 @@
+{
+  "id": 6428,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "繁栄"
+  },
+  "primaryMeaning": "Prospering",
+  "meaningMnemonic": "If you're <kanji>overgrown</kanji> with <kanji>prosper</kanji>ity you are probably really <vocabulary>prospering</vocabulary>.",
+  "primaryReading": "はんえい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Prosperity"
+  ],
+  "otherReadings": [],
+  "wkSlug": "繁栄",
+  "related": {
+    "radicals": [
+      379,
+      60,
+      86,
+      8769,
+      23
+    ],
+    "kanjis": [
+      1764,
+      1006
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はんえい",
+      "url": "https://files.wanikani.com/eux9m8g4wicqq68txqf4qsnz5udl"
+    }
+  ]
+}

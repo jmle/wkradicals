@@ -1,0 +1,36 @@
+{
+  "id": 3722,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "能力"
+  },
+  "primaryMeaning": "Ability",
+  "meaningMnemonic": "Your <kanji>ability</kanji> <kanji>power</kanji> is what you can do. This is your <vocabulary>ability</vocabulary>. It is also your <vocabulary>capability</vocabulary>.",
+  "primaryReading": "のうりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Capability"
+  ],
+  "otherReadings": [],
+  "wkSlug": "能力",
+  "related": {
+    "radicals": [
+      140,
+      43,
+      57,
+      13
+    ],
+    "kanjis": [
+      921,
+      447
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のうりょく",
+      "url": "https://files.wanikani.com/08scsmqgx20vlezne7zrvd8u9ryr"
+    }
+  ]
+}

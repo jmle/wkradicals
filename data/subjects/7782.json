@@ -1,0 +1,34 @@
+{
+  "id": 7782,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "揺らぐ"
+  },
+  "primaryMeaning": "To Shake",
+  "meaningMnemonic": "Hey look! If you weren't sick of them yet, it's another verb that goes with <kanji>shake</kanji>! This one means <vocabulary>to shake</vocabulary> too!",
+  "primaryReading": "ゆらぐ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading when you learned 揺る, 揺する, and 揺れる so I reeeeally hope you can remember it by now!",
+  "otherMeanings": [
+    "To Sway",
+    "To Tremble"
+  ],
+  "otherReadings": [],
+  "wkSlug": "揺らぐ",
+  "related": {
+    "radicals": [
+      63,
+      8798
+    ],
+    "kanjis": [
+      1817
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆらぐ",
+      "url": "https://files.wanikani.com/86k5zjf90uzdhmm7u10ppdjnnfqf"
+    }
+  ]
+}

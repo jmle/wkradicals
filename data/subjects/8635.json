@@ -1,0 +1,36 @@
+{
+  "id": 8635,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "濁る"
+  },
+  "primaryMeaning": "To Become Muddy",
+  "meaningMnemonic": "You already know that 濁す means \"to make muddy,\" but this is when you're the one getting muddy. It means <vocabulary>to become muddy</vocabulary>.",
+  "primaryReading": "にごる",
+  "readingMnemonic": "This has the same reading as 濁す. If you can remember that one, you should be able to remember this one.",
+  "otherMeanings": [
+    "To Become Impure",
+    "To Become Cloudy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "濁る",
+  "related": {
+    "radicals": [
+      103,
+      163,
+      14,
+      89
+    ],
+    "kanjis": [
+      2372
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にごる",
+      "url": "https://files.wanikani.com/lwz7lffnc27qy03cp7uutpltm5xy"
+    }
+  ]
+}

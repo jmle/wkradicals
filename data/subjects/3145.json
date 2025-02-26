@@ -1,0 +1,37 @@
+{
+  "id": 3145,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "勝者"
+  },
+  "primaryMeaning": "Winner",
+  "meaningMnemonic": "<kanji>Someone</kanji> who <kanji>win</kanji>s is the <vocabulary>winner</vocabulary> / <vocabulary>victor</vocabulary>.",
+  "primaryReading": "しょうしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Victor"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勝者",
+  "related": {
+    "radicals": [
+      43,
+      8819,
+      13,
+      104,
+      22
+    ],
+    "kanjis": [
+      738,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうしゃ",
+      "url": "https://files.wanikani.com/3cpfh1n1oqw2vs66ydkus7m4a6iw"
+    }
+  ]
+}

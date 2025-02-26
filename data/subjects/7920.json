@@ -1,0 +1,34 @@
+{
+  "id": 7920,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "茨"
+  },
+  "primaryMeaning": "Thorn",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "いばら",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Briar",
+    "Wild Rose"
+  ],
+  "otherReadings": [],
+  "wkSlug": "茨",
+  "related": {
+    "radicals": [
+      90,
+      278
+    ],
+    "kanjis": [
+      2159
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いばら",
+      "url": "https://files.wanikani.com/a2gpoxkl052evvwq7swgwa84silu"
+    }
+  ]
+}

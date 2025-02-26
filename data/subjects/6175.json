@@ -1,0 +1,33 @@
+{
+  "id": 6175,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "日刊"
+  },
+  "primaryMeaning": "Daily Edition",
+  "meaningMnemonic": "The <kanji>day</kanji>'s <kanji>edition</kanji> is the <vocabulary>daily edition</vocabulary>.",
+  "primaryReading": "にっかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The にち goes to にっ.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "日刊",
+  "related": {
+    "radicals": [
+      22,
+      61,
+      128
+    ],
+    "kanjis": [
+      476,
+      1683
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にっかん",
+      "url": "https://files.wanikani.com/fnae47k8mj9my3nyqjvptz7zti66"
+    }
+  ]
+}

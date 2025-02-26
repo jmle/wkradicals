@@ -1,0 +1,38 @@
+{
+  "id": 7777,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "貴重品"
+  },
+  "primaryMeaning": "Valuables",
+  "meaningMnemonic": "Remember how you learned that 貴重 means \"valuable?\" Well valuable <kanji>product</kanji>s are your <vocabulary>valuables</vocabulary>!",
+  "primaryReading": "きちょうひん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Treasures"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貴重品",
+  "related": {
+    "radicals": [
+      49,
+      1,
+      94,
+      188,
+      227
+    ],
+    "kanjis": [
+      1547,
+      735,
+      967
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きちょうひん",
+      "url": "https://files.wanikani.com/12vhjz58nks25atm3il9j2r0ugas"
+    }
+  ]
+}

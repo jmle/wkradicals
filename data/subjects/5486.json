@@ -1,0 +1,38 @@
+{
+  "id": 5486,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "均等"
+  },
+  "primaryMeaning": "Equality",
+  "meaningMnemonic": "This is <kanji>equal</kanji> and that is <kanji>equal</kanji>. They're both the same, amazing! They carry <vocabulary>equality</vocabulary>, <vocabulary>uniformity</vocabulary>,  and <vocabulary>evenness</vocabulary>.",
+  "primaryReading": "きんとう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Uniformity",
+    "Evenness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "均等",
+  "related": {
+    "radicals": [
+      17,
+      236,
+      3,
+      85,
+      192
+    ],
+    "kanjis": [
+      1473,
+      1037
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きんとう",
+      "url": "https://files.wanikani.com/ejapsnbhpeoxfbnn26j8shlpoulx"
+    }
+  ]
+}

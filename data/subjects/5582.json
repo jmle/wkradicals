@@ -1,0 +1,32 @@
+{
+  "id": 5582,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "染める"
+  },
+  "primaryMeaning": "To Dye",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>dye</kanji> so the verb vocab version is <vocabulary>to dye</vocabulary>.",
+  "primaryReading": "そめる",
+  "readingMnemonic": "You need <vocabulary>to dye</vocabulary> something that you just <reading>sew</reading>ed (そ) together. It's all sewed and looks like a shirt, but it's colorless. That's where the dying comes in.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "染める",
+  "related": {
+    "radicals": [
+      103,
+      11,
+      23
+    ],
+    "kanjis": [
+      1512
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そめる",
+      "url": "https://files.wanikani.com/gdpwwqi2z5soorq7xzr7nl0d51wi"
+    }
+  ]
+}

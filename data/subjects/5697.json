@@ -1,0 +1,36 @@
+{
+  "id": 5697,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "家賃"
+  },
+  "primaryMeaning": "House Rent",
+  "meaningMnemonic": "Your <kanji>house</kanji> <kanji>rent</kanji> is your <vocabulary>house rent</vocabulary>, though it can be your apartment rent too.",
+  "primaryReading": "やちん",
+  "readingMnemonic": "The reading for 家 is an exceptional one. It is や, because when your landlord asks if you paid your rent, you always say <reading>yah</reading> (や), whether you did or not.",
+  "otherMeanings": [
+    "Rent"
+  ],
+  "otherReadings": [],
+  "wkSlug": "家賃",
+  "related": {
+    "radicals": [
+      398,
+      75,
+      48,
+      94
+    ],
+    "kanjis": [
+      660,
+      1544
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やちん",
+      "url": "https://files.wanikani.com/ofeay8iu3m0iudb8xyfou4672spf"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4192,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "財布"
+  },
+  "primaryMeaning": "Wallet",
+  "meaningMnemonic": "Your <kanji>wealth</kanji> <kanji>cloth</kanji> is your <vocabulary>wallet</vocabulary>. Really, a wallet is just a piece of cloth you keep in your pocket that has your wealth in it, right? This can also be your <vocabulary>purse</vocabulary>, especially if you live in the ol' UK.",
+  "primaryReading": "さいふ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Purse"
+  ],
+  "otherReadings": [],
+  "wkSlug": "財布",
+  "related": {
+    "radicals": [
+      94,
+      264,
+      26,
+      102
+    ],
+    "kanjis": [
+      1064,
+      1062
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいふ",
+      "url": "https://files.wanikani.com/2oqpc6wyepbszlf59ls2wizlfzqr"
+    }
+  ]
+}

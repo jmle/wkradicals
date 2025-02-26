@@ -1,0 +1,40 @@
+{
+  "id": 5222,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "倒壊"
+  },
+  "primaryMeaning": "Collapse",
+  "meaningMnemonic": "When something <kanji>collapse</kanji>s and <kanji>break</kanji>s, it is when a <vocabulary>collapse</vocabulary> happens. When this happens, it is <vocabulary>destruction</vocabulary>. It is also probably something that was already <vocabulary>crumbling</vocabulary> apart.",
+  "primaryReading": "とうかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Destruction",
+    "Crumbling"
+  ],
+  "otherReadings": [],
+  "wkSlug": "倒壊",
+  "related": {
+    "radicals": [
+      75,
+      274,
+      128,
+      17,
+      15,
+      163,
+      320
+    ],
+    "kanjis": [
+      1110,
+      1389
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうかい",
+      "url": "https://files.wanikani.com/kcn4cuooa7azhta12dsfman50wj5"
+    }
+  ]
+}

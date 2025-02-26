@@ -1,0 +1,37 @@
+{
+  "id": 5403,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "思い詰める"
+  },
+  "primaryMeaning": "To Brood",
+  "meaningMnemonic": "詰める is \"to stuff in.\" If you're really stuffing in your thoughts (<kanji>think</kanji>), you're thinking very deeply and seriously. So this is <vocabulary>to brood</vocabulary>, <vocabulary>to dwell on</vocabulary>, or <vocabulary>to take something to heart</vocabulary>.\n\n思い詰める suggests you're pondering deeply over something serious or distressing, bordering on overthinking.",
+  "primaryReading": "おもいつめる",
+  "readingMnemonic": "The reading is 思い and 詰める put together into one reading.",
+  "otherMeanings": [
+    "To Dwell On",
+    "To Take Something To Heart"
+  ],
+  "otherReadings": [],
+  "wkSlug": "思い詰める",
+  "related": {
+    "radicals": [
+      51,
+      65,
+      117,
+      253
+    ],
+    "kanjis": [
+      637,
+      1411
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おもいつめる",
+      "url": "https://files.wanikani.com/bppft3h9qxgr4ta04a1ti1lhtpzo"
+    }
+  ]
+}

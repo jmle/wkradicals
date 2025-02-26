@@ -1,0 +1,36 @@
+{
+  "id": 6476,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "徹する"
+  },
+  "primaryMeaning": "To Devote Oneself",
+  "meaningMnemonic": "If you do <kanji>penetrate</kanji>, sure, you can <vocabulary>to penetrate</vocabulary>. But, if you penetrate something you really get into it, like, you are going <vocabulary>to devote oneself</vocabulary>.",
+  "primaryReading": "てっする",
+  "readingMnemonic": "The reading comes from the one you learned with the kanji. Look out for the shortening on this one.",
+  "otherMeanings": [
+    "To Sink In",
+    "To Penetrate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "徹する",
+  "related": {
+    "radicals": [
+      99,
+      8776,
+      43,
+      60
+    ],
+    "kanjis": [
+      1776
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てっする",
+      "url": "https://files.wanikani.com/zbqkj47tm5nzx4fjngclblwfq4nb"
+    }
+  ]
+}

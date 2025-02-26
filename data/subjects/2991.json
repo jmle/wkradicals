@@ -1,0 +1,32 @@
+{
+  "id": 2991,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "馬力"
+  },
+  "primaryMeaning": "Horsepower",
+  "meaningMnemonic": "This word was probably made pretty recently. A <kanji>horse</kanji>'s <kanji>power</kanji>? That is <vocabulary>horsepower</vocabulary>.",
+  "primaryReading": "ばりき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 力 has two common on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nCars with high <vocabulary>horsepower</vocabulary> are usually driven by <reading>Ricky</reading> (りき). Ricky is well-known for loving all cars with a lot of horsepower, so he's often seen driving around in fancy sports cars. Vroom vroom Ricky!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "馬力",
+  "related": {
+    "radicals": [
+      165,
+      13
+    ],
+    "kanjis": [
+      692,
+      447
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばりき",
+      "url": "https://files.wanikani.com/ylurtsv9tr6vxbyjwipm1crqoctx"
+    }
+  ]
+}

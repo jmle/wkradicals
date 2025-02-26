@@ -1,0 +1,33 @@
+{
+  "id": 5925,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "銅山"
+  },
+  "primaryMeaning": "Copper Mine",
+  "meaningMnemonic": "In a <kanji>copper</kanji> <kanji>mountain</kanji> you go in and make a <vocabulary>copper mine</vocabulary>.",
+  "primaryReading": "どうざん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. The 山 reading is ざん instead of さん because of rendaku.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "銅山",
+  "related": {
+    "radicals": [
+      118,
+      341,
+      20
+    ],
+    "kanjis": [
+      1607,
+      455
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうざん",
+      "url": "https://files.wanikani.com/ghsf0ptwgxkwh42ioj29aqvg8j5b"
+    }
+  ]
+}

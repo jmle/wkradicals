@@ -1,0 +1,36 @@
+{
+  "id": 3563,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "心配する"
+  },
+  "primaryMeaning": "To Worry",
+  "meaningMnemonic": "You know that 心配 is \"a worry.\" What about the verb version of that? It would be <vocabulary>to worry</vocabulary>.",
+  "primaryReading": "しんぱいする",
+  "readingMnemonic": "The reading comes straight from 心配 so try to make sure you know that word so you can read this word! It's also all jukugo on'yomi reading, too, so you should be able to figure it out regardless.",
+  "otherMeanings": [
+    "To Be Concerned",
+    "To Be Anxious"
+  ],
+  "otherReadings": [],
+  "wkSlug": "心配する",
+  "related": {
+    "radicals": [
+      65,
+      182,
+      228
+    ],
+    "kanjis": [
+      508,
+      742
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しんぱいする",
+      "url": "https://files.wanikani.com/xn9b9ydk2klqpvwpj5ebe9hl1hj2"
+    }
+  ]
+}

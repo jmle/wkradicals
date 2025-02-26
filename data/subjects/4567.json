@@ -1,0 +1,36 @@
+{
+  "id": 4567,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "援助"
+  },
+  "primaryMeaning": "Assistance",
+  "meaningMnemonic": "If you <kanji>aid</kanji> and <kanji>help</kanji> someone you are giving them <vocabulary>assistance</vocabulary>. How kind!",
+  "primaryReading": "えんじょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Aid"
+  ],
+  "otherReadings": [],
+  "wkSlug": "援助",
+  "related": {
+    "radicals": [
+      63,
+      286,
+      419,
+      13
+    ],
+    "kanjis": [
+      1182,
+      680
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんじょ",
+      "url": "https://files.wanikani.com/d867qf8k3qjeki0226ptaslb4rsm"
+    }
+  ]
+}

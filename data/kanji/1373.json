@@ -1,0 +1,40 @@
+{
+  "id": 1373,
+  "type": "kanji",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "憲"
+  },
+  "primaryReading": "けん",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "けん",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Constitution",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>roof</radical> protecting your <radical>life</radical> and the <radical>net</radical> protecting your <radical>heart</radical> are both protected by the <kanji>constitution</kanji>.",
+  "readingMnemonic": "Your country's <kanji>constitution</kanji> is being protected by none other than <reading>Ken</reading> (けん) the samurai, hero for hire.",
+  "wkSlug": "憲",
+  "related": {
+    "radicals": [
+      78,
+      210,
+      163,
+      65
+    ],
+    "vocabularies": [
+      5155,
+      5156
+    ]
+  },
+  "radicalNames": [
+    "Roof",
+    "Life",
+    "Net",
+    "Heart"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2529,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "六日"
+  },
+  "primaryMeaning": "Sixth Day",
+  "meaningMnemonic": "It's the kanji for six and day. Put them together and you have the <vocabulary>sixth day</vocabulary> (or <vocabulary>day six</vocabulary>).",
+  "primaryReading": "むいか",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. This is an exception, though. When you're counting days (at least one through ten), the kun'yomi readings are used. So let's think about that sixth day - what does it entail?\n\nOn the <vocabulary>sixth day</vocabulary> of your roadtrip, you've finally arrived at your destination. You get out of your car and tell it, \"<reading>Muy</reading> (むい) bien <reading>car</reading> (か), muy bien!\".",
+  "otherMeanings": [
+    "Day Six",
+    "Six Days"
+  ],
+  "otherReadings": [],
+  "wkSlug": "六日",
+  "related": {
+    "radicals": [
+      8,
+      2,
+      22
+    ],
+    "kanjis": [
+      471,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むいか",
+      "url": "https://files.wanikani.com/vqx27xcqf3lt0lq08a9f389u6vkw"
+    }
+  ]
+}

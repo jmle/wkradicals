@@ -1,0 +1,36 @@
+{
+  "id": 6509,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "艦船"
+  },
+  "primaryMeaning": "Warship",
+  "meaningMnemonic": "A <kanji>warship</kanji> <kanji>ship</kanji> is a <vocabulary>warship</vocabulary>.",
+  "primaryReading": "かんせん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Ocean Vessel"
+  ],
+  "otherReadings": [],
+  "wkSlug": "艦船",
+  "related": {
+    "radicals": [
+      149,
+      328,
+      2,
+      16
+    ],
+    "kanjis": [
+      1790,
+      671
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんせん",
+      "url": "https://files.wanikani.com/jc9ro7t93w69wtad2g9bbxbludq3"
+    }
+  ]
+}

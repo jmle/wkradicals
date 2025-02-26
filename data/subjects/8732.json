@@ -1,0 +1,32 @@
+{
+  "id": 8732,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "露"
+  },
+  "primaryMeaning": "Dew",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "つゆ",
+  "readingMnemonic": "This word uses the kun'yomi reading of the kanji, but you haven't learned it yet. Here's a mnemonic to help you:\n\n<vocabulary>Dew</vocabulary> is just the earth's way of giving water <reading>to you</reading> (つゆ). Rain is too forceful, you may not go to the ocean or a lake, so the earth gives dew to you by putting it on the grass outside your house everyday!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "露",
+  "related": {
+    "radicals": [
+      119,
+      95,
+      180
+    ],
+    "kanjis": [
+      1845
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つゆ",
+      "url": "https://files.wanikani.com/9mxzthtd05me3khnzhbusyb1mzo6"
+    }
+  ]
+}

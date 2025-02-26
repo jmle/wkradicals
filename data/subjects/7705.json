@@ -1,0 +1,41 @@
+{
+  "id": 7705,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "会議室"
+  },
+  "primaryMeaning": "Conference Room",
+  "meaningMnemonic": "A <kanji>room</kanji> where you <kanji>meet</kanji> for <kanji>discussion</kanji>s is known as a <vocabulary>conference room</vocabulary>.",
+  "primaryReading": "かいぎしつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Council Room",
+    "Meeting Room"
+  ],
+  "otherReadings": [],
+  "wkSlug": "会議室",
+  "related": {
+    "radicals": [
+      155,
+      117,
+      383,
+      78,
+      1,
+      140,
+      17
+    ],
+    "kanjis": [
+      566,
+      1114,
+      635
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいぎしつ",
+      "url": "https://files.wanikani.com/24yygf3fydrjs7u9189os9gpx98y"
+    }
+  ]
+}

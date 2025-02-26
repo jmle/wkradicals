@@ -1,0 +1,38 @@
+{
+  "id": 7363,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "鬱陶しい"
+  },
+  "primaryMeaning": "Gloomy",
+  "meaningMnemonic": "<kanji>Gloom</kanji> <kanji>pottery</kanji> is... well, it's <vocabulary>gloomy</vocabulary> and <vocabulary>depressing</vocabulary>!\n\nThis word can also mean <vocabulary>annoying</vocabulary>. If something or someone always makes you feel gloomy, you'll probably think it's annoying, right?",
+  "primaryReading": "うっとうしい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Be careful of the shortening, and don't be tricked by the hiragana sticking out. The readings of the kanji don't change.",
+  "otherMeanings": [
+    "Depressing",
+    "Annoying"
+  ],
+  "otherReadings": [],
+  "wkSlug": "鬱陶しい",
+  "related": {
+    "radicals": [
+      23,
+      392,
+      8797,
+      176,
+      14
+    ],
+    "kanjis": [
+      2090,
+      2070
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うっとうしい",
+      "url": "https://files.wanikani.com/u6m9y5rgi70oxcl5s3e7q39ny4v2"
+    }
+  ]
+}

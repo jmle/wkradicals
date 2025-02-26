@@ -1,0 +1,33 @@
+{
+  "id": 7055,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "疲れ"
+  },
+  "primaryMeaning": "Tiredness",
+  "meaningMnemonic": "疲れる is \"to get tired.\" This is the noun version, which makes it <vocabulary>tiredness</vocabulary> or <vocabulary>fatigue</vocabulary>.\n\n疲れ is a more casual version of 疲労, so people commonly choose 疲れ over 疲労 in everyday conversation.",
+  "primaryReading": "つかれ",
+  "readingMnemonic": "The reading comes from 疲れる.",
+  "otherMeanings": [
+    "Fatigue"
+  ],
+  "otherReadings": [],
+  "wkSlug": "疲れ",
+  "related": {
+    "radicals": [
+      187,
+      195
+    ],
+    "kanjis": [
+      1926
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つかれ",
+      "url": "https://files.wanikani.com/wyaug5k50867aco9sft62pdtbm7h"
+    }
+  ]
+}

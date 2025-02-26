@@ -1,0 +1,31 @@
+{
+  "id": 6879,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "〜魂"
+  },
+  "primaryMeaning": "Spirit",
+  "meaningMnemonic": "When attached to a word, this refers to a ____ spirit. It's  the same meaning as the kanji, too.",
+  "primaryReading": "こん",
+  "readingMnemonic": "This word is made up of a single kanji, but it uses the on'yomi reading, not the kun'yomi reading. Luckily, you've learned this reading already. Yay!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "〜魂",
+  "related": {
+    "radicals": [
+      159,
+      292
+    ],
+    "kanjis": [
+      1915
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こん",
+      "url": "https://files.wanikani.com/2omaej72q8w2npapdcblzv3covhz"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1347,
+  "type": "kanji",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "巨"
+  },
+  "primaryReading": "きょ",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "きょ",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Giant",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>giant</radical> radical and the <kanji>giant</kanji> kanji are exactly the same! Massive!",
+  "readingMnemonic": "Just recently, a <kanji>giant</kanji> rampaged through Little <reading>Kyo</reading>to (きょ), so now it's even smaller than before. Poor Little Kyoto.",
+  "wkSlug": "巨",
+  "related": {
+    "radicals": [
+      314
+    ],
+    "vocabularies": [
+      5013,
+      5014,
+      8261
+    ]
+  }
+}

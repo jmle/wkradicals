@@ -1,0 +1,36 @@
+{
+  "id": 6226,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "返還"
+  },
+  "primaryMeaning": "Return",
+  "meaningMnemonic": "If we <kanji>return</kanji> and <kanji>send back</kanji> things, we will have done a <vocabulary>return</vocabulary> or <vocabulary>restoration</vocabulary>.",
+  "primaryReading": "へんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Restoration"
+  ],
+  "otherReadings": [],
+  "wkSlug": "返還",
+  "related": {
+    "radicals": [
+      114,
+      218,
+      163,
+      8784
+    ],
+    "kanjis": [
+      858,
+      1706
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へんかん",
+      "url": "https://files.wanikani.com/1kyseu2nrajcw3e4s4dq9c3qlws1"
+    }
+  ]
+}

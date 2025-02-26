@@ -1,0 +1,36 @@
+{
+  "id": 5777,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "磁気"
+  },
+  "primaryMeaning": "Magnetism",
+  "meaningMnemonic": "<kanji>Magnet</kanji>ic <kanji>energy</kanji> is when <vocabulary>magnetism</vocabulary> occurs.",
+  "primaryReading": "じき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "磁気",
+  "related": {
+    "radicals": [
+      54,
+      8767,
+      1,
+      87,
+      82,
+      31
+    ],
+    "kanjis": [
+      1559,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じき",
+      "url": "https://files.wanikani.com/4cxdgbejzbkb5hfg1j1pu87cxnus"
+    }
+  ]
+}

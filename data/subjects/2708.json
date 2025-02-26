@@ -1,0 +1,34 @@
+{
+  "id": 2708,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "不足"
+  },
+  "primaryMeaning": "Shortage",
+  "meaningMnemonic": "You have something that's <kanji>not</kanji> <kanji>sufficient</kanji>. When something isn't sufficient, you have an <vocabulary>insufficiency</vocabulary> or <vocabulary>shortage</vocabulary>.\n\nThis word is more commonly used in formal contexts. In more casual, everyday conversations, 足りない is often preferred to express something being insufficient.",
+  "primaryReading": "ふそく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Insufficiency"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不足",
+  "related": {
+    "radicals": [
+      96,
+      95
+    ],
+    "kanjis": [
+      563,
+      561
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふそく",
+      "url": "https://files.wanikani.com/0b6na8qu8ylgr3cdbssg5miurapp"
+    }
+  ]
+}

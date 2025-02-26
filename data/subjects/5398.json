@@ -1,0 +1,40 @@
+{
+  "id": 5398,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "航空券"
+  },
+  "primaryMeaning": "Airplane Ticket",
+  "meaningMnemonic": "An <kanji>aviation</kanji> (航空) <kanji>ticket</kanji> is the kind of ticket you need to fly on an airplane. That's an <vocabulary>airplane ticket</vocabulary>.",
+  "primaryReading": "こうくうけん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Plane Ticket"
+  ],
+  "otherReadings": [],
+  "wkSlug": "航空券",
+  "related": {
+    "radicals": [
+      149,
+      8,
+      177,
+      170,
+      25,
+      8819,
+      24
+    ],
+    "kanjis": [
+      1397,
+      601,
+      1361
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうくうけん",
+      "url": "https://files.wanikani.com/xpy0i0lkow59gycutudfl78wb1fn"
+    }
+  ]
+}

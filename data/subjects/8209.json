@@ -1,0 +1,36 @@
+{
+  "id": 8209,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "一抹"
+  },
+  "primaryMeaning": "A Little",
+  "meaningMnemonic": "<kanji>Erase</kanji> <kanji>one</kanji> part of your feelings and you'll only feel <vocabulary>a little</vocabulary> bit of them. ",
+  "primaryReading": "いちまつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "A Touch",
+    "Slightly"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一抹",
+  "related": {
+    "radicals": [
+      1,
+      63,
+      134
+    ],
+    "kanjis": [
+      440,
+      2288
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いちまつ",
+      "url": "https://files.wanikani.com/c9e9bq5nuxhfigzxlyqnz9osyl3b"
+    }
+  ]
+}

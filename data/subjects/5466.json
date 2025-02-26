@@ -1,0 +1,31 @@
+{
+  "id": 5466,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "救う"
+  },
+  "primaryMeaning": "To Rescue",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>rescue</kanji> so the verb vocab version is <vocabulary>to rescue</vocabulary>.",
+  "primaryReading": "すくう",
+  "readingMnemonic": "The すく in the reading is a lot like the <reading>scue</reading> (すくう) part of <vocabulary>to rescue</vocabulary>, don't you think? Hopefully you do, so you can make the connection.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "救う",
+  "related": {
+    "radicals": [
+      399,
+      60
+    ],
+    "kanjis": [
+      1465
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すくう",
+      "url": "https://files.wanikani.com/6hvd0hjslfb1tq8m5jyjzdnuuxh0"
+    }
+  ]
+}

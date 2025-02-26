@@ -1,0 +1,37 @@
+{
+  "id": 5982,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "廃絶"
+  },
+  "primaryMeaning": "Abolition",
+  "meaningMnemonic": "Something that is <kanji>obsolete</kanji> will end in <kanji>extinction</kanji>. Join in the calls for its <vocabulary>abolition</vocabulary>, <vocabulary>elimination</vocabulary> and <vocabulary>extinction</vocabulary>, whatever it is.",
+  "primaryReading": "はいぜつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Elimination",
+    "Extinction"
+  ],
+  "otherReadings": [],
+  "wkSlug": "廃絶",
+  "related": {
+    "radicals": [
+      62,
+      359,
+      86,
+      110
+    ],
+    "kanjis": [
+      1622,
+      1371
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はいぜつ",
+      "url": "https://files.wanikani.com/27wegq8uvh17vwfkw40s4nkykti0"
+    }
+  ]
+}

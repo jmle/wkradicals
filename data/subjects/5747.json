@@ -1,0 +1,34 @@
+{
+  "id": 5747,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "貴い"
+  },
+  "primaryMeaning": "Valuable",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>valuable</kanji>? It's <vocabulary>valuable</vocabulary>.",
+  "primaryReading": "とうとい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: What is most <vocabulary>valuable</vocabulary> to you? Of course it's your <reading>toe toe</reading> (とうと). It's your big toe (the long とう) with another small toe growing out of it (short と). Imagine your toe toe, and then imagine how valuable it is to you. So valuable! You can also think about 尊い, a similar word which means \"revered.\" It's a similar idea, and it has the same reading.",
+  "otherMeanings": [
+    "Sacred"
+  ],
+  "otherReadings": [],
+  "wkSlug": "貴い",
+  "related": {
+    "radicals": [
+      49,
+      1,
+      94
+    ],
+    "kanjis": [
+      1547
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうとい",
+      "url": "https://files.wanikani.com/amfkgwk4uoa7lp2v1c2c0o6dfphq"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2825,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "来月"
+  },
+  "primaryMeaning": "Next Month",
+  "meaningMnemonic": "The <kanji>next</kanji> <kanji>month</kanji> is the <vocabulary>next month</vocabulary>! It isn't this month or the month before, it's the next one!",
+  "primaryReading": "らいげつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 月 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\n<vocabulary>Next month</vocabulary> is when <reading>rye</reading> <reading>gets</reading> (らいげつ) into your diet! You're going to eat only rye bread and drink only rye beer for all of next month. Bet you can't wait!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "来月",
+  "related": {
+    "radicals": [
+      1,
+      98,
+      43
+    ],
+    "kanjis": [
+      590,
+      477
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らいげつ",
+      "url": "https://files.wanikani.com/1qhnehlfw4o46l4r4dsdir95jifu"
+    }
+  ]
+}

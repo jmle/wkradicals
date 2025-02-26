@@ -1,0 +1,38 @@
+{
+  "id": 4831,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "先輩"
+  },
+  "primaryMeaning": "Senior",
+  "meaningMnemonic": "My <kanji>comrade</kanji> who came <kanji>before</kanji> me is my <vocabulary>senior</vocabulary>, my senpai (せんぱい).",
+  "primaryReading": "せんぱい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well, but just remember that the second kanji is read as ぱい because of the rendaku on はい.",
+  "otherMeanings": [
+    "Older Graduate",
+    "Superior"
+  ],
+  "otherReadings": [],
+  "wkSlug": "先輩",
+  "related": {
+    "radicals": [
+      5,
+      17,
+      28,
+      209,
+      93
+    ],
+    "kanjis": [
+      543,
+      1276
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんぱい",
+      "url": "https://files.wanikani.com/kfil2ukqi1o9e697v14zs4a0snip"
+    }
+  ]
+}

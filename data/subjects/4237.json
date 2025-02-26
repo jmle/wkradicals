@@ -1,0 +1,37 @@
+{
+  "id": 4237,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "数詞"
+  },
+  "primaryMeaning": "Numeral",
+  "meaningMnemonic": "A <kanji>number</kanji> <kanji>part of speech</kanji> is a <vocabulary>numeral</vocabulary> or <vocabulary>number word</vocabulary>.",
+  "primaryReading": "すうし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Number Word"
+  ],
+  "otherReadings": [],
+  "wkSlug": "数詞",
+  "related": {
+    "radicals": [
+      98,
+      19,
+      60,
+      117,
+      266
+    ],
+    "kanjis": [
+      703,
+      1066
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すうし",
+      "url": "https://files.wanikani.com/4feiqcpgmneccqev82vce6ihmj8e"
+    }
+  ]
+}

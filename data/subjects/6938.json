@@ -1,0 +1,35 @@
+{
+  "id": 6938,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "口笛を吹く"
+  },
+  "primaryMeaning": "To Whistle",
+  "meaningMnemonic": "You know that 口笛 is \"whistling.\" So, if you're <kanji>blow</kanji>ing your whistle you're going <vocabulary>to whistle</vocabulary>.",
+  "primaryReading": "くちぶえをふく",
+  "readingMnemonic": "The readings are of 口笛 and the reading you learned from 吹.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "口笛を吹く",
+  "related": {
+    "radicals": [
+      16,
+      85,
+      268,
+      142
+    ],
+    "kanjis": [
+      452,
+      1121,
+      1751
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くちぶえをふく",
+      "url": "https://files.wanikani.com/u6ifxrci4hdfibzkcj95pyneloqm"
+    }
+  ]
+}

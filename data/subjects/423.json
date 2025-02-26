@@ -1,0 +1,21 @@
+{
+  "id": 423,
+  "type": "radical",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "感"
+  },
+  "primaryMeaning": "Feeling",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>feeling</radical>.",
+  "wkSlug": "feeling",
+  "related": {
+    "kanjis": [
+      2279
+    ],
+    "vocabularies": [
+      8207
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5280,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "診る"
+  },
+  "primaryMeaning": "To Examine A Patient",
+  "meaningMnemonic": "In order to <kanji>diagnose</kanji> a patient, you must first go <vocabulary>to examine a patient</vocabulary>. When you examine them you know what's wrong with them and then you can diagnose them, which is why this verb is <vocabulary>to examine</vocabulary>.",
+  "primaryReading": "みる",
+  "readingMnemonic": "The reading is the same as 見る, which you have to do when you are examining a patient. So, you look and see all you can about the patient while you examine them, making this reading <reading>み</reading>る as well.",
+  "otherMeanings": [
+    "To Examine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "診る",
+  "related": {
+    "radicals": [
+      117,
+      8764,
+      38
+    ],
+    "kanjis": [
+      1390
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みる",
+      "url": "https://files.wanikani.com/1y11t24w2bsxm2kpmcspz7uopf85"
+    }
+  ]
+}

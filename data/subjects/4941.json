@@ -1,0 +1,37 @@
+{
+  "id": 4941,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "汗臭い"
+  },
+  "primaryMeaning": "Sweaty-Smelling",
+  "meaningMnemonic": "If your <kanji>sweat</kanji> is <kanji>smelly</kanji> (臭い) you are <vocabulary>sweaty-smelling</vocabulary>, <vocabulary>smelling of sweat</vocabulary>, or <vocabulary>smelling like sweat</vocabulary>.",
+  "primaryReading": "あせくさい",
+  "readingMnemonic": "The readings are the ones you learned with the kanji.",
+  "otherMeanings": [
+    "Smelling Of Sweat",
+    "Smelling Like Sweat"
+  ],
+  "otherReadings": [],
+  "wkSlug": "汗臭い",
+  "related": {
+    "radicals": [
+      103,
+      61,
+      109,
+      18
+    ],
+    "kanjis": [
+      1308,
+      1111
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あせくさい",
+      "url": "https://files.wanikani.com/blhw7jai8pb9mjyokict53dogf3j"
+    }
+  ]
+}

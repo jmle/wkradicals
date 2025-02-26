@@ -1,0 +1,32 @@
+{
+  "id": 2585,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "石"
+  },
+  "primaryMeaning": "Stone",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "いし",
+  "readingMnemonic": "You pick up a <vocabulary>stone.</vocabulary> You throw it through a window. Huh. That was surprisingly <reading>easy</reading>.\n\nDo it again. Throw the stone again. It's so easy, just do it.",
+  "otherMeanings": [
+    "Rock"
+  ],
+  "otherReadings": [],
+  "wkSlug": "石",
+  "related": {
+    "radicals": [
+      54
+    ],
+    "kanjis": [
+      493
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いし",
+      "url": "https://files.wanikani.com/w8oezrmrhlbicnxd6r2qdk5yy3cc"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2518,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "丸い"
+  },
+  "primaryMeaning": "Circular",
+  "meaningMnemonic": "With an い on the end, you can guess that this word is an い-adjective. What is the adjective version of the kanji <kanji>丸</kanji>? \"Circle\" becomes <vocabulary>circular</vocabulary>, <vocabulary>spherical</vocabulary> or <vocabulary>round</vocabulary>. This, compared to another similar word (円), is more general purpose and can be used with 3D spherical objects as well.",
+  "primaryReading": "まるい",
+  "readingMnemonic": "This word uses the reading you learned for the kanji <kanji>丸</kanji>, though you'll need to tack the い onto the end too.",
+  "otherMeanings": [
+    "Round",
+    "Spherical"
+  ],
+  "otherReadings": [],
+  "wkSlug": "丸い",
+  "related": {
+    "radicals": [
+      11,
+      3
+    ],
+    "kanjis": [
+      467
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まるい",
+      "url": "https://files.wanikani.com/jens43nc4ewjefk0n55lx9rcdd9z"
+    }
+  ]
+}

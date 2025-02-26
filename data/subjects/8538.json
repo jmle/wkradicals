@@ -1,0 +1,37 @@
+{
+  "id": 8538,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "慶弔"
+  },
+  "primaryMeaning": "Congratulations And Condolences",
+  "meaningMnemonic": "If you are saying <kanji>congratulation</kanji>s and also giving your <kanji>condolence</kanji>s then they are <vocabulary>congratulations and condolences</vocabulary>. Pretty easy, right?",
+  "primaryReading": "けいちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "慶弔",
+  "related": {
+    "radicals": [
+      62,
+      424,
+      6,
+      65,
+      60,
+      36,
+      8761
+    ],
+    "kanjis": [
+      2430,
+      2343
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいちょう",
+      "url": "https://files.wanikani.com/pmomqas2jq98ahib3keg65eki6f3"
+    }
+  ]
+}

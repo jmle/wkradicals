@@ -1,0 +1,34 @@
+{
+  "id": 8073,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "卸す"
+  },
+  "primaryMeaning": "To Sell Wholesale",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>wholesale</kanji>, so the verb version is <vocabulary>to sell wholesale</vocabulary>.",
+  "primaryReading": "おろす",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "otherMeanings": [
+    "To Grate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "卸す",
+  "related": {
+    "radicals": [
+      415,
+      44,
+      145
+    ],
+    "kanjis": [
+      2233
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おろす",
+      "url": "https://files.wanikani.com/wdlaj7i8fcr4q2zfzt3ror3x80rn"
+    }
+  ]
+}

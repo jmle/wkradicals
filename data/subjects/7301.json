@@ -1,0 +1,38 @@
+{
+  "id": 7301,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "概算"
+  },
+  "primaryMeaning": "Approximation",
+  "meaningMnemonic": "An <kanji>approximation</kanji> of the <kanji>calculation</kanji> is an <vocabulary>approximation</vocabulary> or <vocabulary>rough estimate</vocabulary>.",
+  "primaryReading": "がいさん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Rough Estimate"
+  ],
+  "otherReadings": [],
+  "wkSlug": "概算",
+  "related": {
+    "radicals": [
+      23,
+      196,
+      333,
+      85,
+      53,
+      106
+    ],
+    "kanjis": [
+      2064,
+      762
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がいさん",
+      "url": "https://files.wanikani.com/evg8yxdkvfgmt1f0s03q8ld11j2g"
+    }
+  ]
+}

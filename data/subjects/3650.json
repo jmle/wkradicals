@@ -1,0 +1,36 @@
+{
+  "id": 3650,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "消しゴム"
+  },
+  "primaryMeaning": "Eraser",
+  "meaningMnemonic": "You've seen the word 消す, I hope. This comes from that. You're extinguishing something with ゴム. ゴム is a word for either gummy or rubbery things. So, this is a gummy thing that extinguishes something. This is an <vocabulary>eraser</vocabulary> that extinguishes pencil markings.",
+  "primaryReading": "けしごむ",
+  "readingMnemonic": "The reading comes from 消す, so make sure you know that word so you can read this one!",
+  "otherMeanings": [
+    "Rubber"
+  ],
+  "otherReadings": [
+    "けしゴム"
+  ],
+  "wkSlug": "消しゴム",
+  "related": {
+    "radicals": [
+      103,
+      8765,
+      43
+    ],
+    "kanjis": [
+      819
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けしごむ",
+      "url": "https://files.wanikani.com/g2k732r771kqsglhgu066z0gcnwq"
+    }
+  ]
+}

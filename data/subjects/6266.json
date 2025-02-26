@@ -1,0 +1,37 @@
+{
+  "id": 6266,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "隆起"
+  },
+  "primaryMeaning": "Protuberance",
+  "meaningMnemonic": "When <kanji>prosperity</kanji> <kanji>wakes up</kanji> it will push through whatever it's in and create a <vocabulary>protuberance</vocabulary> or <vocabulary>bulge</vocabulary>. Just imagine it pushing out of the wall, trying to get out, making a bulge. So prosperous!",
+  "primaryReading": "りゅうき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. Here's a mnemonic for the reading of 起. To get out of this bulge, you use a <reading>key</reading> (き). The key lets you get out.",
+  "otherMeanings": [
+    "Bulge"
+  ],
+  "otherReadings": [],
+  "wkSlug": "隆起",
+  "related": {
+    "radicals": [
+      176,
+      60,
+      210,
+      124,
+      228
+    ],
+    "kanjis": [
+      1712,
+      740
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りゅうき",
+      "url": "https://files.wanikani.com/tb7i9tunj2alfe4l8r6bvrn3187z"
+    }
+  ]
+}

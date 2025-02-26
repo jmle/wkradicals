@@ -1,0 +1,37 @@
+{
+  "id": 4236,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "助詞"
+  },
+  "primaryMeaning": "Grammar Particle",
+  "meaningMnemonic": "A <kanji>part of speech</kanji> that's just meant to <kanji>help</kanji> your grammar out are the little things. They tie grammar and words together, and that's about it. These are <vocabulary>grammar particle</vocabulary>s or just plain old <vocabulary>particle</vocabulary>s.",
+  "primaryReading": "じょし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Particle",
+    "Postposition"
+  ],
+  "otherReadings": [],
+  "wkSlug": "助詞",
+  "related": {
+    "radicals": [
+      419,
+      13,
+      117,
+      266
+    ],
+    "kanjis": [
+      680,
+      1066
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょし",
+      "url": "https://files.wanikani.com/cb0ydp071w8qtt92kt0k41koe1x0"
+    }
+  ]
+}

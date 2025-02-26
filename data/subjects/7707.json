@@ -1,0 +1,31 @@
+{
+  "id": 7707,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "尾"
+  },
+  "primaryMeaning": "Tail",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "お",
+  "readingMnemonic": "Since this word is made up of a single kanji, it should use the kun'yomi reading. You haven't learned this reading yet though, so here's a mnemonic to help you:\n\nYou look down and you've sprouted a <vocabulary>tail</vocabulary>! You're so shocked that all you can say is \"<reading>Oh</reading>. (お) Oh okay...\" This your life now. A life with a tail.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "尾",
+  "related": {
+    "radicals": [
+      37,
+      67
+    ],
+    "kanjis": [
+      1101
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "お",
+      "url": "https://files.wanikani.com/2uz22faotde3ug3n9x7adxgf9pbr"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 8480,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "執行猶予"
+  },
+  "primaryMeaning": "Suspended Sentence",
+  "meaningMnemonic": "Remember how you learned that 猶予 means \"extension?\" Well the jury has a <kanji>tenacious</kanji> grip on the idea of trying to let you <kanji>go</kanji> and they request an extension, so they give you a <vocabulary>suspended sentence</vocabulary> until they can figure out how to do it properly. You might be set free! E... eventually.",
+  "primaryReading": "しっこうゆうよ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "執行猶予",
+  "related": {
+    "radicals": [
+      260,
+      223,
+      111,
+      144,
+      8767,
+      182,
+      141,
+      27
+    ],
+    "kanjis": [
+      1649,
+      580,
+      2296,
+      854
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しっこうゆうよ",
+      "url": "https://files.wanikani.com/falmvw0576pqhqd622jwavyr11lx"
+    }
+  ]
+}

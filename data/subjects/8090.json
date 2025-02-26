@@ -1,0 +1,37 @@
+{
+  "id": 8090,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "高尚"
+  },
+  "primaryMeaning": "High",
+  "meaningMnemonic": "You only hold someone in <kanji>high</kanji> <kanji>esteem</kanji> if they are really <vocabulary>high</vocabulary>, <vocabulary>noble</vocabulary> people. They have to be <vocabulary>refined</vocabulary> to be held so highly by you.",
+  "primaryReading": "こうしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Noble",
+    "Refined"
+  ],
+  "otherReadings": [],
+  "wkSlug": "高尚",
+  "related": {
+    "radicals": [
+      8,
+      16,
+      121,
+      8765
+    ],
+    "kanjis": [
+      666,
+      2236
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうしょう",
+      "url": "https://files.wanikani.com/40ixoban8z1z0vc5zfw53dq2ztqg"
+    }
+  ]
+}

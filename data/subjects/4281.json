@@ -1,0 +1,36 @@
+{
+  "id": 4281,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "妻子"
+  },
+  "primaryMeaning": "Wife And Kids",
+  "meaningMnemonic": "You have your <kanji>wife</kanji> and you have your <kanji>child</kanji>. These are your <vocabulary>wife and kids</vocabulary>.",
+  "primaryReading": "さいし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Wife And Children"
+  ],
+  "otherReadings": [],
+  "wkSlug": "妻子",
+  "related": {
+    "radicals": [
+      15,
+      105,
+      19,
+      34
+    ],
+    "kanjis": [
+      1113,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいし",
+      "url": "https://files.wanikani.com/zsj8cwsm3r7wptr2up8bhzwlhl6d"
+    }
+  ]
+}

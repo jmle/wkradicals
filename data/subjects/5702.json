@@ -1,0 +1,33 @@
+{
+  "id": 5702,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "恐れる"
+  },
+  "primaryMeaning": "To Fear",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>fear</kanji> so the verb version is <vocabulary>to fear</vocabulary>.",
+  "primaryReading": "おそれる",
+  "readingMnemonic": "The reading is shared with 恐ろしい, which is \"scary.\" Use that, and don't be afraid. You'll be able to learn this reading yet.",
+  "otherMeanings": [
+    "To Dread"
+  ],
+  "otherReadings": [],
+  "wkSlug": "恐れる",
+  "related": {
+    "radicals": [
+      241,
+      65
+    ],
+    "kanjis": [
+      1406
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おそれる",
+      "url": "https://files.wanikani.com/f6j7b9ta8l1rv5gmo1tt2jaxxgsf"
+    }
+  ]
+}

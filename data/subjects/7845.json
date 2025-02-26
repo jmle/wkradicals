@@ -1,0 +1,36 @@
+{
+  "id": 7845,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "郊外"
+  },
+  "primaryMeaning": "Suburb",
+  "meaningMnemonic": "<kanji>Suburbs</kanji> on the <kanji>outside</kanji> of town are still <vocabulary>suburbs</vocabulary>. They're sometimes called the <vocabulary>outskirts</vocabulary> of town too.",
+  "primaryReading": "こうがい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Outskirts"
+  ],
+  "otherReadings": [],
+  "wkSlug": "郊外",
+  "related": {
+    "radicals": [
+      302,
+      176,
+      33,
+      10
+    ],
+    "kanjis": [
+      2135,
+      521
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうがい",
+      "url": "https://files.wanikani.com/ounqqjzsgiau2qjr34q86hvuei6d"
+    }
+  ]
+}

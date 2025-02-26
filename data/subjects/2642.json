@@ -1,0 +1,35 @@
+{
+  "id": 2642,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "公用"
+  },
+  "primaryMeaning": "Government Business",
+  "meaningMnemonic": "A <kanji>public</kanji> <kanji>task</kanji> is going to be <vocabulary>government business</vocabulary>. You have to think of this public as government to know the meaning of this word easily.",
+  "primaryReading": "こうよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Official Business"
+  ],
+  "otherReadings": [],
+  "wkSlug": "公用",
+  "related": {
+    "radicals": [
+      2,
+      140,
+      71
+    ],
+    "kanjis": [
+      499,
+      525
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうよう",
+      "url": "https://files.wanikani.com/yygus00ua7exf7kgad4oplcdvub5"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 7058,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "砕石"
+  },
+  "primaryMeaning": "Rubble",
+  "meaningMnemonic": "<kanji>Smash</kanji>ed <kanji>stone</kanji> is smashed stone. It's <vocabulary>rubble</vocabulary> and <vocabulary>broken stone</vocabulary>.",
+  "primaryReading": "さいせき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Broken Stone"
+  ],
+  "otherReadings": [],
+  "wkSlug": "砕石",
+  "related": {
+    "radicals": [
+      54,
+      11,
+      15
+    ],
+    "kanjis": [
+      1977,
+      493
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいせき",
+      "url": "https://files.wanikani.com/f8s3dxexk2ojq81o3797bs1f9np9"
+    }
+  ]
+}

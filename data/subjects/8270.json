@@ -1,0 +1,34 @@
+{
+  "id": 8270,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "大尉"
+  },
+  "primaryMeaning": "Captain",
+  "meaningMnemonic": "The <kanji>big</kanji> <kanji>military officer</kanji> is in charge of everyone else. He's the <vocabulary>captain</vocabulary>. You can tell because he wears a really big captain hat.",
+  "primaryReading": "たいい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "大尉",
+  "related": {
+    "radicals": [
+      18,
+      37,
+      207,
+      74
+    ],
+    "kanjis": [
+      453,
+      2324
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいい",
+      "url": "https://files.wanikani.com/8y22uj6cd27evsgyz2262lzsxz4t"
+    }
+  ]
+}

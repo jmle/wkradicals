@@ -1,0 +1,33 @@
+{
+  "id": 4339,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "非難"
+  },
+  "primaryMeaning": "Criticism",
+  "meaningMnemonic": "A <kanji>difficult</kanji> <kanji>injustice</kanji> to take from someone is a <vocabulary>criticism</vocabulary>. Ugh, what a pain to be criticized! So difficult, and besides, it's an injustice, because I'm perfect!",
+  "primaryReading": "ひなん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "非難",
+  "related": {
+    "radicals": [
+      209,
+      8774,
+      240
+    ],
+    "kanjis": [
+      1013,
+      1095
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひなん",
+      "url": "https://files.wanikani.com/bc1l8bp9wtcv419qw7wn5rcph09y"
+    }
+  ]
+}

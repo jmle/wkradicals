@@ -1,0 +1,33 @@
+{
+  "id": 3503,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "待ちぼうけ"
+  },
+  "primaryMeaning": "Stood Up",
+  "meaningMnemonic": "With <vocabulary>待ち</vocabulary> you know you're waiting, but what's a <vocabulary>ぼうけ</vocabulary>? Turns out it's the long version of ボケ which means idiot. Basically, in this case you're a waiting idiot. Why? because you were <vocabulary>stood up</vocabulary>.",
+  "primaryReading": "まちぼうけ",
+  "readingMnemonic": "The reading for 待ち comes right from 待つ. You know the drill by now.",
+  "otherMeanings": [
+    "Waiting In Vain"
+  ],
+  "otherReadings": [],
+  "wkSlug": "待ちぼうけ",
+  "related": {
+    "radicals": [
+      99,
+      192
+    ],
+    "kanjis": [
+      726
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まちぼうけ",
+      "url": "https://files.wanikani.com/42gbtlavma89tnpkna00aslpvjxr"
+    }
+  ]
+}

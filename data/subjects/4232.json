@@ -1,0 +1,36 @@
+{
+  "id": 4232,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "若々しい"
+  },
+  "primaryMeaning": "Youthful",
+  "meaningMnemonic": "A <kanji>young</kanji> <kanji>young</kanji> thing has <vocabulary>youthful</vocabulary>ness on their side. Oh to be youthful and <vocabulary>young looking</vocabulary> again!",
+  "primaryReading": "わかわかしい",
+  "readingMnemonic": "The reading is the reading you learned with the kanji. Same goes for the repeater kanji.",
+  "otherMeanings": [
+    "Young Looking"
+  ],
+  "otherReadings": [],
+  "wkSlug": "若々しい",
+  "related": {
+    "radicals": [
+      90,
+      362,
+      14,
+      3
+    ],
+    "kanjis": [
+      1065,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わかわかしい",
+      "url": "https://files.wanikani.com/n627ef6svowhu3stugnfwyj3g0o9"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3370,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "童話"
+  },
+  "primaryMeaning": "Children's Story",
+  "meaningMnemonic": "Don't think of this as a <kanji>juvenile</kanji> <kanji>talk</kanji>. Think of 話 the vocab word, which means \"story.\" If you do that, you get a \"juvenile story.\" What's a juvenile story? It's a <vocabulary>children's story</vocabulary>.",
+  "primaryReading": "どうわ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Fairy Tale"
+  ],
+  "otherReadings": [],
+  "wkSlug": "童話",
+  "related": {
+    "radicals": [
+      55,
+      125,
+      117,
+      174
+    ],
+    "kanjis": [
+      833,
+      705
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どうわ",
+      "url": "https://files.wanikani.com/lixehgra95azszetjezg0xtladof"
+    }
+  ]
+}

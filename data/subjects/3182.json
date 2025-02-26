@@ -1,0 +1,34 @@
+{
+  "id": 3182,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "軽い"
+  },
+  "primaryMeaning": "Lightweight",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>lightweight</kanji>? It's also <vocabulary>lightweight</vocabulary>.",
+  "primaryReading": "かるい",
+  "readingMnemonic": "The reading you learned with the kanji is the reading you'll be using here. Because of that, this word is kind of a <vocabulary>lightweight</vocabulary>.",
+  "otherMeanings": [
+    "Light",
+    "Light Weight"
+  ],
+  "otherReadings": [],
+  "wkSlug": "軽い",
+  "related": {
+    "radicals": [
+      93,
+      179
+    ],
+    "kanjis": [
+      751
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かるい",
+      "url": "https://files.wanikani.com/m4yv6l4r5mdcyrywen0h7n0hrc79"
+    }
+  ]
+}

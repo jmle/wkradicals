@@ -1,0 +1,37 @@
+{
+  "id": 5626,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "否決"
+  },
+  "primaryMeaning": "Rejection",
+  "meaningMnemonic": "\"<kanji>No</kanji>\" is the <kanji>decision</kanji> I've made. Sorry, but this is <vocabulary>rejection</vocabulary>.",
+  "primaryReading": "ひけつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Vote Down"
+  ],
+  "otherReadings": [],
+  "wkSlug": "否決",
+  "related": {
+    "radicals": [
+      96,
+      16,
+      103,
+      9,
+      157
+    ],
+    "kanjis": [
+      1517,
+      687
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひけつ",
+      "url": "https://files.wanikani.com/6u7pk1n9aj0mv3jw2ug41aqn6a05"
+    }
+  ]
+}

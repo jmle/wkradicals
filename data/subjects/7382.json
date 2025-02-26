@@ -1,0 +1,36 @@
+{
+  "id": 7382,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "訂正"
+  },
+  "primaryMeaning": "Correction",
+  "meaningMnemonic": "When you <kanji>revise</kanji> something to make it <kanji>correct</kanji> you are doing a <vocabulary>correction</vocabulary> and <vocabulary>revision</vocabulary>.",
+  "primaryReading": "ていせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Revision"
+  ],
+  "otherReadings": [],
+  "wkSlug": "訂正",
+  "related": {
+    "radicals": [
+      117,
+      27,
+      1,
+      44
+    ],
+    "kanjis": [
+      2096,
+      488
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ていせい",
+      "url": "https://files.wanikani.com/kh8hz70bid2atcafalfw22spzpxh"
+    }
+  ]
+}

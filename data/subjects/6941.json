@@ -1,0 +1,34 @@
+{
+  "id": 6941,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "取り逃がす"
+  },
+  "primaryMeaning": "To Fail To Catch",
+  "meaningMnemonic": "The thing you want to <kanji>take</kanji> has <kanji>escape</kanji>d. Meaning you failed to catch this thing. This word is <vocabulary>to fail to catch</vocabulary>.",
+  "primaryReading": "とりにがす",
+  "readingMnemonic": "The readings come from 取る and 逃がす.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "取り逃がす",
+  "related": {
+    "radicals": [
+      88,
+      30,
+      114,
+      363
+    ],
+    "kanjis": [
+      966,
+      1705
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とりにがす",
+      "url": "https://files.wanikani.com/y2aelz3lw6rr4o1eajk9w41blvdu"
+    }
+  ]
+}

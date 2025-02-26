@@ -1,0 +1,42 @@
+{
+  "id": 3882,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "気持ち悪い"
+  },
+  "primaryMeaning": "Bad Feeling",
+  "meaningMnemonic": "The 気持ち (feeling) is <kanji>bad</kanji>. So, you can imagine how you feel isn't good, it's a <vocabulary>bad feeling</vocabulary>. You're <vocabulary>feeling terrible</vocabulary>, in fact.",
+  "primaryReading": "きもちわるい",
+  "readingMnemonic": "The readings come from the words 気持ち and 悪い. Hopefully you've seen both and can combine them together to know the reading automatically. No bad feelings with this word, right?",
+  "otherMeanings": [
+    "Feeling Bad",
+    "Feeling Terrible",
+    "Unpleasant",
+    "Gross"
+  ],
+  "otherReadings": [],
+  "wkSlug": "気持ち悪い",
+  "related": {
+    "radicals": [
+      82,
+      31,
+      63,
+      192,
+      204,
+      65
+    ],
+    "kanjis": [
+      548,
+      727,
+      829
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きもちわるい",
+      "url": "https://files.wanikani.com/5disnkz0a4v4ztzhstdy8p544j9z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5409,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "融資"
+  },
+  "primaryMeaning": "Financing",
+  "meaningMnemonic": "<kanji>Dissolve</kanji> your <kanji>resources</kanji>, because you need to pay back your <vocabulary>financing</vocabulary> and <vocabulary>loan</vocabulary>s now.",
+  "primaryReading": "ゆうし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Loan"
+  ],
+  "otherReadings": [],
+  "wkSlug": "融資",
+  "related": {
+    "radicals": [
+      336,
+      89,
+      278,
+      94
+    ],
+    "kanjis": [
+      1444,
+      1133
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうし",
+      "url": "https://files.wanikani.com/d3v13xgtfne2ia7w7eqz1hld0gew"
+    }
+  ]
+}

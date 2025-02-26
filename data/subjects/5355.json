@@ -1,0 +1,36 @@
+{
+  "id": 5355,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "体系的"
+  },
+  "primaryMeaning": "Systematic",
+  "meaningMnemonic": "Give a <kanji>body</kanji> to a <kanji>system</kanji> to make it a real, structured system, you know? Then add 的 to it to make it <vocabulary>systematic</vocabulary>.\n\n体系的 is a formal word for something that follows a clear structure or framework, often used in academic contexts. For example, you might hear it when discussing a systematic approach to solving a problem or organizing information systematically.",
+  "primaryReading": "たいけいてき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "体系的",
+  "related": {
+    "radicals": [
+      75,
+      50,
+      329,
+      52,
+      236
+    ],
+    "kanjis": [
+      583,
+      1415,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいけいてき",
+      "url": "https://files.wanikani.com/yu51hbrf2aujnfkk8abbw9txsxbi"
+    }
+  ]
+}

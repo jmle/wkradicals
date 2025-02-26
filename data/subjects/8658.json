@@ -1,0 +1,31 @@
+{
+  "id": 8658,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "狐"
+  },
+  "primaryMeaning": "Fox",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "きつね",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "狐",
+  "related": {
+    "radicals": [
+      144,
+      384
+    ],
+    "kanjis": [
+      2466
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きつね",
+      "url": "https://files.wanikani.com/evepawny6g4lxvxbfner44pqkb52"
+    }
+  ]
+}

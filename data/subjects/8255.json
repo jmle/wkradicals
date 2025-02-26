@@ -1,0 +1,36 @@
+{
+  "id": 8255,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "凡人"
+  },
+  "primaryMeaning": "Ordinary Person",
+  "meaningMnemonic": "A <kanji>mediocre</kanji> <kanji>person</kanji> is an <vocabulary>ordinary person</vocabulary>. There isn't anything weird or interesting about them.",
+  "primaryReading": "ぼんじん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Average Person",
+    "Mediocre"
+  ],
+  "otherReadings": [],
+  "wkSlug": "凡人",
+  "related": {
+    "radicals": [
+      177,
+      3,
+      9
+    ],
+    "kanjis": [
+      2301,
+      444
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼんじん",
+      "url": "https://files.wanikani.com/4v54pf9zyximz4ghucf56rqfppar"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5151,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "車庫"
+  },
+  "primaryMeaning": "Garage",
+  "meaningMnemonic": "<kanji>Car</kanji> <kanji>storage</kanji> is where you store your car. It's your <vocabulary>garage</vocabulary>.",
+  "primaryReading": "しゃこ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "車庫",
+  "related": {
+    "radicals": [
+      93,
+      62
+    ],
+    "kanjis": [
+      562,
+      1348
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゃこ",
+      "url": "https://files.wanikani.com/oqa4fjahgjxq3hsxgxz91pghpflz"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3460,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "名前"
+  },
+  "primaryMeaning": "Name",
+  "meaningMnemonic": "Your <kanji>name</kanji> that's in the <kanji>front</kanji>. That is not your last name, that is your regular <vocabulary>name</vocabulary> or your <vocabulary>first name</vocabulary>.",
+  "primaryReading": "なまえ",
+  "readingMnemonic": "This word uses both kun'yomi readings (oh darn!). That being said, you've seen the kun'yomi readings for both the kanji that make up this word. The word 名 (な) and the word 前 (まえ) both are kun'yomi, so use those words and Voltron them into a single word, なまえ.",
+  "otherMeanings": [
+    "First Name",
+    "Full Name",
+    "Given Name"
+  ],
+  "otherReadings": [],
+  "wkSlug": "名前",
+  "related": {
+    "radicals": [
+      33,
+      16,
+      8767,
+      1,
+      43,
+      128
+    ],
+    "kanjis": [
+      544,
+      633
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なまえ",
+      "url": "https://files.wanikani.com/e88rkk3eihmmvtsnwmqdko8vu8fr"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 7945,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "連鎖"
+  },
+  "primaryMeaning": "Chain",
+  "meaningMnemonic": "If you <kanji>take along</kanji> a <kanji>chain</kanji> with you it's still a <vocabulary>chain</vocabulary>, it's just moving somewhere new.",
+  "primaryReading": "れんさ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Chaining",
+    "Connection"
+  ],
+  "otherReadings": [],
+  "wkSlug": "連鎖",
+  "related": {
+    "radicals": [
+      114,
+      93,
+      118,
+      8765,
+      94
+    ],
+    "kanjis": [
+      1084,
+      2163
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "れんさ",
+      "url": "https://files.wanikani.com/sz8vz3c19wd4p6znnh3nd0zacx1f"
+    }
+  ]
+}

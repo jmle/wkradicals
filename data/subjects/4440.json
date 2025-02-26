@@ -1,0 +1,38 @@
+{
+  "id": 4440,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "岡山県"
+  },
+  "primaryMeaning": "Okayama Prefecture",
+  "meaningMnemonic": "Okayama (岡山) <kanji>Prefecture</kanji> is a prefecture in Japan. Learning the reading will help you to remember the meaning of this word since half of it is in Japanese.",
+  "primaryReading": "おかやまけん",
+  "readingMnemonic": "The reading is the kun'yomi readings of the first two kanji. Luckily you learned them when you learned the kanji. Then, stick 県 on there and you should be good to go!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "岡山県",
+  "related": {
+    "radicals": [
+      29,
+      8767,
+      1,
+      20,
+      53,
+      56,
+      35
+    ],
+    "kanjis": [
+      1137,
+      455,
+      731
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おかやまけん",
+      "url": "https://files.wanikani.com/fxb4xtk8li1k1s21n4j12571r9g7"
+    }
+  ]
+}

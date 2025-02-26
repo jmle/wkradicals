@@ -1,0 +1,34 @@
+{
+  "id": 8338,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "飽和"
+  },
+  "primaryMeaning": "Saturation",
+  "meaningMnemonic": "If you're so <kanji>bored</kanji> of <kanji>peace</kanji> because all there IS is peace, it's called <vocabulary>saturation</vocabulary> of the peace market. You've pretty much been soaked through with peace and now you want a little chaotic excitement!",
+  "primaryReading": "ほうわ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "飽和",
+  "related": {
+    "radicals": [
+      139,
+      395,
+      135,
+      16
+    ],
+    "kanjis": [
+      2316,
+      712
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうわ",
+      "url": "https://files.wanikani.com/6lcn83j9ogbqphjihwq33zf7s5l3"
+    }
+  ]
+}

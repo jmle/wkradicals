@@ -1,0 +1,33 @@
+{
+  "id": 7899,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "日没"
+  },
+  "primaryMeaning": "Sunset",
+  "meaningMnemonic": "At night the <kanji>sun</kanji> <kanji>die</kanji>s at <vocabulary>sunset</vocabulary>. Don't worry, it will be reborn tomorrow morning at sunrise and everything will be okay.",
+  "primaryReading": "にちぼつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "日没",
+  "related": {
+    "radicals": [
+      22,
+      103,
+      160
+    ],
+    "kanjis": [
+      476,
+      2180
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にちぼつ",
+      "url": "https://files.wanikani.com/qa1mqikl83rnkr9xz31mc6sl5kgq"
+    }
+  ]
+}

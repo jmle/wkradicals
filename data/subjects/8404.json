@@ -1,0 +1,34 @@
+{
+  "id": 8404,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "網膜"
+  },
+  "primaryMeaning": "Retina",
+  "meaningMnemonic": "The nerve <kanji>netting</kanji> in the back of your eye is made up of <kanji>membrane</kanji>s called the <vocabulary>retina</vocabulary>. It's what lets light in to help you see! ",
+  "primaryReading": "もうまく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "網膜",
+  "related": {
+    "radicals": [
+      86,
+      376,
+      43,
+      356
+    ],
+    "kanjis": [
+      1832,
+      2351
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もうまく",
+      "url": "https://files.wanikani.com/da524szk6bonsbti7hjd5afjmxmq"
+    }
+  ]
+}

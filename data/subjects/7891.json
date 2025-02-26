@@ -1,0 +1,37 @@
+{
+  "id": 7891,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "擁立"
+  },
+  "primaryMeaning": "Backing",
+  "meaningMnemonic": "<kanji>Stand</kanji> behind someone and <kanji>embrace</kanji> them. That's how you show them you're <vocabulary>backing</vocabulary> and <vocabulary>supporting</vocabulary> them. Do this to your local politicians. ",
+  "primaryReading": "ようりつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Support"
+  ],
+  "otherReadings": [],
+  "wkSlug": "擁立",
+  "related": {
+    "radicals": [
+      63,
+      8,
+      87,
+      240,
+      55
+    ],
+    "kanjis": [
+      2160,
+      494
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようりつ",
+      "url": "https://files.wanikani.com/pvyvchntsrg29k0joxnyt149i2q6"
+    }
+  ]
+}

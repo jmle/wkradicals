@@ -1,0 +1,36 @@
+{
+  "id": 7331,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "民俗"
+  },
+  "primaryMeaning": "Folk Customs",
+  "meaningMnemonic": "The <kanji>peoples</kanji> who are <kanji>vulgar</kanji> aren't refined city folk. They're people with <vocabulary>folk customs</vocabulary> and <vocabulary>ethnic customs</vocabulary>.",
+  "primaryReading": "みんぞく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Ethnic Customs"
+  ],
+  "otherReadings": [],
+  "wkSlug": "民俗",
+  "related": {
+    "radicals": [
+      16,
+      147,
+      75,
+      249
+    ],
+    "kanjis": [
+      650,
+      2074
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みんぞく",
+      "url": "https://files.wanikani.com/ja2g23ybdjael2faxti8m2zco7vd"
+    }
+  ]
+}

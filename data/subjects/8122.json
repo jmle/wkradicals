@@ -1,0 +1,35 @@
+{
+  "id": 8122,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "疾走"
+  },
+  "primaryMeaning": "Sprint",
+  "meaningMnemonic": "A <kanji>rapid</kanji> <kanji>run</kanji> is called a <vocabulary>sprint</vocabulary> or a <vocabulary>dash</vocabulary>.",
+  "primaryReading": "しっそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Dash"
+  ],
+  "otherReadings": [],
+  "wkSlug": "疾走",
+  "related": {
+    "radicals": [
+      187,
+      72,
+      124
+    ],
+    "kanjis": [
+      2244,
+      595
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しっそう",
+      "url": "https://files.wanikani.com/2bbevocjkpv5dkhjm0w7t048p1kx"
+    }
+  ]
+}

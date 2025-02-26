@@ -1,0 +1,38 @@
+{
+  "id": 3155,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "要点"
+  },
+  "primaryMeaning": "Main Point",
+  "meaningMnemonic": "The <kanji>need</kanji>ed <kanji>point</kanji> is the <vocabulary>main point</vocabulary>. It's the <vocabulary>gist</vocabulary> of what you're trying to say.",
+  "primaryReading": "ようてん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Gist",
+    "Main Idea",
+    "Essence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "要点",
+  "related": {
+    "radicals": [
+      424,
+      19,
+      143,
+      131
+    ],
+    "kanjis": [
+      737,
+      641
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようてん",
+      "url": "https://files.wanikani.com/mol6sg3wbkihn2g5yuocxxs8eeed"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6453,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "優雅"
+  },
+  "primaryMeaning": "Elegance",
+  "meaningMnemonic": "Something that is <kanji>superior</kanji> and <kanji>elegant</kanji> has much <vocabulary>elegance</vocabulary> and <vocabulary>grace</vocabulary>.",
+  "primaryReading": "ゆうが",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Grace"
+  ],
+  "otherReadings": [],
+  "wkSlug": "優雅",
+  "related": {
+    "radicals": [
+      75,
+      239,
+      76,
+      65,
+      60,
+      333,
+      240
+    ],
+    "kanjis": [
+      1206,
+      1773
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうが",
+      "url": "https://files.wanikani.com/1sa6c0p2u1b7ve7xnboi5tokfkkm"
+    }
+  ]
+}

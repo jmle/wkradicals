@@ -1,0 +1,36 @@
+{
+  "id": 4525,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "大勢"
+  },
+  "primaryMeaning": "Crowd",
+  "meaningMnemonic": "A <kanji>large</kanji> <kanji>force</kanji> is a group of people. Just think about when this word was probably made up... a long time ago, and the biggest force you could have was a huge group of people. This group of people force is also known as a <vocabulary>crowd</vocabulary>, or <vocabulary>a large number</vocabulary> of people.",
+  "primaryReading": "おおぜい",
+  "readingMnemonic": "The reading for 大 is the おお reading (like 大きい). Nothing you can do about that but remember it. Then, 勢 is rendaku'd to become ぜい. Also something you'll just have to remember. Say this word a few times in your head, then you'll be able to come up with an idea of what sounds right and what sounds wrong so that you can figure it out next time this word comes up.",
+  "otherMeanings": [
+    "A Large Number"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大勢",
+  "related": {
+    "radicals": [
+      18,
+      222,
+      223,
+      13
+    ],
+    "kanjis": [
+      453,
+      1167
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おおぜい",
+      "url": "https://files.wanikani.com/0mgt5vga2f2uowv8bs5bw62avar9"
+    }
+  ]
+}

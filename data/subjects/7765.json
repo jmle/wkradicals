@@ -1,0 +1,39 @@
+{
+  "id": 7765,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "心得る"
+  },
+  "primaryMeaning": "To Know",
+  "meaningMnemonic": "Remember how you learned that 心得 means \"knowledge\"? Well the verb version of that is <vocabulary>to know</vocabulary>. (You know it deep in your heart.)",
+  "primaryReading": "こころえる",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the kanji, so you should be able to read this on your own.",
+  "otherMeanings": [
+    "To Understand",
+    "To Be Aware Of",
+    "To Consent",
+    "To Agree"
+  ],
+  "otherReadings": [],
+  "wkSlug": "心得る",
+  "related": {
+    "radicals": [
+      65,
+      99,
+      22,
+      192
+    ],
+    "kanjis": [
+      508,
+      1081
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こころえる",
+      "url": "https://files.wanikani.com/6uhw5asypzltjw3il76hen2h0qu2"
+    }
+  ]
+}

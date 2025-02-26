@@ -1,0 +1,31 @@
+{
+  "id": 4970,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "豚"
+  },
+  "primaryMeaning": "Pig",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ぶた",
+  "readingMnemonic": "Reading is the same as what you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "豚",
+  "related": {
+    "radicals": [
+      43,
+      233
+    ],
+    "kanjis": [
+      1309
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶた",
+      "url": "https://files.wanikani.com/sdb8airtao1jg0lfadrgeonvtj9j"
+    }
+  ]
+}

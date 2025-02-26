@@ -1,0 +1,37 @@
+{
+  "id": 4563,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "一応"
+  },
+  "primaryMeaning": "For Now",
+  "meaningMnemonic": "Okay, only <kanji>one</kanji> <kanji>response</kanji> for that, and that is that we have an agreement... <vocabulary>for now</vocabulary>. Just think of the one response you have, and that one response is just to get everyone off your back, so you agree with them... for now.\n\n一応 indicates doing something provisionally or as a precaution, even if it may not be sufficient. Its translation varies based on context and can include <vocabulary>to some extent</vocabulary>, <vocabulary>more or less</vocabulary>, or <vocabulary>just in case</vocabulary>.",
+  "primaryReading": "いちおう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "To Some Extent",
+    "More Or Less",
+    "Just In Case"
+  ],
+  "otherReadings": [],
+  "wkSlug": "一応",
+  "related": {
+    "radicals": [
+      1,
+      62,
+      65
+    ],
+    "kanjis": [
+      440,
+      1180
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いちおう",
+      "url": "https://files.wanikani.com/t4ujrx1m8h43csy0s6qaj6jlpnkj"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5689,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "服装"
+  },
+  "primaryMeaning": "Attire",
+  "meaningMnemonic": "Your <kanji>clothes</kanji> which <kanji>attire</kanji> you is your <vocabulary>attire</vocabulary>. It's how you <vocabulary>dress</vocabulary>.",
+  "primaryReading": "ふくそう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Dress"
+  ],
+  "otherReadings": [],
+  "wkSlug": "服装",
+  "related": {
+    "radicals": [
+      43,
+      145,
+      30,
+      8826,
+      97,
+      320
+    ],
+    "kanjis": [
+      716,
+      1541
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふくそう",
+      "url": "https://files.wanikani.com/3dlep1qziiwvmpj3ej98j698xekn"
+    }
+  ]
+}

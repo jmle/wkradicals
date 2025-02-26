@@ -1,0 +1,36 @@
+{
+  "id": 6165,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "避妊"
+  },
+  "primaryMeaning": "Birth Control",
+  "meaningMnemonic": "I <kanji>dodge</kanji>d being <kanji>pregnant</kanji>. Whew. Good thing I was taking my <vocabulary>birth control</vocabulary>.",
+  "primaryReading": "ひにん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Contraception"
+  ],
+  "otherReadings": [],
+  "wkSlug": "避妊",
+  "related": {
+    "radicals": [
+      114,
+      367,
+      19,
+      48
+    ],
+    "kanjis": [
+      1679,
+      1680
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひにん",
+      "url": "https://files.wanikani.com/9x6da3h941t0y5kr9tsqof6rn16n"
+    }
+  ]
+}

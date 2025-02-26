@@ -1,0 +1,37 @@
+{
+  "id": 4301,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "災難"
+  },
+  "primaryMeaning": "Misfortune",
+  "meaningMnemonic": "A <kanji>disaster</kanji> that is <kanji>difficult</kanji> is particularly difficult, making it more of a <vocabulary>misfortune</vocabulary>. Obviously a disaster that wasn't difficult wouldn't really be that bad, so a difficult one gets the \"misfortune\" or <vocabulary>calamity</vocabulary> label.",
+  "primaryReading": "さいなん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Calamity",
+    "Disaster"
+  ],
+  "otherReadings": [],
+  "wkSlug": "災難",
+  "related": {
+    "radicals": [
+      273,
+      46,
+      8774,
+      240
+    ],
+    "kanjis": [
+      1089,
+      1095
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さいなん",
+      "url": "https://files.wanikani.com/r8trtfwr1o2xwi0u6gxeyjasqlq0"
+    }
+  ]
+}

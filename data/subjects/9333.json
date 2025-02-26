@@ -1,0 +1,36 @@
+{
+  "id": 9333,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "海水魚"
+  },
+  "primaryMeaning": "Saltwater Fish",
+  "meaningMnemonic": "You've got a <kanji>sea</kanji> <kanji>water</kanji> <kanji>fish</kanji>, or in other words, a <vocabulary>saltwater fish</vocabulary>.",
+  "primaryReading": "かいすいぎょ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "海水魚",
+  "related": {
+    "radicals": [
+      103,
+      8762,
+      107,
+      45,
+      150
+    ],
+    "kanjis": [
+      640,
+      479,
+      674
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいすいぎょ",
+      "url": "https://files.wanikani.com/gn2gtunhet7q3zokz8bzuaml20m4"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6153,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "頼る"
+  },
+  "primaryMeaning": "To Rely On",
+  "meaningMnemonic": "頼む is \"to ask for\" or \"to request.\" This word is <vocabulary>to rely on</vocabulary> or <vocabulary>to trust</vocabulary> or <vocabulary>to depend on</vocabulary>. You know it is this word because it is <reading>ru</reading>de to rely on your friends, but you are anyways.",
+  "primaryReading": "たよる",
+  "readingMnemonic": "The reading is a bit different from 頼む, however. It's たよ, because you go to rely on your friends so much they become <reading>tiyored</reading> (たよ). They say \"tired\" like that, for some reason.",
+  "otherMeanings": [
+    "To Trust",
+    "To Depend On"
+  ],
+  "otherReadings": [],
+  "wkSlug": "頼る",
+  "related": {
+    "radicals": [
+      219,
+      184
+    ],
+    "kanjis": [
+      1638
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たよる",
+      "url": "https://files.wanikani.com/s9i2i4ztdouu5i26rr8npo788hb2"
+    }
+  ]
+}

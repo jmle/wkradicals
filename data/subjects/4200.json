@@ -1,0 +1,40 @@
+{
+  "id": 4200,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "得意"
+  },
+  "primaryMeaning": "Good At",
+  "meaningMnemonic": "When you're able to <kanji>acquire</kanji> <kanji>idea</kanji>s at a fast rate, you must be familiar with whatever it is you're doing. If you acquire ideas in this way, there's a good chance you're <vocabulary>good at</vocabulary> or <vocabulary>skilled at</vocabulary> this action.",
+  "primaryReading": "とくい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Skilled At",
+    "Strong Point",
+    "Specialty",
+    "Forte"
+  ],
+  "otherReadings": [],
+  "wkSlug": "得意",
+  "related": {
+    "radicals": [
+      99,
+      22,
+      192,
+      197,
+      65
+    ],
+    "kanjis": [
+      1081,
+      811
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とくい",
+      "url": "https://files.wanikani.com/s3gmpypdtq64gkew6nhzarkll6lf"
+    }
+  ]
+}

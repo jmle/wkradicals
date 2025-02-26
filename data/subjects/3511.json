@@ -1,0 +1,37 @@
+{
+  "id": 3511,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "受付"
+  },
+  "primaryMeaning": "Receptionist",
+  "meaningMnemonic": "Imagine someone <kanji>accept</kanji>ing something and then <kanji>attach</kanji>ing something. This person is a <vocabulary>receptionist</vocabulary>, because they are accepting the call, writing down the information, and then attaching said information to a sticky note for you to read. You say, \"No, I'm not available.\"",
+  "primaryReading": "うけつけ",
+  "readingMnemonic": "For this reading you have to think back to the verb words that get used with this kanji, namely 受ける and 付ける. Then just drop off the るs and put them together. 受 becomes うけ and 付 becomes つけ and you're left with うけつけ. This is what's called a compound word. And now you know it. Nice!",
+  "otherMeanings": [
+    "Reception"
+  ],
+  "otherReadings": [],
+  "wkSlug": "受付",
+  "related": {
+    "radicals": [
+      8772,
+      76,
+      30,
+      75,
+      74
+    ],
+    "kanjis": [
+      711,
+      652
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "うけつけ",
+      "url": "https://files.wanikani.com/bmidml6w8jbav3rq5st6ks3pn65t"
+    }
+  ]
+}

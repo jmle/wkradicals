@@ -1,0 +1,36 @@
+{
+  "id": 6382,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "薬剤"
+  },
+  "primaryMeaning": "Medicine",
+  "meaningMnemonic": "A <kanji>medicine</kanji> <kanji>dose</kanji> is <vocabulary>medicine</vocabulary> or <vocabulary>drugs</vocabulary> you're taking.",
+  "primaryReading": "やくざい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Drugs"
+  ],
+  "otherReadings": [],
+  "wkSlug": "薬剤",
+  "related": {
+    "radicals": [
+      90,
+      251,
+      277,
+      128
+    ],
+    "kanjis": [
+      997,
+      1750
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やくざい",
+      "url": "https://files.wanikani.com/9bm8vu83jxn6qx7zywsk35ghh3f9"
+    }
+  ]
+}

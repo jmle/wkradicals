@@ -1,0 +1,36 @@
+{
+  "id": 3738,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "返信"
+  },
+  "primaryMeaning": "Reply",
+  "meaningMnemonic": "You gotta <kanji>believe</kanji> it will <kanji>return</kanji>. What are you believing in returning? The <vocabulary>reply</vocabulary>. You made a request for something (come up with something you want really bad but have to ask for). Now you wait for the reply.",
+  "primaryReading": "へんしん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Answer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "返信",
+  "related": {
+    "radicals": [
+      114,
+      218,
+      75,
+      117
+    ],
+    "kanjis": [
+      858,
+      940
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へんしん",
+      "url": "https://files.wanikani.com/v4ns19skial6sn3refj5kv2rgoj3"
+    }
+  ]
+}

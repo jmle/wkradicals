@@ -1,0 +1,37 @@
+{
+  "id": 6481,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "早瀬"
+  },
+  "primaryMeaning": "Swift Currents",
+  "meaningMnemonic": "A <kanji>quick</kanji> <kanji>rapids</kanji> is going to have <vocabulary>swift currents</vocabulary>.",
+  "primaryReading": "はやせ",
+  "readingMnemonic": "The reading comes from 早い and the reading you learned for 瀬.",
+  "otherMeanings": [
+    "Rapids"
+  ],
+  "otherReadings": [],
+  "wkSlug": "早瀬",
+  "related": {
+    "radicals": [
+      22,
+      15,
+      103,
+      219,
+      184
+    ],
+    "kanjis": [
+      547,
+      1777
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はやせ",
+      "url": "https://files.wanikani.com/uhnqbbzuw0z2ae6hio3nm5aslnaq"
+    }
+  ]
+}

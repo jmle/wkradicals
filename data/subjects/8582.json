@@ -1,0 +1,40 @@
+{
+  "id": 8582,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "普遍的"
+  },
+  "primaryMeaning": "Universal",
+  "meaningMnemonic": "Remember how 普遍 means \"universal?\" Well when you add <kanji>like</kanji> it's still <vocabulary>universal</vocabulary>! Easy!",
+  "primaryReading": "ふへんてき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Omnipresent",
+    "Ubiquitous"
+  ],
+  "otherReadings": [],
+  "wkSlug": "普遍的",
+  "related": {
+    "radicals": [
+      334,
+      22,
+      114,
+      338,
+      52,
+      236
+    ],
+    "kanjis": [
+      1448,
+      2345,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふへんてき",
+      "url": "https://files.wanikani.com/ebbfy5r7xvrm05ek12kso26f6m6t"
+    }
+  ]
+}

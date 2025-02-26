@@ -1,0 +1,36 @@
+{
+  "id": 7240,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "遂行"
+  },
+  "primaryMeaning": "Accomplishment",
+  "meaningMnemonic": "<kanji>Accomplish</kanji> and <kanji>go</kanji> forth! These are your <vocabulary>accomplishment</vocabulary>s. This is your <vocabulary>execution</vocabulary> of actions.",
+  "primaryReading": "すいこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Execution"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遂行",
+  "related": {
+    "radicals": [
+      114,
+      8767,
+      233,
+      111
+    ],
+    "kanjis": [
+      2042,
+      580
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいこう",
+      "url": "https://files.wanikani.com/cbnubdtogtkopx082dqwbzdse37b"
+    }
+  ]
+}

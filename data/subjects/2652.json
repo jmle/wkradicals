@@ -1,0 +1,37 @@
+{
+  "id": 2652,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "先日"
+  },
+  "primaryMeaning": "The Other Day",
+  "meaningMnemonic": "The <kanji>previous</kanji> <kanji>day</kanji> isn't necessarily yesterday. It can be any recent day, which is why this word means <vocabulary>the other day</vocabulary>.",
+  "primaryReading": "せんじつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 日 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\n<vocabulary>The other day</vocabulary>, you saw two <reading>cen</reading>taurs! <reading>Gee, two</reading> (せんじつ) of them?! You're lucky you're still alive!",
+  "otherMeanings": [
+    "A Few Days Ago",
+    "Other Day"
+  ],
+  "otherReadings": [],
+  "wkSlug": "先日",
+  "related": {
+    "radicals": [
+      5,
+      17,
+      28,
+      22
+    ],
+    "kanjis": [
+      543,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんじつ",
+      "url": "https://files.wanikani.com/kq2qn5umggoibtmg5j94vho4cwjt"
+    }
+  ]
+}

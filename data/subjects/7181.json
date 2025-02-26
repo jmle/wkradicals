@@ -1,0 +1,38 @@
+{
+  "id": 7181,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "隙"
+  },
+  "primaryMeaning": "Crevice",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "すき",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Gap",
+    "Space",
+    "Chance",
+    "Fault",
+    "Room"
+  ],
+  "otherReadings": [],
+  "wkSlug": "隙",
+  "related": {
+    "radicals": [
+      176,
+      35,
+      22
+    ],
+    "kanjis": [
+      2019
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すき",
+      "url": "https://files.wanikani.com/b1nh6livvhcy3mfdczx15x5j41kh"
+    }
+  ]
+}

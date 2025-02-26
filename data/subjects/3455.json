@@ -1,0 +1,30 @@
+{
+  "id": 3455,
+  "type": "vocabulary",
+  "level": 8,
+  "characters": {
+    "type": "text",
+    "value": "長さ"
+  },
+  "primaryMeaning": "Length",
+  "meaningMnemonic": "You know the word 長い from a couple levels ago. This is like the word 大きい versus 大きさ, where 大きさ is \"size\" and 大きい is \"big.\" So, 長い is \"long\" and 長さ is <vocabulary>length</vocabulary>.",
+  "primaryReading": "ながさ",
+  "readingMnemonic": "If you know the reading of the word 長い from level 6 you'll know the reading for this word too. Only difference is the さ at the end, which is hiragana so it should be easy to read.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "長さ",
+  "related": {
+    "radicals": [
+      138
+    ],
+    "kanjis": [
+      632
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ながさ",
+      "url": "https://files.wanikani.com/646s4apovh33r5jm106ysjsg8k1l"
+    }
+  ]
+}

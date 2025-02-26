@@ -1,0 +1,35 @@
+{
+  "id": 6524,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "田畑"
+  },
+  "primaryMeaning": "Fields",
+  "meaningMnemonic": "We're talking about both a <kanji>rice paddy</kanji> and the other <kanji>field</kanji>s where farmers grow crops. So, this means <vocabulary>fields</vocabulary>, or more precisely <vocabulary>rice and crop fields</vocabulary>. It's all about <vocabulary>farmland</vocabulary>.",
+  "primaryReading": "たはた",
+  "readingMnemonic": "The readings come from what you learned with the kanji. 畑 uses the shorter はた reading that you learned.",
+  "otherMeanings": [
+    "Rice And Crop Fields",
+    "Farmland"
+  ],
+  "otherReadings": [],
+  "wkSlug": "田畑",
+  "related": {
+    "radicals": [
+      51,
+      46
+    ],
+    "kanjis": [
+      490,
+      1794
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たはた",
+      "url": "https://files.wanikani.com/gr99itiqduaf9wuxx6sen9pbe3ee"
+    }
+  ]
+}

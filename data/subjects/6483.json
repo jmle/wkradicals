@@ -1,0 +1,38 @@
+{
+  "id": 6483,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "撤去"
+  },
+  "primaryMeaning": "Withdrawal",
+  "meaningMnemonic": "A <kanji>withdrawal</kanji> is something you do to remove something from the <kanji>past</kanji>. It is a <vocabulary>withdrawal</vocabulary> or <vocabulary>removal</vocabulary> of what you did or submitted before.",
+  "primaryReading": "てっきょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Look out for the shortened てつ.",
+  "otherMeanings": [
+    "Removal"
+  ],
+  "otherReadings": [],
+  "wkSlug": "撤去",
+  "related": {
+    "radicals": [
+      63,
+      8776,
+      43,
+      60,
+      17,
+      140
+    ],
+    "kanjis": [
+      1778,
+      532
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てっきょ",
+      "url": "https://files.wanikani.com/1h2ywoiieouueyj7jms3ll12a1iz"
+    }
+  ]
+}

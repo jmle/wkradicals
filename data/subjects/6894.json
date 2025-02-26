@@ -1,0 +1,37 @@
+{
+  "id": 6894,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "全裸"
+  },
+  "primaryMeaning": "Completely Naked",
+  "meaningMnemonic": "You're <kanji>all</kanji> <kanji>naked</kanji>, which makes you <vocabulary>completely naked</vocabulary> or <vocabulary>totally naked</vocabulary>.",
+  "primaryReading": "ぜんら",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Totally Naked",
+    "Completely Nude"
+  ],
+  "otherReadings": [],
+  "wkSlug": "全裸",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      80,
+      235
+    ],
+    "kanjis": [
+      610,
+      1924
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんら",
+      "url": "https://files.wanikani.com/p5k8jpe20mpm8a6chmkf0g3qw8ua"
+    }
+  ]
+}

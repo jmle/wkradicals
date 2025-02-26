@@ -1,0 +1,40 @@
+{
+  "id": 7794,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "慈愛"
+  },
+  "primaryMeaning": "Affection",
+  "meaningMnemonic": "When you have <kanji>mercy</kanji> upon those you <kanji>love</kanji> it's called <vocabulary>affection</vocabulary>. You end up doing things out of the <vocabulary>kindness</vocabulary> of your heart because they mean a lot to you.",
+  "primaryReading": "じあい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Kindness",
+    "Love"
+  ],
+  "otherReadings": [],
+  "wkSlug": "慈愛",
+  "related": {
+    "radicals": [
+      8767,
+      1,
+      87,
+      65,
+      8772,
+      76,
+      60
+    ],
+    "kanjis": [
+      2148,
+      1021
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じあい",
+      "url": "https://files.wanikani.com/s9wrg0nldgz5gzy60d23twbpm7sd"
+    }
+  ]
+}

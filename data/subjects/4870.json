@@ -1,0 +1,36 @@
+{
+  "id": 4870,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "支援する"
+  },
+  "primaryMeaning": "To Support",
+  "meaningMnemonic": "To <kanji>support</kanji> and <kanji>aid</kanji> is <vocabulary>to support</vocabulary>.",
+  "primaryReading": "しえんする",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "To Back",
+    "To Aid"
+  ],
+  "otherReadings": [],
+  "wkSlug": "支援する",
+  "related": {
+    "radicals": [
+      81,
+      63,
+      286
+    ],
+    "kanjis": [
+      678,
+      1182
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しえんする",
+      "url": "https://files.wanikani.com/5jzoxsbt25acyjt1qjme92smt44y"
+    }
+  ]
+}

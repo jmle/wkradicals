@@ -1,0 +1,37 @@
+{
+  "id": 7499,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "編集者"
+  },
+  "primaryMeaning": "Editor",
+  "meaningMnemonic": "An <kanji>edit</kanji> is 編集. <kanji>Someone</kanji> who does those edits is an <vocabulary>editor</vocabulary>!",
+  "primaryReading": "へんしゅうしゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Also, the readings from 編集 should help you.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "編集者",
+  "related": {
+    "radicals": [
+      86,
+      338,
+      240,
+      23,
+      104,
+      22
+    ],
+    "kanjis": [
+      1445,
+      754,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "へんしゅうしゃ",
+      "url": "https://files.wanikani.com/i9lm420dwwc2zncxzsbmkwuwsg4x"
+    }
+  ]
+}

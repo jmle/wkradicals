@@ -1,0 +1,36 @@
+{
+  "id": 6493,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "儀式"
+  },
+  "primaryMeaning": "Ceremony",
+  "meaningMnemonic": "A <kanji>ceremony</kanji> <kanji>ceremony</kanji> is a <vocabulary>ceremony</vocabulary>.",
+  "primaryReading": "ぎしき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Ritual"
+  ],
+  "otherReadings": [],
+  "wkSlug": "儀式",
+  "related": {
+    "radicals": [
+      75,
+      383,
+      79,
+      25
+    ],
+    "kanjis": [
+      1781,
+      939
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぎしき",
+      "url": "https://files.wanikani.com/hyliuzjbvz9zd019iwbdvue7fx1d"
+    }
+  ]
+}

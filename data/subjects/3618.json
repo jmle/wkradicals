@@ -1,0 +1,37 @@
+{
+  "id": 3618,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "緑色"
+  },
+  "primaryMeaning": "Green",
+  "meaningMnemonic": "The <kanji>green</kanji> <kanji>color</kanji> is the color <vocabulary>green</vocabulary>.",
+  "primaryReading": "みどりいろ",
+  "readingMnemonic": "The reading is the readings you learned with the kanji, combined!",
+  "otherMeanings": [
+    "Color Green",
+    "Green Color"
+  ],
+  "otherReadings": [],
+  "wkSlug": "緑色",
+  "related": {
+    "radicals": [
+      86,
+      105,
+      45,
+      110
+    ],
+    "kanjis": [
+      868,
+      579
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みどりいろ",
+      "url": "https://files.wanikani.com/nm6jh5d513xeol6x3ugw1fqvhecl"
+    }
+  ]
+}

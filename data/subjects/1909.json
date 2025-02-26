@@ -1,0 +1,42 @@
+{
+  "id": 1909,
+  "type": "kanji",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "舟"
+  },
+  "primaryReading": "ふね",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "ふね",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "ふな",
+      "type": "kunyomi"
+    },
+    {
+      "primary": false,
+      "reading": "しゅう",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Boat",
+  "otherMeanings": [],
+  "meaningMnemonic": "The <radical>boat</radical> radical and the <kanji>boat</kanji> kanji are the same!",
+  "readingMnemonic": "The reading is the same reading that you learned with the vocabulary 船.",
+  "wkSlug": "舟",
+  "related": {
+    "radicals": [
+      149
+    ],
+    "vocabularies": [
+      6862,
+      6863,
+      8264
+    ]
+  }
+}

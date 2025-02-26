@@ -1,0 +1,35 @@
+{
+  "id": 7092,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "欠如"
+  },
+  "primaryMeaning": "Lack",
+  "meaningMnemonic": "You <kanji>lack</kanji> <kanji>likeness</kanji> to anything out there. You totally <vocabulary>lack</vocabulary> something that gives you likeness. It's a <vocabulary>deficiency</vocabulary>, or something.",
+  "primaryReading": "けつじょ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Deficiency"
+  ],
+  "otherReadings": [],
+  "wkSlug": "欠如",
+  "related": {
+    "radicals": [
+      142,
+      19,
+      16
+    ],
+    "kanjis": [
+      646,
+      1991
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けつじょ",
+      "url": "https://files.wanikani.com/3wokixe4yytmyvu5ku5mbvnbnwt8"
+    }
+  ]
+}

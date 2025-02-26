@@ -1,0 +1,42 @@
+{
+  "id": 8243,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "輪郭"
+  },
+  "primaryMeaning": "Outline",
+  "meaningMnemonic": "Trace the <kanji>enclosure</kanji> of a <kanji>wheel</kanji> on paper and you'll have drawn its <vocabulary>outline</vocabulary>.",
+  "primaryReading": "りんかく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Border",
+    "Silhouette",
+    "Summary",
+    "Features",
+    "Appearance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "輪郭",
+  "related": {
+    "radicals": [
+      93,
+      8764,
+      1,
+      226,
+      345,
+      176
+    ],
+    "kanjis": [
+      885,
+      2275
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りんかく",
+      "url": "https://files.wanikani.com/vdsztjvkp9t2qy0bdua008jyugq9"
+    }
+  ]
+}

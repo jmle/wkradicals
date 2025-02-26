@@ -1,0 +1,34 @@
+{
+  "id": 5260,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "痛み"
+  },
+  "primaryMeaning": "A Pain",
+  "meaningMnemonic": "痛い is \"painful.\" This is the noun version, it is <vocabulary>a pain</vocabulary> or <vocabulary>pain</vocabulary>.",
+  "primaryReading": "いたみ",
+  "readingMnemonic": "The reading is the same as 痛い. No pain here.",
+  "otherMeanings": [
+    "Pain"
+  ],
+  "otherReadings": [],
+  "wkSlug": "痛み",
+  "related": {
+    "radicals": [
+      187,
+      141,
+      71
+    ],
+    "kanjis": [
+      1318
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いたみ",
+      "url": "https://files.wanikani.com/6f024bphorb7jiivcsx3vfogsr5c"
+    }
+  ]
+}

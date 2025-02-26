@@ -1,0 +1,32 @@
+{
+  "id": 3375,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "寒い"
+  },
+  "primaryMeaning": "Cold",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>cold</kanji>? It's <vocabulary>cold</vocabulary>.\n\n寒い is used specifically for when you feel cold. You can say it when you're outside on a chilly winter day, for example, or when you walk into a cold room. It can even be used as a response to unfunny jokes that leave you cold.",
+  "primaryReading": "さむい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading which you learned with the kanji (<reading>Samu</reading>rai (さむ)). Remember?",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "寒い",
+  "related": {
+    "radicals": [
+      78,
+      8779,
+      123
+    ],
+    "kanjis": [
+      836
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さむい",
+      "url": "https://files.wanikani.com/h46ep3rcxjgj6mgbsqj89qxb4rlo"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 5616,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "物真似"
+  },
+  "primaryMeaning": "Impersonation",
+  "meaningMnemonic": "真似 is \"impersonation.\" Actually, this word is too. It's also <vocabulary>impersonation</vocabulary>.\n\n物真似 is very similar to 真似, but can be used in slightly different contexts. 真似 is used for general acts of mimicry or imitation, and can also be used to refer to the way someone does something. On the other hand, while 物真似 also describes acts of mimicry and imitation, it's additionally used in performance or entertainment contexts to refer to people who do impersonation acts.",
+  "primaryReading": "ものまね",
+  "readingMnemonic": "The reading is 物 plus 真似 put together.",
+  "otherMeanings": [
+    "Imitation",
+    "Mimicry"
+  ],
+  "otherReadings": [],
+  "wkSlug": "物真似",
+  "related": {
+    "radicals": [
+      126,
+      173,
+      8773,
+      1,
+      2,
+      75,
+      56,
+      3,
+      9
+    ],
+    "kanjis": [
+      718,
+      971,
+      1472
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ものまね",
+      "url": "https://files.wanikani.com/kgy7mahg7ujh4mdt1qr12id49yvu"
+    }
+  ]
+}

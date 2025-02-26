@@ -1,0 +1,34 @@
+{
+  "id": 2928,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "〜氏"
+  },
+  "primaryMeaning": "Mister",
+  "meaningMnemonic": "The kanji means <kanji>family name</kanji> because it goes after a family name in very formal situations. So, it's really closely tied to that. Because only men got the respect back in the day, we're calling this vocab word <vocabulary>mister</vocabulary>. You can call me Mr. Koichi if you'd like, too.",
+  "primaryReading": "し",
+  "readingMnemonic": "The reading for this word is the same as the kanji.",
+  "otherMeanings": [
+    "Madam",
+    "Miss",
+    "Mx"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜氏",
+  "related": {
+    "radicals": [
+      147
+    ],
+    "kanjis": [
+      647
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "し",
+      "url": "https://files.wanikani.com/9uj2rg6iijbfeovbwm79vdxymipu"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6632,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "綱引き"
+  },
+  "primaryMeaning": "Tug Of War",
+  "meaningMnemonic": "The <kanji>rope</kanji> <kanji>pull</kanji>. Both sides are pulling on the rope. That is a <vocabulary>tug of war</vocabulary>.",
+  "primaryReading": "つなひき",
+  "readingMnemonic": "The readings are from 綱 and 引く.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "綱引き",
+  "related": {
+    "radicals": [
+      86,
+      376,
+      36,
+      8761
+    ],
+    "kanjis": [
+      1831,
+      507
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つなひき",
+      "url": "https://files.wanikani.com/xex8bmy4wbf2gxakhie38kwvy07v"
+    }
+  ]
+}

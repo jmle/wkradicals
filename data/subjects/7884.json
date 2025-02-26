@@ -1,0 +1,40 @@
+{
+  "id": 7884,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "我慢"
+  },
+  "primaryMeaning": "Endurance",
+  "meaningMnemonic": "<kanji>I</kanji> get <kanji>ridiculed</kanji> a lot, but it makes me have really strong <vocabulary>endurance</vocabulary>. If you get picked on a lot, just say, \"I have <vocabulary>patience</vocabulary> and <vocabulary>self control</vocabulary>, and I can make it through this.\"",
+  "primaryReading": "がまん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Perseverance",
+    "Tolerance",
+    "Patience",
+    "Self Control"
+  ],
+  "otherReadings": [],
+  "wkSlug": "我慢",
+  "related": {
+    "radicals": [
+      272,
+      232,
+      22,
+      163,
+      30
+    ],
+    "kanjis": [
+      1294,
+      2179
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がまん",
+      "url": "https://files.wanikani.com/p2znoqhitszfoydldhqc58sw03vm"
+    }
+  ]
+}

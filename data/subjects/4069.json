@@ -1,0 +1,33 @@
+{
+  "id": 4069,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "仏僧"
+  },
+  "primaryMeaning": "Buddhist Priest",
+  "meaningMnemonic": "A <kanji>Buddha</kanji> <kanji>priest</kanji> is a <vocabulary>Buddhist Priest</vocabulary>.",
+  "primaryReading": "ぶっそう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "仏僧",
+  "related": {
+    "radicals": [
+      75,
+      140,
+      259
+    ],
+    "kanjis": [
+      956,
+      1046
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶっそう",
+      "url": "https://files.wanikani.com/xjnv7ybgcyqx4d0qmeejmt2yad1w"
+    }
+  ]
+}

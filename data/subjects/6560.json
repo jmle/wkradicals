@@ -1,0 +1,34 @@
+{
+  "id": 6560,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "駆け込む"
+  },
+  "primaryMeaning": "To Rush Into",
+  "meaningMnemonic": "駆ける is \"to gallop\" and the kanji 込 means <kanji>into</kanji>. To gallop into a place is <vocabulary>to rush into</vocabulary> it. You can’t gallop slowly, after all.\n\nThis can also mean <vocabulary>to seek refuge</vocabulary>, as in hurrying to a place for safety and support.",
+  "primaryReading": "かけこむ",
+  "readingMnemonic": "The readings come from 駆ける and 込む.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "駆け込む",
+  "related": {
+    "radicals": [
+      165,
+      322,
+      114,
+      12
+    ],
+    "kanjis": [
+      1744,
+      1504
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かけこむ",
+      "url": "https://files.wanikani.com/8etc36bp3wq5tricpm0yfkxrk4rb"
+    }
+  ]
+}

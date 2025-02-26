@@ -1,0 +1,37 @@
+{
+  "id": 8109,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "欄干"
+  },
+  "primaryMeaning": "Guardrail",
+  "meaningMnemonic": "A <kanji>column</kanji> made of <kanji>dry</kanji> wood is turned into a <vocabulary>guardrail</vocabulary> to help people walk up and down stairs. ",
+  "primaryReading": "らんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Handrail",
+    "Bannister"
+  ],
+  "otherReadings": [],
+  "wkSlug": "欄干",
+  "related": {
+    "radicals": [
+      23,
+      214,
+      224,
+      61
+    ],
+    "kanjis": [
+      2234,
+      1014
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "らんかん",
+      "url": "https://files.wanikani.com/6a375a7ujhk4avmj6gc1ymnemvx7"
+    }
+  ]
+}

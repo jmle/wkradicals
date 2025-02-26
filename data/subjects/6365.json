@@ -1,0 +1,40 @@
+{
+  "id": 6365,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "駐留軍"
+  },
+  "primaryMeaning": "Stationed Troops",
+  "meaningMnemonic": "A <kanji>resident</kanji> <kanji>detain</kanji>ed in a location who is in the <kanji>army</kanji> is a member of the <vocabulary>stationed troops</vocabulary> at this location. They could also be the <vocabulary>occupying troops</vocabulary> as well.",
+  "primaryReading": "ちゅうりゅうぐん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Occupying Troops"
+  ],
+  "otherReadings": [],
+  "wkSlug": "駐留軍",
+  "related": {
+    "radicals": [
+      165,
+      154,
+      140,
+      24,
+      51,
+      76,
+      93
+    ],
+    "kanjis": [
+      1743,
+      986,
+      954
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうりゅうぐん",
+      "url": "https://files.wanikani.com/ken6z7qfxns8yyb7gi49fbexx9yv"
+    }
+  ]
+}

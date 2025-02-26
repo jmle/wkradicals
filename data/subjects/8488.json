@@ -1,0 +1,36 @@
+{
+  "id": 8488,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "縛り首"
+  },
+  "primaryMeaning": "Hanging",
+  "meaningMnemonic": "Remember how 縛る means \"to tie?\" Well if you tie something around someone's <kanji>neck</kanji> then it's called <vocabulary>hanging</vocabulary>. They'll probably die from it too, so it can also be <vocabulary>death by hanging</vocabulary>. ",
+  "primaryReading": "しばりくび",
+  "readingMnemonic": "This is a combination of the words 縛る and 首. Both use the kun'yomi readings, so just change the る to り and it's pretty simple!",
+  "otherMeanings": [
+    "Death By Hanging"
+  ],
+  "otherReadings": [],
+  "wkSlug": "縛り首",
+  "related": {
+    "radicals": [
+      86,
+      317,
+      3,
+      156
+    ],
+    "kanjis": [
+      2310,
+      645
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しばりくび",
+      "url": "https://files.wanikani.com/ef5wtd2nr691kwtsu4myypjrb5jq"
+    }
+  ]
+}

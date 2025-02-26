@@ -1,0 +1,36 @@
+{
+  "id": 8924,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "喧嘩"
+  },
+  "primaryMeaning": "Fight",
+  "meaningMnemonic": "When things get <kanji>noisy</kanji> and <kanji>rowdy</kanji> there's a good chance things will end in a <vocabulary>fight</vocabulary>.",
+  "primaryReading": "けんか",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Quarrel",
+    "Argument"
+  ],
+  "otherReadings": [],
+  "wkSlug": "喧嘩",
+  "related": {
+    "radicals": [
+      16,
+      8906,
+      335
+    ],
+    "kanjis": [
+      8922,
+      8923
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けんか",
+      "url": "https://files.wanikani.com/hu4wc9ga2gtxpmistilizs7f949u"
+    }
+  ]
+}

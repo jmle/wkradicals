@@ -1,0 +1,33 @@
+{
+  "id": 6347,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "扱い"
+  },
+  "primaryMeaning": "Handling",
+  "meaningMnemonic": "If 扱う is \"to handle,\" the noun version of that is <vocabulary>handling</vocabulary> or <vocabulary>treatment</vocabulary>.",
+  "primaryReading": "あつかい",
+  "readingMnemonic": "The reading comes from 扱う, so if you know that you'll have a good <vocabulary>handling</vocabulary> of this one.",
+  "otherMeanings": [
+    "Treatment"
+  ],
+  "otherReadings": [],
+  "wkSlug": "扱い",
+  "related": {
+    "radicals": [
+      63,
+      193
+    ],
+    "kanjis": [
+      1693
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あつかい",
+      "url": "https://files.wanikani.com/ptrsedsopeqjop7zd754l4ip4uk3"
+    }
+  ]
+}

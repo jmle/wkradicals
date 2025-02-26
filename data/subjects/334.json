@@ -1,0 +1,31 @@
+{
+  "id": 334,
+  "type": "radical",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "並"
+  },
+  "primaryMeaning": "Line Up",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>line up</radical>.",
+  "wkSlug": "line-up",
+  "related": {
+    "kanjis": [
+      1448,
+      2387
+    ],
+    "vocabularies": [
+      5419,
+      5420,
+      5975,
+      8413,
+      8582,
+      8494,
+      8495,
+      8496,
+      8497,
+      8498
+    ]
+  }
+}

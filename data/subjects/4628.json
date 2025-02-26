@@ -1,0 +1,35 @@
+{
+  "id": 4628,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "指導"
+  },
+  "primaryMeaning": "Guidance",
+  "meaningMnemonic": "Take your <kanji>finger</kanji> and <kanji>lead</kanji> with it. Just point at things. Tell people where they need to go, what they need to do, all with your finger leading them. This is <vocabulary>guidance</vocabulary> you are providing.",
+  "primaryReading": "しどう",
+  "readingMnemonic": "The reading is the on'yomi readings of the kanji. You should know them both already!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "指導",
+  "related": {
+    "radicals": [
+      63,
+      57,
+      22,
+      291,
+      74
+    ],
+    "kanjis": [
+      797,
+      1203
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しどう",
+      "url": "https://files.wanikani.com/u9yj7anys78rh07keiellbhdb4xv"
+    }
+  ]
+}

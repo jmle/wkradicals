@@ -1,0 +1,27 @@
+{
+  "id": 245,
+  "type": "radical",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "歩"
+  },
+  "primaryMeaning": "Walk",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>walk</radical>.",
+  "wkSlug": "walk",
+  "related": {
+    "kanjis": [
+      1016,
+      1765
+    ],
+    "vocabularies": [
+      3987,
+      4017,
+      6426,
+      6429,
+      6430,
+      6431
+    ]
+  }
+}

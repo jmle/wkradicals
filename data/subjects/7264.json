@@ -1,0 +1,34 @@
+{
+  "id": 7264,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "憎い"
+  },
+  "primaryMeaning": "Hateful",
+  "meaningMnemonic": "If 憎む means \"to hate\" then this adjective version is <vocabulary>hateful</vocabulary>.",
+  "primaryReading": "にくい",
+  "readingMnemonic": "The reading comes from 憎む as well. Good times.",
+  "otherMeanings": [
+    "Abominable",
+    "Detestable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "憎い",
+  "related": {
+    "radicals": [
+      232,
+      259
+    ],
+    "kanjis": [
+      1997
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にくい",
+      "url": "https://files.wanikani.com/pw13s8vryo4kec0zjn6t2fjao8p1"
+    }
+  ]
+}

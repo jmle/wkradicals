@@ -1,0 +1,39 @@
+{
+  "id": 8605,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "死刑囚"
+  },
+  "primaryMeaning": "Condemned Criminal",
+  "meaningMnemonic": "Remember how you learned that 死刑 means \"death penalty?\" Well a <kanji>criminal</kanji> who has been sentenced to it is a <vocabulary>condemned criminal</vocabulary> or a <vocabulary>death row convict</vocabulary>. They're condemned to death.",
+  "primaryReading": "しけいしゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Death Row Convict"
+  ],
+  "otherReadings": [],
+  "wkSlug": "死刑囚",
+  "related": {
+    "radicals": [
+      132,
+      57,
+      171,
+      128,
+      16,
+      9
+    ],
+    "kanjis": [
+      617,
+      1647,
+      2459
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しけいしゅう",
+      "url": "https://files.wanikani.com/tj8otaql1ksnm9e1g28fiymupvuy"
+    }
+  ]
+}

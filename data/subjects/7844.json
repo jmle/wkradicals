@@ -1,0 +1,37 @@
+{
+  "id": 7844,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "邸内"
+  },
+  "primaryMeaning": "Grounds",
+  "meaningMnemonic": "The land <kanji>inside</kanji> of a <kanji>residence</kanji> is called the <vocabulary>grounds</vocabulary> or the <vocabulary>premises</vocabulary>. Only really big residences have land inside them big enough to be called the \"grounds\" though.",
+  "primaryReading": "ていない",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Premises"
+  ],
+  "otherReadings": [],
+  "wkSlug": "邸内",
+  "related": {
+    "radicals": [
+      147,
+      1,
+      176,
+      29,
+      9
+    ],
+    "kanjis": [
+      2138,
+      500
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ていない",
+      "url": "https://files.wanikani.com/qio2gmcebaftogl9aautypq6w7fb"
+    }
+  ]
+}

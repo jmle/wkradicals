@@ -1,0 +1,35 @@
+{
+  "id": 8237,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "貴賓"
+  },
+  "primaryMeaning": "Noble Visitor",
+  "meaningMnemonic": "A <kanji>valuable</kanji> <kanji>VIP</kanji> is a <vocabulary>noble visitor</vocabulary>. They're probably a queen or a diplomat or something. So you better treat them really well.",
+  "primaryReading": "きひん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "貴賓",
+  "related": {
+    "radicals": [
+      49,
+      1,
+      94,
+      78,
+      198
+    ],
+    "kanjis": [
+      1547,
+      2277
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きひん",
+      "url": "https://files.wanikani.com/y5cuajlvxn4mxcx0jakb7moqx9of"
+    }
+  ]
+}

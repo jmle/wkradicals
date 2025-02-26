@@ -1,0 +1,37 @@
+{
+  "id": 6462,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "御免なさい"
+  },
+  "primaryMeaning": "Sorry",
+  "meaningMnemonic": "Remember 御免? This is a polite way to say it. It means <vocabulary>sorry</vocabulary> and <vocabulary>I beg your pardon</vocabulary>.",
+  "primaryReading": "ごめんなさい",
+  "readingMnemonic": "The reading comes from 御免. The addition is all kana.",
+  "otherMeanings": [
+    "I Beg Your Pardon"
+  ],
+  "otherReadings": [],
+  "wkSlug": "御免なさい",
+  "related": {
+    "radicals": [
+      99,
+      8762,
+      229,
+      145,
+      208
+    ],
+    "kanjis": [
+      1728,
+      1722
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ごめんなさい",
+      "url": "https://files.wanikani.com/wiy2fo3tkvq2j882a8wmuuns51us"
+    }
+  ]
+}

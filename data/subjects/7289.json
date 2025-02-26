@@ -1,0 +1,35 @@
+{
+  "id": 7289,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "草刈り"
+  },
+  "primaryMeaning": "Mowing",
+  "meaningMnemonic": "Let's take the <kanji>grass</kanji> and <kanji>prune</kanji> it. This is called <vocabulary>mowing</vocabulary>.",
+  "primaryReading": "くさかり",
+  "readingMnemonic": "The reading is 草 and 刈 put together into one. The か reading for 刈り comes from the kanji's reading.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "草刈り",
+  "related": {
+    "radicals": [
+      90,
+      22,
+      15,
+      31,
+      128
+    ],
+    "kanjis": [
+      605,
+      2059
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くさかり",
+      "url": "https://files.wanikani.com/cr0k7j9jso5aphlu63by3i03rl1k"
+    }
+  ]
+}

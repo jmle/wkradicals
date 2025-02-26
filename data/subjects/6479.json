@@ -1,0 +1,34 @@
+{
+  "id": 6479,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "瀬戸"
+  },
+  "primaryMeaning": "Seto",
+  "meaningMnemonic": "The <kanji>rapids</kanji> <kanji>door</kanji> is actually <vocabulary>Seto</vocabulary>, which is the name of a few different places in Japan. One of those places is where the famous earthenware Seto ware comes from 🍶",
+  "primaryReading": "せと",
+  "readingMnemonic": "This is a jukugo word that uses the kun'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "瀬戸",
+  "related": {
+    "radicals": [
+      103,
+      219,
+      184,
+      73
+    ],
+    "kanjis": [
+      1777,
+      509
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せと",
+      "url": "https://files.wanikani.com/qntt8z70ghc3f656ohpz2o767ws1"
+    }
+  ]
+}

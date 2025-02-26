@@ -1,0 +1,33 @@
+{
+  "id": 9298,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "為替"
+  },
+  "primaryMeaning": "Currency Exchange",
+  "meaningMnemonic": "For the <kanji>sake</kanji> of <kanji>exchange</kanji>! What sounds so glorious is really just <vocabulary>currency exchange</vocabulary>.",
+  "primaryReading": "かわせ",
+  "readingMnemonic": "You need to do a bunch of <vocabulary>currency exchange</vocabulary> for your newest investment: <reading>ca</reading>r <reading>wa</reading>sh <reading>ce</reading>lery (かわせ)! Why of course, it's celery that's stored, cleaned, and… smoked inside of a car wash. So go get all the currency you have, we have some exchanging to do.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "為替",
+  "related": {
+    "radicals": [
+      355,
+      146,
+      22
+    ],
+    "kanjis": [
+      1600,
+      1279
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かわせ",
+      "url": "https://files.wanikani.com/oz6c7l5t20t7nsc5znfej3fefxl5"
+    }
+  ]
+}

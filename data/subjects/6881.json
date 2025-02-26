@@ -1,0 +1,36 @@
+{
+  "id": 6881,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "脚本"
+  },
+  "primaryMeaning": "Script",
+  "meaningMnemonic": "A <kanji>leg</kanji> <kanji>book</kanji> is just the legs of a book. Not a whole book. It only contains the parts that walk around and move, not so much the descriptions (things that don't move). This kind of book is a <vocabulary>script</vocabulary> or <vocabulary>screenplay</vocabulary>. These \"books\" are focused on actions and things people say, which is why it's just the legs.",
+  "primaryReading": "きゃくほん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Screenplay"
+  ],
+  "otherReadings": [],
+  "wkSlug": "脚本",
+  "related": {
+    "radicals": [
+      43,
+      244,
+      145,
+      50
+    ],
+    "kanjis": [
+      1916,
+      487
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きゃくほん",
+      "url": "https://files.wanikani.com/hhulxt6ueeimmlmso78omv922ylv"
+    }
+  ]
+}

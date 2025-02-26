@@ -1,0 +1,33 @@
+{
+  "id": 6839,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "芽"
+  },
+  "primaryMeaning": "Sprout",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "め",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Bud"
+  ],
+  "otherReadings": [],
+  "wkSlug": "芽",
+  "related": {
+    "radicals": [
+      90,
+      333
+    ],
+    "kanjis": [
+      1904
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "め",
+      "url": "https://files.wanikani.com/1lltl27kfapwcvvxguqy1xmsswl2"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3450,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "作り方"
+  },
+  "primaryMeaning": "How To Make",
+  "meaningMnemonic": "This is the <kanji>way</kanji> to <kanji>make</kanji> something. This is <vocabulary>how to make</vocabulary> something. You'll see this for directions on building something.",
+  "primaryReading": "つくりかた",
+  "readingMnemonic": "This uses the kun'yomi readings from the vocab words 作る and 方. So as long as you're okay with those, you can apply that knowledge over here.",
+  "otherMeanings": [
+    "Way To Make",
+    "Way Of Making"
+  ],
+  "otherReadings": [],
+  "wkSlug": "作り方",
+  "related": {
+    "radicals": [
+      75,
+      122,
+      66
+    ],
+    "kanjis": [
+      584,
+      510
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つくりかた",
+      "url": "https://files.wanikani.com/txfw9na097elcmmq9krkzq7lkdjr"
+    }
+  ]
+}

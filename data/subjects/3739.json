@@ -1,0 +1,37 @@
+{
+  "id": 3739,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "勇気"
+  },
+  "primaryMeaning": "Courage",
+  "meaningMnemonic": "That <kanji>feeling</kanji> of <kanji>courage</kanji> is <vocabulary>courage</vocabulary>.",
+  "primaryReading": "ゆうき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Bravery",
+    "Valour",
+    "Valor"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勇気",
+  "related": {
+    "radicals": [
+      437,
+      82,
+      31
+    ],
+    "kanjis": [
+      941,
+      548
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうき",
+      "url": "https://files.wanikani.com/a3s1x5lf3x8nvo06f1b1t0ucgti3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 5594,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "温暖"
+  },
+  "primaryMeaning": "Warm",
+  "meaningMnemonic": "<kanji>Warm</kanji> <kanji>warm</kanji> is <vocabulary>warm</vocabulary>.",
+  "primaryReading": "おんだん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Mild",
+    "Warmth"
+  ],
+  "otherReadings": [],
+  "wkSlug": "温暖",
+  "related": {
+    "radicals": [
+      103,
+      22,
+      84,
+      286
+    ],
+    "kanjis": [
+      842,
+      1508
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おんだん",
+      "url": "https://files.wanikani.com/b31ilelf29jmptx50lyh3bx4ziry"
+    }
+  ]
+}

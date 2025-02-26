@@ -1,0 +1,37 @@
+{
+  "id": 4713,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "遠視"
+  },
+  "primaryMeaning": "Farsightedness",
+  "meaningMnemonic": "When you can <kanji>look at</kanji> <kanji>far</kanji> things, but not near things, you have <vocabulary>farsightedness</vocabulary>, <vocabulary>longsightedness</vocabulary>, or <vocabulary>hyperopia</vocabulary>.",
+  "primaryReading": "えんし",
+  "readingMnemonic": "The reading is the readings you learned with the kanji, which you'd know if it wasn't for your farsightedness (go get some glasses so you can read our lessons!).",
+  "otherMeanings": [
+    "Longsightedness",
+    "Hyperopia"
+  ],
+  "otherReadings": [],
+  "wkSlug": "遠視",
+  "related": {
+    "radicals": [
+      114,
+      8784,
+      80,
+      91
+    ],
+    "kanjis": [
+      963,
+      1234
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんし",
+      "url": "https://files.wanikani.com/a2i9w95y2giwpf3nzv5rbe37p9o8"
+    }
+  ]
+}

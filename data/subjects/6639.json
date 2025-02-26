@@ -1,0 +1,33 @@
+{
+  "id": 6639,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "芝"
+  },
+  "primaryMeaning": "Lawn",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しば",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Turf"
+  ],
+  "otherReadings": [],
+  "wkSlug": "芝",
+  "related": {
+    "radicals": [
+      90,
+      8771
+    ],
+    "kanjis": [
+      1834
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しば",
+      "url": "https://files.wanikani.com/xq3gwnyh8kyy7wkpacfm7ldomrm9"
+    }
+  ]
+}

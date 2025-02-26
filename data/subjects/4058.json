@@ -1,0 +1,35 @@
+{
+  "id": 4058,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "水曜日"
+  },
+  "primaryMeaning": "Wednesday",
+  "meaningMnemonic": "This is a day of the week. You know this because it has 曜日 in it. But what day of the week is it? The <kanji>water</kanji> day of the week is where the water flows from. Think of your entire week as a big hill, with Wednesday (hump day) being in the middle. This hump is a hill. What originates from hills? Water! That's why Water day is <vocabulary>Wednesday</vocabulary>.",
+  "primaryReading": "すいようび",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know the word 曜日 as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "水曜日",
+  "related": {
+    "radicals": [
+      45,
+      22,
+      105,
+      240
+    ],
+    "kanjis": [
+      479,
+      961,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいようび",
+      "url": "https://files.wanikani.com/u9xo0agi6hvu6oc6vz3hv5aafqem"
+    }
+  ]
+}

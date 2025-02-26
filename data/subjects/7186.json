@@ -1,0 +1,36 @@
+{
+  "id": 7186,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "餓死"
+  },
+  "primaryMeaning": "Death From Starvation",
+  "meaningMnemonic": "<kanji>Starve</kanji> to <kanji>death</kanji> is <vocabulary>death from starvation</vocabulary>... <vocabulary>Starving to death</vocabulary>.",
+  "primaryReading": "がし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Starving To Death"
+  ],
+  "otherReadings": [],
+  "wkSlug": "餓死",
+  "related": {
+    "radicals": [
+      139,
+      272,
+      132,
+      57
+    ],
+    "kanjis": [
+      2022,
+      617
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がし",
+      "url": "https://files.wanikani.com/rov74854gvr791pp6zmnwyqalndu"
+    }
+  ]
+}

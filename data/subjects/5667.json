@@ -1,0 +1,36 @@
+{
+  "id": 5667,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "砂糖"
+  },
+  "primaryMeaning": "Sugar",
+  "meaningMnemonic": "A <kanji>sand</kanji> <kanji>sugar</kanji> is just <vocabulary>sugar</vocabulary>.  Nom nom nom, sugar.",
+  "primaryReading": "さとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "砂糖",
+  "related": {
+    "radicals": [
+      54,
+      198,
+      98,
+      62,
+      105,
+      16
+    ],
+    "kanjis": [
+      1533,
+      1535
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "さとう",
+      "url": "https://files.wanikani.com/qmssgufer52b0mqccwg4u82nggzx"
+    }
+  ]
+}

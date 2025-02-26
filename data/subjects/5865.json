@@ -1,0 +1,38 @@
+{
+  "id": 5865,
+  "type": "vocabulary",
+  "level": 35,
+  "characters": {
+    "type": "text",
+    "value": "予測"
+  },
+  "primaryMeaning": "Prediction",
+  "meaningMnemonic": "A <kanji>beforehand</kanji> <kanji>measure</kanji> is when you make a <vocabulary>prediction</vocabulary> or <vocabulary>estimation</vocabulary> about something.\n\nWhile 予想 often refers to a subjective prediction, 予測 generally refers to <vocabulary>forecast</vocabulary>ing future events based on <i>objective evidence</i>. ",
+  "primaryReading": "よそく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Estimation",
+    "Forecast"
+  ],
+  "otherReadings": [],
+  "wkSlug": "予測",
+  "related": {
+    "radicals": [
+      141,
+      27,
+      103,
+      94,
+      128
+    ],
+    "kanjis": [
+      854,
+      1581
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よそく",
+      "url": "https://files.wanikani.com/muaut5a6us8o8fnsafyfp58ttcah"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6407,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "過敏"
+  },
+  "primaryMeaning": "Oversensitivity",
+  "meaningMnemonic": "You've <kanji>surpass</kanji>ed what is normal <kanji>alert</kanji>ness. You are too alert. You notice everything. This is <vocabulary>oversensitivity</vocabulary>.",
+  "primaryReading": "かびん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Nervousness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "過敏",
+  "related": {
+    "radicals": [
+      114,
+      121,
+      379,
+      60
+    ],
+    "kanjis": [
+      1158,
+      1757
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かびん",
+      "url": "https://files.wanikani.com/z0ixzd05gvv5490ekhk7ib2sf6dv"
+    }
+  ]
+}

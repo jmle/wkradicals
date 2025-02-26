@@ -1,0 +1,38 @@
+{
+  "id": 7719,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "快適"
+  },
+  "primaryMeaning": "Pleasant",
+  "meaningMnemonic": "Something that is both <kanji>pleasant</kanji> and <kanji>suitable</kanji> is still really <vocabulary>pleasant</vocabulary>.",
+  "primaryReading": "かいてき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Agreeable",
+    "Comfortable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "快適",
+  "related": {
+    "radicals": [
+      232,
+      9,
+      157,
+      114,
+      276
+    ],
+    "kanjis": [
+      1420,
+      1424
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かいてき",
+      "url": "https://files.wanikani.com/5gdyefvtwvn7jmmluyaz2c448amd"
+    }
+  ]
+}

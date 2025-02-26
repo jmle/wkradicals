@@ -1,0 +1,37 @@
+{
+  "id": 6208,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "仮称"
+  },
+  "primaryMeaning": "Working Name",
+  "meaningMnemonic": "A <kanji>temporary</kanji> <kanji>title</kanji> is what you give something when you don't have a final title for it. it's a <vocabulary>working name</vocabulary> or a <vocabulary>tentative name</vocabulary>.",
+  "primaryReading": "かしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Tentative Name"
+  ],
+  "otherReadings": [],
+  "wkSlug": "仮称",
+  "related": {
+    "radicals": [
+      75,
+      218,
+      135,
+      8762,
+      35
+    ],
+    "kanjis": [
+      739,
+      1698
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かしょう",
+      "url": "https://files.wanikani.com/y9pq5c7lq0b1luo0cca7bz7g3pjq"
+    }
+  ]
+}

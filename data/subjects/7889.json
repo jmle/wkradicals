@@ -1,0 +1,41 @@
+{
+  "id": 7889,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "擁護"
+  },
+  "primaryMeaning": "Protection",
+  "meaningMnemonic": "<kanji>Embrace</kanji> your duty to <kanji>defend</kanji> your country and prepare for its <vocabulary>protection</vocabulary> and <vocabulary>defense</vocabulary>. You love your country, so you'll do what you have to in order to <vocabulary>support</vocabulary> its defense.",
+  "primaryReading": "ようご",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Advocacy",
+    "Support",
+    "Defence"
+  ],
+  "otherReadings": [],
+  "wkSlug": "擁護",
+  "related": {
+    "radicals": [
+      63,
+      8,
+      87,
+      240,
+      117,
+      90,
+      30
+    ],
+    "kanjis": [
+      2160,
+      1192
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ようご",
+      "url": "https://files.wanikani.com/99lsrusk7em79mru6gxhbopaazjx"
+    }
+  ]
+}

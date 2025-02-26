@@ -1,0 +1,35 @@
+{
+  "id": 7279,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "背丈"
+  },
+  "primaryMeaning": "Stature",
+  "meaningMnemonic": "Someone's <kanji>back</kanji> <kanji>height</kanji> is their <vocabulary>height</vocabulary>. It also refers to their <vocabulary>stature</vocabulary>.",
+  "primaryReading": "せたけ",
+  "readingMnemonic": "The reading comes from the vocab readings of 背 and 丈, combined together.",
+  "otherMeanings": [
+    "Height"
+  ],
+  "otherReadings": [],
+  "wkSlug": "背丈",
+  "related": {
+    "radicals": [
+      327,
+      43,
+      408
+    ],
+    "kanjis": [
+      1440,
+      2083
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せたけ",
+      "url": "https://files.wanikani.com/xwgxjinumzivn25noga1oexkoaoi"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 8134,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "指紋"
+  },
+  "primaryMeaning": "Fingerprint",
+  "meaningMnemonic": "The <kanji>family crest</kanji> on your <kanji>finger</kanji>? That's just your <vocabulary>fingerprint</vocabulary>. It can be used to identify you, so it's pretty much the same as your own personal family crest.",
+  "primaryReading": "しもん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "指紋",
+  "related": {
+    "radicals": [
+      63,
+      57,
+      22,
+      86,
+      42
+    ],
+    "kanjis": [
+      797,
+      2232
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しもん",
+      "url": "https://files.wanikani.com/3gu6dkoq8cjlwie88bqvchpenivg"
+    }
+  ]
+}

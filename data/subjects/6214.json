@@ -1,0 +1,34 @@
+{
+  "id": 6214,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "緩やか"
+  },
+  "primaryMeaning": "Loose",
+  "meaningMnemonic": "This is the na-adjective version of <kanji>loose</kanji>, so that means this word means <vocabulary>loose</vocabulary> or <vocabulary>mild</vocabulary> or <vocabulary>gentle</vocabulary>.",
+  "primaryReading": "ゆるやか",
+  "readingMnemonic": "The reading comes from what you learned with the kanji.",
+  "otherMeanings": [
+    "Mild",
+    "Gentle"
+  ],
+  "otherReadings": [],
+  "wkSlug": "緩やか",
+  "related": {
+    "radicals": [
+      86,
+      286
+    ],
+    "kanjis": [
+      1700
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆるやか",
+      "url": "https://files.wanikani.com/dkuir1h5f5xyq377n8q6b6di1rf8"
+    }
+  ]
+}

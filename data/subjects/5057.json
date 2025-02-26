@@ -1,0 +1,35 @@
+{
+  "id": 5057,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "頭痛"
+  },
+  "primaryMeaning": "Headache",
+  "meaningMnemonic": "<kanji>Head</kanji> <kanji>pain</kanji> is when you have a <vocabulary>headache</vocabulary>.",
+  "primaryReading": "ずつう",
+  "readingMnemonic": "The reading for 痛 should be okay. The reading for 頭 isn't one you've learned before, however. Just think, every time you go to the <reading>zoo</reading> (ず) you get a terrible <vocabulary>headache</vocabulary>. Must be the animal feces floating around in the air.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "頭痛",
+  "related": {
+    "radicals": [
+      181,
+      184,
+      187,
+      141,
+      71
+    ],
+    "kanjis": [
+      771,
+      1318
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ずつう",
+      "url": "https://files.wanikani.com/dj3gfhi5kwnxgcg0w5zvy29h1zsb"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6982,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "寧ろ"
+  },
+  "primaryMeaning": "Rather",
+  "meaningMnemonic": "This is the same as the kanji, <vocabulary>rather</vocabulary>. Can also mean <vocabulary>better</vocabulary> or <vocabulary>instead</vocabulary>.",
+  "primaryReading": "むしろ",
+  "readingMnemonic": "Just think: <vocabulary>rather</vocabulary> than a <reading>bug</reading> (むし), how about an animal?",
+  "otherMeanings": [
+    "Better",
+    "Instead"
+  ],
+  "otherReadings": [],
+  "wkSlug": "寧ろ",
+  "related": {
+    "radicals": [
+      78,
+      65,
+      163,
+      27
+    ],
+    "kanjis": [
+      1951
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むしろ",
+      "url": "https://files.wanikani.com/gxoyqo0kh58z61tfl2f4ta1rgcr7"
+    }
+  ]
+}

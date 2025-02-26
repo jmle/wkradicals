@@ -1,0 +1,36 @@
+{
+  "id": 6087,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "下旬"
+  },
+  "primaryMeaning": "Last Ten Days Of The Month",
+  "meaningMnemonic": "These are the <kanji>below</kanji> <kanji>ten days</kanji> of the month. In other words, the <vocabulary>last ten days of the month</vocabulary>, or even just the <vocabulary>end of the month</vocabulary>.",
+  "primaryReading": "げじゅん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "End Of The Month"
+  ],
+  "otherReadings": [],
+  "wkSlug": "下旬",
+  "related": {
+    "radicals": [
+      1,
+      10,
+      14,
+      22
+    ],
+    "kanjis": [
+      451,
+      1656
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げじゅん",
+      "url": "https://files.wanikani.com/hufiwp23kcf7wofsjq26a4vq8ijz"
+    }
+  ]
+}

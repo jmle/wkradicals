@@ -1,0 +1,34 @@
+{
+  "id": 5820,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "損なう"
+  },
+  "primaryMeaning": "To Harm",
+  "meaningMnemonic": "To do <kanji>loss</kanji> to something means you are doing something to make something have loss. This is <vocabulary>to harm</vocabulary> or <vocabulary>to injure</vocabulary>.",
+  "primaryReading": "そこなう",
+  "readingMnemonic": "In order <vocabulary>to harm</vocabulary> your opponent, you go way overboard. You <reading>soak</reading> (そこ) them in acid. Soaked head to toe. Too far man, too far.",
+  "otherMeanings": [
+    "To Injure",
+    "To Damage"
+  ],
+  "otherReadings": [],
+  "wkSlug": "損なう",
+  "related": {
+    "radicals": [
+      63,
+      349
+    ],
+    "kanjis": [
+      1573
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そこなう",
+      "url": "https://files.wanikani.com/xbecdjiqav01cczyvg98ns0wrcuw"
+    }
+  ]
+}

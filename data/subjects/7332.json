@@ -1,0 +1,37 @@
+{
+  "id": 7332,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "俗"
+  },
+  "primaryMeaning": "Slang",
+  "meaningMnemonic": "Things that are <kanji>vulgar</kanji> are things like <vocabulary>slang</vocabulary>, <vocabulary>local manners</vocabulary>, and just plain <vocabulary>common</vocabulary> stuff.",
+  "primaryReading": "ぞく",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "Common",
+    "Vulgar",
+    "Local Manners",
+    "Local Customs",
+    "Mundane"
+  ],
+  "otherReadings": [],
+  "wkSlug": "俗",
+  "related": {
+    "radicals": [
+      75,
+      249
+    ],
+    "kanjis": [
+      2074
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぞく",
+      "url": "https://files.wanikani.com/4y2xywrinvxp86of4wx50awyb90v"
+    }
+  ]
+}

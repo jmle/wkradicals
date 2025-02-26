@@ -1,0 +1,37 @@
+{
+  "id": 3154,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "必要"
+  },
+  "primaryMeaning": "Necessary",
+  "meaningMnemonic": "It's <kanji>certain</kanji> that you <kanji>need</kanji> it. This thing is <vocabulary>necessary</vocabulary>. It is <vocabulary>needed</vocabulary>.",
+  "primaryReading": "ひつよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Needed",
+    "Essential"
+  ],
+  "otherReadings": [],
+  "wkSlug": "必要",
+  "related": {
+    "radicals": [
+      65,
+      5,
+      424,
+      19
+    ],
+    "kanjis": [
+      655,
+      737
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひつよう",
+      "url": "https://files.wanikani.com/2ielx31poygmdeks0yqo0ppgo7bj"
+    }
+  ]
+}

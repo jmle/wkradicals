@@ -1,0 +1,36 @@
+{
+  "id": 7471,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "汚い"
+  },
+  "primaryMeaning": "Dirty",
+  "meaningMnemonic": "This is the adjective form of 汚, which is <kanji>dirty</kanji>. This word is the adjective <vocabulary>dirty</vocabulary>, but you can also use it to say things like <vocabulary>filthy</vocabulary>, <vocabulary>foul</vocabulary>, or <vocabulary>unclean</vocabulary>.",
+  "primaryReading": "きたない",
+  "readingMnemonic": "The reading is different from the other kun'yomi readings you've learned so far with this word. It is きたない. Think of it like you're saying \"<reading>来た、な</reading>\", as in \"it came, huh?\" What came? A really dirty looking monster, and it's coming for you.",
+  "otherMeanings": [
+    "Filthy",
+    "Foul",
+    "Unclean"
+  ],
+  "otherReadings": [],
+  "wkSlug": "汚い",
+  "related": {
+    "radicals": [
+      103,
+      7,
+      14
+    ],
+    "kanjis": [
+      1506
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きたない",
+      "url": "https://files.wanikani.com/zsvhkezsw3z1m531acutn055m6or"
+    }
+  ]
+}

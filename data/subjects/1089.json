@@ -1,0 +1,40 @@
+{
+  "id": 1089,
+  "type": "kanji",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "災"
+  },
+  "primaryReading": "さい",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "さい",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "わざわ",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Disaster",
+  "otherMeanings": [],
+  "meaningMnemonic": "A <radical>flood</radical> and a <radical>fire</radical>! At the same time? This is a <kanji>disaster</kanji>!",
+  "readingMnemonic": "This <kanji>disaster</kanji> was caused by your <reading>cy</reading>borg (さい)! It's malfunctioning, running around leaking large amounts of water and breathing fire. I guess you didn't work out all the kinks before you let it roam wild.",
+  "wkSlug": "災",
+  "related": {
+    "radicals": [
+      273,
+      46
+    ],
+    "vocabularies": [
+      4298,
+      4299,
+      4300,
+      4301,
+      4302
+    ]
+  }
+}

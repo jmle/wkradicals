@@ -1,0 +1,38 @@
+{
+  "id": 8010,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "投稿"
+  },
+  "primaryMeaning": "Submission",
+  "meaningMnemonic": "<kanji>Throw</kanji> your <kanji>draft</kanji> at people to <vocabulary>post</vocabulary> it on their Facebook wall! Wait, that's not how it works? Hush, yes it does, just throw it harder.",
+  "primaryReading": "とうこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Post",
+    "Contribution",
+    "Submit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "投稿",
+  "related": {
+    "radicals": [
+      63,
+      160,
+      135,
+      438
+    ],
+    "kanjis": [
+      686,
+      2194
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうこう",
+      "url": "https://files.wanikani.com/mkjwegb3xq9hs5ehyuemw014e32m"
+    }
+  ]
+}

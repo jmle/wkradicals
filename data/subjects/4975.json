@@ -1,0 +1,34 @@
+{
+  "id": 4975,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "貯金"
+  },
+  "primaryMeaning": "Savings",
+  "meaningMnemonic": "Your <kanji>savings</kanji> <kanji>gold</kanji> is your <vocabulary>savings</vocabulary>. You'd be good to have gold right now in your savings, actually. Melt it down into bars, manngggg.",
+  "primaryReading": "ちょきん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "貯金",
+  "related": {
+    "radicals": [
+      94,
+      78,
+      27,
+      118
+    ],
+    "kanjis": [
+      1290,
+      602
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょきん",
+      "url": "https://files.wanikani.com/81s625gt4vtir0j1i7qkpnkwf0pp"
+    }
+  ]
+}

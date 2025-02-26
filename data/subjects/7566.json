@@ -1,0 +1,37 @@
+{
+  "id": 7566,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "草地"
+  },
+  "primaryMeaning": "Meadow",
+  "meaningMnemonic": "<kanji>Grass</kanji> covering the <kanji>earth</kanji> is a <vocabulary>meadow</vocabulary>. Or, if you're less creative, it's <vocabulary>grassland</vocabulary>. ",
+  "primaryReading": "くさち",
+  "readingMnemonic": "The reading is a combination of kun'yomi and on'yomi readings. That being said, both readings for both kanji are the readings you learned with the kanji so you should be able to read this.",
+  "otherMeanings": [
+    "Grassland"
+  ],
+  "otherReadings": [],
+  "wkSlug": "草地",
+  "related": {
+    "radicals": [
+      90,
+      22,
+      15,
+      17,
+      77
+    ],
+    "kanjis": [
+      605,
+      608
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くさち",
+      "url": "https://files.wanikani.com/5ons2tfq3k7zosjdht6sxjtybuwk"
+    }
+  ]
+}

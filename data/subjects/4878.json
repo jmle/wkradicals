@@ -1,0 +1,31 @@
+{
+  "id": 4878,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "呼ばれる"
+  },
+  "primaryMeaning": "To Be Called",
+  "meaningMnemonic": "If 呼ぶ is \"to call\" then this is something similar. This is when you are called by someone (and you're not doing the calling). This word is <vocabulary>to be called</vocabulary>.",
+  "primaryReading": "よばれる",
+  "readingMnemonic": "The reading is shared with 呼ぶ, so remember that and you'll be able to read this too.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "呼ばれる",
+  "related": {
+    "radicals": [
+      16,
+      279
+    ],
+    "kanjis": [
+      1213
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "よばれる",
+      "url": "https://files.wanikani.com/dhpyc8k9a6id44f8glb044s6tgia"
+    }
+  ]
+}

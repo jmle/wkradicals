@@ -1,0 +1,33 @@
+{
+  "id": 6114,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "香り"
+  },
+  "primaryMeaning": "Fragrance",
+  "meaningMnemonic": "This is the noun version of 香, making it have the same meaning, <vocabulary>fragrance</vocabulary>.",
+  "primaryReading": "かおり",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: The <vocabulary>fragrance</vocabulary> you smell is somebody's <reading>顔</reading> (かお). Just imagine smelling the fragrance of a bunch of people's faces. Yum!",
+  "otherMeanings": [
+    "Aroma"
+  ],
+  "otherReadings": [],
+  "wkSlug": "香り",
+  "related": {
+    "radicals": [
+      135,
+      22
+    ],
+    "kanjis": [
+      1665
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かおり",
+      "url": "https://files.wanikani.com/fwpxhdjv50d9favkdqeijcgjqand"
+    }
+  ]
+}

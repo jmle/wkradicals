@@ -1,0 +1,38 @@
+{
+  "id": 5175,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "有益"
+  },
+  "primaryMeaning": "Beneficial",
+  "meaningMnemonic": "To <kanji>have</kanji> <kanji>benefit</kanji> is to be <vocabulary>beneficial</vocabulary>.",
+  "primaryReading": "ゆうえき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Useful"
+  ],
+  "otherReadings": [],
+  "wkSlug": "有益",
+  "related": {
+    "radicals": [
+      26,
+      43,
+      8767,
+      1,
+      2,
+      84
+    ],
+    "kanjis": [
+      615,
+      1367
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうえき",
+      "url": "https://files.wanikani.com/w1tcwtyjh2ssl56xl7kucl0vssvc"
+    }
+  ]
+}

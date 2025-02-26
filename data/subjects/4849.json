@@ -1,0 +1,38 @@
+{
+  "id": 4849,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "時代"
+  },
+  "primaryMeaning": "Period",
+  "meaningMnemonic": "You have a <kanji>period</kanji> of <kanji>time</kanji> and it's called a <vocabulary>period</vocabulary> or <vocabulary>era</vocabulary>! Simple!",
+  "primaryReading": "じだい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Epoch",
+    "Era",
+    "Time Period"
+  ],
+  "otherReadings": [],
+  "wkSlug": "時代",
+  "related": {
+    "radicals": [
+      22,
+      192,
+      75,
+      79
+    ],
+    "kanjis": [
+      662,
+      530
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じだい",
+      "url": "https://files.wanikani.com/oavrb9tgjxu7jhaqw30xqg72qljx"
+    }
+  ]
+}

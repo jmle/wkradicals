@@ -1,0 +1,36 @@
+{
+  "id": 7271,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "紫色"
+  },
+  "primaryMeaning": "Purple",
+  "meaningMnemonic": "A <kanji>purple</kanji> <kanji>color</kanji> is <vocabulary>purple</vocabulary>. Simple as that!",
+  "primaryReading": "むらさきいろ",
+  "readingMnemonic": "The reading for 紫 is different from the one you learned with the kanji. To remember this reading, think about how the previous village you went to was all purple. It was the \"<reading>村先</reading>\" (むらさき) that you went to. Everything. Absolutely everything was purple.",
+  "otherMeanings": [
+    "Violet"
+  ],
+  "otherReadings": [],
+  "wkSlug": "紫色",
+  "related": {
+    "radicals": [
+      44,
+      57,
+      86,
+      110
+    ],
+    "kanjis": [
+      2051,
+      579
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "むらさきいろ",
+      "url": "https://files.wanikani.com/aiibtrkblle5p8yzk8ab7yrodnat"
+    }
+  ]
+}

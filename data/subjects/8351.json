@@ -1,0 +1,38 @@
+{
+  "id": 8351,
+  "type": "vocabulary",
+  "level": 57,
+  "characters": {
+    "type": "text",
+    "value": "恐喝"
+  },
+  "primaryMeaning": "Blackmail",
+  "meaningMnemonic": "A man in a leather jacket <kanji>scold</kanji>s you and is using <kanji>fear</kanji> tactics to get paid. He's <vocabulary>blackmailing</vocabulary> you! That's illegal. Come to think of it, he's probably a member of the yakuza. You should move.",
+  "primaryReading": "きょうかつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Extortion"
+  ],
+  "otherReadings": [],
+  "wkSlug": "恐喝",
+  "related": {
+    "radicals": [
+      241,
+      65,
+      16,
+      22,
+      14,
+      57
+    ],
+    "kanjis": [
+      1406,
+      2349
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうかつ",
+      "url": "https://files.wanikani.com/862c5mvij1n959uo8wp5gn2thtuc"
+    }
+  ]
+}

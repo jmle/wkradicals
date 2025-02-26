@@ -1,0 +1,36 @@
+{
+  "id": 9083,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "出張"
+  },
+  "primaryMeaning": "Business Trip",
+  "meaningMnemonic": "You <kanji>exit</kanji> the building and <kanji>stretch</kanji> in preparation for your <vocabulary>business trip</vocabulary>. This is the routine you always follow for your business trips: exit, and stretch.",
+  "primaryReading": "しゅっちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Just be careful about しゅつ becoming しゅっ here!",
+  "otherMeanings": [
+    "Official Trip",
+    "Service Call"
+  ],
+  "otherReadings": [],
+  "wkSlug": "出張",
+  "related": {
+    "radicals": [
+      20,
+      36,
+      138
+    ],
+    "kanjis": [
+      483,
+      1205
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅっちょう",
+      "url": "https://files.wanikani.com/jexof8c8igyes0n0pfuupnr9xlj0"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7129,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "畳"
+  },
+  "primaryMeaning": "Tatami Mat",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "たたみ",
+  "readingMnemonic": "The reading comes right from the vocab meaning, which is <vocabulary>tatami mat</vocabulary>. The たたみ part, specifically.",
+  "otherMeanings": [
+    "Tatami"
+  ],
+  "otherReadings": [],
+  "wkSlug": "畳",
+  "related": {
+    "radicals": [
+      51,
+      76,
+      419
+    ],
+    "kanjis": [
+      2006
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たたみ",
+      "url": "https://files.wanikani.com/i2u7hryz6b6xfb4524rn72uhgxdr"
+    }
+  ]
+}

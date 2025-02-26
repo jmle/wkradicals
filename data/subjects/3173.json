@@ -1,0 +1,37 @@
+{
+  "id": 3173,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "自転車"
+  },
+  "primaryMeaning": "Bicycle",
+  "meaningMnemonic": "A <kanji>self</kanji> <kanji>revolving</kanji> <kanji>car</kanji>. You'd think this would be a regular car, but <vocabulary>bicycles</vocabulary> were probably introduced before cars were, meaning the self revolving car is the bicycle, not the car. Just imagine yourself on a bike, and you don't even have to move the pedals. They revolve themselves, but now you're going too fast and it's scary.",
+  "primaryReading": "じてんしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Bike",
+    "Pushbike"
+  ],
+  "otherReadings": [],
+  "wkSlug": "自転車",
+  "related": {
+    "radicals": [
+      109,
+      93,
+      159
+    ],
+    "kanjis": [
+      578,
+      747,
+      562
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じてんしゃ",
+      "url": "https://files.wanikani.com/qfz521yzlc5ygscrxrep6nx4y0k7"
+    }
+  ]
+}

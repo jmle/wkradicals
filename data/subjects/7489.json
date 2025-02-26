@@ -1,0 +1,33 @@
+{
+  "id": 7489,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "食べ物"
+  },
+  "primaryMeaning": "Food",
+  "meaningMnemonic": "An <kanji>eat</kanji> <kanji>thing</kanji> (aka \"a thing you eat\") is <vocabulary>food</vocabulary>. Eat those things. Eat that food. Because it's a \"thing\" you know it's a noun. Interesting how this kanji can turn a verb like this into a noun, right? Look out for it because this pattern will show up with other verbs as well!",
+  "primaryReading": "たべもの",
+  "readingMnemonic": "This word uses the kun'yomi readings for both kanji, but you know them both now, so you should be able to read this too!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "食べ物",
+  "related": {
+    "radicals": [
+      139,
+      126,
+      173
+    ],
+    "kanjis": [
+      644,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たべもの",
+      "url": "https://files.wanikani.com/tghy8t04tix3yg3qjgmh7h7jwyvc"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7909,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "狩猟"
+  },
+  "primaryMeaning": "Hunting",
+  "meaningMnemonic": "<kanji>Hunting</kanji> where you <kanji>hunt</kanji> is still <vocabulary>hunting</vocabulary>.",
+  "primaryReading": "しゅりょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You didn't learn this reading for 狩 yet, so here's a mnemonic to help you:\n\nWhen <vocabulary>hunting</vocabulary> make sure you know where the water <reading>chu</reading>tes (しゅ) are located. You'll need to use those chutes to move quickly during the hunt.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "狩猟",
+  "related": {
+    "radicals": [
+      144,
+      396,
+      8783,
+      71
+    ],
+    "kanjis": [
+      1913,
+      2184
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅりょう",
+      "url": "https://files.wanikani.com/f9oeklgooix7jdx50k174omxojtm"
+    }
+  ]
+}

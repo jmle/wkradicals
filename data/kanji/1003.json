@@ -1,0 +1,40 @@
+{
+  "id": 1003,
+  "type": "kanji",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "席"
+  },
+  "primaryReading": "せき",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "せき",
+      "type": "onyomi"
+    }
+  ],
+  "primaryMeaning": "Seat",
+  "otherMeanings": [],
+  "meaningMnemonic": "In a <radical>yurt</radical> you use a <radical>towel</radical> as a <kanji>seat</kanji>.",
+  "readingMnemonic": "Something about using a towel for a <kanji>seat</kanji> is very <reading>sexy</reading> (せき) to you. Probably because you associate it with sexy people using towel seats on the beach.",
+  "wkSlug": "席",
+  "related": {
+    "radicals": [
+      8787,
+      102
+    ],
+    "vocabularies": [
+      3978,
+      3979,
+      3980,
+      3981,
+      4097,
+      4251
+    ]
+  },
+  "radicalNames": [
+    "Yurt",
+    "Towel"
+  ]
+}

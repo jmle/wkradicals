@@ -1,0 +1,36 @@
+{
+  "id": 6907,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "卓球"
+  },
+  "primaryMeaning": "Table Tennis",
+  "meaningMnemonic": "<kanji>Table</kanji> <kanji>sphere</kanji> is a sport where you have a table and then you use a sphere on it. That's <vocabulary>table tennis</vocabulary> or <vocabulary>ping pong</vocabulary>. Makes sense, right? You use a ping pong ball and you play on a table.",
+  "primaryReading": "たっきゅう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. Careful of たく's shortening.",
+  "otherMeanings": [
+    "Ping Pong"
+  ],
+  "otherReadings": [],
+  "wkSlug": "卓球",
+  "related": {
+    "radicals": [
+      10,
+      201,
+      48,
+      399
+    ],
+    "kanjis": [
+      1928,
+      832
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たっきゅう",
+      "url": "https://files.wanikani.com/k9kxo6ookti1xlczcf8z3ykt5ms0"
+    }
+  ]
+}

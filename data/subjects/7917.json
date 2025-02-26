@@ -1,0 +1,39 @@
+{
+  "id": 7917,
+  "type": "vocabulary",
+  "level": 52,
+  "characters": {
+    "type": "text",
+    "value": "膨張"
+  },
+  "primaryMeaning": "Expansion",
+  "meaningMnemonic": "You need to <kanji>swell</kanji> and <kanji>stretch</kanji> if you want to see any kind of <vocabulary>expansion</vocabulary> of your company. Growth can't happen without a little wiggle room.",
+  "primaryReading": "ぼうちょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Swelling",
+    "Increase",
+    "Growth"
+  ],
+  "otherReadings": [],
+  "wkSlug": "膨張",
+  "related": {
+    "radicals": [
+      43,
+      421,
+      38,
+      36,
+      138
+    ],
+    "kanjis": [
+      2169,
+      1205
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぼうちょう",
+      "url": "https://files.wanikani.com/f9exmltqzwfamrrtuajgusnxpxy1"
+    }
+  ]
+}

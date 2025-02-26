@@ -1,0 +1,35 @@
+{
+  "id": 2741,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "大会"
+  },
+  "primaryMeaning": "Convention",
+  "meaningMnemonic": "When you have a <kanji>big</kanji> <kanji>meet</kanji> there's a lot of people together. Why would you have a bunch of people gather together? Probably for a <vocabulary>convention</vocabulary> or some kind of <vocabulary>tournament</vocabulary> or <vocabulary>event</vocabulary>.",
+  "primaryReading": "たいかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 大 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nDid you know that Japan has entire <vocabulary>convention</vocabulary>s on <reading>tie</reading> <reading>kay</reading>aking (たいかい)? They regularly hold <vocabulary>tournament</vocabulary>s where they go kayaking using nothing but ties! Sounds pretty exhausting...",
+  "otherMeanings": [
+    "Tournament",
+    "Event"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大会",
+  "related": {
+    "radicals": [
+      18,
+      155
+    ],
+    "kanjis": [
+      453,
+      566
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいかい",
+      "url": "https://files.wanikani.com/goxwfc9rr6uhk47pa1zohww76ybf"
+    }
+  ]
+}

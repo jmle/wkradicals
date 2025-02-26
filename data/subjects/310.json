@@ -1,0 +1,29 @@
+{
+  "id": 310,
+  "type": "radical",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "代"
+  },
+  "primaryMeaning": "Substitute",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>substitute</radical>.",
+  "wkSlug": "substitute",
+  "related": {
+    "kanjis": [
+      1324,
+      1836
+    ],
+    "vocabularies": [
+      5082,
+      5083,
+      5289,
+      5698,
+      6645,
+      6646,
+      6647,
+      6771
+    ]
+  }
+}

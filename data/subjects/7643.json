@@ -1,0 +1,38 @@
+{
+  "id": 7643,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "完結"
+  },
+  "primaryMeaning": "Conclusion",
+  "meaningMnemonic": "The <kanji>perfect</kanji> way to <kanji>tie</kanji> up a research paper is with a <vocabulary>conclusion</vocabulary>.",
+  "primaryReading": "かんけつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Completion",
+    "Ending",
+    "Consummation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "完結",
+  "related": {
+    "radicals": [
+      78,
+      64,
+      86,
+      253
+    ],
+    "kanjis": [
+      904,
+      1009
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんけつ",
+      "url": "https://files.wanikani.com/hdjuqk23c1dx5jcn4g0io6ulquw0"
+    }
+  ]
+}

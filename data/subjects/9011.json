@@ -1,0 +1,33 @@
+{
+  "id": 9011,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "木星"
+  },
+  "primaryMeaning": "Jupiter",
+  "meaningMnemonic": "The <kanji>tree</kanji> <kanji>star</kanji> is the planet <vocabulary>Jupiter</vocabulary>. Imagine Jupiter covered in very strange trees — the kind that are able to take root in gas! It's a pretty weird image, but will hopefully help you to remember this word. Alternatively, think about how the clouds around Jupiter make patterns that look a lot like wood grain.",
+  "primaryReading": "もくせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "木星",
+  "related": {
+    "radicals": [
+      23,
+      22,
+      210
+    ],
+    "kanjis": [
+      478,
+      638
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "もくせい",
+      "url": "https://files.wanikani.com/nkbh5pvob9ppuvxiz1q4pl92mfos"
+    }
+  ]
+}

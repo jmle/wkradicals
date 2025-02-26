@@ -1,0 +1,34 @@
+{
+  "id": 6856,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "澄む"
+  },
+  "primaryMeaning": "To Become Clear",
+  "meaningMnemonic": "Something with <kanji>lucidity</kanji> is clear. That's why this word is <vocabulary>to become clear</vocabulary> or <vocabulary>to become transparent</vocabulary>.",
+  "primaryReading": "すむ",
+  "readingMnemonic": "You learned this reading when you learned the kanji.",
+  "otherMeanings": [
+    "To Become Transparent"
+  ],
+  "otherReadings": [],
+  "wkSlug": "澄む",
+  "related": {
+    "radicals": [
+      103,
+      168,
+      181
+    ],
+    "kanjis": [
+      1906
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すむ",
+      "url": "https://files.wanikani.com/8u4m618yq26tlr8qul6qzrrm9ofx"
+    }
+  ]
+}

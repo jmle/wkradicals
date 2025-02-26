@@ -1,0 +1,38 @@
+{
+  "id": 7725,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "透き通る"
+  },
+  "primaryMeaning": "To Be Transparent",
+  "meaningMnemonic": "This is a combination of the words 透ける and 通る. Something that is transparent enough for things (like light) to pass through it is still going <vocabulary>to be transparent</vocabulary>, aka <vocabulary>to be see-through</vocabulary>.",
+  "primaryReading": "すきとおる",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "To Be Clear",
+    "To Be See-through"
+  ],
+  "otherReadings": [],
+  "wkSlug": "透き通る",
+  "related": {
+    "radicals": [
+      114,
+      135,
+      200,
+      141,
+      71
+    ],
+    "kanjis": [
+      1771,
+      665
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すきとおる",
+      "url": "https://files.wanikani.com/fcf9tf0bgui1b0cj9ybin859o2xz"
+    }
+  ]
+}

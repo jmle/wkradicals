@@ -1,0 +1,37 @@
+{
+  "id": 5391,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "織物"
+  },
+  "primaryMeaning": "Textile",
+  "meaningMnemonic": "The <kanji>thing</kanji>s that are <kanji>weave</kanji>d are, essentially, just <vocabulary>textile</vocabulary> or <vocabulary>fabric</vocabulary>.",
+  "primaryReading": "おりもの",
+  "readingMnemonic": "The readings are the kun'yomi readings. With 織 you can pull the reading from 織る. With 物 you've probably seen it enough to know that it's often もの and not ぶつ. Just think of a piece of <vocabulary>cloth</vocabulary> that is <reading>mono</reading>chrome.",
+  "otherMeanings": [
+    "Fabric"
+  ],
+  "otherReadings": [],
+  "wkSlug": "織物",
+  "related": {
+    "radicals": [
+      86,
+      197,
+      194,
+      126,
+      173
+    ],
+    "kanjis": [
+      1323,
+      718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おりもの",
+      "url": "https://files.wanikani.com/e77jiwgzopz068bpjybkhusknbc8"
+    }
+  ]
+}

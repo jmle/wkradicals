@@ -1,0 +1,37 @@
+{
+  "id": 6537,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "炭鉱"
+  },
+  "primaryMeaning": "Coal Mine",
+  "meaningMnemonic": "<kanji>Charcoal</kanji> <kanji>mineral</kanji> has been found! Time to dig a <vocabulary>coal mine</vocabulary> or <vocabulary>coal pit</vocabulary> to retrieve it!",
+  "primaryReading": "たんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Coal Pit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "炭鉱",
+  "related": {
+    "radicals": [
+      20,
+      116,
+      46,
+      118,
+      382
+    ],
+    "kanjis": [
+      1793,
+      1798
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たんこう",
+      "url": "https://files.wanikani.com/f54i7tjov51rah43ki0qyu5dpoiu"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 3210,
+  "type": "vocabulary",
+  "level": 10,
+  "characters": {
+    "type": "text",
+    "value": "日本語"
+  },
+  "primaryMeaning": "Japanese Language",
+  "meaningMnemonic": "You know 日本 is \"Japan.\" So, when you add <kanji>language</kanji> onto the end of that you have <vocabulary>Japanese language</vocabulary>.",
+  "primaryReading": "にほんご",
+  "readingMnemonic": "The reading is just the vocab word 日本 (にほん) plus the on'yomi that you learned for 語. Combine them together to get the reading for this word.",
+  "otherMeanings": [
+    "Japanese"
+  ],
+  "otherReadings": [],
+  "wkSlug": "日本語",
+  "related": {
+    "radicals": [
+      22,
+      50,
+      117,
+      39,
+      16
+    ],
+    "kanjis": [
+      476,
+      487,
+      764
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "にほんご",
+      "url": "https://files.wanikani.com/2nji5qnyle3ulm6ev57bfolf9ryb"
+    }
+  ]
+}

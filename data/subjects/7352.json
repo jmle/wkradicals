@@ -1,0 +1,36 @@
+{
+  "id": 7352,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "勘弁"
+  },
+  "primaryMeaning": "Pardon",
+  "meaningMnemonic": "<kanji>Intuition</kanji> from my <kanji>dialect</kanji> tells me that I should <vocabulary>pardon</vocabulary> you. Give you <vocabulary>forgiveness</vocabulary>. You're lucky I speak this dialect.",
+  "primaryReading": "かんべん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Forgiveness"
+  ],
+  "otherReadings": [],
+  "wkSlug": "勘弁",
+  "related": {
+    "radicals": [
+      407,
+      13,
+      140,
+      106
+    ],
+    "kanjis": [
+      2081,
+      984
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かんべん",
+      "url": "https://files.wanikani.com/msn5d3fu27il0s88cinyzmc44f5s"
+    }
+  ]
+}

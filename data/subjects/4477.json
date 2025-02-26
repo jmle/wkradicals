@@ -1,0 +1,35 @@
+{
+  "id": 4477,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "主義"
+  },
+  "primaryMeaning": "Ism",
+  "meaningMnemonic": "The <kanji>main</kanji> cause behind someone's <kanji>righteousness</kanji> is usually what <vocabulary>ism</vocabulary>s, <vocabulary>principle</vocabulary>s or <vocabulary>doctrine</vocabulary>s they believe in. Buddh<vocabulary>ism</vocabulary>, Shinto<vocabulary>ism</vocabulary>, social<vocabulary>ism</vocabulary>, commun<vocabulary>ism</vocabulary>, you name it. If you believe in one of those it's the main driving factor behind what you believe righteousness to be.",
+  "primaryReading": "しゅぎ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Principle",
+    "Doctrine"
+  ],
+  "otherReadings": [],
+  "wkSlug": "主義",
+  "related": {
+    "radicals": [
+      154,
+      383
+    ],
+    "kanjis": [
+      528,
+      1154
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅぎ",
+      "url": "https://files.wanikani.com/r2ucli7623kxl9p0hvj6h86qmumx"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8194,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "奉納"
+  },
+  "primaryMeaning": "Dedication",
+  "meaningMnemonic": "If you <kanji>dedicate</kanji> your entire <kanji>supply</kanji> of food to the gods it's called an <vocabulary>offering</vocabulary>, and it takes real <vocabulary>dedication</vocabulary> to do something like that.",
+  "primaryReading": "ほうのう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Offering",
+    "Presentation"
+  ],
+  "otherReadings": [],
+  "wkSlug": "奉納",
+  "related": {
+    "radicals": [
+      8779,
+      61,
+      86,
+      346
+    ],
+    "kanjis": [
+      2262,
+      1536
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうのう",
+      "url": "https://files.wanikani.com/mid9kk7p278wy4zc97v3cpwu33ry"
+    }
+  ]
+}

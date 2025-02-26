@@ -1,0 +1,40 @@
+{
+  "id": 5505,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "結婚式"
+  },
+  "primaryMeaning": "Marriage Ceremony",
+  "meaningMnemonic": "If 結婚 is <kanji>marriage</kanji>, then a marriage <kanji>ceremony</kanji> is a <vocabulary>marriage ceremony</vocabulary> or <vocabulary>wedding</vocabulary>.",
+  "primaryReading": "けっこんしき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Wedding"
+  ],
+  "otherReadings": [],
+  "wkSlug": "結婚式",
+  "related": {
+    "radicals": [
+      86,
+      253,
+      19,
+      147,
+      22,
+      79,
+      25
+    ],
+    "kanjis": [
+      1009,
+      1416,
+      939
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けっこんしき",
+      "url": "https://files.wanikani.com/6w6is21nqv26qn3bo32rb0ar9vod"
+    }
+  ]
+}

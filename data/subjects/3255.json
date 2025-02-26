@@ -1,0 +1,31 @@
+{
+  "id": 3255,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "〜位"
+  },
+  "primaryMeaning": "Rank",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "い",
+  "readingMnemonic": "The reading is the on'yomi reading, which you learned. This is probably because you'll see this word attached to other words, showing the rank of that thing.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "〜位",
+  "related": {
+    "radicals": [
+      75,
+      55
+    ],
+    "kanjis": [
+      782
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "い",
+      "url": "https://files.wanikani.com/b6gc8bcjbt7yoom918o2oxypskx9"
+    }
+  ]
+}

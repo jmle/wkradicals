@@ -1,0 +1,33 @@
+{
+  "id": 8534,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "惜しまない"
+  },
+  "primaryMeaning": "Without Sparing",
+  "meaningMnemonic": "Remember how you learned that 惜しむ means \"to be sparing?\" Well if you make that negative with ない, then you're doing it <vocabulary>without sparing</vocabulary> anything instead.",
+  "primaryReading": "おしまない",
+  "readingMnemonic": "Since this word is made up of a single kanji, it probably uses the kun'yomi reading. You learned this reading already, so you should be able to read this already too!",
+  "otherMeanings": [
+    "Spare No"
+  ],
+  "otherReadings": [],
+  "wkSlug": "惜しまない",
+  "related": {
+    "radicals": [
+      232,
+      256
+    ],
+    "kanjis": [
+      2266
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おしまない",
+      "url": "https://files.wanikani.com/nwgac4oqpg3nlyzrv7e2r79nxw9m"
+    }
+  ]
+}

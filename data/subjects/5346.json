@@ -1,0 +1,35 @@
+{
+  "id": 5346,
+  "type": "vocabulary",
+  "level": 30,
+  "characters": {
+    "type": "text",
+    "value": "盗品"
+  },
+  "primaryMeaning": "Stolen Goods",
+  "meaningMnemonic": "These are <kanji>stolen</kanji> (steal) <kanji>goods</kanji>. So, I'll give you a deal, because, you know, they're <vocabulary>stolen goods</vocabulary>.",
+  "primaryReading": "とうひん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Stolen Items"
+  ],
+  "otherReadings": [],
+  "wkSlug": "盗品",
+  "related": {
+    "radicals": [
+      278,
+      84,
+      227
+    ],
+    "kanjis": [
+      1442,
+      967
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうひん",
+      "url": "https://files.wanikani.com/hmkl6dti4393dr6275yevsohyng9"
+    }
+  ]
+}

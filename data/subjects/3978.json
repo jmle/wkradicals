@@ -1,0 +1,31 @@
+{
+  "id": 3978,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "席"
+  },
+  "primaryMeaning": "Seat",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "せき",
+  "readingMnemonic": "The reading is the same as the on you learned with the kanji. Have a seat and relax.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "席",
+  "related": {
+    "radicals": [
+      8787,
+      102
+    ],
+    "kanjis": [
+      1003
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せき",
+      "url": "https://files.wanikani.com/eyqw5zognme26dxf16iavpzq5iis"
+    }
+  ]
+}

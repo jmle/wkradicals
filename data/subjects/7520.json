@@ -1,0 +1,30 @@
+{
+  "id": 7520,
+  "type": "vocabulary",
+  "level": 4,
+  "characters": {
+    "type": "text",
+    "value": "赤い"
+  },
+  "primaryMeaning": "Red",
+  "meaningMnemonic": "This is a single kanji with an い on the end, meaning you know it's probably an adjective. What's the adjective form of <kanji>red</kanji>? Why, it's <vocabulary>red</vocabulary>!",
+  "primaryReading": "あかい",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "赤い",
+  "related": {
+    "radicals": [
+      92
+    ],
+    "kanjis": [
+      560
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あかい",
+      "url": "https://files.wanikani.com/1woiho2gfe6ht83tb2x9j7dk51bd"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5579,
+  "type": "vocabulary",
+  "level": 32,
+  "characters": {
+    "type": "text",
+    "value": "密告"
+  },
+  "primaryMeaning": "Secret Information",
+  "meaningMnemonic": "In <kanji>secrecy</kanji> you must <kanji>announce</kanji> this information. It's not for anyone to hear, it's <vocabulary>secret information</vocabulary>.",
+  "primaryReading": "みっこく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own. The みつ goes to みっ.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "密告",
+  "related": {
+    "radicals": [
+      78,
+      343,
+      20,
+      5,
+      17,
+      16
+    ],
+    "kanjis": [
+      1505,
+      1031
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みっこく",
+      "url": "https://files.wanikani.com/wrbqnoh7jyqe0ok66zg6puz3sp9o"
+    }
+  ]
+}

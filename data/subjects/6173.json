@@ -1,0 +1,33 @@
+{
+  "id": 6173,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "夕刊"
+  },
+  "primaryMeaning": "Evening Edition",
+  "meaningMnemonic": "The <kanji>evening</kanji> <kanji>edition</kanji> is the <vocabulary>evening edition</vocabulary>.",
+  "primaryReading": "ゆうかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "夕刊",
+  "related": {
+    "radicals": [
+      33,
+      61,
+      128
+    ],
+    "kanjis": [
+      461,
+      1683
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆうかん",
+      "url": "https://files.wanikani.com/p5nztlrbdf2w4j0dj3fbrzipgrfq"
+    }
+  ]
+}

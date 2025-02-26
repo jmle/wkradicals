@@ -1,0 +1,36 @@
+{
+  "id": 6048,
+  "type": "vocabulary",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "二日酔い"
+  },
+  "primaryMeaning": "Hangover",
+  "meaningMnemonic": "On the <kanji>second day</kanji>, you experience your <kanji>drunk</kanji>enness a different way... in the form of a <vocabulary>hangover</vocabulary>.",
+  "primaryReading": "ふつかよい",
+  "readingMnemonic": "The reading is 二日 and 酔い put together (the reading for that comes from 酔う).",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "二日酔い",
+  "related": {
+    "radicals": [
+      7,
+      22,
+      182,
+      11,
+      15
+    ],
+    "kanjis": [
+      441,
+      476,
+      1603
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふつかよい",
+      "url": "https://files.wanikani.com/dnjhn53gmdl5b0yhe4r6ivi9pswm"
+    }
+  ]
+}

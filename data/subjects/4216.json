@@ -1,0 +1,38 @@
+{
+  "id": 4216,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "学歴"
+  },
+  "primaryMeaning": "Academic History",
+  "meaningMnemonic": "A <kanji>continuation</kanji> of <kanji>study</kanji>ing is the time that passes that we study. This is <vocabulary>academic history</vocabulary>, so pay close attention!",
+  "primaryReading": "がくれき",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Academic Background",
+    "Academic Record"
+  ],
+  "otherReadings": [],
+  "wkSlug": "学歴",
+  "related": {
+    "radicals": [
+      8769,
+      34,
+      116,
+      23,
+      44
+    ],
+    "kanjis": [
+      599,
+      1069
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がくれき",
+      "url": "https://files.wanikani.com/2ef0phhry2pmte8hd2sk1vp0lw0d"
+    }
+  ]
+}

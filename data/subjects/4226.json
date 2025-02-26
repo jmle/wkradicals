@@ -1,0 +1,31 @@
+{
+  "id": 4226,
+  "type": "vocabulary",
+  "level": 19,
+  "characters": {
+    "type": "text",
+    "value": "続く"
+  },
+  "primaryMeaning": "To Continue",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>continue</kanji> so the verb vocab version is <vocabulary>to continue</vocabulary>. Please continue.",
+  "primaryReading": "つづく",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: <reading>Two du</reading>des (つづ) get <vocabulary>to continue</vocabulary> on. I'm afraid you two ladies are going to have to stay here. This is a dudes only night club.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "続く",
+  "related": {
+    "radicals": [
+      86,
+      439
+    ],
+    "kanjis": [
+      1083
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "つづく",
+      "url": "https://files.wanikani.com/zdirlsyv4gaeyn9fte4649j83evm"
+    }
+  ]
+}

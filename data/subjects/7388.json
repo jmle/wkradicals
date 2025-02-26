@@ -1,0 +1,36 @@
+{
+  "id": 7388,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "銘々"
+  },
+  "primaryMeaning": "Each",
+  "meaningMnemonic": "You look at this <kanji>inscription</kanji> then you look at that <kanji>inscription</kanji> and you notice that <vocabulary>each</vocabulary> one is an <vocabulary>individual</vocabulary> inscription.",
+  "primaryReading": "めいめい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Individual"
+  ],
+  "otherReadings": [],
+  "wkSlug": "銘々",
+  "related": {
+    "radicals": [
+      118,
+      409,
+      14,
+      3
+    ],
+    "kanjis": [
+      2098,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "めいめい",
+      "url": "https://files.wanikani.com/8eumkwy6dechn7jzbbtesx9ueca0"
+    }
+  ]
+}

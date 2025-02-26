@@ -1,0 +1,40 @@
+{
+  "id": 4487,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "被害者"
+  },
+  "primaryMeaning": "Victim",
+  "meaningMnemonic": "The <kanji>someone</kanji>s (people) who <kanji>incur</kanji> <kanji>damage</kanji> are the <vocabulary>victims</vocabulary>. WILL SOMEBODY THINK OF THE VICTIMS HERE???",
+  "primaryReading": "ひがいしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help to know the word 被害 as well.",
+  "otherMeanings": [
+    "Victims"
+  ],
+  "otherReadings": [],
+  "wkSlug": "被害者",
+  "related": {
+    "radicals": [
+      80,
+      195,
+      78,
+      210,
+      16,
+      104,
+      22
+    ],
+    "kanjis": [
+      1097,
+      1093,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひがいしゃ",
+      "url": "https://files.wanikani.com/ruti4oy3y5ddwh8wm9f6qt7lx0s6"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 364,
+  "type": "radical",
+  "level": 37,
+  "characters": {
+    "type": "text",
+    "value": "賞"
+  },
+  "primaryMeaning": "Prize",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>prize</radical>.",
+  "wkSlug": "prize",
+  "related": {
+    "kanjis": [
+      1646
+    ],
+    "vocabularies": [
+      6055,
+      6056,
+      7932,
+      8147
+    ]
+  }
+}

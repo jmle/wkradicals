@@ -1,0 +1,37 @@
+{
+  "id": 7235,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "後悔"
+  },
+  "primaryMeaning": "Regret",
+  "meaningMnemonic": "My <kanji>behind</kanji> <kanji>regret</kanji> is the regret from before, which is all regret. So this means <vocabulary>regret</vocabulary>, or <vocabulary>repentance</vocabulary>.",
+  "primaryReading": "こうかい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Repentance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "後悔",
+  "related": {
+    "radicals": [
+      99,
+      87,
+      60,
+      232,
+      379
+    ],
+    "kanjis": [
+      636,
+      2040
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうかい",
+      "url": "https://files.wanikani.com/04w7wv0zlx4q26i2d1w7yvc3spgo"
+    }
+  ]
+}

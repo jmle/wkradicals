@@ -1,0 +1,37 @@
+{
+  "id": 4555,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "外観"
+  },
+  "primaryMeaning": "External Appearance",
+  "meaningMnemonic": "The <kanji>outside</kanji> <kanji>view</kanji> of you is your <vocabulary>external appearance</vocabulary>.",
+  "primaryReading": "がいかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Outward Appearance"
+  ],
+  "otherReadings": [],
+  "wkSlug": "外観",
+  "related": {
+    "radicals": [
+      33,
+      10,
+      72,
+      240,
+      91
+    ],
+    "kanjis": [
+      521,
+      1175
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "がいかん",
+      "url": "https://files.wanikani.com/54ps7yhx4jl9it912qtcsm19jqe0"
+    }
+  ]
+}

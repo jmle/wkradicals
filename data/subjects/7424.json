@@ -1,0 +1,33 @@
+{
+  "id": 7424,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "液晶"
+  },
+  "primaryMeaning": "Liquid Crystal",
+  "meaningMnemonic": "A <kanji>fluid</kanji> <kanji>crystal</kanji> is a <vocabulary>liquid crystal</vocabulary>.",
+  "primaryReading": "えきしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "液晶",
+  "related": {
+    "radicals": [
+      103,
+      342,
+      22
+    ],
+    "kanjis": [
+      1487,
+      2115
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えきしょう",
+      "url": "https://files.wanikani.com/nom69l5hv5a1o5ap46bwn3ybnezy"
+    }
+  ]
+}

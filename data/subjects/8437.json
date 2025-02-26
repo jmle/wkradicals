@@ -1,0 +1,37 @@
+{
+  "id": 8437,
+  "type": "vocabulary",
+  "level": 58,
+  "characters": {
+    "type": "text",
+    "value": "凌ぐ"
+  },
+  "primaryMeaning": "To Endure",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>endure</kanji>, so the verb version is <vocabulary>to endure</vocabulary> or <vocabulary>to keep out</vocabulary>.",
+  "primaryReading": "しのぐ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You learned this reading already so you should be able to read it!",
+  "otherMeanings": [
+    "To Keep Out",
+    "To Stave Off",
+    "To Surpass",
+    "To Outrank",
+    "To Eclipse"
+  ],
+  "otherReadings": [],
+  "wkSlug": "凌ぐ",
+  "related": {
+    "radicals": [
+      123,
+      426
+    ],
+    "kanjis": [
+      2395
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しのぐ",
+      "url": "https://files.wanikani.com/p58dl6qegi9lhfstarzhe1s8p9t1"
+    }
+  ]
+}

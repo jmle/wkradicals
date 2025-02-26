@@ -1,0 +1,33 @@
+{
+  "id": 9252,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "揃う"
+  },
+  "primaryMeaning": "To Be Complete",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb.\n\nThis is an intransitive verb that uses the <kanji>complete</kanji> kanji. It means <vocabulary>to be complete</vocabulary>. It can also be used when you want things <vocabulary>to be uniform</vocabulary>. It feels satisfying to have everything complete and uniform, right?",
+  "primaryReading": "そろう",
+  "readingMnemonic": "Since this word has okurigana (hiragana attached to the kanji) you know that it's probably going to be the kun'yomi reading. You learned the kun'yomi reading when you learned the kanji, so you should be able to read this! ",
+  "otherMeanings": [
+    "To Be Uniform"
+  ],
+  "otherReadings": [],
+  "wkSlug": "揃う",
+  "related": {
+    "radicals": [
+      63,
+      8908
+    ],
+    "kanjis": [
+      9251
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そろう",
+      "url": "https://files.wanikani.com/ya3ttbca0lhw2am7mcyzqzgr636x"
+    }
+  ]
+}

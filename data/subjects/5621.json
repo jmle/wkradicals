@@ -1,0 +1,36 @@
+{
+  "id": 5621,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "雑誌"
+  },
+  "primaryMeaning": "Magazine",
+  "meaningMnemonic": "<kanji>Random</kanji> <kanji>magazine</kanji> is pretty much all magazines. Just a bunch of random stuff inside, making it a <vocabulary>magazine</vocabulary>.",
+  "primaryReading": "ざっし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "雑誌",
+  "related": {
+    "radicals": [
+      11,
+      23,
+      240,
+      117,
+      97,
+      65
+    ],
+    "kanjis": [
+      1494,
+      1515
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ざっし",
+      "url": "https://files.wanikani.com/xl3cjfxrbs25njjwx7w4pk2j98wo"
+    }
+  ]
+}

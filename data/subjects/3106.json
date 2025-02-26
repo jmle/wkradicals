@@ -1,0 +1,31 @@
+{
+  "id": 3106,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "泳ぐ"
+  },
+  "primaryMeaning": "To Swim",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>swim</kanji> so the verb vocab version is <vocabulary>to swim</vocabulary>.",
+  "primaryReading": "およぐ",
+  "readingMnemonic": "The reading is kun'yomi (see that hiragana sticking out?) but that's the reading you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "泳ぐ",
+  "related": {
+    "radicals": [
+      103,
+      8820
+    ],
+    "kanjis": [
+      717
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "およぐ",
+      "url": "https://files.wanikani.com/a2drwawt5bad3wlm0vdi4vpwgnw1"
+    }
+  ]
+}

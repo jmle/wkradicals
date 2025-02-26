@@ -1,0 +1,30 @@
+{
+  "id": 6857,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "矛"
+  },
+  "primaryMeaning": "Spear",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ほこ",
+  "readingMnemonic": "The person who's holding the <vocabulary>spear</vocabulary> is a little <reading>hoe 子</reading>. It's a child who learned to fight with a hoe, and he's turned the hoe into a <vocabulary>spear</vocabulary> to fight with. Imagine him swinging his hoe spear around like a little dork.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "矛",
+  "related": {
+    "radicals": [
+      148
+    ],
+    "kanjis": [
+      1907
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほこ",
+      "url": "https://files.wanikani.com/x05k4jdy0d68plbqbm6bbsohc9yh"
+    }
+  ]
+}

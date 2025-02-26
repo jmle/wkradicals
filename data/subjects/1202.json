@@ -1,0 +1,43 @@
+{
+  "id": 1202,
+  "type": "kanji",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "備"
+  },
+  "primaryReading": "び",
+  "readings": [
+    {
+      "primary": true,
+      "reading": "び",
+      "type": "onyomi"
+    },
+    {
+      "primary": false,
+      "reading": "そな",
+      "type": "kunyomi"
+    }
+  ],
+  "primaryMeaning": "Provide",
+  "otherMeanings": [
+    "Equip"
+  ],
+  "meaningMnemonic": "The <radical>leader</radical> put <radical>flowers</radical> on a <radical>cliff</radical>. That is their <radical>task</radical>. It is to <kanji>provide</kanji> and <kanji>equip</kanji> the cliff with flowers.",
+  "readingMnemonic": "Why do they <kanji>provide</kanji> and <kanji>equip</kanji> the cliff with flowers? It's all for the <reading>bee</reading>s (び). ",
+  "wkSlug": "備",
+  "related": {
+    "radicals": [
+      75,
+      90,
+      116,
+      71
+    ],
+    "vocabularies": [
+      4625,
+      4626,
+      4766,
+      7161
+    ]
+  }
+}

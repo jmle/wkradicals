@@ -1,0 +1,34 @@
+{
+  "id": 4610,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "法律"
+  },
+  "primaryMeaning": "Law",
+  "meaningMnemonic": "Though there's no law about two kanji with the same meaning producing the same meaning, a <kanji>law</kanji> <kanji>law</kanji> is probably a <vocabulary>law</vocabulary>.",
+  "primaryReading": "ほうりつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "法律",
+  "related": {
+    "radicals": [
+      103,
+      244,
+      99,
+      220
+    ],
+    "kanjis": [
+      949,
+      1197
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほうりつ",
+      "url": "https://files.wanikani.com/m3dzbg77lyk3p9s9jyayzek5sq1x"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6933,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "翔る"
+  },
+  "primaryMeaning": "To Fly",
+  "meaningMnemonic": "This word consists of kanji with hiragana attached. Because the hiragana ends with an う sound, you know this word is a verb. The kanji means <kanji>fly</kanji>, so the verb version means <vocabulary>to fly</vocabulary>.",
+  "primaryReading": "かける",
+  "readingMnemonic": "You learned this reading already! You should be able to read this too!",
+  "otherMeanings": [
+    "To Soar"
+  ],
+  "otherReadings": [],
+  "wkSlug": "翔る",
+  "related": {
+    "radicals": [
+      136,
+      213
+    ],
+    "kanjis": [
+      1940
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かける",
+      "url": "https://files.wanikani.com/93xkszy7ktmgbf37deh6jvmt043t"
+    }
+  ]
+}

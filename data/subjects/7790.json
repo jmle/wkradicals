@@ -1,0 +1,37 @@
+{
+  "id": 7790,
+  "type": "vocabulary",
+  "level": 51,
+  "characters": {
+    "type": "text",
+    "value": "召喚"
+  },
+  "primaryMeaning": "Summon",
+  "meaningMnemonic": "If you try to <kanji>call</kanji> upon someone by <kanji>scream</kanji>ing for them, you're probably trying to <vocabulary>summon</vocabulary> them. It's a little bit more serious than just calling them over casually. Maybe you're summoning someone to court, or summoning a magical creature in a video game. Pretty serious stuff. ",
+  "primaryReading": "しょうかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Summons"
+  ],
+  "otherReadings": [],
+  "wkSlug": "召喚",
+  "related": {
+    "radicals": [
+      331,
+      16,
+      14,
+      28,
+      18
+    ],
+    "kanjis": [
+      2122,
+      2142
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しょうかん",
+      "url": "https://files.wanikani.com/qgwmr4jvs9tit5pmducchitx4v5k"
+    }
+  ]
+}

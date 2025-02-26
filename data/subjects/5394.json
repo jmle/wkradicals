@@ -1,0 +1,38 @@
+{
+  "id": 5394,
+  "type": "vocabulary",
+  "level": 29,
+  "characters": {
+    "type": "text",
+    "value": "腹が減った"
+  },
+  "primaryMeaning": "Hungry",
+  "meaningMnemonic": "When your <kanji>belly</kanji> has <kanji>decreased</kanji> in the amount of stuff inside it, you become <vocabulary>hungry</vocabulary>.\n\n腹が減った is a casual way of saying <vocabulary>I'm hungry</vocabulary> in Japanese, often with a bit of a rough or masculine tone.",
+  "primaryReading": "はらがへった",
+  "readingMnemonic": "The reading is 腹 plus 減る put together. With these two combined, you have はらがへった.\n\nIn casual speech, you might hear 腹減った without the が more often. The version with が is more common in writing or fixed expressions like 腹が減っては戦ができぬ (you can't fight on an empty stomach).",
+  "otherMeanings": [
+    "I'm Hungry"
+  ],
+  "otherReadings": [],
+  "wkSlug": "腹が減った",
+  "related": {
+    "radicals": [
+      43,
+      265,
+      103,
+      5,
+      194,
+      8781
+    ],
+    "kanjis": [
+      1317,
+      1059
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はらがへった",
+      "url": "https://files.wanikani.com/3kvac3wyduf8uj2xjx383b4zv2lz"
+    }
+  ]
+}

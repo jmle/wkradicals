@@ -1,0 +1,37 @@
+{
+  "id": 6205,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "円盤"
+  },
+  "primaryMeaning": "Disk",
+  "meaningMnemonic": "A <kanji>round</kanji> <kanji>tray</kanji> is a <vocabulary>disk</vocabulary>, though if it goes through the air it becomes a <vocabulary>flying saucer</vocabulary>.",
+  "primaryReading": "えんばん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Flying Saucer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "円盤",
+  "related": {
+    "radicals": [
+      29,
+      8,
+      149,
+      160,
+      84
+    ],
+    "kanjis": [
+      472,
+      1697
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えんばん",
+      "url": "https://files.wanikani.com/3ex2aoopeycsuh9b4bqs96apf6gd"
+    }
+  ]
+}

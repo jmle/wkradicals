@@ -1,0 +1,34 @@
+{
+  "id": 6890,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "曇る"
+  },
+  "primaryMeaning": "To Get Cloudy",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>cloudy</kanji> and the verb vocab version means <vocabulary>to get cloudy</vocabulary> or <vocabulary>to become cloudy</vocabulary>.",
+  "primaryReading": "くもる",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji. It also happens to be the same as 雲, which has a very similar meaning (clouds).",
+  "otherMeanings": [
+    "To Become Cloudy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "曇る",
+  "related": {
+    "radicals": [
+      22,
+      119,
+      159
+    ],
+    "kanjis": [
+      1922
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "くもる",
+      "url": "https://files.wanikani.com/mdrwjl8eczrbg9p86i96r8e5cfjs"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6275,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "片〜"
+  },
+  "primaryMeaning": "Fragment",
+  "meaningMnemonic": "Something that is <kanji>one-sided</kanji> has only one side and not the whole. That's just <vocabulary>one of a pair</vocabulary> or a <vocabulary>fragment</vocabulary> of the whole. Stick this onto another word and you have one of a pair or an \"incomplete_____.\"",
+  "primaryReading": "かた",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [
+    "One Of A Pair",
+    "Incomplete"
+  ],
+  "otherReadings": [],
+  "wkSlug": "片〜",
+  "related": {
+    "radicals": [
+      162
+    ],
+    "kanjis": [
+      1718
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かた",
+      "url": "https://files.wanikani.com/niai1lpn9ej59fgmddkhr9bhjyqp"
+    }
+  ]
+}

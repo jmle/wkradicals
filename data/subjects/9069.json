@@ -1,0 +1,39 @@
+{
+  "id": 9069,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "由緒正しい"
+  },
+  "primaryMeaning": "Of Honorable Lineage",
+  "meaningMnemonic": "Someone or something whose 由緒 (lineage) is 正しい (correct) is <vocabulary>of honorable lineage</vocabulary>, and <vocabulary>venerable</vocabulary> indeed.",
+  "primaryReading": "ゆいしょただしい",
+  "readingMnemonic": "You already know the readings for 由緒 and 正しい so you just need to put them together to read this word.",
+  "otherMeanings": [
+    "Venerable"
+  ],
+  "otherReadings": [],
+  "wkSlug": "由緒正しい",
+  "related": {
+    "radicals": [
+      15,
+      16,
+      86,
+      203,
+      1,
+      44
+    ],
+    "kanjis": [
+      648,
+      1699,
+      488
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ゆいしょただしい",
+      "url": "https://files.wanikani.com/ybvqeyko02dtqwpo68s8ya11f0c5"
+    }
+  ]
+}

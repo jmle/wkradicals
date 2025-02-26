@@ -1,0 +1,36 @@
+{
+  "id": 2755,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "多分"
+  },
+  "primaryMeaning": "Maybe",
+  "meaningMnemonic": "You have <kanji>many</kanji> <kanji>part</kanji>s. Look at them all. You have to choose one of the parts. You can't decide which one you want. This one? <vocabulary>Maybe</vocabulary>. How about this one? Hmm, <vocabulary>maybe</vocabulary> that one too.",
+  "primaryReading": "たぶん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Perhaps",
+    "Probably"
+  ],
+  "otherReadings": [],
+  "wkSlug": "多分",
+  "related": {
+    "radicals": [
+      33,
+      2,
+      24
+    ],
+    "kanjis": [
+      570,
+      501
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たぶん",
+      "url": "https://files.wanikani.com/ovif84nzh1rqmjmrvmk4wmqc8sa5"
+    }
+  ]
+}

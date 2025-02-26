@@ -1,0 +1,36 @@
+{
+  "id": 6325,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "躍進"
+  },
+  "primaryMeaning": "Rapid Progress",
+  "meaningMnemonic": "When you <kanji>leap</kanji> and <kanji>advance</kanji>, you make <vocabulary>rapid progress</vocabulary> and <vocabulary>great advancement</vocabulary>.\n\nYou might recall that 飛躍 also means \"rapid progress,\" but what sets them apart? 躍進 emphasizes the subject's perspective as it advances at a rapid pace, whereas 飛躍 conveys significant progress or leaps more neutrally, without highlighting pace or perspective.",
+  "primaryReading": "やくしん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Great Advancement"
+  ],
+  "otherReadings": [],
+  "wkSlug": "躍進",
+  "related": {
+    "radicals": [
+      95,
+      105,
+      240,
+      114
+    ],
+    "kanjis": [
+      1738,
+      748
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "やくしん",
+      "url": "https://files.wanikani.com/iwrtbhu10ov1eafzknmb1cxq6wov"
+    }
+  ]
+}

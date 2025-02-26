@@ -1,0 +1,37 @@
+{
+  "id": 4813,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "習慣"
+  },
+  "primaryMeaning": "Custom",
+  "meaningMnemonic": "I've <kanji>learn</kanji>ed to be <kanji>accustomed</kanji> to this. It has become my <vocabulary>custom</vocabulary> and <vocabulary>habit</vocabulary>.",
+  "primaryReading": "しゅうかん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Habit"
+  ],
+  "otherReadings": [],
+  "wkSlug": "習慣",
+  "related": {
+    "radicals": [
+      213,
+      52,
+      232,
+      107,
+      94
+    ],
+    "kanjis": [
+      746,
+      1269
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅうかん",
+      "url": "https://files.wanikani.com/g9aysk4mpb3vdbpt0uz2kftbyusv"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8259,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "意匠"
+  },
+  "primaryMeaning": "Design",
+  "meaningMnemonic": "An <kanji>artisan</kanji> has an <kanji>idea</kanji> and makes a brand new <vocabulary>design</vocabulary>!",
+  "primaryReading": "いしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "意匠",
+  "related": {
+    "radicals": [
+      197,
+      65,
+      217,
+      115
+    ],
+    "kanjis": [
+      811,
+      2326
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "いしょう",
+      "url": "https://files.wanikani.com/lc7t2mwgcp5mzwqsvt4mhkfa3aw6"
+    }
+  ]
+}

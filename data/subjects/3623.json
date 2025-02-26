@@ -1,0 +1,35 @@
+{
+  "id": 3623,
+  "type": "vocabulary",
+  "level": 13,
+  "characters": {
+    "type": "text",
+    "value": "課長"
+  },
+  "primaryMeaning": "Section Manager",
+  "meaningMnemonic": "Remember how 社長 is the company president? This uses the same 長 meaning (where it means something like \"boss\"). Since 課 means <kanji>section</kanji>, this is the <vocabulary>section manager</vocabulary>.",
+  "primaryReading": "かちょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Section Chief"
+  ],
+  "otherReadings": [],
+  "wkSlug": "課長",
+  "related": {
+    "radicals": [
+      117,
+      235,
+      138
+    ],
+    "kanjis": [
+      883,
+      632
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かちょう",
+      "url": "https://files.wanikani.com/7qj9zpojmb0uj1pi17uasypwsy0z"
+    }
+  ]
+}

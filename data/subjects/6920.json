@@ -1,0 +1,38 @@
+{
+  "id": 6920,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "加湿器"
+  },
+  "primaryMeaning": "Humidifier",
+  "meaningMnemonic": "An \"<kanji>add</kanji> <kanji>damp</kanji>ness <kanji>container</kanji>\" is a container that adds dampness to the air. That's a <vocabulary>humidifier</vocabulary>.",
+  "primaryReading": "かしつき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "加湿器",
+  "related": {
+    "radicals": [
+      13,
+      16,
+      103,
+      22,
+      8768,
+      18,
+      227
+    ],
+    "kanjis": [
+      1057,
+      1933,
+      876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かしつき",
+      "url": "https://files.wanikani.com/k047vp41j9e6nic3p6m39f5y7wd5"
+    }
+  ]
+}

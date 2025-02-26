@@ -1,0 +1,36 @@
+{
+  "id": 6782,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "不吉"
+  },
+  "primaryMeaning": "Ominous",
+  "meaningMnemonic": "Something that is <kanji>not</kanji> <kanji>good luck</kanji> is <vocabulary>ominous</vocabulary> and <vocabulary>sinister</vocabulary>. It's also <vocabulary>bad luck</vocabulary> and an <vocabulary>ill omen</vocabulary>.",
+  "primaryReading": "ふきつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Sinister",
+    "Bad Luck",
+    "Ill Omen"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不吉",
+  "related": {
+    "radicals": [
+      96,
+      253
+    ],
+    "kanjis": [
+      563,
+      1876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふきつ",
+      "url": "https://files.wanikani.com/tq4mwc107fkw0gv6wc97qt4hvkxf"
+    }
+  ]
+}

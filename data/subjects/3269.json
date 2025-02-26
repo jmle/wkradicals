@@ -1,0 +1,36 @@
+{
+  "id": 3269,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "努力"
+  },
+  "primaryMeaning": "Great Effort",
+  "meaningMnemonic": "You <kanji>toil</kanji> and use your <kanji>strength</kanji>. Ugh! How difficult. You really put in a <vocabulary>great effort</vocabulary>.",
+  "primaryReading": "どりょく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Exertion",
+    "Grueling Effort"
+  ],
+  "otherReadings": [],
+  "wkSlug": "努力",
+  "related": {
+    "radicals": [
+      19,
+      30,
+      13
+    ],
+    "kanjis": [
+      787,
+      447
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どりょく",
+      "url": "https://files.wanikani.com/ns4xhdw81cc2amgt6m9t40fl8vrr"
+    }
+  ]
+}

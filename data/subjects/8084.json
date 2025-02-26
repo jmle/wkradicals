@@ -1,0 +1,34 @@
+{
+  "id": 8084,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "贈呈"
+  },
+  "primaryMeaning": "Presentation",
+  "meaningMnemonic": "<kanji>Present</kanji> your <kanji>presents</kanji> at the <vocabulary>presentation</vocabulary>. Presents for everyone!",
+  "primaryReading": "ぞうてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "贈呈",
+  "related": {
+    "radicals": [
+      94,
+      259,
+      16,
+      48
+    ],
+    "kanjis": [
+      1704,
+      2242
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぞうてい",
+      "url": "https://files.wanikani.com/ozsl4g2r8iul7ffs7y0kh1ul6h0e"
+    }
+  ]
+}

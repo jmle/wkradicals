@@ -1,0 +1,35 @@
+{
+  "id": 5367,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "不詳"
+  },
+  "primaryMeaning": "Unknown",
+  "meaningMnemonic": "Something is <kanji>not</kanji> <kanji>detailed</kanji> at all. I don't know anything about it. No details whatsoever. It's a totally <vocabulary>unknown</vocabulary> entity. It's <vocabulary>unidentified</vocabulary>.",
+  "primaryReading": "ふしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Unidentified"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不詳",
+  "related": {
+    "radicals": [
+      96,
+      117,
+      136
+    ],
+    "kanjis": [
+      563,
+      1412
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふしょう",
+      "url": "https://files.wanikani.com/1n00izbb9wiel8w2b0v3z07oifpj"
+    }
+  ]
+}

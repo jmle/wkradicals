@@ -1,0 +1,39 @@
+{
+  "id": 3890,
+  "type": "vocabulary",
+  "level": 14,
+  "characters": {
+    "type": "text",
+    "value": "旅行者"
+  },
+  "primaryMeaning": "Traveler",
+  "meaningMnemonic": "You've seen that 旅行 is \"trip.\" So who is <kanji>someone</kanji> who goes on trips? That is a <vocabulary>tourist</vocabulary> or <vocabulary>traveler</vocabulary>.",
+  "primaryReading": "りょこうしゃ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. It will help if you know the reading of 旅行 already.",
+  "otherMeanings": [
+    "Tourist"
+  ],
+  "otherReadings": [],
+  "wkSlug": "旅行者",
+  "related": {
+    "radicals": [
+      66,
+      8762,
+      8778,
+      111,
+      104,
+      22
+    ],
+    "kanjis": [
+      816,
+      580,
+      690
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょこうしゃ",
+      "url": "https://files.wanikani.com/a7o945r8lyq5qb779bn48dzrmoep"
+    }
+  ]
+}

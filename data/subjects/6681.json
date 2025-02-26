@@ -1,0 +1,32 @@
+{
+  "id": 6681,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "刷る"
+  },
+  "primaryMeaning": "To Print",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>printing</kanji> so the verb vocab version is <vocabulary>to print</vocabulary>.",
+  "primaryReading": "する",
+  "readingMnemonic": "When you print something out, it's usually the paperwork needed in order to <reading>sue</reading> (す) someone. You're just that kind of person, always looking to sue.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "刷る",
+  "related": {
+    "radicals": [
+      37,
+      102,
+      128
+    ],
+    "kanjis": [
+      1847
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "する",
+      "url": "https://files.wanikani.com/hsos1tt79p7xztx7trnl0fd5ff4s"
+    }
+  ]
+}

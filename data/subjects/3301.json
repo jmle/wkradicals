@@ -1,0 +1,38 @@
+{
+  "id": 3301,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "高級"
+  },
+  "primaryMeaning": "High-Class",
+  "meaningMnemonic": "A <kanji>tall</kanji> <kanji>grade</kanji> item is really just a <vocabulary>high grade</vocabulary> or <vocabulary>high-class</vocabulary> item.",
+  "primaryReading": "こうきゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "High Grade",
+    "High Level"
+  ],
+  "otherReadings": [],
+  "wkSlug": "高級",
+  "related": {
+    "radicals": [
+      8,
+      16,
+      121,
+      86,
+      193
+    ],
+    "kanjis": [
+      666,
+      801
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうきゅう",
+      "url": "https://files.wanikani.com/e2cocevvja4dar8h7wk9ed1acspi"
+    }
+  ]
+}

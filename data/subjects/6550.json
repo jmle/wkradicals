@@ -1,0 +1,42 @@
+{
+  "id": 6550,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "故郷"
+  },
+  "primaryMeaning": "Hometown",
+  "meaningMnemonic": "By <kanji>circumstance</kanji> this is your <kanji>hometown</kanji>. Not much to say other than it's your <vocabulary>hometown</vocabulary> and <vocabulary>birthplace</vocabulary>.",
+  "primaryReading": "こきょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.\n\nWhile こきょう is the more common reading for this word, it can also be read as ふるさと, which is a native Japanese word that originally didn't have kanji. ふるさと is also common in hiragana. ",
+  "otherMeanings": [
+    "Birthplace"
+  ],
+  "otherReadings": [
+    "ふるさと"
+  ],
+  "wkSlug": "故郷",
+  "related": {
+    "radicals": [
+      69,
+      60,
+      87,
+      8829
+    ],
+    "kanjis": [
+      1291,
+      1801
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふるさと",
+      "url": "https://files.wanikani.com/mub2zy1s64zedtyhzoxpu6hdl1xk"
+    },
+    {
+      "reading": "こきょう",
+      "url": "https://files.wanikani.com/nkmbhtmxpqbf0atsofj191eurhd8"
+    }
+  ]
+}

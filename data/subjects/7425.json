@@ -1,0 +1,32 @@
+{
+  "id": 7425,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "水晶"
+  },
+  "primaryMeaning": "Crystal",
+  "meaningMnemonic": "A <kanji>water</kanji> <kanji>crystal</kanji> is just a <vocabulary>crystal</vocabulary>. I guess crystals are clear and look kind of like water, yeah? That's why it's being referred to as a water crystal, making it really just a crystal.",
+  "primaryReading": "すいしょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "水晶",
+  "related": {
+    "radicals": [
+      45,
+      22
+    ],
+    "kanjis": [
+      479,
+      2115
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すいしょう",
+      "url": "https://files.wanikani.com/l511qt0drfihqxmf6g8bjpkryajr"
+    }
+  ]
+}

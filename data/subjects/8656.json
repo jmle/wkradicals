@@ -1,0 +1,36 @@
+{
+  "id": 8656,
+  "type": "vocabulary",
+  "level": 60,
+  "characters": {
+    "type": "text",
+    "value": "醜態"
+  },
+  "primaryMeaning": "Shameful Sight",
+  "meaningMnemonic": "Something with an <kanji>ugly</kanji> <kanji>appearance</kanji> is a <vocabulary>shameful sight</vocabulary>, or <vocabulary>disgraceful behavior</vocabulary>. You feel bad just looking at it. It probably feels bad too.",
+  "primaryReading": "しゅうたい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Disgraceful Behavior"
+  ],
+  "otherReadings": [],
+  "wkSlug": "醜態",
+  "related": {
+    "radicals": [
+      182,
+      292,
+      287,
+      65
+    ],
+    "kanjis": [
+      2448,
+      1184
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅうたい",
+      "url": "https://files.wanikani.com/f0ivdp80siikoxf3pct636xdtqaz"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7672,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "〜形"
+  },
+  "primaryMeaning": "Form",
+  "meaningMnemonic": "The kanji and the word share one of the same meanings: <vocabulary>form</vocabulary>. It doesn't just mean form though, it means <vocabulary>tense</vocabulary> too. Like verb tense.",
+  "primaryReading": "けい",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [
+    "Tense"
+  ],
+  "otherReadings": [],
+  "wkSlug": "〜形",
+  "related": {
+    "radicals": [
+      171,
+      38
+    ],
+    "kanjis": [
+      589
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けい",
+      "url": "https://files.wanikani.com/qa8o83dw1645w85cema792821b1j"
+    }
+  ]
+}

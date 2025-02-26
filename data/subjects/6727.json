@@ -1,0 +1,36 @@
+{
+  "id": 6727,
+  "type": "vocabulary",
+  "level": 43,
+  "characters": {
+    "type": "text",
+    "value": "論旨"
+  },
+  "primaryMeaning": "Point Of An Argument",
+  "meaningMnemonic": "The <kanji>point</kanji> to my <kanji>theory</kanji> is the <vocabulary>point of an argument</vocabulary>. That's what I'm trying to say in my theory / argument, man!",
+  "primaryReading": "ろんし",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "論旨",
+  "related": {
+    "radicals": [
+      117,
+      8764,
+      1,
+      226,
+      57,
+      22
+    ],
+    "kanjis": [
+      1119,
+      1863
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ろんし",
+      "url": "https://files.wanikani.com/dlxub4riq8gv1wmtp8b8mm2xtusq"
+    }
+  ]
+}

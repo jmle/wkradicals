@@ -1,0 +1,40 @@
+{
+  "id": 6151,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "全般的"
+  },
+  "primaryMeaning": "General",
+  "meaningMnemonic": "<kanji>All</kanji> <kanji>general</kanji>-<kanji>al</kanji>! It's super general. It's <vocabulary>general</vocabulary> and <vocabulary>overall</vocabulary> and <vocabulary>across the board</vocabulary>. Nothing specific going on here.",
+  "primaryReading": "ぜんぱんてき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Overall",
+    "Across The Board"
+  ],
+  "otherReadings": [],
+  "wkSlug": "全般的",
+  "related": {
+    "radicals": [
+      8764,
+      48,
+      149,
+      160,
+      52,
+      236
+    ],
+    "kanjis": [
+      610,
+      1637,
+      914
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぜんぱんてき",
+      "url": "https://files.wanikani.com/e0jp0q0iosxwfh4sm775rxlfeers"
+    }
+  ]
+}

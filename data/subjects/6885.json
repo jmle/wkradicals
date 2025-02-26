@@ -1,0 +1,31 @@
+{
+  "id": 6885,
+  "type": "vocabulary",
+  "level": 45,
+  "characters": {
+    "type": "text",
+    "value": "呪い"
+  },
+  "primaryMeaning": "Curse",
+  "meaningMnemonic": "Despite looking like an adjective this is a noun. It means the same thing as the kanji: <vocabulary>curse</vocabulary>.",
+  "primaryReading": "のろい",
+  "readingMnemonic": "The reading is the same as the reading you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "呪い",
+  "related": {
+    "radicals": [
+      16,
+      191
+    ],
+    "kanjis": [
+      1919
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のろい",
+      "url": "https://files.wanikani.com/dh6qbww7rjspsgv5bdc8vck5tyf4"
+    }
+  ]
+}

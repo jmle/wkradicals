@@ -1,0 +1,34 @@
+{
+  "id": 7054,
+  "type": "vocabulary",
+  "level": 47,
+  "characters": {
+    "type": "text",
+    "value": "眺め"
+  },
+  "primaryMeaning": "View",
+  "meaningMnemonic": "眺める is \"to stare at.\" The noun version is <vocabulary>view</vocabulary> or <vocabulary>scene</vocabulary>. It's what you're staring at.",
+  "primaryReading": "ながめ",
+  "readingMnemonic": "The reading is the same as 眺める.",
+  "otherMeanings": [
+    "Scene",
+    "Prospect"
+  ],
+  "otherReadings": [],
+  "wkSlug": "眺め",
+  "related": {
+    "radicals": [
+      53,
+      363
+    ],
+    "kanjis": [
+      1923
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ながめ",
+      "url": "https://files.wanikani.com/dhesw4lqxv8619vbqg6tx1ucz31m"
+    }
+  ]
+}

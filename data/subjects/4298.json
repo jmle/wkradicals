@@ -1,0 +1,33 @@
+{
+  "id": 4298,
+  "type": "vocabulary",
+  "level": 20,
+  "characters": {
+    "type": "text",
+    "value": "災い"
+  },
+  "primaryMeaning": "Disaster",
+  "meaningMnemonic": "This is the noun form of <kanji>disaster</kanji>, so it means <vocabulary>disaster</vocabulary> or <vocabulary>misfortune</vocabulary>.",
+  "primaryReading": "わざわい",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: \n\nThink about how, the last time <vocabulary>disaster</vocabulary> struck, it <reading>was a wh</reading>ile (わざわ) before things got back to normal.\n\nBe careful of the い on the end, it can be tricky and make you think it's an adjective when it's a noun.",
+  "otherMeanings": [
+    "Misfortune"
+  ],
+  "otherReadings": [],
+  "wkSlug": "災い",
+  "related": {
+    "radicals": [
+      273,
+      46
+    ],
+    "kanjis": [
+      1089
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "わざわい",
+      "url": "https://files.wanikani.com/6flvompwi6k38yzkp842o6hm0ule"
+    }
+  ]
+}

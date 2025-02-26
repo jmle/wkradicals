@@ -1,0 +1,42 @@
+{
+  "id": 3893,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "不器用"
+  },
+  "primaryMeaning": "Clumsy",
+  "meaningMnemonic": "You know how 器用 means \"dextrous\" and \"skillful\"? Well, this is when you're <kanji>not</kanji> those things. When you're not dextrous, you're <vocabulary>clumsy</vocabulary> and when you're not skillful you're <vocabulary>unskillful</vocabulary>.",
+  "primaryReading": "ぶきよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well. Just keep in mind that the reading of 不 changes from ふ to ぶ. If you're clumsy you'll get a lot of <reading>boo</reading>-boos (ぶ), get it?",
+  "otherMeanings": [
+    "Unskillful",
+    "Awkward"
+  ],
+  "otherReadings": [],
+  "wkSlug": "不器用",
+  "related": {
+    "radicals": [
+      96,
+      18,
+      227,
+      71
+    ],
+    "kanjis": [
+      563,
+      876,
+      525
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶきっちょ",
+      "url": "https://files.wanikani.com/acf0f52dk4h7l22pwpdjxk40rji0"
+    },
+    {
+      "reading": "ぶきよう",
+      "url": "https://files.wanikani.com/gh0yy11w9dne0cak0vv1lf2prl8e"
+    }
+  ]
+}

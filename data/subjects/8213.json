@@ -1,0 +1,38 @@
+{
+  "id": 8213,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "据え付ける"
+  },
+  "primaryMeaning": "To Install",
+  "meaningMnemonic": "This is a combination of the words 据える, meaning \"to install,\" and 付ける, meaning \"to attach.\" Put them together and you're still going <vocabulary>to install</vocabulary> something or <vocabulary>to equip</vocabulary> something. There's just more hands on work happening.",
+  "primaryReading": "すえつける",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the kanji, so you should be able to read this on your own.",
+  "otherMeanings": [
+    "To Equip",
+    "To Mount"
+  ],
+  "otherReadings": [],
+  "wkSlug": "据え付ける",
+  "related": {
+    "radicals": [
+      63,
+      37,
+      69,
+      75,
+      74
+    ],
+    "kanjis": [
+      2209,
+      652
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "すえつける",
+      "url": "https://files.wanikani.com/mz4rpgxp0wfa04tv0kpl07b0x6b7"
+    }
+  ]
+}

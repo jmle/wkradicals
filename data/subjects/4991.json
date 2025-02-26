@@ -1,0 +1,32 @@
+{
+  "id": 4991,
+  "type": "vocabulary",
+  "level": 26,
+  "characters": {
+    "type": "text",
+    "value": "鉛"
+  },
+  "primaryMeaning": "Lead",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "なまり",
+  "readingMnemonic": "Lots of <vocabulary>lead</vocabulary>, all in bullet form. That's what it was like in <reading>nam, 'arry\" (なまり).</reading>",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鉛",
+  "related": {
+    "radicals": [
+      118,
+      2,
+      16
+    ],
+    "kanjis": [
+      1289
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "なまり",
+      "url": "https://files.wanikani.com/9ke5qajvejirbvnw4hh3yjr3d9sq"
+    }
+  ]
+}

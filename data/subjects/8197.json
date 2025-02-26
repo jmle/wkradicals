@@ -1,0 +1,39 @@
+{
+  "id": 8197,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "循環"
+  },
+  "primaryMeaning": "Circulation",
+  "meaningMnemonic": "<kanji>Circulation</kanji> in a <kanji>loop</kanji> is still <vocabulary>circulation</vocabulary>. Or <vocabulary>rotation</vocabulary>.",
+  "primaryReading": "じゅんかん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Rotation",
+    "Cycle"
+  ],
+  "otherReadings": [],
+  "wkSlug": "循環",
+  "related": {
+    "radicals": [
+      99,
+      116,
+      8773,
+      48,
+      163,
+      8784
+    ],
+    "kanjis": [
+      2282,
+      1240
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅんかん",
+      "url": "https://files.wanikani.com/5d4zwpvn1zwgas0k94yr56xfxgs0"
+    }
+  ]
+}

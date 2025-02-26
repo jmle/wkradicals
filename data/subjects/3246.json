@@ -1,0 +1,41 @@
+{
+  "id": 3246,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "共通点"
+  },
+  "primaryMeaning": "Common Point",
+  "meaningMnemonic": "We <kanji>pass through</kanji> this <kanji>point</kanji> <kanji>together</kanji>. This point is our <vocabulary>common point</vocabulary>. It is where our ideas, philosophies, and bodies pass through each other.",
+  "primaryReading": "きょうつうてん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Common Feature",
+    "Commonality"
+  ],
+  "otherReadings": [],
+  "wkSlug": "共通点",
+  "related": {
+    "radicals": [
+      8775,
+      2,
+      114,
+      141,
+      71,
+      143,
+      131
+    ],
+    "kanjis": [
+      778,
+      665,
+      641
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きょうつうてん",
+      "url": "https://files.wanikani.com/fqek1oylj7q8fcxxufnobzoobku2"
+    }
+  ]
+}

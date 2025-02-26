@@ -1,0 +1,37 @@
+{
+  "id": 3294,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "太平洋"
+  },
+  "primaryMeaning": "Pacific Ocean",
+  "meaningMnemonic": "The <kanji>fat</kanji> <kanji>peace</kanji> <kanji>ocean</kanji> is the <vocabulary>Pacific Ocean</vocabulary>. The Japanese language thinks this ocean is peaceful, just like English does (the word 太平 actually means \"peace\").\n\nNote that we're using the alternative meaning of 洋 here! If you didn't learn that with the kanji, just imagine that to get to Western Style places you need to cross the ocean from Japan!",
+  "primaryReading": "たいへいよう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "太平洋",
+  "related": {
+    "radicals": [
+      18,
+      3,
+      61,
+      8767,
+      103,
+      136
+    ],
+    "kanjis": [
+      505,
+      535,
+      798
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たいへいよう",
+      "url": "https://files.wanikani.com/cieavfchqbr1ba3swrpwo96fkh9q"
+    }
+  ]
+}

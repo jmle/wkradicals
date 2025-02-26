@@ -1,0 +1,30 @@
+{
+  "id": 6781,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "吉"
+  },
+  "primaryMeaning": "Good Omen",
+  "meaningMnemonic": "Having <kanji>good luck</kanji> is a <vocabulary>good omen</vocabulary> to have. Good luck means more good luck, right?",
+  "primaryReading": "きち",
+  "readingMnemonic": "This word uses the きち reading you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "吉",
+  "related": {
+    "radicals": [
+      253
+    ],
+    "kanjis": [
+      1876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きち",
+      "url": "https://files.wanikani.com/smv3kow3lz9frf27yc9121bycr0u"
+    }
+  ]
+}

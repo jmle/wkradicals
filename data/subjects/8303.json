@@ -1,0 +1,37 @@
+{
+  "id": 8303,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "碑文"
+  },
+  "primaryMeaning": "Inscription",
+  "meaningMnemonic": "The <kanji>writing</kanji> on a <kanji>tombstone</kanji> makes up the <vocabulary>inscription</vocabulary> or <vocabulary>epitaph</vocabulary> the family members decided to put there.",
+  "primaryReading": "ひぶん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Epitaph"
+  ],
+  "otherReadings": [],
+  "wkSlug": "碑文",
+  "related": {
+    "radicals": [
+      54,
+      3,
+      51,
+      15,
+      42
+    ],
+    "kanjis": [
+      2323,
+      475
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひぶん",
+      "url": "https://files.wanikani.com/g0y0gb4tv69zqhz4w7f2p79xm2fy"
+    }
+  ]
+}

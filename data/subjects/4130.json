@@ -1,0 +1,35 @@
+{
+  "id": 4130,
+  "type": "vocabulary",
+  "level": 18,
+  "characters": {
+    "type": "text",
+    "value": "人種"
+  },
+  "primaryMeaning": "Race Of People",
+  "meaningMnemonic": "A <kanji>kind</kanji> or <kanji>type</kanji> of <kanji>person</kanji> is when you categorize a person into different types. How do we do that? Well, you categorize by <vocabulary>race of people</vocabulary> (or more simply by <vocabulary>race</vocabulary>).",
+  "primaryReading": "じんしゅ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Race"
+  ],
+  "otherReadings": [],
+  "wkSlug": "人種",
+  "related": {
+    "radicals": [
+      9,
+      135,
+      188
+    ],
+    "kanjis": [
+      444,
+      1032
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じんしゅ",
+      "url": "https://files.wanikani.com/94gj1rygklqkc7y0otwly7s1vmre"
+    }
+  ]
+}

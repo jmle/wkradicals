@@ -1,0 +1,34 @@
+{
+  "id": 2763,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "羽"
+  },
+  "primaryMeaning": "Feathers",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "はね",
+  "readingMnemonic": "Since this word is made up of a single kanji with nothing attached it uses the kun'yomi reading. You learned this reading with the kanji, so you should be able to read this.",
+  "otherMeanings": [
+    "Feather",
+    "Wing",
+    "Wings"
+  ],
+  "otherReadings": [],
+  "wkSlug": "羽",
+  "related": {
+    "radicals": [
+      213
+    ],
+    "kanjis": [
+      575
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はね",
+      "url": "https://files.wanikani.com/er5pi9t21cwyx904qf9gridd1v22"
+    }
+  ]
+}

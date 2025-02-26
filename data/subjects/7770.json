@@ -1,0 +1,34 @@
+{
+  "id": 7770,
+  "type": "vocabulary",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "手渡す"
+  },
+  "primaryMeaning": "To Hand Over",
+  "meaningMnemonic": "Remember how you learned that 渡す means \"to hand over?\" Well you can use your actual <kanji>hand</kanji> <vocabulary>to hand over</vocabulary> something too! ",
+  "primaryReading": "てわたす",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You learned them when you learned the kanji, so you should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "手渡す",
+  "related": {
+    "radicals": [
+      41,
+      103,
+      8787,
+      30
+    ],
+    "kanjis": [
+      474,
+      1253
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てわたす",
+      "url": "https://files.wanikani.com/676wbp40ezgoxh81iz46t02aixc9"
+    }
+  ]
+}

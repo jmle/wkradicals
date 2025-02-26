@@ -1,0 +1,34 @@
+{
+  "id": 6381,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "洗剤"
+  },
+  "primaryMeaning": "Detergent",
+  "meaningMnemonic": "<kanji>Wash</kanji> your clothes with a <kanji>dose</kanji> of <vocabulary>detergent</vocabulary>.",
+  "primaryReading": "せんざい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "洗剤",
+  "related": {
+    "radicals": [
+      103,
+      258,
+      277,
+      128
+    ],
+    "kanjis": [
+      1043,
+      1750
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せんざい",
+      "url": "https://files.wanikani.com/14w9hdhb3g7xjqiesfq74y1taiuk"
+    }
+  ]
+}

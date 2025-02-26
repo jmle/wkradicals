@@ -1,0 +1,36 @@
+{
+  "id": 8143,
+  "type": "vocabulary",
+  "level": 54,
+  "characters": {
+    "type": "text",
+    "value": "歌謡"
+  },
+  "primaryMeaning": "Song",
+  "meaningMnemonic": "<kanji>Noh chanting</kanji> out a <kanji>song</kanji> makes it an even longer, more confusing <vocabulary>song</vocabulary>. But it's still a song nonetheless!",
+  "primaryReading": "かよう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Ballad"
+  ],
+  "otherReadings": [],
+  "wkSlug": "歌謡",
+  "related": {
+    "radicals": [
+      113,
+      142,
+      117,
+      8798
+    ],
+    "kanjis": [
+      761,
+      2245
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かよう",
+      "url": "https://files.wanikani.com/fzkdb3zjft5m9j00ydq1oc0f4n2b"
+    }
+  ]
+}

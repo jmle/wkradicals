@@ -1,0 +1,39 @@
+{
+  "id": 8317,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "束縛"
+  },
+  "primaryMeaning": "Restraint",
+  "meaningMnemonic": "<kanji>Bind</kanji> a <kanji>bundle</kanji> of sticks to a person as a type of <vocabulary>restraint</vocabulary>. They can't get away when they're tied to a bunch of sticks, can they? ",
+  "primaryReading": "そくばく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Shackles",
+    "Restriction",
+    "Confinement",
+    "Binding"
+  ],
+  "otherReadings": [],
+  "wkSlug": "束縛",
+  "related": {
+    "radicals": [
+      219,
+      86,
+      317,
+      3
+    ],
+    "kanjis": [
+      910,
+      2310
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "そくばく",
+      "url": "https://files.wanikani.com/q3ye0e96k5lg2gl3w6u8tf5xmxec"
+    }
+  ]
+}

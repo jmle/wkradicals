@@ -1,0 +1,35 @@
+{
+  "id": 3792,
+  "type": "vocabulary",
+  "level": 15,
+  "characters": {
+    "type": "text",
+    "value": "計算"
+  },
+  "primaryMeaning": "Calculation",
+  "meaningMnemonic": "When you <kanji>measure</kanji> and then <kanji>calculate</kanji> something, you are making a <vocabulary>calculation</vocabulary>. For example, you measure the length of a frog, then you calculate how many frogs you'd need to reach the moon. What is that? A calculation, of course.",
+  "primaryReading": "けいさん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "計算",
+  "related": {
+    "radicals": [
+      117,
+      15,
+      85,
+      53,
+      106
+    ],
+    "kanjis": [
+      935,
+      762
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいさん",
+      "url": "https://files.wanikani.com/a4bqn3ebqtgzt5t2waztynd3f2l9"
+    }
+  ]
+}

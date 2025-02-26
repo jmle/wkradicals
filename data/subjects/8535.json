@@ -1,0 +1,40 @@
+{
+  "id": 8535,
+  "type": "vocabulary",
+  "level": 59,
+  "characters": {
+    "type": "text",
+    "value": "慶事"
+  },
+  "primaryMeaning": "Auspicious Event",
+  "meaningMnemonic": "If you can <kanji>congratulate</kanji> someone for an <kanji>occurrence</kanji> in their life, it must be an <vocabulary>auspicious event</vocabulary>. You'll remember this happy event for a long, long time.",
+  "primaryReading": "けいじ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Happy Event"
+  ],
+  "otherReadings": [],
+  "wkSlug": "慶事",
+  "related": {
+    "radicals": [
+      62,
+      424,
+      6,
+      65,
+      60,
+      15,
+      16,
+      105
+    ],
+    "kanjis": [
+      2430,
+      708
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "けいじ",
+      "url": "https://files.wanikani.com/hpenrptkvbk0r5aw0ncdbi99if0u"
+    }
+  ]
+}

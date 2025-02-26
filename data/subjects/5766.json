@@ -1,0 +1,33 @@
+{
+  "id": 5766,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "不純"
+  },
+  "primaryMeaning": "Impure",
+  "meaningMnemonic": "<kanji>Not</kanji> <kanji>pure</kanji> things are <vocabulary>impure</vocabulary>.",
+  "primaryReading": "ふじゅん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "不純",
+  "related": {
+    "radicals": [
+      96,
+      86,
+      315
+    ],
+    "kanjis": [
+      563,
+      1555
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ふじゅん",
+      "url": "https://files.wanikani.com/kzhor4fbewbnph631rtlfwq2r91r"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6469,
+  "type": "vocabulary",
+  "level": 41,
+  "characters": {
+    "type": "text",
+    "value": "充電する"
+  },
+  "primaryMeaning": "To Charge A Battery",
+  "meaningMnemonic": "If 充電 is a <kanji>recharge</kanji> then the verb version is going to be <vocabulary>to recharge</vocabulary> or <vocabulary>to charge a battery</vocabulary>.",
+  "primaryReading": "じゅうでんする",
+  "readingMnemonic": "The reading comes from 充電.",
+  "otherMeanings": [
+    "To Recharge",
+    "To Recharge A Battery"
+  ],
+  "otherReadings": [],
+  "wkSlug": "充電する",
+  "related": {
+    "radicals": [
+      285,
+      119,
+      51,
+      211
+    ],
+    "kanjis": [
+      1721,
+      706
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうでんする",
+      "url": "https://files.wanikani.com/2dnlle0juydz7gm4k8ow750ezi4w"
+    }
+  ]
+}

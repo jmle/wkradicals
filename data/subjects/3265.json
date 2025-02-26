@@ -1,0 +1,37 @@
+{
+  "id": 3265,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "別々"
+  },
+  "primaryMeaning": "Separately",
+  "meaningMnemonic": "When you <kanji>separate</kanji> <kanji>separate</kanji> you're putting things off into their own areas. You're marking them off <vocabulary>separately</vocabulary> and <vocabulary>individually</vocabulary>.",
+  "primaryReading": "べつべつ",
+  "readingMnemonic": "The reading is just the べつ reading you know, twice.",
+  "otherMeanings": [
+    "Individually"
+  ],
+  "otherReadings": [],
+  "wkSlug": "別々",
+  "related": {
+    "radicals": [
+      16,
+      24,
+      128,
+      14,
+      3
+    ],
+    "kanjis": [
+      785,
+      856
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "べつべつ",
+      "url": "https://files.wanikani.com/u7ljffgejhjkcwou3zbkzgl4wdyj"
+    }
+  ]
+}

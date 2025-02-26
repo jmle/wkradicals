@@ -1,0 +1,34 @@
+{
+  "id": 6392,
+  "type": "vocabulary",
+  "level": 40,
+  "characters": {
+    "type": "text",
+    "value": "巡礼"
+  },
+  "primaryMeaning": "Pilgrimage",
+  "meaningMnemonic": "A <kanji>patrol</kanji> of <kanji>thanks</kanji> is a patrol you make to something you're thanking. Sounds religious. Sounds like a <vocabulary>pilgrimage</vocabulary>.",
+  "primaryReading": "じゅんれい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "巡礼",
+  "related": {
+    "radicals": [
+      114,
+      273,
+      80,
+      211
+    ],
+    "kanjis": [
+      1753,
+      541
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅんれい",
+      "url": "https://files.wanikani.com/74bbyndsnrif91qbp4f23f2vj3mo"
+    }
+  ]
+}

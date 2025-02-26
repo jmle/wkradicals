@@ -1,0 +1,32 @@
+{
+  "id": 8323,
+  "type": "vocabulary",
+  "level": 56,
+  "characters": {
+    "type": "text",
+    "value": "蝶"
+  },
+  "primaryMeaning": "Butterfly",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "ちょう",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "蝶",
+  "related": {
+    "radicals": [
+      89,
+      83,
+      23
+    ],
+    "kanjis": [
+      2322
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちょう",
+      "url": "https://files.wanikani.com/t9oxjtcuajp74dxwf9n30vk7wt0r"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 4461,
+  "type": "vocabulary",
+  "level": 21,
+  "characters": {
+    "type": "text",
+    "value": "増税"
+  },
+  "primaryMeaning": "Tax Increase",
+  "meaningMnemonic": "When you <kanji>increase</kanji> <kanji>tax</kanji> you're doing a <vocabulary>tax increase</vocabulary>.",
+  "primaryReading": "ぞうぜい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Raise Taxes",
+    "Increased Taxes"
+  ],
+  "otherReadings": [],
+  "wkSlug": "増税",
+  "related": {
+    "radicals": [
+      17,
+      259,
+      135,
+      422
+    ],
+    "kanjis": [
+      1148,
+      1149
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぞうぜい",
+      "url": "https://files.wanikani.com/tjm3i4pgfg8dvv27wro6ygq1ot9k"
+    }
+  ]
+}

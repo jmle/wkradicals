@@ -1,0 +1,35 @@
+{
+  "id": 5709,
+  "type": "vocabulary",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "驚かす"
+  },
+  "primaryMeaning": "To Surprise",
+  "meaningMnemonic": "Remember how 驚く is \"to be surprised\"? This is when you are surprising someone else, doing the surprising, making this word <vocabulary>to surprise</vocabulary> or <vocabulary>to shock</vocabulary>.",
+  "primaryReading": "おどろかす",
+  "readingMnemonic": "The reading comes from 驚く. Don't be surprised if you remember the reading of this word because of your past knowledge.",
+  "otherMeanings": [
+    "To Shock",
+    "To Astonish"
+  ],
+  "otherReadings": [],
+  "wkSlug": "驚かす",
+  "related": {
+    "radicals": [
+      255,
+      60,
+      165
+    ],
+    "kanjis": [
+      1458
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "おどろかす",
+      "url": "https://files.wanikani.com/6kfbrkpv12h3ohvll1527yykxb79"
+    }
+  ]
+}

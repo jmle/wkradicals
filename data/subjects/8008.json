@@ -1,0 +1,35 @@
+{
+  "id": 8008,
+  "type": "vocabulary",
+  "level": 53,
+  "characters": {
+    "type": "text",
+    "value": "原稿"
+  },
+  "primaryMeaning": "Manuscript",
+  "meaningMnemonic": "Your <kanji>original</kanji> <kanji>draft</kanji> is called a <vocabulary>manuscript</vocabulary>.",
+  "primaryReading": "げんこう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Copy"
+  ],
+  "otherReadings": [],
+  "wkSlug": "原稿",
+  "related": {
+    "radicals": [
+      230,
+      135,
+      438
+    ],
+    "kanjis": [
+      995,
+      2194
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんこう",
+      "url": "https://files.wanikani.com/2xpiurai09p0w4eb2ywyvoqyng2z"
+    }
+  ]
+}

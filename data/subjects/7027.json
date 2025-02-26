@@ -1,0 +1,34 @@
+{
+  "id": 7027,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "皇帝"
+  },
+  "primaryMeaning": "Emperor",
+  "meaningMnemonic": "The <kanji>sovereign</kanji> <kanji>emperor</kanji> of Japan is also the <vocabulary>emperor</vocabulary> of other places too!",
+  "primaryReading": "こうてい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "皇帝",
+  "related": {
+    "radicals": [
+      52,
+      48,
+      55,
+      102
+    ],
+    "kanjis": [
+      1531,
+      1967
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こうてい",
+      "url": "https://files.wanikani.com/ac0wuobzcr48g4neprs17hzy0ec2"
+    }
+  ]
+}

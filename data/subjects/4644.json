@@ -1,0 +1,34 @@
+{
+  "id": 4644,
+  "type": "vocabulary",
+  "level": 23,
+  "characters": {
+    "type": "text",
+    "value": "現実"
+  },
+  "primaryMeaning": "Reality",
+  "meaningMnemonic": "The <kanji>present</kanji> is the <kanji>truth</kanji>. It is what's going on right now. It is <vocabulary>reality</vocabulary>.",
+  "primaryReading": "げんじつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "現実",
+  "related": {
+    "radicals": [
+      48,
+      91,
+      78,
+      8779
+    ],
+    "kanjis": [
+      1211,
+      715
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんじつ",
+      "url": "https://files.wanikani.com/fuif33mbau9ehfnzcwremyzqwmkw"
+    }
+  ]
+}

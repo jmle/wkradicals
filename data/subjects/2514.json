@@ -1,0 +1,35 @@
+{
+  "id": 2514,
+  "type": "vocabulary",
+  "level": 2,
+  "characters": {
+    "type": "text",
+    "value": "女子"
+  },
+  "primaryMeaning": "Girl",
+  "meaningMnemonic": "A <kanji>woman</kanji> <kanji>child</kanji> is just a <vocabulary>girl</vocabulary>!\n\n女子 is a relatively formal word commonly used in contexts where classification or categorization by gender is used, such as in sports or school settings.",
+  "primaryReading": "じょし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Woman",
+    "Female"
+  ],
+  "otherReadings": [],
+  "wkSlug": "女子",
+  "related": {
+    "radicals": [
+      19,
+      34
+    ],
+    "kanjis": [
+      454,
+      462
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じょし",
+      "url": "https://files.wanikani.com/5ku5htxvg5ro0jch3ehm98kofkfe"
+    }
+  ]
+}

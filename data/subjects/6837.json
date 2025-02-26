@@ -1,0 +1,34 @@
+{
+  "id": 6837,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "雷"
+  },
+  "primaryMeaning": "Thunder",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "かみなり",
+  "readingMnemonic": "To remember the reading think about <vocabulary>thunder</vocabulary>. Back in the day, it was probably terrifyingly loud. Like the cry of the gods! Wait a sec, the \"cry of the gods\" would be <reading>神鳴り</reading> (かみなり).",
+  "otherMeanings": [
+    "Lightning",
+    "Thunderbolt"
+  ],
+  "otherReadings": [],
+  "wkSlug": "雷",
+  "related": {
+    "radicals": [
+      119,
+      51
+    ],
+    "kanjis": [
+      1903
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "かみなり",
+      "url": "https://files.wanikani.com/qjfo3qrtgzmrexx4tvqzmc898fm7"
+    }
+  ]
+}

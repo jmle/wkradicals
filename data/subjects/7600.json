@@ -1,0 +1,37 @@
+{
+  "id": 7600,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "見渡す"
+  },
+  "primaryMeaning": "To Look Out Over",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb.  The kanji mean <kanji>see</kanji> and <kanji>transit</kanji>, but the vocab isn't quite the same. You are going to transit your eyes over an area to take in what you see. So you're really going <vocabulary>to look out over</vocabulary> everything. This word is usually used when you're looking at landscapes or a really large area.",
+  "primaryReading": "みわたす",
+  "readingMnemonic": "The readings for this word are both kun'yomi readings. You've learned both of these readings by now so you should be able to read this on your own.",
+  "otherMeanings": [
+    "To Survey",
+    "To Glance Over"
+  ],
+  "otherReadings": [],
+  "wkSlug": "見渡す",
+  "related": {
+    "radicals": [
+      91,
+      103,
+      8787,
+      30
+    ],
+    "kanjis": [
+      558,
+      1253
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "みわたす",
+      "url": "https://files.wanikani.com/o6fin454vsjc7gewh05xcpebzjsc"
+    }
+  ]
+}

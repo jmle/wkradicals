@@ -1,0 +1,34 @@
+{
+  "id": 2852,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "両日"
+  },
+  "primaryMeaning": "Both Days",
+  "meaningMnemonic": "Kanji doesn't go together much better than this. <kanji>Both</kanji> plus <kanji>day</kanji> equals <vocabulary>both days</vocabulary>.\n\nThis is a bit of a formal word though, you'll hear important people say it more than your friends.",
+  "primaryReading": "りょうじつ",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. Since 日 has two on'yomi readings, here's a mnemonic to help you remember which one to use:\n\nOn <vocabulary>both days</vocabulary> of your vacation, you get two boats to <reading>row</reading>! <reading>Gee, two</reading> (りょうじつ) boats at once? Try not to fall in!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "両日",
+  "related": {
+    "radicals": [
+      1,
+      29,
+      20,
+      22
+    ],
+    "kanjis": [
+      609,
+      476
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "りょうじつ",
+      "url": "https://files.wanikani.com/xcgz9gpcxs1f2fy4olp3dvqlc1vt"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5463,
+  "type": "vocabulary",
+  "level": 31,
+  "characters": {
+    "type": "text",
+    "value": "半径"
+  },
+  "primaryMeaning": "Radius",
+  "meaningMnemonic": "<kanji>Half</kanji> a <kanji>diameter</kanji> is a <vocabulary>radius</vocabulary>.",
+  "primaryReading": "はんけい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "半径",
+  "related": {
+    "radicals": [
+      8765,
+      61,
+      99,
+      179
+    ],
+    "kanjis": [
+      518,
+      1464
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はんけい",
+      "url": "https://files.wanikani.com/rfe6wg1u52bdf6y9al9ejjmofiz0"
+    }
+  ]
+}

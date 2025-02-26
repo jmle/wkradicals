@@ -1,0 +1,37 @@
+{
+  "id": 5208,
+  "type": "vocabulary",
+  "level": 28,
+  "characters": {
+    "type": "text",
+    "value": "記録"
+  },
+  "primaryMeaning": "Record",
+  "meaningMnemonic": "<kanji>Write down</kanji> a <kanji>record</kanji> of the events so we have a <vocabulary>record</vocabulary>, please. Don't want people to forget about this momentous occasion, when King Felix got his perfect game.",
+  "primaryReading": "きろく",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Document"
+  ],
+  "otherReadings": [],
+  "wkSlug": "記録",
+  "related": {
+    "radicals": [
+      117,
+      228,
+      118,
+      105,
+      45
+    ],
+    "kanjis": [
+      664,
+      1358
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きろく",
+      "url": "https://files.wanikani.com/uwjeaxrmt4zgf8ibhpauvopcm7y4"
+    }
+  ]
+}

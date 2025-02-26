@@ -1,0 +1,38 @@
+{
+  "id": 6141,
+  "type": "vocabulary",
+  "level": 38,
+  "characters": {
+    "type": "text",
+    "value": "奈良県"
+  },
+  "primaryMeaning": "Nara Prefecture",
+  "meaningMnemonic": "Remember <kanji>Nara</kanji> (奈良)? This is the <kanji>prefecture</kanji> of it, making it <vocabulary>Nara Prefecture</vocabulary>.",
+  "primaryReading": "ならけん",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "奈良県",
+  "related": {
+    "radicals": [
+      18,
+      207,
+      3,
+      196,
+      53,
+      56,
+      35
+    ],
+    "kanjis": [
+      1620,
+      805,
+      731
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ならけん",
+      "url": "https://files.wanikani.com/v3k6ey47iorc7funjti7etfuzzk2"
+    }
+  ]
+}

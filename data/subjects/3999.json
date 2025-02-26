@@ -1,0 +1,33 @@
+{
+  "id": 3999,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "愛"
+  },
+  "primaryMeaning": "Love",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "あい",
+  "readingMnemonic": "The reading is the same as the kanji. Now that is true kanji <vocabulary>love</vocabulary>.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "愛",
+  "related": {
+    "radicals": [
+      8772,
+      76,
+      65,
+      60
+    ],
+    "kanjis": [
+      1021
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あい",
+      "url": "https://files.wanikani.com/7iav21lmcfdl36ezmxcww1saucfz"
+    }
+  ]
+}

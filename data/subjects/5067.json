@@ -1,0 +1,36 @@
+{
+  "id": 5067,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "減給"
+  },
+  "primaryMeaning": "Pay Cut",
+  "meaningMnemonic": "A <kanji>decrease</kanji> in <kanji>salary</kanji> is a <vocabulary>pay cut</vocabulary>.",
+  "primaryReading": "げんきゅう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "減給",
+  "related": {
+    "radicals": [
+      103,
+      5,
+      194,
+      8781,
+      86,
+      216
+    ],
+    "kanjis": [
+      1059,
+      1345
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "げんきゅう",
+      "url": "https://files.wanikani.com/g6uqa17uk668fnuu47gjjofk67zp"
+    }
+  ]
+}

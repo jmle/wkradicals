@@ -1,0 +1,34 @@
+{
+  "id": 6988,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "斬る"
+  },
+  "primaryMeaning": "To Cut Down",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>slice</kanji> and the verb vocab version means <vocabulary>to cut down</vocabulary> or <vocabulary>to slice off</vocabulary> or <vocabulary>to lop off</vocabulary>. \n\nThis word mainly refers to cutting people with a sword, if you haven't figured it out yet.",
+  "primaryReading": "きる",
+  "readingMnemonic": "The reading is the same as 切る, which means \"to cut.\" Similar meaning, same reading.",
+  "otherMeanings": [
+    "To Slice Off",
+    "To Lop Off"
+  ],
+  "otherReadings": [],
+  "wkSlug": "斬る",
+  "related": {
+    "radicals": [
+      93,
+      115
+    ],
+    "kanjis": [
+      1950
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きる",
+      "url": "https://files.wanikani.com/h7wqt6axzshjf0dxudyymnlsi7c6"
+    }
+  ]
+}

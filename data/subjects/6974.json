@@ -1,0 +1,34 @@
+{
+  "id": 6974,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "鈍器"
+  },
+  "primaryMeaning": "Blunt Weapon",
+  "meaningMnemonic": "You're using a <kanji>dull</kanji> <kanji>container</kanji> as a <vocabulary>blunt weapon</vocabulary>. It's all you have to hand.",
+  "primaryReading": "どんき",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "鈍器",
+  "related": {
+    "radicals": [
+      118,
+      315,
+      18,
+      227
+    ],
+    "kanjis": [
+      1944,
+      876
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "どんき",
+      "url": "https://files.wanikani.com/nsfz3h8acgejtvzlk3gkdvld8lbu"
+    }
+  ]
+}

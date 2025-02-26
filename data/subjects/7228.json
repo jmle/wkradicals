@@ -1,0 +1,38 @@
+{
+  "id": 7228,
+  "type": "vocabulary",
+  "level": 48,
+  "characters": {
+    "type": "text",
+    "value": "電灯"
+  },
+  "primaryMeaning": "Electric Light",
+  "meaningMnemonic": "An <kanji>electricity</kanji> <kanji>lamp</kanji> is an <vocabulary>electric lamp</vocabulary>. Nowadays they're all electricity, though, which means it's a <vocabulary>lamp</vocabulary>.",
+  "primaryReading": "でんとう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Lamp",
+    "Electric Lamp"
+  ],
+  "otherReadings": [],
+  "wkSlug": "電灯",
+  "related": {
+    "radicals": [
+      119,
+      51,
+      211,
+      46,
+      27
+    ],
+    "kanjis": [
+      706,
+      2037
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "でんとう",
+      "url": "https://files.wanikani.com/vlxa8yavmy7sj5e65cpmrwl5etgy"
+    }
+  ]
+}

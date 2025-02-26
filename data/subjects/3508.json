@@ -1,0 +1,36 @@
+{
+  "id": 3508,
+  "type": "vocabulary",
+  "level": 11,
+  "characters": {
+    "type": "text",
+    "value": "気付く"
+  },
+  "primaryMeaning": "To Realize",
+  "meaningMnemonic": "When you <kanji>attach</kanji> your <kanji>energy</kanji> (imagine someone suddenly looking up at something, attaching their energy to it), you have noticed or realized something. That's why this word means <vocabulary>to realize</vocabulary> or <vocabulary>to notice</vocabulary>. \n\nDon't confuse this with 気を付けて which is similar in that it has all the same kanji. It's just used a little different. Try to remember the difference before moving on.",
+  "primaryReading": "きづく",
+  "readingMnemonic": "The readings come from the 気 kanji (which you know) and the word 付く which you should know by now. Combine these together and you have the ability to read this word. Take note that the 付く part is rendaku'd, though, so it is a tiny bit different.",
+  "otherMeanings": [
+    "To Notice"
+  ],
+  "otherReadings": [],
+  "wkSlug": "気付く",
+  "related": {
+    "radicals": [
+      82,
+      31,
+      75,
+      74
+    ],
+    "kanjis": [
+      548,
+      652
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "きづく",
+      "url": "https://files.wanikani.com/k1ob3d8b4pmk4cer3sq4rn4b73ei"
+    }
+  ]
+}

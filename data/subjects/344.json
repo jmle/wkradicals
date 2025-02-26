@@ -1,0 +1,22 @@
+{
+  "id": 344,
+  "type": "radical",
+  "level": 33,
+  "characters": {
+    "type": "text",
+    "value": "間"
+  },
+  "primaryMeaning": "Interval",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>interval</radical>.",
+  "wkSlug": "interval",
+  "related": {
+    "kanjis": [
+      1513
+    ],
+    "vocabularies": [
+      5598,
+      5936
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 4734,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "武道"
+  },
+  "primaryMeaning": "Martial Arts",
+  "meaningMnemonic": "If you take the <kanji>road</kanji> of the <kanji>military</kanji> you're going to have to fight a lot. Back in the day, this involved learning <vocabulary>martial arts</vocabulary> to fight with. Remember, just wax off.",
+  "primaryReading": "ぶどう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "武道",
+  "related": {
+    "radicals": [
+      1,
+      79,
+      44,
+      114,
+      156
+    ],
+    "kanjis": [
+      1241,
+      700
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶどう",
+      "url": "https://files.wanikani.com/zdtq5svux961mbauy02wi643awua"
+    }
+  ]
+}

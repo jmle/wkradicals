@@ -1,0 +1,35 @@
+{
+  "id": 3422,
+  "type": "vocabulary",
+  "level": 7,
+  "characters": {
+    "type": "text",
+    "value": "手作り"
+  },
+  "primaryMeaning": "Handmade",
+  "meaningMnemonic": "When something is <kanji>hand</kanji> <kanji>made</kanji>, it is <vocabulary>handmade</vocabulary>!",
+  "primaryReading": "てづくり",
+  "readingMnemonic": "The readings for these kanji are the kun'yomi readings. Just think of this word as two separate words put together (手 and 作る). The る in 作る gets changed to り because it's an adjective, and the つ in つくり gets changed to づ because of the way the words are combined with each other. You should know most of the reading that is in this word, though it will probably take a little bit of thinking to sort out the little changes in those readings.",
+  "otherMeanings": [
+    "Homemade"
+  ],
+  "otherReadings": [],
+  "wkSlug": "手作り",
+  "related": {
+    "radicals": [
+      41,
+      75,
+      122
+    ],
+    "kanjis": [
+      474,
+      584
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "てづくり",
+      "url": "https://files.wanikani.com/ej5xx7nen8xxtc0u691kqblroml7"
+    }
+  ]
+}

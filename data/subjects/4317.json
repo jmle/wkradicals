@@ -1,0 +1,33 @@
+{
+  "id": 4317,
+  "type": "vocabulary",
+  "level": 22,
+  "characters": {
+    "type": "text",
+    "value": "経つ"
+  },
+  "primaryMeaning": "To Pass",
+  "meaningMnemonic": "You know how 経 means <kanji>passage of time</kanji>, right? Well, this is the verb form of that. What does time do when it passages? It passes. So, this verb means <vocabulary>to pass</vocabulary> or <vocabulary>to elapse</vocabulary>.",
+  "primaryReading": "たつ",
+  "readingMnemonic": "Since this word consists of a kanji with hiragana attached, you can bet that it will use the kun'yomi reading. You didn't learn that reading with this kanji, so here's a mnemonic to help you: What do you say to time as it begins <vocabulary>to pass</vocabulary> you by? \"<reading>Ta</reading> ta (た), Time!\"",
+  "otherMeanings": [
+    "To Elapse"
+  ],
+  "otherReadings": [],
+  "wkSlug": "経つ",
+  "related": {
+    "radicals": [
+      86,
+      179
+    ],
+    "kanjis": [
+      1120
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "たつ",
+      "url": "https://files.wanikani.com/1955eyotnk8jlowwiaghcbnk3vvc"
+    }
+  ]
+}

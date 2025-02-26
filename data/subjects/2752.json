@@ -1,0 +1,32 @@
+{
+  "id": 2752,
+  "type": "vocabulary",
+  "level": 5,
+  "characters": {
+    "type": "text",
+    "value": "今回"
+  },
+  "primaryMeaning": "This Time",
+  "meaningMnemonic": "The <kanji>now</kanji> <kanji>times</kanji> is <vocabulary>this time</vocabulary>.",
+  "primaryReading": "こんかい",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "今回",
+  "related": {
+    "radicals": [
+      238,
+      16
+    ],
+    "kanjis": [
+      497,
+      569
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "こんかい",
+      "url": "https://files.wanikani.com/fyowkcja7nyi9wlbp22itjmgk4ar"
+    }
+  ]
+}

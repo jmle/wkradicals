@@ -1,0 +1,37 @@
+{
+  "id": 8211,
+  "type": "vocabulary",
+  "level": 55,
+  "characters": {
+    "type": "text",
+    "value": "抹茶"
+  },
+  "primaryMeaning": "Matcha",
+  "meaningMnemonic": "<kanji>Erase</kanji> your need for normal <kanji>tea</kanji> by drinking <vocabulary>matcha</vocabulary>. It is far superior to all others and you'll never turn back once you've had a taste.",
+  "primaryReading": "まっちゃ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Powdered Green Tea"
+  ],
+  "otherReadings": [],
+  "wkSlug": "抹茶",
+  "related": {
+    "radicals": [
+      63,
+      134,
+      90,
+      8764,
+      130
+    ],
+    "kanjis": [
+      2288,
+      643
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "まっちゃ",
+      "url": "https://files.wanikani.com/giedwhp4zkou8mtqr966x3e1plip"
+    }
+  ]
+}

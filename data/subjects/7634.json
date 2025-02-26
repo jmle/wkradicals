@@ -1,0 +1,31 @@
+{
+  "id": 7634,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "島"
+  },
+  "primaryMeaning": "Island",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "しま",
+  "readingMnemonic": "This has the same reading as the kanji you learned, meaning you know the reading!",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "島",
+  "related": {
+    "radicals": [
+      151,
+      20
+    ],
+    "kanjis": [
+      822
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しま",
+      "url": "https://files.wanikani.com/ihfprft9ls8hfncqjge9wobn9hdz"
+    }
+  ]
+}

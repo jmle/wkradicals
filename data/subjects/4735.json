@@ -1,0 +1,34 @@
+{
+  "id": 4735,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "武士"
+  },
+  "primaryMeaning": "Samurai",
+  "meaningMnemonic": "A <kanji>military</kanji> <kanji>samurai</kanji> is a <vocabulary>samurai</vocabulary>. This is how most people say \"samurai\" in Japanese.",
+  "primaryReading": "ぶし",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "武士",
+  "related": {
+    "radicals": [
+      1,
+      79,
+      44,
+      97
+    ],
+    "kanjis": [
+      1241,
+      877
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ぶし",
+      "url": "https://files.wanikani.com/rrbpoz88j2omnypuxggbsbg7boqc"
+    }
+  ]
+}

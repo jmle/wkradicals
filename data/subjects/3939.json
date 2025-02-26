@@ -1,0 +1,36 @@
+{
+  "id": 3939,
+  "type": "vocabulary",
+  "level": 17,
+  "characters": {
+    "type": "text",
+    "value": "晩ご飯"
+  },
+  "primaryMeaning": "Dinner",
+  "meaningMnemonic": "The <kanji>night</kanji> <kanji>meal</kanji> is the meal you eat at night. That is <vocabulary>dinner</vocabulary>.",
+  "primaryReading": "ばんごはん",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Supper"
+  ],
+  "otherReadings": [],
+  "wkSlug": "晩ご飯",
+  "related": {
+    "radicals": [
+      22,
+      208,
+      139,
+      218
+    ],
+    "kanjis": [
+      958,
+      955
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ばんごはん",
+      "url": "https://files.wanikani.com/ell29zk5n8na1qyef59h5w565l4n"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3474,
+  "type": "vocabulary",
+  "level": 9,
+  "characters": {
+    "type": "text",
+    "value": "中学校"
+  },
+  "primaryMeaning": "Middle School",
+  "meaningMnemonic": "You know that 学校 means school. So, people who are in the <kanji>middle</kanji> <kanji>school</kanji> are in... wait for it... <vocabulary>middle school</vocabulary>. \n\nAnd, of course, if you're one of those people that call it <vocabulary>junior high school</vocabulary> you can do that too.",
+  "primaryReading": "ちゅうがっこう",
+  "readingMnemonic": "The reading is a combination of 学校 and 中. Really, it's all on'yomi too, so you should be able to read this one. Take note of the がく turning to がっ, though.",
+  "otherMeanings": [
+    "Junior High School"
+  ],
+  "otherReadings": [],
+  "wkSlug": "中学校",
+  "related": {
+    "radicals": [
+      49,
+      8769,
+      34,
+      23,
+      8,
+      68
+    ],
+    "kanjis": [
+      469,
+      599,
+      658
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ちゅうがっこう",
+      "url": "https://files.wanikani.com/ln60x7mebk3xs7bmo2gyherlc839"
+    }
+  ]
+}

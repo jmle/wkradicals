@@ -1,0 +1,36 @@
+{
+  "id": 4821,
+  "type": "vocabulary",
+  "level": 25,
+  "characters": {
+    "type": "text",
+    "value": "肥料"
+  },
+  "primaryMeaning": "Manure",
+  "meaningMnemonic": "Your <kanji>fee</kanji> for being <kanji>obese</kanji> is lots of <vocabulary>manure</vocabulary> coming out of your butt. If you eat a lot you'll poop a lot of manure.",
+  "primaryReading": "ひりょう",
+  "readingMnemonic": "This is a jukugo word, which usually means on'yomi readings from the kanji. If you know the readings of your kanji you'll know how to read this as well.",
+  "otherMeanings": [
+    "Fertilizer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "肥料",
+  "related": {
+    "radicals": [
+      43,
+      100,
+      98,
+      129
+    ],
+    "kanjis": [
+      1272,
+      878
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ひりょう",
+      "url": "https://files.wanikani.com/tnbacqiao97be40ozu9goea0hlkm"
+    }
+  ]
+}

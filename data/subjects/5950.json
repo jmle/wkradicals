@@ -1,0 +1,35 @@
+{
+  "id": 5950,
+  "type": "vocabulary",
+  "level": 36,
+  "characters": {
+    "type": "text",
+    "value": "枝豆"
+  },
+  "primaryMeaning": "Edamame",
+  "meaningMnemonic": "A <kanji>branch</kanji> <kanji>bean</kanji> doesn't mean a whole lot this way, but you probably know the food that this describes anyways. This is <vocabulary>edamame</vocabulary>, a food made from <vocabulary>steamed soybeans</vocabulary>, usually with a bit of salt added for flavor.",
+  "primaryReading": "えだまめ",
+  "readingMnemonic": "The readings are the kun'yomi readings of the two kanji, unfortunately. That's the vocab words 枝 and 豆 combined into one.",
+  "otherMeanings": [
+    "Steamed Soybeans"
+  ],
+  "otherReadings": [],
+  "wkSlug": "枝豆",
+  "related": {
+    "radicals": [
+      23,
+      81,
+      181
+    ],
+    "kanjis": [
+      1574,
+      1576
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "えだまめ",
+      "url": "https://files.wanikani.com/h0p8qeate2wj00f0nsancedtdopm"
+    }
+  ]
+}

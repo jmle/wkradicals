@@ -1,0 +1,38 @@
+{
+  "id": 8046,
+  "type": "vocabulary",
+  "level": 44,
+  "characters": {
+    "type": "text",
+    "value": "軒並み"
+  },
+  "primaryMeaning": "Across The Board",
+  "meaningMnemonic": "<kanji>Line up</kanji> <kanji>house counters</kanji> and you'll see that all the houses you've counted are the same <vocabulary>across the board</vocabulary>. It also turns them into a <vocabulary>row of houses</vocabulary>.",
+  "primaryReading": "のきなみ",
+  "readingMnemonic": "This is a combination of the words 軒 and 並 that you've already learned, so you should be able to read this word too. Just note that for 並, the み in なみ is sticking out! While you might sometimes see this written 軒並, 軒並み is way more common. ",
+  "otherMeanings": [
+    "Row Of Houses",
+    "Altogether"
+  ],
+  "otherReadings": [],
+  "wkSlug": "軒並み",
+  "related": {
+    "radicals": [
+      93,
+      61,
+      8767,
+      1,
+      8768
+    ],
+    "kanjis": [
+      2133,
+      1372
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "のきなみ",
+      "url": "https://files.wanikani.com/d2vi42jb0bqwnkc0hmev9oh75ch9"
+    }
+  ]
+}

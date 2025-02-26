@@ -1,0 +1,34 @@
+{
+  "id": 7434,
+  "type": "vocabulary",
+  "level": 49,
+  "characters": {
+    "type": "text",
+    "value": "哀れむ"
+  },
+  "primaryMeaning": "To Pity",
+  "meaningMnemonic": "If something is <kanji>pathetic</kanji> then you should try <vocabulary>to pity</vocabulary> that thing.",
+  "primaryReading": "あわれむ",
+  "readingMnemonic": "<reading>Awww</reading> (あわ), you're so pathetic it's cute! I will pity you. Reading also comes from 哀れ.",
+  "otherMeanings": [
+    "To Have Mercy On"
+  ],
+  "otherReadings": [],
+  "wkSlug": "哀れむ",
+  "related": {
+    "radicals": [
+      8,
+      16,
+      8770
+    ],
+    "kanjis": [
+      1987
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "あわれむ",
+      "url": "https://files.wanikani.com/oct0cfzh5ohi4rcm3okk5g0oopdu"
+    }
+  ]
+}

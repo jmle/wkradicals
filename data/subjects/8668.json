@@ -1,0 +1,41 @@
+{
+  "id": 8668,
+  "type": "vocabulary",
+  "level": 12,
+  "characters": {
+    "type": "text",
+    "value": "大学院生"
+  },
+  "primaryMeaning": "Graduate Student",
+  "meaningMnemonic": "Remember how you learned that 大学院 means \"graduate school\" and 大学生 means \"college student?\" Well smush them together and you have a  <vocabulary>graduate student</vocabulary>!",
+  "primaryReading": "だいがくいんせい",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Grad Student"
+  ],
+  "otherReadings": [],
+  "wkSlug": "大学院生",
+  "related": {
+    "radicals": [
+      18,
+      8769,
+      34,
+      176,
+      78,
+      64,
+      210
+    ],
+    "kanjis": [
+      453,
+      599,
+      744,
+      850
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "だいがくいんせい",
+      "url": "https://files.wanikani.com/inudip7ynudc11vh1nqh4pn3l2ro"
+    }
+  ]
+}

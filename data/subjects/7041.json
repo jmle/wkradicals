@@ -1,0 +1,34 @@
+{
+  "id": 7041,
+  "type": "vocabulary",
+  "level": 46,
+  "characters": {
+    "type": "text",
+    "value": "阻む"
+  },
+  "primaryMeaning": "To Thwart",
+  "meaningMnemonic": "Because the hiragana ends with an う sound, you know this word is a verb. The kanji itself means <kanji>thwart</kanji> and the verb vocab version is <vocabulary>to thwart</vocabulary> or <vocabulary>to hamper</vocabulary>.",
+  "primaryReading": "はばむ",
+  "readingMnemonic": "Someone walks up to you, saying \"<reading>habbah</reading> habbah habbah\" (kind of like hubbah hubbah). He's trying to flash you or something. So, you go <vocabulary>to thwart</vocabulary> him with your taser.",
+  "otherMeanings": [
+    "To Hamper",
+    "To Prevent"
+  ],
+  "otherReadings": [],
+  "wkSlug": "阻む",
+  "related": {
+    "radicals": [
+      176,
+      419
+    ],
+    "kanjis": [
+      1972
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "はばむ",
+      "url": "https://files.wanikani.com/ouwfn7w24jpv1r3q5cv4h5lg6vpa"
+    }
+  ]
+}

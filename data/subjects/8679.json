@@ -1,0 +1,34 @@
+{
+  "id": 8679,
+  "type": "vocabulary",
+  "level": 24,
+  "characters": {
+    "type": "text",
+    "value": "燃料"
+  },
+  "primaryMeaning": "Fuel",
+  "meaningMnemonic": "A <kanji>material</kanji> you can <kanji>burn</kanji> is called <vocabulary>fuel</vocabulary>!",
+  "primaryReading": "ねんりょう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "燃料",
+  "related": {
+    "radicals": [
+      46,
+      297,
+      98,
+      129
+    ],
+    "kanjis": [
+      1222,
+      878
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ねんりょう",
+      "url": "https://files.wanikani.com/d43e9bp46p7c29u2mej0b2bazxw1"
+    }
+  ]
+}

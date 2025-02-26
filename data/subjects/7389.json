@@ -1,0 +1,33 @@
+{
+  "id": 7389,
+  "type": "vocabulary",
+  "level": 50,
+  "characters": {
+    "type": "text",
+    "value": "堰"
+  },
+  "primaryMeaning": "Dam",
+  "meaningMnemonic": "The kanji and the word are exactly the same. That means they share meanings as well.",
+  "primaryReading": "せき",
+  "readingMnemonic": "The reading is the same as the one you learned with the kanji.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "堰",
+  "related": {
+    "radicals": [
+      17,
+      217,
+      22,
+      19
+    ],
+    "kanjis": [
+      2099
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "せき",
+      "url": "https://files.wanikani.com/h445es5pkl9daf2jec4nvbxdu077"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 5770,
+  "type": "vocabulary",
+  "level": 34,
+  "characters": {
+    "type": "text",
+    "value": "縦横"
+  },
+  "primaryMeaning": "Length And Width",
+  "meaningMnemonic": "<kanji>Vertical</kanji> and <kanji>side</kanji> (horizontal). That means you have the <vocabulary>length and width</vocabulary> and the <vocabulary>vertical and horizontal</vocabulary>.",
+  "primaryReading": "たてよこ",
+  "readingMnemonic": "This is a jukugo word that usually uses the kun'yomi readings of the kanji. You should be able to read this on your own.\n\nNote however, that there is a less-common on'yomi reading,  じゅうおう, which is used in some idioms. It's good to know this reading exists, but you probably won't come across it very often. ",
+  "otherMeanings": [
+    "Vertical And Horizontal"
+  ],
+  "otherReadings": [
+    "じゅうおう"
+  ],
+  "wkSlug": "縦横",
+  "related": {
+    "radicals": [
+      86,
+      99,
+      8767,
+      229,
+      23,
+      152
+    ],
+    "kanjis": [
+      1556,
+      768
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうおう",
+      "url": "https://files.wanikani.com/qmbn8kmygf6t7ckdbrnlqhcoj0y2"
+    },
+    {
+      "reading": "たてよこ",
+      "url": "https://files.wanikani.com/y8w454b6rh9w7stm2y6yq4738zmw"
+    }
+  ]
+}

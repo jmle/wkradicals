@@ -1,0 +1,35 @@
+{
+  "id": 6329,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "銃殺"
+  },
+  "primaryMeaning": "Death By Shooting",
+  "meaningMnemonic": "A <kanji>gun</kanji> <kanji>kill</kanji> is a <vocabulary>death by shooting</vocabulary>.",
+  "primaryReading": "じゅうさつ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [],
+  "otherReadings": [],
+  "wkSlug": "銃殺",
+  "related": {
+    "radicals": [
+      118,
+      285,
+      31,
+      23,
+      160
+    ],
+    "kanjis": [
+      1739,
+      880
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "じゅうさつ",
+      "url": "https://files.wanikani.com/t5rm7btht08rdjcrfg3ij8tp546l"
+    }
+  ]
+}

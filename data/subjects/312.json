@@ -1,0 +1,27 @@
+{
+  "id": 312,
+  "type": "radical",
+  "level": 27,
+  "characters": {
+    "type": "text",
+    "value": "民"
+  },
+  "primaryMeaning": "Peoples",
+  "otherMeanings": [],
+  "meaningMnemonic": "This radical is the same as the kanji. It means <radical>peoples</radical>.",
+  "wkSlug": "peoples",
+  "related": {
+    "kanjis": [
+      1332
+    ],
+    "vocabularies": [
+      5055,
+      5058,
+      5059,
+      5263,
+      5264,
+      5265,
+      7718
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2897,
+  "type": "vocabulary",
+  "level": 6,
+  "characters": {
+    "type": "text",
+    "value": "東方"
+  },
+  "primaryMeaning": "Eastward",
+  "meaningMnemonic": "The <kanji>East</kanji> <kanji>direction</kanji> is <vocabulary>Eastward</vocabulary> or <vocabulary>the East</vocabulary>.\n\nThis word has an old-fashioned feel to it.",
+  "primaryReading": "とうほう",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Eastern Direction",
+    "The East"
+  ],
+  "otherReadings": [],
+  "wkSlug": "東方",
+  "related": {
+    "radicals": [
+      23,
+      22,
+      66
+    ],
+    "kanjis": [
+      627,
+      510
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "とうほう",
+      "url": "https://files.wanikani.com/nx1og5ufl6dmsrxdh6bjhz8zf6ws"
+    }
+  ]
+}

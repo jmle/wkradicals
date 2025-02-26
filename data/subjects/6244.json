@@ -1,0 +1,39 @@
+{
+  "id": 6244,
+  "type": "vocabulary",
+  "level": 39,
+  "characters": {
+    "type": "text",
+    "value": "本塁打"
+  },
+  "primaryMeaning": "Home Run",
+  "meaningMnemonic": "A <kanji>hit</kanji> you get in <kanji>baseball</kanji> that takes you to the <kanji>origin</kanji> plate is a <vocabulary>home run</vocabulary>. HOOOMMEERUNNNN!",
+  "primaryReading": "ほんるいだ",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Homer"
+  ],
+  "otherReadings": [],
+  "wkSlug": "本塁打",
+  "related": {
+    "radicals": [
+      50,
+      51,
+      8788,
+      17,
+      63,
+      27
+    ],
+    "kanjis": [
+      487,
+      1650,
+      536
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "ほんるいだ",
+      "url": "https://files.wanikani.com/1n9oi6c5ki9ayfgdhfw8p2caq95y"
+    }
+  ]
+}

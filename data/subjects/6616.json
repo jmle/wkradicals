@@ -1,0 +1,37 @@
+{
+  "id": 6616,
+  "type": "vocabulary",
+  "level": 42,
+  "characters": {
+    "type": "text",
+    "value": "宿泊"
+  },
+  "primaryMeaning": "Lodging",
+  "meaningMnemonic": "A <kanji>lodge</kanji> where you will stay <kanji>overnight</kanji> is <vocabulary>lodging</vocabulary>. It is where you will <vocabulary>stay the night</vocabulary>.",
+  "primaryReading": "しゅくはく",
+  "readingMnemonic": "This is a jukugo word that uses the on'yomi readings of the kanji. You should be able to read this on your own.",
+  "otherMeanings": [
+    "Stay The Night"
+  ],
+  "otherReadings": [],
+  "wkSlug": "宿泊",
+  "related": {
+    "radicals": [
+      78,
+      75,
+      239,
+      103,
+      52
+    ],
+    "kanjis": [
+      860,
+      1824
+    ]
+  },
+  "readingAudio": [
+    {
+      "reading": "しゅくはく",
+      "url": "https://files.wanikani.com/tp6gpbkgo9z7us9taqzspssklnpr"
+    }
+  ]
+}
