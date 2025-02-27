@@ -35,7 +35,7 @@ const App: React.FC = () => {
             className="bg-gray-200 p-4 aspect-square flex flex-col justify-center items-center rounded-lg shadow-md"
           >
             <a href={`https://www.wanikani.com/kanji/${result.wkSlug}`} target="_blank">
-              <div className="text-7xl">{result.wkSlug}</div>
+              <div className="sm:text-2x1 lg:text-7x1 md:text-7xl">{result.wkSlug}</div>
               <p>{result.primaryMeaning}</p>
               <p>{result.primaryReading}</p>
             </a>
