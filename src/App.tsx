@@ -28,7 +28,7 @@ const App: React.FC = () => {
         onChange={handleSearch}
         style={{ width: "300px", padding: "8px", fontSize: "16px" }}
       />
-      <div className="grid grid-cols-8 grap-4 p-4">
+      <div className="grid grid-cols-4 sm:grid-cols-8 grap-4 p-4">
         {results.map((result) => (
           <div
             key={result.id}
